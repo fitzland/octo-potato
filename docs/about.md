@@ -7,7 +7,7 @@ tags:
 
 So, I am fitzland or f1tzl4nd, a sinner, saved by the grace of God [eph2.8](https://biblehub.com/ephesians/2-8.htm){:target="_blank"}. I'm also the husband of a wonderful, supportive wife, the proud father of three wonderful children, and a tinker on Linux. 
 
-Currently, I'm working with [Debian 12](https://debian.org/bookworm){:target="_blank"} or 'Bookworm' (actually [Linux Mint Debian Edition](https://linuxmint.com/download_lmde.php){:target="_blank"}) which I believe is Version 6, called 'Faye'. I'm using the [i3](https://i3wm.org/){:target="_blank"} window manger. 
+Currently, I'm working with [Debian 12](https://www.debian.org/News/2025/20250315){:target="_blank"} or 'Bookworm' (actually [Linux Mint Debian Edition](https://linuxmint.com/download_lmde.php){:target="_blank"}) which I believe is Version 6, called 'Faye'. I'm using the [i3](https://i3wm.org/){:target="_blank"} window manger. 
 
 When I first started using Linux as a regular OS, I began with [Crunchbang](https://crunchbang.org/){:target="_blank"}. Truly, that was an epic experience. Corenominal made me love the [Openbox](https://openbox.org/){:target="_blank"} and the stability of Debian. But, as most Linux people are likely to do, I wanted to try new things and eventually moved to [Arch Linux](https://archlinux.org/){:target="_blank"}. I learned a lot from Eric Dubois and his [Arco Linux](https://www.arcolinuxd.com/){:target="_blank"}. In any case, as I get older, I find I'm more happy with a stable environment. 
 
