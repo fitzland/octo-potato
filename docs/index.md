@@ -1,8 +1,14 @@
-# Welcome to MkDocs
+# Welcome to fitzhugh.us
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Purpose
 
-## Commands
+This site is used to collect my notes and documentation on various topics.
+
+It is made using mkdocs. For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+## Workflow for Editing Website
+
+### Clone Github Repository
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
