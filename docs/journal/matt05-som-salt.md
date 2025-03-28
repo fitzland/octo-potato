@@ -42,6 +42,54 @@ Think of oil lamps, candles, and torches.
 
 * This brings the metaphor of the gospel light to a more personal setting, shining on all in the house.
 
+## Breakdown of the Passage
+
+The key components: affirmation, negative examples, and positive purpose. Let's expand on that a bit:
+
+### Affirmation (Verse 14a).
+
+> You are the light of the world.
+
+This is a declarative statement, not a suggestion. It establishes the identity of Jesus' followers as inherently light-bearing.
+
+The *world* is the sphere where this light is to function. It's not just within the church or religious community, but in all aspects of life: work, family, social interactions, etc.
+
+This can be **empowering**, reminding believers of their inherent potential, but also **daunting**, highlighting the responsibility to live up to that calling.
+
+### Negative Examples (Verse 14b-15).
+
+> A city on a hill cannot be hidden... Nor do people light a lamp and put it under a basket...
+
+These are illustrations of the absurdity of hiding light. They underscore the inherent purpose of light: **to be seen**.
+
+**City on a hill**. This is a powerful image. A city perched high on a hill is naturally visible from a distance. 
+
+* The implication is that a true Christian life, lived according to kingdom principles, will inevitably attract attention. It will be visible. To deny it is to misunderstand the nature of a city on a hill.
+
+**Lamp under a basket**. This is even more direct. Lighting a lamp and then covering it up completely defeats the purpose. A *basket* (Greek: modios) was a dry measuring container for grain, often a bushel basket. The light cannot fulfill its destiny when hidden. The implication is that Christians may hide their light because they do not want to be seen, or are afraid of being seen.
+
+**Common Thread**. Both examples highlight the intentionality of hiding. It's not an accident; it's a deliberate act that goes against the very nature of light.
+
+### Positive Purpose (Verse 16).
+
+> In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven.
+
+This is the core instruction: actively and intentionally let your light shine.
+
+**Let your light shine before men**. This emphasizes visibility and proclamation. It's not about drawing attention to ourselves, but to purposefully display the light of Christ.
+
+**Good deeds**. These are the manifestation of the light. It's not just about words; it's about actions that reflect God's love and character. These deeds flow naturally from a life transformed by the gospel.
+
+**Glorify your Father in heaven**. This is the ultimate goal. The purpose of our good deeds is not self-promotion but to bring honor and praise to God. Our actions should point people to Him, not to ourselves. To glorify is to increase appreciation of something; to show respect and admiration for.
+
+### Implications and Connections
+
+The *house* in verse 15 connects to the *world* in verse 14. The house is the immediate environment of our lives, where our light should shine brightly. The world is the larger context where our collective light makes a global impact.
+
+There's a subtle but important distinction between being light and letting your light shine. We are light because of our relationship with Christ, but we must actively choose to let that light shine through our actions and words.
+
+The passage is not just about individual piety; it's about collective witness. The city on a hill is a community of believers whose combined light illuminates the world.
+
 ## Cross-References
 
 > **John 1:4-9**. In Him was life, and that life was the light of men. This light shines in the darkness, and the darkness has not overcome it... The true light that gives light to every man was coming into the world. 
@@ -115,6 +163,14 @@ Jesus is speaking to His disciples, those who have committed to following Him.
 ## Application
 
 Reflect on how you can better reflect Christ's light in your own sphere of influence.
+
+Discuss the different ways "good deeds" can manifest in contemporary life. (e.g., acts of service, advocacy for justice, ethical business practices, creative arts, etc.).
+
+Address the potential for misunderstanding the concept of "good deeds." (e.g., doing good deeds for selfish motives, equating good deeds with earning salvation).
+
+Explore the tension between humility and letting your light shine. (How can we avoid pride while still being visible witnesses for Christ?)
+
+Brainstorm practical ways to "let your light shine" in specific contexts. (e.g., at work, at school, in the community, online).
 
 ## Discussion Questions
 
