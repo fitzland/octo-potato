@@ -62,13 +62,11 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/drewgrif
+      link: https://github.com/fitzland
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/justaguylinux
+      link: https://youtube.com/f1tzl4nd
     - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/justaguylinux
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@justaguylinux
-
+      link: https://twitter.com/f1tzl4nd
+    
 extra_css:
   - stylesheets/extra.css
