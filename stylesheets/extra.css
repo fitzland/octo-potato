@@ -10,13 +10,13 @@
 }
 
 em, i { /* Applies to both <em> and <i> tags, which Markdown uses for italics */
-  color: var:(--md-orange);  /* Replace with your desired color (e.g., #FF0000 for red, lightblue, etc.) */
+  color: #f09e6f;  /* Replace with your desired color (e.g., #FF0000 for red, lightblue, etc.) */
   /* other properties to customize the style */
 }
 
 strong {
   font-weight: bold;  /* Ensure it's bold, even if the theme overrides it */
-  color: var:(--md-purple);  /* Example: a shade of blue */
+  color: #dc85e9;  /* Example: a shade of blue */
   /* other styles */
 }
 
@@ -27,6 +27,6 @@ b {
 }
 
 mark {
-  color: var:(--md-green); /* Ensure text is readable */
+  color: #92e285; /* Ensure text is readable */
   /* other styles, e.g., padding */
 }
