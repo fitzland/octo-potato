@@ -2,4 +2,31 @@
   --md-primary-fg-color:        #2c3b5e;
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
+  --md-orange: #f09e6f;
+  --md-blue: #63bbee;
+  --md-green; #92e285;
+  --md-purple; #dc85e9;
+  
+}
+
+em, i { /* Applies to both <em> and <i> tags, which Markdown uses for italics */
+  color: var:(--md-orange);  /* Replace with your desired color (e.g., #FF0000 for red, lightblue, etc.) */
+  /* other properties to customize the style */
+}
+
+strong {
+  font-weight: bold;  /* Ensure it's bold, even if the theme overrides it */
+  color: var:(--md-purple);  /* Example: a shade of blue */
+  /* other styles */
+}
+
+/* If you REALLY want to style <b> (which you probably shouldn't use much) */
+b {
+  font-weight: bold; /* Redundant in most cases, but good to be explicit */
+  /* Styles for the bold element */
+}
+
+mark {
+  color: var:(--md-green); /* Ensure text is readable */
+  /* other styles, e.g., padding */
 }
