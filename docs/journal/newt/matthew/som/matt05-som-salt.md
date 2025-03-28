@@ -1,10 +1,10 @@
 # Sermon on the Mount (Matthew 5:14-16)
 
-## Core Passage (Berean Standard Bible):
+## Passage (Berean Standard Bible):
 
 > **Matthew 5:14-16**. You are the light of the world. A city on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a lampstand, and it gives light to all in the house. In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven.
 
-## How do we understand *Light*
+## What are some of the meanings of *Light*?
 
 ### Literal Light. 
 
@@ -16,19 +16,19 @@ Think of oil lamps, candles, and torches.
 
 ### Figurative Light. 
 
-- *Truth & Knowledge*. Light exposes, reveals, and dispels ignorance and error.
+*Truth & Knowledge*. Light exposes, reveals, and dispels ignorance and error.
 
-- *Goodness & Righteousness*. Light contrasts with the darkness of sin and evil. It represents moral purity and upright living.
+*Goodness & Righteousness*. Light contrasts with the darkness of sin and evil. It represents moral purity and upright living.
 
-- *Guidance & Direction*. Light illuminates the path, showing the way forward.
+*Guidance & Direction*. Light illuminates the path, showing the way forward.
 
-- *Hope & Salvation*. Light overcomes the darkness of despair and death.
+*Hope & Salvation*. Light overcomes the darkness of despair and death.
 
-- *Revelation & Understanding*.
+*Revelation & Understanding*.
 
-- *Divine Presence & Glory*. Light is often associated with God's presence and holiness.
+*Divine Presence & Glory*. Light is often associated with God's presence and holiness.
 
-## Greek Words for **Light**.
+## What are the NT words for *LIGHT* & *LAMP*.
 
 φῶς (phos). This is the primary word for *light* used in Matthew 5:14 & 16. 
 
@@ -42,9 +42,19 @@ Think of oil lamps, candles, and torches.
 
 - This brings the metaphor of the gospel light to a more personal setting, shining on all in the house.
 
-## Breakdown of the Passage
+## How is the word *LIGHT* used in the Bible?
 
-The key components: affirmation, negative examples, and positive purpose. Let's expand on that a bit:
+*God*. The Lord is my *light* and my salvation (Psalm 27:1)
+
+*Jesus*. I am the *light* of the world (John 8:12)
+
+*Disciples*. You are the *light* of the world (Matthew 5:14)
+
+- More accurately, we reflect the *light* of God & Jesus.
+
+## A Breakdown of the Passage
+
+The key components: affirmation, negative examples, and positive purpose.
 
 ### Affirmation (Verse 14a).
 
