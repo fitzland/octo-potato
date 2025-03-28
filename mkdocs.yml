@@ -1,4 +1,5 @@
-site_name: My Docs
+site_name: fitzhugh.us Docs
+site_description: Documentation and articles for fitzhugh.us
 
 theme:
   name: material
