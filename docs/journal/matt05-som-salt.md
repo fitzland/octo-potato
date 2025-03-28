@@ -16,17 +16,17 @@ Think of oil lamps, candles, and torches.
 
 ### Figurative Light. 
 
-*Truth & Knowledge*. Light exposes, reveals, and dispels ignorance and error.
+- *Truth & Knowledge*. Light exposes, reveals, and dispels ignorance and error.
 
-*Goodness & Righteousness*. Light contrasts with the darkness of sin and evil. It represents moral purity and upright living.
+- *Goodness & Righteousness*. Light contrasts with the darkness of sin and evil. It represents moral purity and upright living.
 
-*Guidance & Direction*. Light illuminates the path, showing the way forward.
+- *Guidance & Direction*. Light illuminates the path, showing the way forward.
 
-*Hope & Salvation*. Light overcomes the darkness of despair and death.
+- *Hope & Salvation*. Light overcomes the darkness of despair and death.
 
-*Revelation & Understanding*.
+- *Revelation & Understanding*.
 
-*Divine Presence & Glory*. Light is often associated with God's presence and holiness.
+- *Divine Presence & Glory*. Light is often associated with God's presence and holiness.
 
 ## Greek Words for **Light**.
 
@@ -128,7 +128,7 @@ The passage is not just about individual piety; it's about collective witness. T
 
 Jesus teaches that His followers are the light of the world. This isn't just a suggestion; it's a statement of identity and responsibility. We don't create the light, but we reflect it. Because Jesus is the light of the world, we are to walk in his light.
 
-## What are some ways that we let our LIGHT shine?
+## How might we let our LIGHT shine?
 
 - *Living Out Kingdom Values*. Demonstrating love, compassion, forgiveness, justice, and humility in our daily lives.
 
@@ -152,7 +152,7 @@ Jesus teaches that His followers are the light of the world. This isn't just a s
 
 - *Complacency & Apathy*. Losing our passion for God and His mission in the world.
 
-## Are we really begin **Light** when...
+## Are we really being LIGHT when...
 
 - *Legalism*. Imposing rigid rules and regulations on others, creating barriers instead of inviting them into relationship with Christ.
 
