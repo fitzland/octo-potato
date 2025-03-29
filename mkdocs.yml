@@ -7,7 +7,6 @@ theme:
 
     font:
         text: Montserrat
-    font:
         code: Red Hat Mono
 
     palette:
