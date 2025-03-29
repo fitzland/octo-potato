@@ -5,6 +5,10 @@ site_url: https://fitzhugh.us/
 theme:
     name: material
 
+    logo:assets/fitzhugh-us-logo.svg
+
+    favicon: assets/fitzhugh-us-logo.png
+
     font:
         text: Poppins
         code: Red Hat Mono
