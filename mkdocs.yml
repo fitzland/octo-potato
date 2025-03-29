@@ -3,31 +3,39 @@ site_description: Documentation and articles for fitzhugh.us
 site_url: https://fitzhugh.us/
 
 theme:
-  name: material
-  palette:
-      scheme: slate
+    name: material
+    palette:
+        scheme: slate
 
     features:
         - navigation.tabs
         - navigation.sections
         - navigation.footer
+        - navigation.indexes
+        - navigation.sections
+        - content.code.copy
+        - content.code.annotate
+        - content.tabs.link
+        - search.suggest
+        - search.highlight
+        - search.share
   
 plugins: 
-  - search
-  - social
+    - search
+    - social
 
 markdown_extensions:
 
-  # Python Markdown
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - fenced_code
-  - footnotes
-  - md_in_html
-  - toc:
-      permalink: true
+    # Python Markdown
+    - abbr
+        - admonition
+        - attr_list
+        - def_list
+        - fenced_code
+        - footnotes
+        - md_in_html
+        - toc:
+            permalink: true
 
   # Python Markdown Extensions
   - pymdownx.arithmatex:
