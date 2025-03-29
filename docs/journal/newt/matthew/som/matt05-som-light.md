@@ -5,7 +5,7 @@ tags:
     - SOM
 ---
 
-# Sermon on the Mount (Matthew 5:14-16)
+# Light of the World (Matthew 5:14-16)
 
 ## Passage
 
