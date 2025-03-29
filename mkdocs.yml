@@ -3,6 +3,7 @@ site_description: Documentation and articles for fitzhugh.us
 
 theme:
   name: material
+  font:
   palette:
     - scheme: default
       primary: indigo
