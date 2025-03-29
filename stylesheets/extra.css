@@ -31,9 +31,14 @@ mark {
   /* other styles, e.g., padding */
 }
 
-.strm {
+.stem {
   font-weight: bold;
   color: #63bbee;
+}
+
+.ltem {
+  font-weight: bold;
+  color: #dc85e9;
 }
 
 .rsrc {
