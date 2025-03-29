@@ -28,11 +28,12 @@ theme:
     features:
         - navigation.tabs
         - navigation.sections
+        - navigation.path
         - navigation.footer
         - navigation.indexes
         - navigation.sections
         - navigation.top
-        - toc.integrate
+        # - toc.integrate
         - content.code.copy
         - content.code.annotate
         - content.tabs.link

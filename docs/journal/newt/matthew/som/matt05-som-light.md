@@ -19,7 +19,7 @@ tags:
 
 **Darkness**. We are in a dark place, spiritually and we prefer our imperfect, sinful ways to God's ways. 
 
-> [Ephesians 4:18](https://biblehub.com/ephesians/4-18.htm). darkended in their understanding, alienated from the life of God.
+> [Ephesians 4:18](https://biblehub.com/ephesians/4-18.htm). They are darkended in their understanding, alienated from the life of God.
 
 **Denial of Evil**. We like to think we are good; we don't see our sin. We blame others and external sources rather than taking responsibility. 
 
