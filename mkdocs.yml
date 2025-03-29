@@ -1,4 +1,4 @@
-site_name: fitzhugh.us Docs
+site_name: fitzhugh.us
 site_description: Documentation and articles for fitzhugh.us
 
 theme:
@@ -6,7 +6,7 @@ theme:
   palette:
     - scheme: default
       primary: indigo
-      accent: indigo
+      accent: green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
