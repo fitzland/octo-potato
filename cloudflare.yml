@@ -1,0 +1,11 @@
+# .github/workflows/cloudflare.yml
+version: 1
+build:
+  commands:
+    - python -m pip install --upgrade pip
+    - pip install mkdocs mkdocs-material # Example: your MkDocs theme and any plugins
+    - mkdocs build
+deploy:
+  bucket: ./site  # Or where MkDocs outputs its files
+  # Required for single-page apps
+  # navigate_fallback: /index.html # optional, replace with your actual index file.

@@ -10,9 +10,12 @@ theme:
         code: Red Hat Mono
 
     palette:
+      - scheme: default
         primary: blue grey
         accent: deep orange
-        scheme: slate
+      - scheme: slate
+        primary: blue grey
+        accent: deep orange
         
     features:
         - navigation.tabs
