@@ -4,7 +4,6 @@ site_description: Documentation and articles for fitzhugh.us
 theme:
   name: material
   font:
-  palette:
     - scheme: default
       primary: indigo
       accent: green
@@ -25,8 +24,6 @@ features:
 plugins: 
   - search
   - social
-  - tags:
-      tags_file: tags.md
 
 markdown_extensions:
 
