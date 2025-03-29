@@ -2,7 +2,7 @@
 tags:
     - Matthew
     - NT
-    - SOM
+    - SotM
 ---
 
 # Light of the World (Matthew 5:14-16)
@@ -19,7 +19,7 @@ The world is a *DARK* place.
 
 **Darkness**. We are in a dark place, spiritually and we prefer our imperfect, sinful ways to God's ways. 
 
-> Ephesians 4:18. darkended in their understanding, alienated from the life of God.
+> [Ephesians 4:18](https://biblehub.com){: .rsrc }. darkended in their understanding, alienated from the life of God.
 
 **Denial of Evil**. We like to think we are good; we don't see our sin. We blame others and external sources rather than taking responsibility. 
 

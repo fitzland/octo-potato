@@ -30,3 +30,13 @@ mark {
   color: #92e285; /* Ensure text is readable */
   /* other styles, e.g., padding */
 }
+
+.strm {
+  font-weight: bold;
+  color: #63bbee;
+}
+
+.rsrc {
+  font-weight: bold;
+  color: #92e285;
+}
