@@ -13,16 +13,7 @@ theme:
     palette:
         primary: blue grey
         accent: deep orange
-
-        - scheme: default
-          toggle:
-            icon: material/brightness-7
-            name: Switch to dark mode
-        
-        - scheme: slate
-          toggle:
-            icon: material/brightness-4
-            name: Switch to light mode
+        scheme: slate
         
     features:
         - navigation.tabs
