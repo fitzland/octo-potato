@@ -9,8 +9,6 @@ theme:
     font:
         code: Red Hat Mono
     palette:
-        primary: blue grey
-        accent: deep orange
         - scheme: default
           toggle:
             icon: material/brightness-7
@@ -20,6 +18,8 @@ theme:
           toggle:
             icon: material/brightness-4
             name: Switch to light mode
+        primary: blue grey
+        accent: deep orange
 
     features:
         - navigation.tabs
