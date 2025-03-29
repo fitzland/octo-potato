@@ -31,17 +31,22 @@ mark {
   /* other styles, e.g., padding */
 }
 
-.stem {
+h1 {
   font-weight: bold;
   color: #63bbee;
 }
 
-.ltem {
+h2 {
+  font-weight: bold;
+  color: #f09e6f;
+}
+
+h4 {
   font-weight: bold;
   color: #dc85e9;
 }
 
-.rsrc {
+h3 {
   font-weight: bold;
   color: #92e285;
 }

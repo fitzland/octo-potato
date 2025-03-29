@@ -15,24 +15,24 @@ tags:
 
 ## Why do we need to be LIGHT?
 
-The world is a *DARK* place.
+### The world is a *DARK* place.
 
 **Darkness**. We are in a dark place, spiritually and we prefer our imperfect, sinful ways to God's ways. 
 
-> [Ephesians 4:18](https://biblehub.com){: .rsrc }. darkended in their understanding, alienated from the life of God.
+> [Ephesians 4:18](https://biblehub.com/ephesians/4-18.htm). darkended in their understanding, alienated from the life of God.
 
 **Denial of Evil**. We like to think we are good; we don't see our sin. We blame others and external sources rather than taking responsibility. 
 
-> Proverbs 21:2. Every path of a man is right in his own eyes, but the LORD weigns the heart.
+> [Proverbs 21:2](https://biblehub.com/proverbs/21-2.htm). Every path of a man is right in his own eyes, but the LORD weigns the heart.
 
 **Exposed**. Jesus exposed the darkness, even where people thought they had light (hypocrisy). Comparing the brightness of flashlights in the daylight shows the insignificance of their light.
 
-> John 3:19. The light has come into the world, and men loved the darkness rather than the light, because their deeds were evil. 
+> [John 3:19](https://biblehub.com/john/3-19.htm). The light has come into the world, and men loved the darkness rather than the light, because their deeds were evil. 
 
 **Two Responses**. When confronted with the darkness, people have two options: 
 
-1. { .stem } reject { /stem } Christ and hate Him for exposing them.
-2. { .ltem } receive { /ltem } Christ and turn to Him for cleansing and righteousness.
+1. **reject**. Christ and hate Him for exposing them.
+2. **receive**. Christ and turn to Him for cleansing and righteousness.
 
 ## What are some of the meanings of LIGHT?
 
@@ -46,25 +46,27 @@ Think of oil lamps, candles, and torches.
 
 **Truth & Knowledge**. Exposes, reveals, and dispels ignorance and error.
 
-> John 8:32. the truth will set you free.
+> [John 8:32](https://biblehub.com/john/8-32.htm). the truth will set you free.
 
 **Goodness & Righteousness**. Contrasts with the darkness of sin and evil. It represents moral purity and upright living.
 
-> 1 John 1:5. God is light, and in Him is no darkness at all.
+> [1 John 1:5](https://biblehub.com/1_john/1-5.htm). God is light, and in Him is no darkness at all.
 
 **Guidance & Direction**. Illuminates the path and shows us the way forward.
 
-> Psalm 119:105. Your word is a lamp to my feet and a light to my path.
+> [Psalm 119:105](https://biblehub.com/psalm/119-105.htm). Your word is a lamp to my feet and a light to my path.
 
 **Hope & Salvation**. Overcomes the darkness of despair and death.
 
-> Isaiah 9:2. The people walking in darkness have seen a great light; on those living in the land of deep darkness a light has dawned.
+> [Isaiah 9:2](https://biblehub.com/isaiah/9-2.htm). The people walking in darkness have seen a great light; on those living in the land of deep darkness a light has dawned.
 
 **Divine Presence & Glory**. Associated with God's presence and holiness.
 
-> Revelation 21:23. The city does not need the sun or the moon to shine on it, for the glory of God give it light, and its lamp is the Lamb.
+> [Revelation 21:23](https://biblehub.com/revelation/21-23.htm). The city does not need the sun or the moon to shine on it, for the glory of God give it light, and its lamp is the Lamb.
 
-## What are the NT words for *LIGHT* & *LAMP*.
+## New Testament Words
+
+### LIGHT
 
 φῶς (phos). The primary word for *light* used in this passage. 
 
@@ -72,25 +74,29 @@ Think of oil lamps, candles, and torches.
 
 - Think: sun, moon, stars, and lamps. Also represents life, truth, purity, and salvation.
 
+### LAMP
+
 λύχνος (lychnos). The word used for *lamp* in in this passage. 
 
 - Refers specifically to a container with a wick that burns oil. 
 
 - This brings the metaphor of Gospel light to a more personal setting, shining on all in the house.
 
-## Who does the word LIGHT describe in the Bible?
+### Who does the word LIGHT describe in the Bible?
 
-**God**. The Lord is my *light* and my salvation (Psalm 27:1)
+**God**. The Lord is my *light* and my salvation ([Psalm 27:1](https://biblehub.com/psalm/27-1.htm))
 
-**Jesus**. I am the *light* of the world (John 8:12)
+**Jesus**. I am the *light* of the world ([John 8:12](https://biblehub.com/john/8-12.htm))
 
-**Disciples**. You are the *light* of the world (Matthew 5:14)
+**Disciples**. You are the *light* of the world ([Matthew 5:14](https://biblehub.com/matthew/5-14.htm))
 
 - More accurately, we **REFLECT** the *light* of God & Jesus.
 
 ## A Breakdown of the Passage
 
-Three parts: who we are, what not to do, and what to do.
+### Three Parts
+
+Who we are, What not to do, and What to do.
 
 ### Affirmation (Verse 14a).
 
@@ -110,9 +116,9 @@ These are illustrations of the absurdity of hiding light. Light is *meant* to be
 
 **City on a hill**. A city perched high on a hill is naturally visible from a distance. 
 
-- A true Christian life, lived according to kingdom principles, will inevitably attract attention. It will be visible.
+- A true Christian life, lived according to kingdom principles, will inevitably attract attention.
 
-**Lamp under a basket**. Lighting a lamp and then covering it up completely defeats the purpose. A *basket* (Greek: modios) was a dry measuring container for grain. The light cannot fulfill its purpose when hidden. 
+**Lamp under a basket**. Lighting a lamp and then covering it defeats the purpose. A *basket* (Greek: modios) was a dry measuring container for grain. The light cannot fulfill its purpose when hidden. 
 
 - Christians may hide their light because they do not want to be seen, or are afraid of being seen.
 
@@ -122,7 +128,7 @@ These are illustrations of the absurdity of hiding light. Light is *meant* to be
 
 > In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven.
 
-This is the core instruction: actively and intentionally let your light shine.
+Core instruction: actively and intentionally let your light shine.
 
 **Let your light shine before men**. Be visibile, be intentional. It's not about drawing attention to ourselves, but to purposefully display the light of Christ.
 
@@ -132,7 +138,9 @@ This is the core instruction: actively and intentionally let your light shine.
 
 Words without actions won't do it. And neither with actions with out words.
 
-### What doesn't work so well when trying to let LIGHT shine?
+## What doesn't work so well…
+
+### …when trying to let LIGHT shine?
 
 **Isolation**. Creating separate *Christian* communities that limit interaction with non-believers.
 
@@ -156,7 +164,9 @@ Words without actions won't do it. And neither with actions with out words.
 
 **Community**. It's not just about individual piety; it's about a collective witness. The city on a hill is a community of believers whose combined light illuminates the world.
 
-## How might we let our LIGHT shine?
+## Letting our LIGHT shine
+
+### How might we do it?
 
 **Living Out Kingdom Values**. Demonstrating love, compassion, forgiveness, justice, and humility in our daily lives.
 
@@ -168,7 +178,7 @@ Words without actions won't do it. And neither with actions with out words.
 
 **Being Authentic & Transparent**. Living with integrity and honesty, allowing others to see Christ in us.
 
-## What keeps us from letting our LIGHT shine?
+### What keeps us from doing it?
 
 **Sin & Unrepentance**. Think: hypocrisy, Unconfessed sin dims our light and hinders our ability to reflect Christ.
 
@@ -180,7 +190,9 @@ Words without actions won't do it. And neither with actions with out words.
 
 **Complacency & Apathy**. Losing our passion for God and His mission in the world.
 
-## Application
+## Closing
+
+### Application
 
 In what areas of your life do you feel you are shining light effectively?
 
@@ -189,3 +201,10 @@ What are some challenges you face in letting your light shine?
 How can we encourage and support each other in being light in the world?
 
 What practical steps can you take this week to be a better reflection of Christ's light?
+
+### Challenge
+
+This week, identify one area where you can let your light shine more brightly, whether it's through an act of kindness, a word of truth, or a demonstration of love. Be intentional about pointing others to Christ through your actions and words.
+
+### Pray.
+Pray that God would empower the class to be effective witnesses for Him, shining His light into a dark world.
