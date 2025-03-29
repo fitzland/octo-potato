@@ -6,16 +6,24 @@ theme:
     name: material
 
     font:
-        text: Montserrat
+        text: Poppins
         code: Red Hat Mono
 
     palette:
-      - scheme: default
-        primary: blue grey
-        accent: deep orange
-      - scheme: slate
-        primary: blue grey
-        accent: deep orange
+        # Palette toggle for light mode
+        - scheme: default
+          primary: blue grey
+          accent: deep orange
+          toggle:
+            icon: material/brightness-7
+            name: Switch to Dark Mode
+        # Palette toggle for dark mode
+        - scheme: slate
+          primary: blue grey
+          accent: deep orange
+          toggle:
+            icon: material/brightness-4
+            name: Switch to Light Mode
         
     features:
         - navigation.tabs
