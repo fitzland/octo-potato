@@ -1,6 +1,14 @@
 site_name: fitzhugh.us
 site_description: Documentation and articles for fitzhugh.us
 
+nav:
+  - Home: index.md
+  - Docs: documentation/index.md
+  - Journal: journal/index.md
+    - Matt 05: journal/newt/matthew/som/matt05-som-light.md
+  - About: about.md
+  - Contact: contact.md
+
 theme:
   name: material
   font:
