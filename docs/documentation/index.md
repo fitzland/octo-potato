@@ -1,6 +1,6 @@
 ---
 tags:
-	- how-to
+	- howto
 ---
 
 # Website

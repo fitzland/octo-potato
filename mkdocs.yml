@@ -4,7 +4,12 @@ site_url: https://fitzhugh.us/
 
 theme:
     name: material
+    font:
+        text: Montserrat
+        code: Red Hat Mono
     palette:
+        primary: blue grey
+        accent: deep orange
         - scheme: default
           toggle:
             icon: material/brightness-7
