@@ -1,15 +1,16 @@
 site_name: fitzhugh.us
 site_description: Documentation and articles for fitzhugh.us
+site_url: https://fitzhugh.us/
 
 theme:
   name: material
   palette:
       scheme: slate
 
-features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.footer
+    features:
+        - navigation.tabs
+        - navigation.sections
+        - navigation.footer
   
 plugins: 
   - search
