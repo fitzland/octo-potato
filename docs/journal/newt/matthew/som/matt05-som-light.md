@@ -31,8 +31,8 @@ The world is a *DARK* place.
 
 **Two Responses**. When confronted with the darkness, people have two options: 
 
-1. reject{: .stem } Christ and hate Him for exposing them.
-2. receive{: .ltem} Christ and turn to Him for cleansing and righteousness.
+1. { .stem } reject { /stem } Christ and hate Him for exposing them.
+2. { .ltem } receive { /ltem } Christ and turn to Him for cleansing and righteousness.
 
 ## What are some of the meanings of LIGHT?
 
