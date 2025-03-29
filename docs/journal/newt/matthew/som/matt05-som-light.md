@@ -1,7 +1,7 @@
 ---
 tags:
-    - NT
     - Matthew
+    - NT
     - SOM
 ---
 
@@ -9,7 +9,9 @@ tags:
 
 ## Passage
 
-> **Matthew 5:14-16**. You are the light of the world. A city on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a lampstand, and it gives light to all in the house. In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven.
+!!! quote "Matthew 5:14-16"
+
+    You are the light of the world. A city on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a lampstand, and it gives light to all in the house. In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven.
 
 ## Why do we need to be LIGHT?
 
