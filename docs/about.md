@@ -1,6 +1,6 @@
 ---
 tags:
-    - about
+    - About
 ---
 
 # About
