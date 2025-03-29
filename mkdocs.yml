@@ -3,13 +3,13 @@ site_description: Documentation and articles for fitzhugh.us
 
 theme:
   name: material
-    - scheme: default
+    scheme: default
       primary: indigo
       accent: green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate
+    scheme: slate
       primary: black
       accent: indigo
       toggle:
