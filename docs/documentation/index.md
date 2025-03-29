@@ -1,3 +1,8 @@
+---
+tags:
+	- how-to
+---
+
 # Website
 
 ## Workflow for Editing Website

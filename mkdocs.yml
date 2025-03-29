@@ -5,7 +5,15 @@ site_url: https://fitzhugh.us/
 theme:
     name: material
     palette:
+        scheme: default
+        toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+        
         scheme: slate
+        toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
     features:
         - navigation.tabs
@@ -13,6 +21,8 @@ theme:
         - navigation.footer
         - navigation.indexes
         - navigation.sections
+        - navigation.top
+        - toc.integrate
         - content.code.copy
         - content.code.annotate
         - content.tabs.link
@@ -23,6 +33,8 @@ theme:
 plugins: 
     - search
     - social
+    - tags
+    - blog
 
 markdown_extensions:
 

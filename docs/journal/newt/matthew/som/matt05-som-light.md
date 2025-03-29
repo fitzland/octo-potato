@@ -1,3 +1,10 @@
+---
+tags:
+    - NT
+    - Matthew
+    - SOM
+---
+
 # Sermon on the Mount (Matthew 5:14-16)
 
 ## Passage (Berean Standard Bible):
