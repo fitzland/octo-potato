@@ -1,3 +1,8 @@
+---
+tags:
+    - About
+---
+
 # Contact Me
 
 Feel free to reach out through any of the following platforms:

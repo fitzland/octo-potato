@@ -1,6 +1,6 @@
 ---
 tags:
-    - story
+    - about
 ---
 
 # About
