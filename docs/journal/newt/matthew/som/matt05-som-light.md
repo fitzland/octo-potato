@@ -17,30 +17,34 @@ tags:
 
 ### The world is a *DARK* place.
 
-**Darkness**. We are in a dark place, spiritually and we prefer our imperfect, sinful ways to God's ways. 
+**Depravity**. We are spiritually depraved and we prefer our sinful ways to God's ways. 
 
 > [Ephesians 4:18](https://biblehub.com/ephesians/4-18.htm). They are darkended in their understanding, alienated from the life of God.
 
-**Denial of Evil**. We like to think we are good; we don't see our sin. We blame others and external sources rather than taking responsibility. 
+> [Genesis 6:5](https://biblehub.com/genesis/6-5.htm). Then the Lord saw that the wickedness of man was great upon the earth, and that every inclination of the thoughts of his heart was altogether evil all the time.
+
+**Deception**. We like to think we are good; we don't see our sin. We blame others and external sources rather than taking responsibility. 
 
 > [Proverbs 21:2](https://biblehub.com/proverbs/21-2.htm). Every path of a man is right in his own eyes, but the LORD weigns the heart.
 
-**Exposed**. Jesus exposed the darkness, even where people thought they had light (hypocrisy). Comparing the brightness of flashlights in the daylight shows the insignificance of their light.
+> [Isaiah 5:20-21](https://biblehub.com/isaiah/5-20.htm). Woe to those who call evil good, and good evil; who put darkness for light, and light for darkness; who put bitter for sweet and sweet for bitter.
+
+**Discovered**. Jesus exposed the darkness, even where people thought they had light (hypocrisy). [Boice](#). Comparing the brightness of flashlights in the daylight shows their insignificance.
 
 > [John 3:19](https://biblehub.com/john/3-19.htm). The light has come into the world, and men loved the darkness rather than the light, because their deeds were evil. 
 
 **Two Responses**. When confronted with the darkness, people have two options: 
 
-1. **reject**. Christ and hate Him for exposing them.
-2. **receive**. Christ and turn to Him for cleansing and righteousness.
+1. **Reject** Christ and hate Him for exposing them.
+2. **Receive** Christ and turn to Him for cleansing and righteousness.
 
 ## What are some of the meanings of LIGHT?
 
 ### Literal. 
 
-In biblical times, light was a big deal. Darkness meant danger, fear, and limited activity. Artificial light was precious and often expensive, making it a symbol of prosperity and a useful resource for safety, security and work. 
+Think: oil lamps, candles, and torches.
 
-Think of oil lamps, candles, and torches.
+In biblical times, light was a big deal. Darkness meant danger, fear, and limited activity. Artificial light was precious and expensive, making it a symbol of prosperity and a useful resource for safety, security and work. 
 
 ### Figurative. 
 
@@ -72,7 +76,7 @@ Think of oil lamps, candles, and torches.
 
 - It can mean: illumination, understanding, and spiritual truth.
 
-- Think: sun, moon, stars, and lamps. Also represents life, truth, purity, and salvation.
+- Think: sun, moon, stars, and lamps. Also: life, truth, purity, and salvation.
 
 ### LAMP
 
@@ -80,15 +84,15 @@ Think of oil lamps, candles, and torches.
 
 - Refers specifically to a container with a wick that burns oil. 
 
-- This brings the metaphor of Gospel light to a more personal setting, shining on all in the house.
+- Bringing the Gospel light to a more personal setting, shining on all in the house.
 
 ### Who does the word LIGHT describe in the Bible?
 
-**God**. The Lord is my *light* and my salvation ([Psalm 27:1](https://biblehub.com/psalm/27-1.htm))
+**God**. The Lord is my *light* and my salvation… ([Psalm 27:1](https://biblehub.com/psalm/27-1.htm))
 
-**Jesus**. I am the *light* of the world ([John 8:12](https://biblehub.com/john/8-12.htm))
+**Jesus**. I am the *light* of the world… ([John 8:12](https://biblehub.com/john/8-12.htm))
 
-**Disciples**. You are the *light* of the world ([Matthew 5:14](https://biblehub.com/matthew/5-14.htm))
+**Disciples**. You are the *light* of the world… ([Matthew 5:14](https://biblehub.com/matthew/5-14.htm))
 
 - More accurately, we **REFLECT** the *light* of God & Jesus.
 
@@ -98,7 +102,7 @@ Think of oil lamps, candles, and torches.
 
 Who we are, What not to do, and What to do.
 
-### Affirmation (Verse 14a).
+### Who we are
 
 > You are the light of the world.
 
@@ -108,7 +112,7 @@ The **WORLD** is our *mission field*. It's not just within the church or religio
 
 This can be **empowering**, reminding us of our inherent potential, but also **daunting**, highlighting the responsibility to live up to that calling.
 
-### Negative Examples (Verse 14b-15).
+### What not to do
 
 > A city on a hill cannot be hidden... Nor do people light a lamp and put it under a basket...
 
@@ -124,7 +128,7 @@ These are illustrations of the absurdity of hiding light. Light is *meant* to be
 
 **Common Thread**. Both examples highlight the intentionality of hiding. It's not an accident; it's a deliberate act that goes against the very nature of light.
 
-### Positive Purpose (Verse 16).
+### What to do
 
 > In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven.
 
