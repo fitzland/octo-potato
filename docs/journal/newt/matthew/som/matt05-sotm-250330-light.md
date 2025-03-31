@@ -1,8 +1,9 @@
 ---
 tags:
-    - Matthew
     - NT
+    - Matthew
     - SotM
+    - light
 ---
 
 # Light of the World (Matthew 5:14-16)
