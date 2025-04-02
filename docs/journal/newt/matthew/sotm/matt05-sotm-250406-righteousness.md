@@ -93,7 +93,7 @@ We must handle God's Word carefully, seeking its true meaning as revealed and fu
 
 > **Matthew 5:20**. For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven. 
 
-**Point**. Jesus drops a bombshell: Entrance into the kingdom requires a righteousness greater [Why?](/journal/newt/matthew/sotm/extra/matt05-sotm-2050406-surpass/) than that of the most meticulous religious experts of the day.
+**Point**. Jesus drops a bombshell: Entrance into the kingdom requires a righteousness greater [Why?](/journal/newt/matthew/sotm/extra/matt05-sotm-250406-surpass/) than that of the most meticulous religious experts of the day.
 
 **Context**. The Pharisees and Scribes were seen as the epitome of religious observance. They dedicated their lives to studying and keeping the Law (externally). If their righteousness isn't enough, whose could be?
 
