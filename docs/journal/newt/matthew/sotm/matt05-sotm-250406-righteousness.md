@@ -36,7 +36,7 @@ Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationshi
 
 > **Matthew 5:17**. Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them.
 
-**Point**. Jesus immediately corrects a potential misunderstanding. Seeing His radical grace and focus on the heart (like the Beatitudes just before this), some might think He's *discarding* [Why?](./extra/matt05-sotm-2050406-abolish.md) the Old Testament ("the Law or the Prophets" - a common way to refer to the entire OT).
+**Point**. Jesus immediately corrects a potential misunderstanding. Seeing His radical grace and focus on the heart (like the Beatitudes just before this), some might think He's *discarding* [Why?](/journal/newt/matthew/sotm/extra/matt05-sotm-2050406-abolish/) the Old Testament ("the Law or the Prophets" - a common way to refer to the entire OT).
 
 #### Key Words:
 
@@ -44,7 +44,7 @@ Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationshi
 
 **Fulfill**. (Greek: plērōsai): Means *to fill up*, *complete*, *bring to its intended goal*, *fully preach/embody*, *bring to realization*.
 
-**Illustration**. (Masterpiece/Building) Jesus isn't tearing down the structure God built in the OT. He is the Master Builder completing the project, bringing it to its glorious, intended conclusion. The OT laid the foundation and framework; Jesus is the *fulfillment* [How?](./extra/matt05-sotm-250406-fulfill.md) and capstone.
+**Illustration**. (Masterpiece/Building) Jesus isn't tearing down the structure God built in the OT. He is the Master Builder completing the project, bringing it to its glorious, intended conclusion. The OT laid the foundation and framework; Jesus is the *fulfillment* [How?](/journal/newt/matthew/sotm/extra/matt05-sotm-2050406-fulfill/) and capstone.
 
 **Core Message**. Jesus came to be the living embodiment of the Law's demands, to perfectly obey it, and to bring its foreshadowings and promises to their ultimate reality in Himself.
 
@@ -66,7 +66,7 @@ Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationshi
 
 **Illustration**. It's like saying, "Not even the dot on an 'i' or the cross on a 't' will pass away." Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
 
-**Crucial Qualifier**. "...until everything is accomplished." This is key! How is it accomplished? In Christ! His life, death, and resurrection are the accomplishment the Law pointed towards. Things don't disappear by being abolished, but by reaching their intended fulfillment in Him. [How?](./extra/matt05-sotm-2050406-fulfill.md)
+**Crucial Qualifier**. "...until everything is accomplished." This is key! How is it accomplished? In Christ! His life, death, and resurrection are the accomplishment the Law pointed towards. Things don't disappear by being abolished, but by reaching their intended fulfillment in Him. [How?](/journal/newt/matthew/sotm/extra/matt05-sotm-2050406-fulfill/)
 
 #### Cross Reference:
 
@@ -94,7 +94,7 @@ We must handle God's Word carefully, seeking its true meaning as revealed and fu
 
 > **Matthew 5:20**. For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven. 
 
-**Point**. Jesus drops a bombshell: Entrance into the kingdom requires a righteousness greater [Why?](./extra/matt05-250406-surpass.md) than that of the most meticulous religious experts of the day.
+**Point**. Jesus drops a bombshell: Entrance into the kingdom requires a righteousness greater [Why?](/journal/newt/matthew/sotm/extra/matt05-sotm-2050406-surpass/) than that of the most meticulous religious experts of the day.
 
 **Context**. The Pharisees and Scribes were seen as the epitome of religious observance. They dedicated their lives to studying and keeping the Law (externally). If their righteousness isn't enough, whose could be?
 
