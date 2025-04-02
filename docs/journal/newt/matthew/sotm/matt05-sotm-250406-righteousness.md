@@ -27,7 +27,8 @@ Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationshi
 
  !!! quote "Matthew 5:17-20"
 
-    17 Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them. 18 For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished. 19 So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven. 20 For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven. 
+    17 Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them. 18 For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished. 19 So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven. 20 For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.   
+
 
 ## Jesus and the Law (Approx. 20-25 minutes)
 
@@ -35,19 +36,19 @@ Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationshi
 
 > **Matthew 5:17**. Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them.
 
-**Point**. Jesus immediately corrects a potential misunderstanding. Seeing His radical grace and focus on the heart (like the Beatitudes just before this), some might think He's discarding the Old Testament ("the Law or the Prophets" - a common way to refer to the entire OT).
+**Point**. Jesus immediately corrects a potential misunderstanding. Seeing His radical grace and focus on the heart (like the Beatitudes just before this), some might think He's *discarding* [Why?](./extra/matt05-sotm-2050406-abolish.md) the Old Testament ("the Law or the Prophets" - a common way to refer to the entire OT).
 
-### Key Words:
+#### Key Words:
 
 **Abolish**. (Greek: katalysai): Means *to tear down*, *destroy*, *annul*, *invalidate*. Jesus states He did not come for this purpose.
 
 **Fulfill**. (Greek: plērōsai): Means *to fill up*, *complete*, *bring to its intended goal*, *fully preach/embody*, *bring to realization*.
 
-**Illustration**. (Masterpiece/Building) Jesus isn't tearing down the structure God built in the OT. He is the Master Builder completing the project, bringing it to its glorious, intended conclusion. The OT laid the foundation and framework; Jesus is the fulfillment and capstone.
+**Illustration**. (Masterpiece/Building) Jesus isn't tearing down the structure God built in the OT. He is the Master Builder completing the project, bringing it to its glorious, intended conclusion. The OT laid the foundation and framework; Jesus is the *fulfillment* [How?](./extra/matt05-sotm-250406-fulfill.md) and capstone.
 
 **Core Message**. Jesus came to be the living embodiment of the Law's demands, to perfectly obey it, and to bring its foreshadowings and promises to their ultimate reality in Himself.
 
-### Cross Reference:
+#### Cross Reference:
 
 > **Romans 10:4**. For Christ is the culmination [Greek: telos - end, goal, completion] of the law so that there may be righteousness for everyone who believes.
 
@@ -57,17 +58,17 @@ Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationshi
 
 **Point**. Jesus affirms the absolute divine authority and permanence of the OT Scriptures. Nothing will be arbitrarily discarded.
 
-### Key Words/Imagery:
+#### Key Words:
 
-**Smallest Letter**. (Greek: iōta): Refers to the Hebrew letter Yod (י), the smallest letter in the alphabet.
+**single jot**. (Greek: iōta): Refers to the Hebrew letter Yod (י), the smallest letter in the alphabet.
 
-**Least Stroke of a Pen**. (Greek: keraia): Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters (like ר vs. ד).
+**Stroke of a pen**. (Greek: keraia): Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters (like ר vs. ד).
 
 **Illustration**. It's like saying, "Not even the dot on an 'i' or the cross on a 't' will pass away." Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
 
-**Crucial Qualifier**. "...until everything is accomplished." This is key! How is it accomplished? In Christ! His life, death, and resurrection are the accomplishment the Law pointed towards. Things don't disappear by being abolished, but by reaching their intended fulfillment in Him.
+**Crucial Qualifier**. "...until everything is accomplished." This is key! How is it accomplished? In Christ! His life, death, and resurrection are the accomplishment the Law pointed towards. Things don't disappear by being abolished, but by reaching their intended fulfillment in Him. [How?](./extra/matt05-sotm-2050406-fulfill.md)
 
-### Cross Reference
+#### Cross Reference:
 
 > **Luke 24:44**. Then He told them, 'These are the words I spoke to you while I was still with you: Everything must be fulfilled that is written about Me in the Law of Moses, the Prophets, and the Psalms.'" (Jesus Himself claims to be the fulfillment). Hebrews 9-10 (Explains how Christ's sacrifice fulfilled the entire sacrificial system).
 
@@ -77,45 +78,51 @@ Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationshi
 
 **Point**. How we regard and handle God's commands (as fulfilled in Christ) matters and reflects our standing within the Kingdom community.
 
-Key Word: Breaks/Sets Aside/Relaxes (Greek: lysē): This word is related to "abolish" (katalysai) in v.17. It implies loosening the Law's requirements or teaching others that they are no longer binding without understanding their fulfillment in Christ.
+#### Key Words: 
 
-Least vs. Great: This likely refers to influence and honor within the kingdom community, not salvation itself. Those who rightly understand the Law through Christ, practice it from the heart, and teach it accurately will be esteemed. Those who diminish its significance (even if saved by grace) have a flawed understanding and impact.
+**Breaks/Sets Aside/Relaxes**. (Greek: lysē): This word is related to "abolish" (katalysai) in v.17. It implies loosening the Law's requirements or teaching others that they are no longer binding without understanding their fulfillment in Christ.
 
-Contrast with Pharisees: Jesus implicitly critiques the Pharisees here, who often added to the Law while sometimes neglecting its core intent (Matthew 23:23 - tithing mint/dill/cumin but neglecting justice, mercy, faithfulness). They also "relaxed" commands through loopholes (e.g., Mark 7:9-13 - Corban rule).
+**Least vs. Great**. This likely refers to influence and honor within the kingdom community, not salvation itself. Those who rightly understand the Law through Christ, practice it from the heart, and teach it accurately will be esteemed. Those who diminish its significance (even if saved by grace) have a flawed understanding and impact.
 
-Application: We must handle God's Word carefully, seeking its true meaning as revealed and fulfilled in Jesus, and live it out authentically.
+**Contrast with Pharisees**. Jesus implicitly critiques the Pharisees here, who often added to the Law while sometimes neglecting its core intent (Matthew 23:23 - tithing mint/dill/cumin but neglecting justice, mercy, faithfulness). They also "relaxed" commands through loopholes (e.g., Mark 7:9-13 - Corban rule).
+
+#### Application: 
+
+We must handle God's Word carefully, seeking its true meaning as revealed and fulfilled in Jesus, and live it out authentically.
 
 ### The Shocking Standard - Surpassing the "Experts"
 
 > **Matthew 5:20**. For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven. 
 
-Point. Jesus drops a bombshell: Entrance into the kingdom requires a righteousness greater than that of the most meticulous religious experts of the day.
+**Point**. Jesus drops a bombshell: Entrance into the kingdom requires a righteousness greater [Why?](./extra/matt05-250406-surpass.md) than that of the most meticulous religious experts of the day.
 
-Context. The Pharisees and Scribes were seen as the epitome of religious observance. They dedicated their lives to studying and keeping the Law (externally). If their righteousness isn't enough, whose could be?
+**Context**. The Pharisees and Scribes were seen as the epitome of religious observance. They dedicated their lives to studying and keeping the Law (externally). If their righteousness isn't enough, whose could be?
 
-Illustration (High Jump). Imagine the Pharisees setting the high jump bar at what seemed an impressive height (their external rule-keeping). Jesus comes along and says, "That's not nearly high enough. The real standard is perfect holiness, set by God Himself." No human can clear that bar on their own.
+**Illustration** (High Jump). Imagine the Pharisees setting the high jump bar at what seemed an impressive height (their external rule-keeping). Jesus comes along and says, "That's not nearly high enough. The real standard is perfect holiness, set by God Himself." No human can clear that bar on their own.
 
-Implication. This verse is meant to drive listeners (and us) to despair of self-righteousness. If the "best" fall short, we all fall short. Human effort, however sincere or meticulous, cannot meet God's perfect standard.
+**Implication**. This verse is meant to drive listeners (and us) to despair of self-righteousness. If the "best" fall short, we all fall short. Human effort, however sincere or meticulous, cannot meet God's perfect standard.
 
-Cross Reference. Romans 3:20 (BSB) "Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin." Philippians 3:4-9 (Paul lists his impeccable Jewish credentials but counts them as "rubbish" compared to gaining Christ and the righteousness from God through faith).
+#### **Cross Reference**. 
+
+> **Romans 3:20**. Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin." Philippians 3:4-9 (Paul lists his impeccable Jewish credentials but counts them as "rubbish" compared to gaining Christ and the righteousness from God through faith).
 
 ## The Solution. Achieving Greater Righteousness (Approx. 10-12 minutes)
 
-The Dilemma. Verse 20 leaves us with a problem: If even the Pharisees' righteousness isn't enough, how can anyone enter the kingdom? How good is good enough? The answer: Perfection.
+**The Dilemma**. Verse 20 leaves us with a problem: If even the Pharisees' righteousness isn't enough, how can anyone enter the kingdom? How good is good enough? The answer: Perfection.
 
-The Divine Provision. This is where the Gospel shines! The righteousness God requires is the righteousness God provides.
+**The Divine Provision**. This is where the Gospel shines! The righteousness God requires is the righteousness God provides.
 
-Point. We cannot earn this righteousness; it is a gift received through faith in Jesus Christ, who perfectly fulfilled the Law for us.
+**Point**. We cannot earn this righteousness; it is a gift received through faith in Jesus Christ, who perfectly fulfilled the Law for us.
 
-Key Concept. Imputed Righteousness. God credits Christ's perfect record to those who believe in Him.
+**Key Concept**. Imputed Righteousness. God credits Christ's perfect record to those who believe in Him.
 
-Cross References:
+### Cross References:
 
-Romans 3:21-22 (BSB). "But now, apart from the law, the righteousness of God has been revealed, as attested by the Law and the Prophets. And this righteousness from God comes through faith in Jesus Christ to all who believe."
+> **Romans 3:21-22**. But now, apart from the law, the righteousness of God has been revealed, as attested by the Law and the Prophets. And this righteousness from God comes through faith in Jesus Christ to all who believe.
 
-2 Corinthians 5:21 (BSB). "God made Him who knew no sin to be sin for us, so that in Him we might become the righteousness of God."
+> **2 Corinthians 5:21**. God made Him who knew no sin to be sin for us, so that in Him we might become the righteousness of God.
 
-Romans 8:3-4 (BSB). "For what the law was powerless to do in that it was weakened by the flesh, God did by sending His own Son in the likeness of sinful flesh and concerning sin: He condemned sin in the flesh, in order that the righteous requirement of the law might be fully met in us who do not live according to the flesh but according to the Spirit." (The Law's requirements are met in us because of Christ!)
+> **Romans 8:3-4**. For what the law was powerless to do in that it was weakened by the flesh, God did by sending His own Son in the likeness of sinful flesh and concerning sin: He condemned sin in the flesh, in order that the righteous requirement of the law might be fully met in us who do not live according to the flesh but according to the Spirit. (The Law's requirements are met in us because of Christ!)
 
 ## Application. Living Out Fulfilled Righteousness (Approx. 10-15 minutes)
 
