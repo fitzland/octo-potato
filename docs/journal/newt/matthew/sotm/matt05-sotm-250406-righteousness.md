@@ -8,49 +8,48 @@ tags:
 
 # Christ & the Scriptures (Matthew 5:17-20)
 
+## How Good is Good Enough?
 
-## Objective
+Imagine someone asking, 'If you died tonight and God asked why He should let you into heaven, what would you say?' What's a common answer?
 
-Learners will understand Jesus' relationship to the Old Testament Law (fulfillment, not abolition), recognize the high standard of God's righteousness, and grasp the necessity of Christ's work and imputed righteousness for entering the Kingdom, leading to genuine, heart-level obedience.
-
-## How Good is Good Enough? (Approx. 5-7 minutes)
-
-Imagine asking someone, 'If you died tonight and God asked why He should let you into heaven, what would you say?' What's a common answer?
+- I've gone to church my whole life.
+- I'm a good person; I do good things.
+- I love the Lord.
 
 Many of us, even as believers saved by grace, might subconsciously feel something similar. But this raises a crucial question Jesus' audience also wrestled with: Just how good is good enough for God? What's the standard?
 
-- Jesus is speaking early in His ministry (Sermon on the Mount) to His disciples and the crowds. They lived in a culture saturated by the Law of Moses (the Torah). There were already debates about how to interpret and apply it.
+### Context 
 
-Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationship to the Old Testament Law and sets the stage for understanding true righteousness required for His Kingdom."
+It's early in His ministry and Jesus is speaking to His disciples and a crowd. These lived in a culture saturated by the Law of Moses (the Torah). And, they had debates about how to interpret and apply it.
+
+In this passage, Jesus addresses His relationship with the Law and the Prophets (or Old Testament) and tries to help us understand the true righteousness required for His Kingdom.
 
 ## Passage
-
- !!! quote "Matthew 5:17-20"
+!!! quote "Matthew 5:17-20"
 
     17 Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them. 18 For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished. 19 So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven. 20 For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.   
 
+## Jesus and the Law 
 
-## Jesus and the Law (Approx. 20-25 minutes)
-
-### Fulfill, Not Abolish
+### Jesus addresses a possible misconception: Why did He come?
 
 > **Matthew 5:17**. Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them.
 
-**Point**. Jesus immediately corrects a potential misunderstanding. Seeing His radical grace and focus on the heart (like the Beatitudes just before this), some might think He's *discarding* [Why?](/journal/newt/matthew/sotm/extra/matt05-sotm-2050406-abolish/) the Old Testament ("the Law or the Prophets" - a common way to refer to the entire OT).
+**Point**. Jesus corrects any misunderstanding. Because He spoke of radical grace and focused on the heart, some likely thought He was *discarding* [Why?](/journal/newt/matthew/sotm/extra/matt05-sotm-2050406-abolish/) the Law and the Prophets (or Old Testament).
 
 #### Key Words:
 
-**Abolish**. (Greek: katalysai): Means *to tear down*, *destroy*, *annul*, *invalidate*. Jesus states He did not come for this purpose.
+**Abolish**. (GR: katalysai): Means *to tear down*, *destroy*, *annul*, *invalidate*. Jesus states He did not come for this purpose.
 
-**Fulfill**. (Greek: plērōsai): Means *to fill up*, *complete*, *bring to its intended goal*, *fully preach/embody*, *bring to realization*.
+**Fulfill**. (GR: plērōsai): Means *to fill up*, *complete*, *bring to its intended goal*, *fully preach/embody*, *bring to realization*.
 
-**Illustration**. (Masterpiece/Building) Jesus isn't tearing down the structure God built in the OT. He is the Master Builder completing the project, bringing it to its glorious, intended conclusion. The OT laid the foundation and framework; Jesus is the *fulfillment* [How?](/journal/newt/matthew/sotm/extra/matt05-sotm-2050406-fulfill/) and capstone.
+**Illustration**. (Masterpiece/Building) Jesus isn't tearing down the structure God built in the OT. He's completing the project, bringing it to its glorious, intended conclusion. The OT laid the foundation and framework; Jesus is the *fulfillment* [How?](/journal/newt/matthew/sotm/extra/matt05-sotm-2050406-fulfill/) and capstone.
 
-**Core Message**. Jesus came to be the living embodiment of the Law's demands, to perfectly obey it, and to bring its foreshadowings and promises to their ultimate reality in Himself.
+**Core Message**. Jesus came to be the living embodiment of the Law's demands, to perfectly obey it, and to bring its typology to their ultimate reality in Himself.
 
 #### Cross Reference:
 
-> **Romans 10:4**. For Christ is the culmination [Greek: telos - end, goal, completion] of the law so that there may be righteousness for everyone who believes.
+> **Romans 10:4**. For Christ is the culmination [GR: *telos*---end, goal, completion] of the law so that there may be righteousness for everyone who believes.
 
 ### Law's Enduring Authority and Certainty
 
@@ -60,9 +59,9 @@ Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationshi
 
 #### Key Words:
 
-**single jot**. (Greek: iōta): Refers to the Hebrew letter Yod (י), the smallest letter in the alphabet.
+**single jot**. (GR: iōta): Refers to the Hebrew letter Yod (י), the smallest letter in the alphabet.
 
-**Stroke of a pen**. (Greek: keraia): Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters (like ר vs. ד).
+**Stroke of a pen**. (GR: keraia): Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters (like ר vs. ד).
 
 **Illustration**. It's like saying, "Not even the dot on an 'i' or the cross on a 't' will pass away." Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
 
@@ -74,13 +73,13 @@ Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationshi
 
 ### Practicing and Teaching - Reflecting Kingdom Values
 
-> **Matthew 5:19**. 19 So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven.
+> **Matthew 5:19**. So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven.
 
 **Point**. How we regard and handle God's commands (as fulfilled in Christ) matters and reflects our standing within the Kingdom community.
 
 #### Key Words: 
 
-**Breaks/Sets Aside/Relaxes**. (Greek: lysē): This word is related to "abolish" (katalysai) in v.17. It implies loosening the Law's requirements or teaching others that they are no longer binding without understanding their fulfillment in Christ.
+**Breaks/Sets Aside/Relaxes**. (GR: lysē): This word is related to "abolish" (katalysai) in v.17. It implies loosening the Law's requirements or teaching others that they are no longer binding without understanding their fulfillment in Christ.
 
 **Least vs. Great**. This likely refers to influence and honor within the kingdom community, not salvation itself. Those who rightly understand the Law through Christ, practice it from the heart, and teach it accurately will be esteemed. Those who diminish its significance (even if saved by grace) have a flawed understanding and impact.
 
@@ -90,7 +89,7 @@ Introduce Passage. "In Matthew 5:17-20, Jesus directly addresses His relationshi
 
 We must handle God's Word carefully, seeking its true meaning as revealed and fulfilled in Jesus, and live it out authentically.
 
-### The Shocking Standard - Surpassing the "Experts"
+### Here's something shocking: You must be better than the Pharisees.
 
 > **Matthew 5:20**. For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven. 
 
@@ -106,7 +105,7 @@ We must handle God's Word carefully, seeking its true meaning as revealed and fu
 
 > **Romans 3:20**. Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin." Philippians 3:4-9 (Paul lists his impeccable Jewish credentials but counts them as "rubbish" compared to gaining Christ and the righteousness from God through faith).
 
-## The Solution. Achieving Greater Righteousness (Approx. 10-12 minutes)
+## The Solution. Achieving Greater Righteousness
 
 **The Dilemma**. Verse 20 leaves us with a problem: If even the Pharisees' righteousness isn't enough, how can anyone enter the kingdom? How good is good enough? The answer: Perfection.
 
@@ -130,7 +129,7 @@ So What Now? If righteousness is a gift, what's our response? Does the Law becom
 
 A. Value the Whole Counsel of God. The Old Testament, understood through the lens of Christ's fulfillment, remains vital.
 
-Cross Reference. 2 Timothy 3:16-17 (BSB) "All Scripture is God-breathed and is useful for teaching, rebuking, correcting, and training in righteousness, so that the man of God may be thoroughly equipped for every good work." (Paul was primarily referring to the OT here). It reveals God's character, His plan, and principles for godly living.
+> **2 Timothy 3:16-17**. All Scripture is God-breathed and is useful for teaching, rebuking, correcting, and training in righteousness, so that the man of God may be thoroughly equipped for every good work. (Paul was primarily referring to the OT here). It reveals God's character, His plan, and principles for godly living.
 
 B. Obey Out of Love, Not Fear or Duty. Our motivation changes.
 
@@ -138,7 +137,7 @@ Point. We don't obey to be saved or to earn God's favor (we already have it in C
 
 Illustration (Dad's Birthday Gift). Your illustration is powerful here. Obedience isn't drudgery; it's preparing a gift of love for the One who gave us everything. It flows from gratitude and a desire to please Him.
 
-Cross Reference. 1 John 5:3 (BSB) "For this is the love of God, that we keep His commandments. And His commandments are not burdensome."
+> **1 John 5:3**. For this is the love of God, that we keep His commandments. And His commandments are not burdensome.
 
 C. Pursue Genuine, Heart-Level Righteousness. Jesus wants more than external conformity.
 
