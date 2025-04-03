@@ -8,7 +8,7 @@ tags:
 
 # Christ & the Scriptures (Matthew 5:17-20)
 
-## How Good is Good Enough?
+## How Good is Good Enough? (5 minutes)
 
 Imagine someone asking, 'If you died tonight and God asked why He should let you into heaven, what would you say?' What's a common answer?
 
@@ -18,7 +18,7 @@ Imagine someone asking, 'If you died tonight and God asked why He should let you
 
 Many of us, even as believers saved by grace, might subconsciously feel something similar. But this raises a crucial question Jesus' audience also wrestled with: Just how good is good enough for God? What's the standard?
 
-### Context 
+### Context (3 minutes)
 
 It's early in His ministry and Jesus is speaking to His disciples and a crowd. These lived in a culture saturated by the Law of Moses (the Torah). And, they had debates about how to interpret and apply it.
 
@@ -29,13 +29,19 @@ In this passage, Jesus addresses His relationship with the Law and the Prophets 
 
     17 Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them. 18 For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished. 19 So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven. 20 For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.   
 
-## Jesus and the Law 
+## Jesus and the Law (20 minutes)
 
 ### Jesus addresses a possible misconception: Why did He come?
 
 > **Matthew 5:17**. Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them.
 
 **Point**. Jesus corrects any misunderstanding. Because He spoke of radical grace and focused on the heart, some likely thought He was *discarding* [Why?](/journal/newt/matthew/sotm/extra/matt05-sotm-2050406-abolish/) the Law and the Prophets (or Old Testament).
+
+#### Some common misunderstandings and responses?
+
+- Jesus abolished the Law so we can live however we want (antinomianism)
+- Christians must keep the entire Mosaic Law (legalism)
+- The Old Testament is irrelevant to Christians today
 
 #### Key Words:
 
@@ -123,7 +129,7 @@ We must handle God's Word carefully, seeking its true meaning as revealed and fu
 
 > **Romans 8:3-4**. For what the law was powerless to do in that it was weakened by the flesh, God did by sending His own Son in the likeness of sinful flesh and concerning sin: He condemned sin in the flesh, in order that the righteous requirement of the law might be fully met in us who do not live according to the flesh but according to the Spirit. (The Law's requirements are met in us because of Christ!)
 
-## Application. Living Out Fulfilled Righteousness (Approx. 10-15 minutes)
+## Application. Living Out Fulfilled Righteousness (10 minutes)
 
 So What Now? If righteousness is a gift, what's our response? Does the Law become irrelevant? No! Jesus fulfilled it, He didn't erase its reflection of God's character.
 
@@ -147,7 +153,24 @@ Contrast. The Pharisees cleaned the outside of the cup, but Jesus cleans the ins
 
 Connection. This sets up the rest of Matthew 5 where Jesus explains the deeper intent behind commands like "Do not murder" (includes anger) and "Do not commit adultery" (includes lust).
 
-## Conclusion & Challenge (Approx. 3-5 minutes)
+### How does this speak to modern *preformative religion*?
+
+**Performative religion** refers to religious practices that are done primarily for show or to be seen by others, rather than from genuine devotion or belief. It describes religious behavior that's more concerned with the external appearance of piety than with authentic inner transformation or sincere faith.
+
+This relates directly to Jesus' criticism of the Pharisees, whose righteousness was often outward and showy but lacked true heart devotion. Jesus warned that our righteousness must exceed this kind of external, performance-based religion.
+
+Modern examples might include:
+
+- Attending church primarily to be seen as religious
+- Praying or giving in ways designed to impress others
+- Following religious rules rigidly while neglecting matters of the heart
+- Posting religious content on social media for recognition rather than genuine sharing
+
+This connects well with Matthew 6:1, where Jesus continues his teaching by warning, "Be careful not to practice your righteousness in front of others to be seen by them."
+
+What does authentic righteousness look like in daily life?
+
+## Conclusion & Challenge (7 minutes)
 
 Summarize Key Points. Jesus didn't come to destroy the Law but to be its perfect fulfillment. The standard for God's Kingdom is a righteousness far beyond human achievement. This perfect righteousness is freely given through faith in Jesus Christ.
 
