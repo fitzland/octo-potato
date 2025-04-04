@@ -15,7 +15,7 @@ em, i { /* Applies to both <em> and <i> tags, which Markdown uses for italics */
 }
 
 strong {
-  font-weight: bold;  /* Ensure it's bold, even if the theme overrides it */
+  font-weight: normal;  /* Ensure it's bold, even if the theme overrides it */
   color: #dc85e9;  /* Example: a shade of blue */
   /* other styles */
 }
@@ -36,16 +36,17 @@ h1 {
 }
 
 h2 {
-  font-weight: bold;
   color: #f09e6f;
-}
-
-h4 {
-  color: #63bbee;
 }
 
 h3 {
   color: #92e285;
+}
+
+h4 {
+  color: #63bbee;
+  font-size: 1.4rem;
+  font-weight: normal;
 }
 
 /* --- Text Classes --- */

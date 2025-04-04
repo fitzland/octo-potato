@@ -47,7 +47,7 @@ He follows with this formula:
     
 ## Introduction
 
-Review [Salt](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250323-salt/) & [Light](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250330-light/).
+Review [Salt](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250323-salt.md/) & [Light](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250330-light.md/).
 
 The world is a rotting place, that needs a preservative.   
 The world is a dark place, that needs the light of Jesus.
@@ -74,7 +74,7 @@ How righteous must I bee to get into heaven?
 
 ### Why did Jesus come?
 
-> [`Matthew 5:17`](https://biblehub.com/matthew/5-17.htm){.text-source}. **Do not think** that I have come to abolish the Law or the Prophets; I have not come to _abolish_ them but to _fulfill_ them.
+> [`Matthew 5:17`](https://biblehub.com/matthew/5-17.htm). **Do not think** that I have come to abolish the Law or the Prophets; I have not come to _abolish_ them but to _fulfill_ them.
 
 **The Claim**. Jesus didn't come to abolish (destroy) the Law.
 
@@ -84,29 +84,17 @@ How righteous must I bee to get into heaven?
 
 #### Why would someone think that?
 
-**Sinners**. Jesus regularly spent time with sinners (tax collectors, prostitutes, the ritually unclean).
-
-*   This suggests a disregard towards God’s commands for holiness and separation from sin.
+**Sinners**. Jesus regularly spent time with sinners (tax collectors, prostitutes, the ritually unclean); suggesting a disregard towards God’s commands for holiness and separation from sin.
     
-**Sabbath**. Jesus healed on the Sabbath, defended his disciples for picking grain on the Sabbath.
-
-*   This suggests a disregard towards the Fourth Commandment to observe the Sabbath.
+**Sabbath**. Jesus healed on the Sabbath, defended his disciples for picking grain on the Sabbath; suggesting a disregard towards the Fourth Commandment to observe the Sabbath.
     
-**Food Laws**. Jesus said what goes into a person doesn’t defile them; all foods are clean (Mark 7:19).
-
-*   This challenged the complex dietary laws.
+**Food Laws**. Jesus said what goes into a person doesn’t defile them; all foods are clean (Mark 7:19); challenging complex dietary laws.
     
-**Mercy & Forgiveness**. Jesus focused heavily on love, mercy, forgiveness, and the internal condition of the heart.
-
-*   This suggests strict judgment was being replaced.
+**Mercy & Forgiveness**. Jesus focused heavily on love, mercy, forgiveness, and the internal condition of the heart; suggesting strict judgment was being replaced.
     
-**Religious Traditions**. Jesus condemned the Pharisees for hypocrisy—elevating tradition above God’s commands.
-
-*   This suggests a rejection of the tradition as a guide.
+**Religious Traditions**. Jesus condemned the Pharisees for hypocrisy—elevating tradition above God’s commands; suggesting a rejection of tradition as a guide.
     
-**Authority**. Jesus taught with inherent authority.
-
-*   This placed His word on par or above the Law.
+**Authority**. Jesus taught with inherent authority; placing His word on par or above the Law.
     
 #### What was His counter argument?
 
@@ -114,7 +102,7 @@ How righteous must I bee to get into heaven?
 
 [Fulfill]{.text-source}. (GR. plērōsai). to fill up, complete, bring to its intended goal or realization. *Jesus says this is His purpose*.
 
-> [`Romans 10:4`](https://biblehub.com/romans/10-4.htm){.text-source}. For Christ is the end \[GR. telos—end, goal, or completion\] of the law, to bring righteousness to everyone who believes.
+> [`Romans 10:4`](https://biblehub.com/romans/10-4.htm). For Christ is the end \[GR. telos—end, goal, or completion\] of the law, to bring righteousness to everyone who believes.
 
 [Illustration]{.text-illustration}. Think of a seed. The Law is like the seed, containing the potential for a plant. Jesus is the plant, the full expression of what the seed was meant to be.
 
@@ -154,9 +142,9 @@ How righteous must I bee to get into heaven?
 
 Jesus came to be the living embodiment of the Law’s demands, to perfectly obey it, and to bring its typology to their ultimate reality in Himself.
 
-`Galatians 3:24`. So the law was our guardian until Christ came, in order that we might be justified by faith.
+> `Galatians 3:24`. So the law was our guardian until Christ came, in order that we might be justified by faith.
 
-`Hebrews 10:1`. For the law has only a shadow of the good things to come, and not the actual form of those realities.
+> `Hebrews 10:1`. For the law has only a shadow of the good things to come, and not the actual form of those realities.
 
 ### The Law’s Permanence
 
@@ -166,11 +154,11 @@ Jesus came to be the living embodiment of the Law’s demands, to perfectly obey
 
 **Point**. Jesus affirms the absolute divine authority and permanence of the Law. Nothing will be arbitrarily discarded.
 
-single jot. (GR. iōta). Refers to the Hebrew letter Yod (י), the smallest letter in the alphabet.
+_single jot_. (GR. iōta). Refers to the Hebrew letter Yod (י), the smallest letter in the alphabet.
 
-stroke of a pen. (GR. keraia). Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters.
+_stroke of a pen_. (GR. keraia). Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters.
 
-Illustration. It's like saying, _Not even the dot on an 'i' or the cross on a 't' will pass away_. Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
+_Illustration_. It's like saying, _Not even the dot on an 'i' or the cross on a 't' will pass away_. Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
 
 #### What is the crucial qualifier?
 
@@ -191,24 +179,23 @@ _How is it accomplished?_ **In Christ!** His life, death, and resurrection are t
 
 **Point**. _Yes_. How we regard or handle God's commands reflects our standing within the Kingdom community.
 
-sets aside. (GR. lysē). related to _abolish_ (katalysai); to disregard or treat as irrelevant.
+_sets aside_. (GR. lysē). related to _abolish_ (katalysai); to disregard or treat as irrelevant.
 
 *   Loosening the Law's requirements or teaching others that they are no longer binding.
     
-
 > `Luke 6:46`. Why do you call me 'Lord, Lord,' and not do what I tell you?
 
-least. Those who diminish the Law's importance and encourage others to do so will have a diminished role in the Kingdom.
+**least**. Those who diminish the Law's importance and encourage others to do so will have a diminished role in the Kingdom.
 
-practices. (GR. poiēsē). does, observes.
+_practices_. (GR. poiēsē). does, observes.
 
 > `James 1:22`. But be doers of the word, and not hearers only, deceiving yourselves.
 
-teaches. (GR. didaxē). instructs.
+_teaches_. (GR. didaxē). instructs.
 
-> `Deuteronomy 6:6-``7`. These words I am commanding you today are to be upon your hearts. And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up.
+> `Deuteronomy 6:6-7`. These words I am commanding you today are to be upon your hearts. And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up.
 
-great. Those who rightly understand the Law through Christ, practice it from the heart, and teach it accurately will be esteemed.
+**great**. Those who rightly understand the Law through Christ, practice it from the heart, and teach it accurately will be esteemed.
 
 **Action**. It's not enough to know the Law; you must live it authentically and teach it.
 
@@ -231,7 +218,7 @@ great. Those who rightly understand the Law through Christ, practice it from the
 *   They dedicated their lives to studying and keeping the Law (externally). If their righteousness isn't enough, whose could be?
     
 
-Illustration. (High Jump). Imagine the Pharisees setting the high jump bar at what seemed an impressive height (their external rule-keeping). Jesus comes along and says, _That's not nearly high enough_. The real standard is perfect holiness, set by God Himself.
+_Illustration_. (High Jump). Imagine the Pharisees setting the high jump bar at what seemed an impressive height (their external rule-keeping). Jesus comes along and says, _That's not nearly high enough_. The real standard is perfect holiness, set by God Himself.
 
 **No human can clear that bar on their own.**
 
@@ -267,7 +254,7 @@ _It failed in at least five ways._
 
 **Result**. Leads to genuine transformation, humility, sincerity, and actions that truly reflect God's character, empowered by the Holy Spirit.
 
-Illustration. They were the very ones who led the way in killing Jesus.
+_Illustration_. They were the very ones who led the way in killing Jesus.
 
 > `Philippians 3:9`. Not having a righteousness of my own that comes from the law, but that which is through faith in Christ—the righteousness that comes from God on the basis of faith.
 
@@ -281,7 +268,7 @@ _How might we fall_ _into the trap of Pharisaical righteousness today, focusing 
 
 Jesus sets an impossible standard. How can anyone's righteousness surpass that of the Pharisees?
 
-_Righteousness_ _i__mputed (__g__iven) by God_ _t__hrough_ _f__aith._
+_Righteousness imputed (given) by God through faith._
 
 > `Romans 3:21-22`. But now, apart from the law, the righteousness of God has been revealed, as attested by the Law and the Prophets. And this righteousness from God comes through faith in Jesus Christ to all who believe.
 
@@ -292,7 +279,7 @@ _Righteousness_ _i__mputed (__g__iven) by God_ _t__hrough_ _f__aith._
 *   It comes thru faith; trusting in Jesus as Lord and Savior.
     
 
-Illustration. Imagine owing an enormous debt you can never repay. Someone else (Jesus) pays the debt in full. The creditor (God) then credits their payment to your account. That's imputed righteousness.
+_Illustration_. Imagine owing an enormous debt you can never repay. Someone else (Jesus) pays the debt in full. The creditor (God) then credits their payment to your account. That's imputed righteousness.
 
 The Result: A New Heart and a New Life
 
