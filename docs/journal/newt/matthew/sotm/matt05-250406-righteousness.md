@@ -80,7 +80,7 @@ _You have heard it was said…But I say to you…_
 
 **Misconception**. Some might think that Jesus came to discard or abolish the the Law; it doesn't matter anymore.
 
-!!! info "Abolish".   
+!!! info "Abolish"   
     (GR. katalysai). to tear down, destroy, annul, invalidate. *Jesus says this is not His purpose*.
 
 #### Why would someone think that?
@@ -101,15 +101,15 @@ _You have heard it was said…But I say to you…_
 
 **The Counter**. He came to fulfill (complete) the Law.
 
-!!! info "Fulfill."   
+!!! info "Fulfill"   
     (GR. plērōsai). to fill up, complete, bring to its intended goal or realization. *Jesus says this is His purpose*.
 
 > [`Romans 10:4`](https://biblehub.com/romans/10-4.htm). For Christ is the end \[GR. telos—end, goal, or completion\] of the law, to bring righteousness to everyone who believes.
 
-!!! example "Illustration."   
+!!! example "Illustration"   
     Think of a seed. The Law is like the seed, containing the potential for a plant. Jesus is the plant, the full expression of what the seed was meant to be.
 
-!!! example "Illustration."   
+!!! example "Illustration"   
     Think of a Building. Jesus isn't tearing down the structure God built in the OT. He's completing the project, bringing it to its glorious, intended conclusion.
 
 #### How did Jesus fulfill the Law?

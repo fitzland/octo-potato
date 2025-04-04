@@ -6,7 +6,68 @@
   --md-blue: #63bbee;
   --md-green: #92e285;
   --md-purple: #dc85e9;
+  --md-yellow: #fde9a9;
   
+}
+
+/* --- Text Classes --- */
+
+.md-typeset .text-definition {
+  color: var(--md-orange);
+  font-weight: normal;
+}
+.md-typeset .text-quote {
+  color: var(--md-yellow);
+  font-weight: normal;
+}
+.md-typeset .text-source {
+  color: var(--md-green);
+  font-weight: normal;
+}
+.md-typeset .text-warning {
+  color: var(--md-purple);
+  font-weight: bold;
+}
+.md-typeset .text-subtle {
+  color: var(--md-blue);
+  font-weight: bold;
+}
+
+.md-typeset .admonition {
+  font-weight: normal;
+  font-size: 1.2rem;
+}
+.md-typeset .admonition-title {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+.md-typeset .admonition-content {
+  color: var(--md-blue);
+  font-weight: normal;
+}
+.md-typeset .admonition-content > p {
+  color: var(--md-blue);
+  font-weight: normal;
+}
+.md-typeset .admonition-content > ul {
+  color: var(--md-blue);
+  font-weight: normal;
+}
+.md-typeset .admonition-content > ol {
+  color: var(--md-blue);
+  font-weight: normal;
+}
+.md-typeset .admonition-content > li {
+  color: var(--md-blue);
+  font-weight: normal;
+}
+.md-typeset .admonition-content > blockquote {
+  color: var(--md-blue);
+  font-weight: normal;
+}
+.md-typeset .admonition-content > blockquote > p {
+  color: var(--md-blue);
+  font-weight: normal;
 }
 
 em, i { /* Applies to both <em> and <i> tags, which Markdown uses for italics */
@@ -49,36 +110,5 @@ h4 {
   font-weight: normal;
 }
 
-/* --- Text Classes --- */
 
-/* Emphasis examples */
-.text-subtle {
-  color: #63bbee; /* A shade of blue */
-}
 
-.text-source {
-    color: #92e285; /* A nice green */
-    font-weight: bold;
-}
-
-.text-definition {
-  color: orange;
-  font-style: italic; /* Maybe make it bold too */
-}
-
-.text-warning {
-  color: #dc3545; /* A bootstrap-like danger red */
-  font-weight: bold;
-}
-
-.text-illustration {
-    color: rgb(236, 90, 236); /* For defining terms */
-    /* You could add other styles like italics */
-    /* font-style: italic; */
-}
-
-.text-quote {
-  color: rgb(238, 229, 152); /* For defining terms */
-  /* You could add other styles like italics */
-  /* font-style: italic; */
-}
