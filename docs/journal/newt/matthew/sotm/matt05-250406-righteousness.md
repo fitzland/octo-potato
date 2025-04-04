@@ -6,7 +6,7 @@ tags:
     - righteousness
 ---
 
-# Righteousness. Matthew 5:17-20
+# Righteousness. (Matthew 5:17-20)
 
 ## Structure/Outline
 
@@ -24,7 +24,6 @@ Manifesto of the King
     
 3.  Relationship with the Kingdom (ch 7)
     
-
 ## Context
 
 Jesus is speaking to His disciples and a large crowd. The culture was saturated by the Law of Moses (Torah). And, there were debates about how to interpret and apply it.
@@ -32,7 +31,7 @@ Jesus is speaking to His disciples and a large crowd. The culture was saturated 
 Jesus talks about His relationship with the Law and tries to help us understand the true righteousness required for His Kingdom.
 
 He follows with this formula:  
-_You have heard it was said…But I say to you…_:
+[You have heard it was said…But I say to you…]{.text-subtle}:
 
 *   Murder (Matthew 5:21-26)
     
@@ -49,41 +48,39 @@ _You have heard it was said…But I say to you…_:
 ## Introduction
 
 Review [Salt](./journal/newt/matthew/sotm/matt05-250323-salt.md) & [Light](./journal/newt/matthew/sotm/matt05-250330-light.md).
--------------
 
-The world is a rotting place, that needs a preservative.
-
+The world is a rotting place, that needs a preservative.   
 The world is a dark place, that needs the light of Jesus.
 
 ### Icebreaker Questions.
 
-If someone died and God asked them,  
-“Why should I let you into heaven?”  
-What would you expect them to say?
+    If someone died and God asked them,  
+    “Why should I let you into heaven?”  
+    What would you expect them to say?
 
-**I’m a good person**. How good is good enough?  
-What is the cut-off point to gain eternal life?
+**I’m a good person**. Well, how good is good enough?  
+What is the cut-off point to gain eternal life?   
+How righteous must I bee to get into heaven?
 
-Passage[¶](https://octo-potato.pages.dev/journal/newt/matthew/som/matt05-som-light/#passage)
---------------------------------------------------------------------------------------------
+## Passage
 
-### Matthew 5:17-20
+!!! quote "Matthew 5:17-20"
 
-> 17 Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them. 18 For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished.
+    Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them. For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished.
 
-> 19 So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven. 20 For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.
+    So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven. For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.
 
 ## Jesus & the Law
 
 ### Why did Jesus come?
 
-> `Matthew 5:17`. Do not think that I have come to abolish **the Law or the Prophets**; I have not come to _abolish_ them but to _fulfill_ them.
+> [`Matthew 5:17`]{.text-source}(https://biblehub.com/matthew/5-17.htm). **Do not think** that I have come to abolish the Law or the Prophets; I have not come to _abolish_ them but to _fulfill_ them.
 
 **The Claim**. Jesus didn't come to abolish (destroy) the Law.
 
 **Misconception**. Some might think that Jesus came to discard or abolish the the Law; it doesn't matter anymore.
 
-**Abolish**. (GR. katalysai). to tear down, destroy, annul, invalidate. *Jesus says this is not His purpose*.
+[Abolish]{.text-quote}. (GR. katalysai). to tear down, destroy, annul, invalidate. *Jesus says this is not His purpose*.
 
 #### Why would someone think that?
 
@@ -115,13 +112,13 @@ Passage[¶](https://octo-potato.pages.dev/journal/newt/matthew/som/matt05-som-li
 
 **The Counter**. He came to fulfill (complete) the Law.
 
-Fulfill. (GR. plērōsai). to fill up, complete, bring to its intended goal or realization. *Jesus says this is His purpose*.
+[Fulfill]{.text-source}. (GR. plērōsai). to fill up, complete, bring to its intended goal or realization. *Jesus says this is His purpose*.
 
-> `Romans 10:4`. ﻿For Christ is the end \[GR. telos—end, goal, or completion\] of the law, to bring righteousness to everyone who believes.
+> [`Romans 10:4`]{.text-source}(https://biblehub.com/romans/10-4.htm). For Christ is the end \[GR. telos—end, goal, or completion\] of the law, to bring righteousness to everyone who believes.
 
-Illustration. Think of a seed. The Law is like the seed, containing the potential for a plant. Jesus is the plant, the full expression of what the seed was meant to be.
+[Illustration]{.text-illustration}. Think of a seed. The Law is like the seed, containing the potential for a plant. Jesus is the plant, the full expression of what the seed was meant to be.
 
-Illustration. Think of a Building. Jesus isn't tearing down the structure God built in the OT. He's completing the project, bringing it to its glorious, intended conclusion.
+[Illustration]{.text-illustration}. Think of a Building. Jesus isn't tearing down the structure God built in the OT. He's completing the project, bringing it to its glorious, intended conclusion.
 
 #### How did Jesus fulfill the Law?
 

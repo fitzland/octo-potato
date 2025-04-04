@@ -3,10 +3,27 @@ tags:
     - NT
     - Matthew
     - SotM
-    - light
+    - righteousness
 ---
 
 # Light of the World (Matthew 5:14-16)
+
+## Structure/Outline
+
+Manifesto of the King
+
+1.  Citizens of the Kingdom (ch 5)
+    
+    1.  Quality (1-12)
+        
+    2.  **Function (13-16)**
+        
+    3.  Motive (17-48)
+        
+2.  Values of the Kingdom (ch 6)
+    
+3.  Relationship with the Kingdom (ch 7)
+    
 
 ## Passage
 
