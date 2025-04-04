@@ -48,7 +48,7 @@ cd /opt/minecraft/server
 Download the latest server JAR (check the [Minecraft website](https://www.minecraft.net/en-us/download/server) for the latest version):
 
 ```bash
-wget https://piston-data.mojang.com/v1/objects/8dd1a28015f51b1803213892b50b7b4fc76e594d/server.jar -O minecraft_server.jar
+wget https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar -O minecraft_server.jar
 ```
 
 ## Step 5: Accept the EULA
@@ -105,7 +105,8 @@ After=network.target
 [Service]
 User=minecraft
 Nice=5
-KillMode=none
+KillSignal=SIGINT
+TimeoutStopSec=120
 SuccessExitStatus=0 1
 ProtectHome=true
 ProtectSystem=full
