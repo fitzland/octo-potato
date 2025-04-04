@@ -47,7 +47,7 @@ He follows with this formula:
     
 ## Introduction
 
-Review [Salt](./journal/newt/matthew/sotm/matt05-250323-salt.md) & [Light](./journal/newt/matthew/sotm/matt05-250330-light.md).
+Review [Salt](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250323-salt/) & [Light](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250330-light/).
 
 The world is a rotting place, that needs a preservative.   
 The world is a dark place, that needs the light of Jesus.
@@ -74,7 +74,7 @@ How righteous must I bee to get into heaven?
 
 ### Why did Jesus come?
 
-> [`Matthew 5:17`]{.text-source}(https://biblehub.com/matthew/5-17.htm). **Do not think** that I have come to abolish the Law or the Prophets; I have not come to _abolish_ them but to _fulfill_ them.
+> [`Matthew 5:17`](https://biblehub.com/matthew/5-17.htm){.text-source}. **Do not think** that I have come to abolish the Law or the Prophets; I have not come to _abolish_ them but to _fulfill_ them.
 
 **The Claim**. Jesus didn't come to abolish (destroy) the Law.
 
@@ -114,7 +114,7 @@ How righteous must I bee to get into heaven?
 
 [Fulfill]{.text-source}. (GR. plērōsai). to fill up, complete, bring to its intended goal or realization. *Jesus says this is His purpose*.
 
-> [`Romans 10:4`]{.text-source}(https://biblehub.com/romans/10-4.htm). For Christ is the end \[GR. telos—end, goal, or completion\] of the law, to bring righteousness to everyone who believes.
+> [`Romans 10:4`](https://biblehub.com/romans/10-4.htm){.text-source}. For Christ is the end \[GR. telos—end, goal, or completion\] of the law, to bring righteousness to everyone who believes.
 
 [Illustration]{.text-illustration}. Think of a seed. The Law is like the seed, containing the potential for a plant. Jesus is the plant, the full expression of what the seed was meant to be.
 

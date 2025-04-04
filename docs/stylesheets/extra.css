@@ -32,8 +32,7 @@ mark {
 }
 
 h1 {
-  font-weight: bold;
-  color: #63bbee;
+  color: #dc85e9;
 }
 
 h2 {
@@ -42,30 +41,28 @@ h2 {
 }
 
 h4 {
-  font-weight: bold;
-  color: #dc85e9;
+  color: #63bbee;
 }
 
 h3 {
-  font-weight: bold;
   color: #92e285;
 }
 
-/* --- Text Color Classes --- */
+/* --- Text Classes --- */
 
-/* Simple color examples */
+/* Emphasis examples */
 .text-subtle {
-  color: #63bbee; /* A specific shade of blue */
+  color: #63bbee; /* A shade of blue */
 }
 
 .text-source {
     color: #92e285; /* A nice green */
+    font-weight: bold;
 }
 
-/* Emphasis examples */
 .text-definition {
   color: orange;
-  font-weight: bold; /* Maybe make it bold too */
+  font-style: italic; /* Maybe make it bold too */
 }
 
 .text-warning {
