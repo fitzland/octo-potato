@@ -46,9 +46,7 @@ _You have heard it was said…But I say to you…_:
     
 *   Love your neighbor (Matthew 5:43-47)
     
-
-# Introduction
-
+## Introduction
 
 Review [Salt](./journal/newt/matthew/sotm/matt05-250323-salt.md) & [Light](./journal/newt/matthew/sotm/matt05-250330-light.md).
 -------------
@@ -57,7 +55,7 @@ The world is a rotting place, that needs a preservative.
 
 The world is a dark place, that needs the light of Jesus.
 
-## Icebreaker Questions.
+### Icebreaker Questions.
 
 If someone died and God asked them,  
 “Why should I let you into heaven?”  
@@ -75,9 +73,9 @@ Passage[¶](https://octo-potato.pages.dev/journal/newt/matthew/som/matt05-som-li
 
 > 19 So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven. 20 For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.
 
-# Jesus & the Law
+## Jesus & the Law
 
-## Why did Jesus come?
+### Why did Jesus come?
 
 > `Matthew 5:17`. Do not think that I have come to abolish **the Law or the Prophets**; I have not come to _abolish_ them but to _fulfill_ them.
 
@@ -87,39 +85,33 @@ Passage[¶](https://octo-potato.pages.dev/journal/newt/matthew/som/matt05-som-li
 
 **Abolish**. (GR. katalysai). to tear down, destroy, annul, invalidate. *Jesus says this is not His purpose*.
 
-### Why would someone think that?
+#### Why would someone think that?
 
 **Sinners**. Jesus regularly spent time with sinners (tax collectors, prostitutes, the ritually unclean).
 
 *   This suggests a disregard towards God’s commands for holiness and separation from sin.
     
-
 **Sabbath**. Jesus healed on the Sabbath, defended his disciples for picking grain on the Sabbath.
 
 *   This suggests a disregard towards the Fourth Commandment to observe the Sabbath.
     
-
 **Food Laws**. Jesus said what goes into a person doesn’t defile them; all foods are clean (Mark 7:19).
 
 *   This challenged the complex dietary laws.
     
-
 **Mercy & Forgiveness**. Jesus focused heavily on love, mercy, forgiveness, and the internal condition of the heart.
 
 *   This suggests strict judgment was being replaced.
     
-
 **Religious Traditions**. Jesus condemned the Pharisees for hypocrisy—elevating tradition above God’s commands.
 
 *   This suggests a rejection of the tradition as a guide.
     
-
 **Authority**. Jesus taught with inherent authority.
 
 *   This placed His word on par or above the Law.
     
-
-### What was His counter argument?
+#### What was His counter argument?
 
 **The Counter**. He came to fulfill (complete) the Law.
 
@@ -131,7 +123,7 @@ Illustration. Think of a seed. The Law is like the seed, containing the potentia
 
 Illustration. Think of a Building. Jesus isn't tearing down the structure God built in the OT. He's completing the project, bringing it to its glorious, intended conclusion.
 
-### How did Jesus fulfill the Law?
+#### How did Jesus fulfill the Law?
 
 **Prophecy**.
 
@@ -145,7 +137,6 @@ Illustration. Think of a Building. Jesus isn't tearing down the structure God bu
     
 *   _Crucifixion_. `Psalm 22`. v. 1. my God, why have you forsaken me?, v. 16. they have pierced my hands and my feet, v. 18. they divide my garments among them.
     
-
 **Typology**.
 
 *   _Passover Lamb_. `Exodus 12`. the unblemished lamb whose blood protected Israel from judgment in Egypt.
@@ -156,15 +147,13 @@ Illustration. Think of a Building. Jesus isn't tearing down the structure God bu
     
 *   _Tabernacle_. `Exodus 25-40`. The place where God’s presence dwelt among His people.
     
-
 **Morality**.
 
 *   _Perfect Obedience_. `Deuteronomy 27:26`. Cursed is he who does not put the words of this law into practice.
     
 *   _Law of Love_. `Deuteronomy 6:5`. Love the LORD your God with all your heart… `Leviticus 19:18`. …love your neighbor as yourself.
     
-
-### What is the core message?
+#### What is the core message?
 
 Jesus came to be the living embodiment of the Law’s demands, to perfectly obey it, and to bring its typology to their ultimate reality in Himself.
 
@@ -172,11 +161,11 @@ Jesus came to be the living embodiment of the Law’s demands, to perfectly obey
 
 `Hebrews 10:1`. For the law has only a shadow of the good things to come, and not the actual form of those realities.
 
-## The Law’s Permanence
+### The Law’s Permanence
 
 > `Matthew 5:18`. For I tell you truly, until heaven and earth pass away, not a _single jot_, not a _stroke of a pen_, will disappear from the Law until everything is accomplished.
 
-### What does Jesus say about the Law’s authority?
+#### What does Jesus say about the Law’s authority?
 
 **Point**. Jesus affirms the absolute divine authority and permanence of the Law. Nothing will be arbitrarily discarded.
 
@@ -186,7 +175,7 @@ stroke of a pen. (GR. keraia). Refers to the tiny hooks or flourishes that disti
 
 Illustration. It's like saying, _Not even the dot on an 'i' or the cross on a 't' will pass away_. Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
 
-### What is the crucial qualifier?
+#### What is the crucial qualifier?
 
 Until everything is accomplished. This is the key.
 
@@ -197,11 +186,11 @@ _How is it accomplished?_ **In Christ!** His life, death, and resurrection are t
 *   Some continue until Christ's return (love for God and neighbor).
     
 
-## Practice What You Preach
+### Practice What You Preach
 
 > `Matthew 5:19`. Therefore, anyone who _sets aside_ one of the least of these commands and teaches others accordingly will be called **least** in the kingdom of heaven, but whoever _practices and teaches_ these commands will be called **great** in the kingdom of heaven.
 
-### Does it matter how we handle God’s commands?
+#### Does it matter how we handle God’s commands?
 
 **Point**. _Yes_. How we regard or handle God's commands reflects our standing within the Kingdom community.
 
@@ -210,31 +199,31 @@ sets aside. (GR. lysē). related to _abolish_ (katalysai); to disregard or treat
 *   Loosening the Law's requirements or teaching others that they are no longer binding.
     
 
-`Luke 6:46`. Why do you call me 'Lord, Lord,' and not do what I tell you?
+> `Luke 6:46`. Why do you call me 'Lord, Lord,' and not do what I tell you?
 
 least. Those who diminish the Law's importance and encourage others to do so will have a diminished role in the Kingdom.
 
 practices. (GR. poiēsē). does, observes.
 
-`James 1:22`. But be doers of the word, and not hearers only, deceiving yourselves.
+> `James 1:22`. But be doers of the word, and not hearers only, deceiving yourselves.
 
 teaches. (GR. didaxē). instructs.
 
-`Deuteronomy 6:6-``7`. These words I am commanding you today are to be upon your hearts. And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up.
+> `Deuteronomy 6:6-``7`. These words I am commanding you today are to be upon your hearts. And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up.
 
 great. Those who rightly understand the Law through Christ, practice it from the heart, and teach it accurately will be esteemed.
 
 **Action**. It's not enough to know the Law; you must live it authentically and teach it.
 
-### Is this a critique of the Pharisees?
+#### Is this a critique of the Pharisees?
 
 **Yes**. The Pharisees, often added to the Law while sometimes neglecting its core intent.
 
-`Matthew 23:23`. You pay tithes of mint, dill, and cumin. But you have disregarded the weightier matters of the law: justice, mercy, and faithfulness.
+> `Matthew 23:23`. You pay tithes of mint, dill, and cumin. But you have disregarded the weightier matters of the law: justice, mercy, and faithfulness.
 
-`Matthew 7:9-13`. You neatly set aside the command of God to maintain your own tradition. For Moses said, ‘Honor your father and your mother’ and ‘Anyone who curses his father or mother must be put to death.’ But you say that if a man says to his father or mother, ‘Whatever you would have received from me is **Corban**’ (that is, _a gift devoted to God_), he is no longer permitted to do anything for his father or mother. Thus you nullify the word of God by the tradition you have handed down. And you do so in many such matters.
+> `Matthew 7:9-13`. You neatly set aside the command of God to maintain your own tradition. For Moses said, ‘Honor your father and your mother’ and ‘Anyone who curses his father or mother must be put to death.’ But you say that if a man says to his father or mother, ‘Whatever you would have received from me is **Corban**’ (that is, _a gift devoted to God_), he is no longer permitted to do anything for his father or mother. Thus you nullify the word of God by the tradition you have handed down. And you do so in many such matters.
 
-## The Standard for Heaven
+### The Standard for Heaven
 
 > `Matthew 5:20`. For I tell you that unless your righteousness **exceeds** that of the scribes and Pharisees, _you will never enter_ the kingdom of heaven.
 
@@ -253,7 +242,7 @@ This verse is meant to drive us to despair of self-righteousness. If the _best_ 
 
 Human effort, however sincere or meticulous, cannot meet God's perfect standard.
 
-### How did their righteousness fail?
+#### How did their righteousness fail?
 
 _It failed in at least five ways._
 
@@ -269,7 +258,7 @@ _It failed in at least five ways._
 
 > `Matthew 23:28`. In the same way, on the outside you appear to people as righteous, but on the inside you are full of hypocrisy and wickedness.
 
-### What did Jesus want it to be?
+#### What did Jesus want it to be?
 
 **Source**. Ultimately God-given and imputed. While it results in righteous actions, its foundation is the perfect righteousness of Christ credited to the believer through faith (Romans 3:21-22; Philippians 3:9). It originates outside of oneself.
 
@@ -283,15 +272,15 @@ _It failed in at least five ways._
 
 Illustration. They were the very ones who led the way in killing Jesus.
 
-`Philippians 3:9`. Not having a righteousness of my own that comes from the law, but that which is through faith in Christ—the righteousness that comes from God on the basis of faith.
+> `Philippians 3:9`. Not having a righteousness of my own that comes from the law, but that which is through faith in Christ—the righteousness that comes from God on the basis of faith.
 
 It's not just quantitatively more rule-keeping, but qualitatively different and infinitely higher because its source and nature are divine.
 
 _How might we fall_ _into the trap of Pharisaical righteousness today, focusing on outward appearances rather than inward transformation?_
 
-## We have a problem
+### We have a problem
 
-### How Do We Meet This Standard?
+#### How Do We Meet This Standard?
 
 Jesus sets an impossible standard. How can anyone's righteousness surpass that of the Pharisees?
 
@@ -312,15 +301,15 @@ The Result: A New Heart and a New Life
 
 > `Romans 8:3-4`. For what the law was powerless to do in that it was weakened by the flesh, God did by sending his own Son in the likeness of sinful man, as an offering for sin. He thus condemned sin in the flesh, so that the righteous standard of the law might be fulfilled in us…
 
-# Conclusion
+## Conclusion
 
-## Application
+### Application
 
-### Summary.
+#### Summary.
 
 We cannot earn God's favor through our own efforts. True righteousness comes through faith in Jesus Christ. This righteousness not only saves us but also empowers us to live lives that are pleasing to God.
 
-### Challenge.
+#### Challenge.
 
 Commit to:
 
@@ -335,7 +324,7 @@ Commit to:
 *   but out of love and gratitude for all He has done.
     
 
-### Pray.
+#### Pray.
 
 Thank you for your Word that endures forever. Help us to understand that Jesus came not to abolish the law but to fulfill it. May we grasp the depth of your commandments beyond mere external observance.
 

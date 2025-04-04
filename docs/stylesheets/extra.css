@@ -50,3 +50,37 @@ h3 {
   font-weight: bold;
   color: #92e285;
 }
+
+/* --- Text Color Classes --- */
+
+/* Simple color examples */
+.text-subtle {
+  color: #007bff; /* A specific shade of blue */
+}
+
+.text-source {
+    color: #28a745; /* A nice green */
+}
+
+/* Emphasis examples */
+.text-definition {
+  color: orange;
+  font-weight: bold; /* Maybe make it bold too */
+}
+
+.text-warning {
+  color: #dc3545; /* A bootstrap-like danger red */
+  font-weight: bold;
+}
+
+.text-enhanced {
+    color: darkmagenta; /* For defining terms */
+    /* You could add other styles like italics */
+    /* font-style: italic; */
+}
+
+.text-quote {
+  color: rgb(238, 229, 152); /* For defining terms */
+  /* You could add other styles like italics */
+  /* font-style: italic; */
+}
