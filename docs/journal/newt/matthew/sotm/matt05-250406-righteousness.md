@@ -31,8 +31,8 @@ Manifesto of the King
 The world is a rotting place, that needs a preservative.   
 The world is a dark place, that needs the light of Jesus.
 
-### Icebreaker Questions.
-
+!!! question "Icebreaker"   
+    
     If someone died and God asked them,  
     “Why should I let you into heaven?”  
     What would you expect them to say?
@@ -80,7 +80,8 @@ _You have heard it was said…But I say to you…_
 
 **Misconception**. Some might think that Jesus came to discard or abolish the the Law; it doesn't matter anymore.
 
-[Abolish]{.text-quote}. (GR. katalysai). to tear down, destroy, annul, invalidate. *Jesus says this is not His purpose*.
+!!! info "Abolish".   
+    (GR. katalysai). to tear down, destroy, annul, invalidate. *Jesus says this is not His purpose*.
 
 #### Why would someone think that?
 
@@ -100,7 +101,7 @@ _You have heard it was said…But I say to you…_
 
 **The Counter**. He came to fulfill (complete) the Law.
 
-!!! tip "Fulfill."   
+!!! info "Fulfill."   
     (GR. plērōsai). to fill up, complete, bring to its intended goal or realization. *Jesus says this is His purpose*.
 
 > [`Romans 10:4`](https://biblehub.com/romans/10-4.htm). For Christ is the end \[GR. telos—end, goal, or completion\] of the law, to bring righteousness to everyone who believes.
@@ -157,11 +158,14 @@ Jesus came to be the living embodiment of the Law’s demands, to perfectly obey
 
 **Point**. Jesus affirms the absolute divine authority and permanence of the Law. Nothing will be arbitrarily discarded.
 
-_single jot_. (GR. iōta). Refers to the Hebrew letter Yod (י), the smallest letter in the alphabet.
+!!! info "single jot."   
+    (GR. iōta). Refers to the Hebrew letter Yod (י), the smallest letter in the alphabet.
 
-_stroke of a pen_. (GR. keraia). Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters.
+!!! info "stroke of a pen."
+    (GR. keraia). Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters.
 
-_Illustration_. It's like saying, _Not even the dot on an 'i' or the cross on a 't' will pass away_. Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
+!!! example "Illustration."   
+    It's like saying, _Not even the dot on an 'i' or the cross on a 't' will pass away_. Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
 
 #### What is the crucial qualifier?
 
@@ -182,7 +186,8 @@ _How is it accomplished?_ **In Christ!** His life, death, and resurrection are t
 
 **Point**. _Yes_. How we regard or handle God's commands reflects our standing within the Kingdom community.
 
-_sets aside_. (GR. lysē). related to _abolish_ (katalysai); to disregard or treat as irrelevant.
+!!! info "sets aside."   
+    (GR. lysē). related to _abolish_ (katalysai); to disregard or treat as irrelevant.
 
 *   Loosening the Law's requirements or teaching others that they are no longer binding.
     
@@ -190,11 +195,13 @@ _sets aside_. (GR. lysē). related to _abolish_ (katalysai); to disregard or tre
 
 **least**. Those who diminish the Law's importance and encourage others to do so will have a diminished role in the Kingdom.
 
-_practices_. (GR. poiēsē). does, observes.
+!!! info "practices."   
+    (GR. poiēsē). does, observes.
 
 > [`James 1:22`](https://biblehub.com/james/1-22.htm). But be doers of the word, and not hearers only, deceiving yourselves.
 
-_teaches_. (GR. didaxē). instructs.
+!!! info "teaches."   
+    (GR. didaxē). instructs.
 
 > [`Deuteronomy 6:6-7`](https://biblehub.com/deuteronomy/6.htm). These words I am commanding you today are to be upon your hearts. And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up.
 
@@ -221,7 +228,8 @@ _teaches_. (GR. didaxē). instructs.
 *   They dedicated their lives to studying and keeping the Law (externally). If their righteousness isn't enough, whose could be?
     
 
-_Illustration_. (High Jump). Imagine the Pharisees setting the high jump bar at what seemed an impressive height (their external rule-keeping). Jesus comes along and says, _That's not nearly high enough_. The real standard is perfect holiness, set by God Himself.
+!!! example "Illustration." 
+    (High Jump). Imagine the Pharisees setting the high jump bar at what seemed an impressive height (their external rule-keeping). Jesus comes along and says, _That's not nearly high enough_. The real standard is perfect holiness, set by God Himself.
 
 **No human can clear that bar on their own.**
 
@@ -257,7 +265,8 @@ _It failed in at least five ways._
 
 **Result**. Leads to genuine transformation, humility, sincerity, and actions that truly reflect God's character, empowered by the Holy Spirit.
 
-_Illustration_. They were the very ones who led the way in killing Jesus.
+!!! example "Illustration."   
+    They were the very ones who led the way in killing Jesus.
 
 > [`Philippians 3:9`](https://biblehub.com/philippians/3-9.htm). Not having a righteousness of my own that comes from the law, but that which is through faith in Christ—the righteousness that comes from God on the basis of faith.
 
@@ -283,7 +292,6 @@ _Righteousness imputed (given) by God through faith._
     
 
 !!! example "Illustration."
-
     Imagine owing an enormous debt you can never repay. Someone else (Jesus) pays the debt in full. The creditor (God) then credits their payment to your account. That's imputed righteousness.
 
 The Result: A New Heart and a New Life
