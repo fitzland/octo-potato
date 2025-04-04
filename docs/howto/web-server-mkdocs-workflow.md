@@ -3,11 +3,9 @@ tags:
 	- howto
 ---
 
-# Website
+# Workflow for Editing Website (MkDocs)
 
-## Workflow for Editing Website
-
-### 1. Generate SSH Keys (if you don't already have them; I do)
+## 1. Generate SSH Keys (if you don't already have them; I do)
 
 * Open your preferred terminal (I use `alacritty`)
 * Run the following command to generate a SSH key pair:
@@ -20,7 +18,7 @@ tags:
 	* Choose a strong passphrase for your key and enter it twice when prompted.
 	* You don't have to enter a passphrase, but understand that weakens the security of your key.
 
-### 2. Start the ssh-agent
+## 2. Start the ssh-agent
 
 * Make sure the ssh-agent is running with the following command:
 
@@ -30,7 +28,7 @@ tags:
 
 * This will start the agent and print its process ID (PID).
 
-### 3. Add your SSH key to the ssh-agent
+## 3. Add your SSH key to the ssh-agent
 
 * If you used the default filename, you would issue this command:
 
@@ -38,7 +36,7 @@ tags:
 	ssh-add ~/.ssh/id_ed25519
 	```
 
-### 4. Add the Public Key to Github
+## 4. Add the Public Key to Github
 
 * You should be prompted for a passphrase if you set one.
 * Add to GitHub:
@@ -51,7 +49,7 @@ tags:
 	6. Paste the public key you copied into the "Key" field.
 	7. Click "Add SSH key". You may be prompted to confirm your password.
 
-### 5. Test the SSH Connection to Github
+## 5. Test the SSH Connection to Github
 
 * Verify that GitHub recognizes your key:
 
@@ -67,7 +65,7 @@ tags:
 
 * Replace yourusername with your actual GitHub username. 
 
-### 6. Clone your MkDocs Repository
+## 6. Clone your MkDocs Repository
 
 * Go to your repository on GitHub in your web browser.
 * Click the green "Code" button.
@@ -82,7 +80,7 @@ tags:
 
 * Replace git@github.com:yourusername/your-mkdocs-repo.git with the actual SSH URL you copied.
 
-### 7. Edit your MkDocs Documents
+## 7. Edit your MkDocs Documents
 
 * Navigate into the cloned repository:
 
@@ -96,7 +94,7 @@ tags:
 	micro docs/index.md
 	```
 
-### 8. Commit and Push Changes
+## 8. Commit and Push Changes
 
 * Check the Status: See what files have changed:
 
