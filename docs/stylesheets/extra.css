@@ -35,10 +35,10 @@
 
 .md-typeset .admonition {
   font-weight: normal;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 .md-typeset .admonition-title {
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: normal;
 }
 .md-typeset .admonition-content {
@@ -98,25 +98,29 @@ mark {
 .md-content h4 {
   color: var(--md-primary-fg-color);
   font-weight: normal; /* Ensure headings are not bold */
-  font-size: 1.5rem; /* Default size for all headings */
+  font-size: 1.2rem; /* Default size for all headings */
   margin: 0.5rem 0; /* Add some space around headings */
 }
 
 
 .md-content h1 {
   color: #dc85e9;
+  font-size: 1.2rem; /* Default size for all headings */
 }
 
 .md-content h2 {
   color: #f09e6f;
+  font-size: 1.1rem; /* Default size for all headings */
 }
 
 .md-content h3 {
   color: #92e285;
+  font-size: 1.1rem; /* Default size for all headings */
 }
 
 .md-content h4 {
   color: #63bbee;
+  font-size: 1.0rem; /* Default size for all headings */
 }
 
 
