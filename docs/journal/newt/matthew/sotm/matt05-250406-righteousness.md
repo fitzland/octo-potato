@@ -78,9 +78,9 @@ _You have heard it was said…But I say to you…_
 
 !!! info "Abolish"   
     (GR. katalysai). to tear down, destroy, annul, invalidate.   
-    *Jesus says this is not His purpose*.
+    _Jesus says this is not His purpose_.
 
-#### Why would someone think that?
+#### Why would someone think Jesus came to abolish the Law?
 
 **Sinners**. Jesus regularly spent time with sinners (tax collectors, prostitutes, and the unclean); suggesting a disregard towards God’s commands for _HOLINESSS_ and _SEPARATION FROM SIN_.
     
@@ -96,7 +96,7 @@ _You have heard it was said…But I say to you…_
     
 #### What was His counter argument?
 
-**The Counter**. He came to [FULFILL]{.md-content .text-source} (complete) the Law.
+**The Counter**. He came to [FULFILL]{.md-content p.text-source} (complete) the Law.
 
 !!! info "Fulfill"   
     (GR. plērōsai). to fill up, complete, bring to its intended goal or realization.   
@@ -151,9 +151,9 @@ Jesus came to be the living embodiment of the Law’s demands, to perfectly obey
 
 > [`Matthew 5:18`](https://biblehub.com/matthew/5-18.htm). For I tell you truly, until heaven and earth pass away, not a _single jot_, not a _stroke of a pen_, will disappear from the Law until everything is accomplished.
 
-#### What does Jesus say about the Law’s authority?
+#### What does Jesus say about the Law?
 
-Jesus affirms the absolute _divine authority_ and _permanence_ of the Law. Nothing will be arbitrarily discarded.
+Not the smallest part of the Law will pass away. Jesus affirms the _divine authority_ and _permanence_ of the Law.
 
 !!! info "single jot"   
     (GR. iōta). the Hebrew letter Yod (י), the smallest letter in the alphabet.
@@ -162,12 +162,12 @@ Jesus affirms the absolute _divine authority_ and _permanence_ of the Law. Nothi
     (GR. keraia). the tiny hooks or flourishes that distinguish similar Hebrew letters.
 
 !!! example "Illustration"   
-    It's like saying, not even the dot on an _i_ or the cross on a _t_ will pass away. Jesus uses hyperbole to stress the divine inspiration and authority of all Scripture.
+    It's like saying, not even the dot on an _i_ or the cross on a _t_ will pass away. Jesus uses hyperbole to stress the importance of even the least significant part of Scripture.
 
 #### What is the crucial qualifier?
 
 !!! info "until _everything_ is accomplished"
-    This is key. God is sovereign and will do all that he intends. 
+    God is sovereign and will do all that he intends. Nothing goes away until God's plans are fully accomplished.
 
 _How is it accomplished?_ **In Christ!** His life, death, and resurrection are the accomplishment the Law pointed towards. Things don't disappear by being abolished, but by reaching their intended fulfillment in Him.
 

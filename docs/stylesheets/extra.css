@@ -16,11 +16,11 @@
   color: var(--md-orange);
   font-weight: normal;
 }
-.md-typeset .text-quote {
+.md-content p.text-quote {
   color: var(--md-yellow);
   font-weight: normal;
 }
-.md-content .text-source {
+.md-content p.text-source {
   color: var(--md-green);
   font-weight: normal;
 }
