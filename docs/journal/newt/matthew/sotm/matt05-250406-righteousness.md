@@ -4,6 +4,7 @@ tags:
     - Matthew
     - SotM
     - righteousness
+title: Jesus & the Scriptures
 ---
 
 # Righteousness. (Matthew 5:17-20)
@@ -26,7 +27,7 @@ Manifesto of the King
     
 ## Review 
 
-### [Salt](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250323-salt.md/) & [Light](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250330-light.md/).
+### [Salt](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250323-salt/) & [Light](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250330-light/).
 
 The world is a rotting place, that needs a preservative.   
 The world is a dark place, that needs the light of Jesus.
@@ -76,7 +77,7 @@ _You have heard it was said…But I say to you…_
 
 > [`Matthew 5:17`](https://biblehub.com/matthew/5-17.htm). **Do not think** that I have come to abolish the Law or the Prophets; I have not come to _abolish_ them but to _fulfill_ them.
 
-**The Claim**. Jesus didn't come to abolish (destroy) the Law.
+**The Claim**. Jesus didn't come to [ABOLISH]{.md-typeset .text-quote} (destroy) the Law.
 
 **Misconception**. Some might think that Jesus came to discard or abolish the the Law; it doesn't matter anymore.
 
@@ -99,7 +100,7 @@ _You have heard it was said…But I say to you…_
     
 #### What was His counter argument?
 
-**The Counter**. He came to fulfill (complete) the Law.
+**The Counter**. He came to [FULFILL]{.md-typeset .text-quote} (complete) the Law.
 
 !!! info "Fulfill"   
     (GR. plērōsai). to fill up, complete, bring to its intended goal or realization. *Jesus says this is His purpose*.
@@ -109,7 +110,6 @@ _You have heard it was said…But I say to you…_
 !!! example "Illustration"   
     Think of a seed. The Law is like the seed, containing the potential for a plant. Jesus is the plant, the full expression of what the seed was meant to be.
 
-!!! example "Illustration"   
     Think of a Building. Jesus isn't tearing down the structure God built in the OT. He's completing the project, bringing it to its glorious, intended conclusion.
 
 #### How did Jesus fulfill the Law?
@@ -165,11 +165,12 @@ Jesus came to be the living embodiment of the Law’s demands, to perfectly obey
     (GR. keraia). Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters.
 
 !!! example "Illustration"   
-    It's like saying, Not even the dot on an _i_ or the cross on a _t_ will pass away_. Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
+    It's like saying, not even the dot on an _i_ or the cross on a _t_ will pass away. Jesus uses hyperbole to stress the divine inspiration and authority of all Scripture.
 
 #### What is the crucial qualifier?
 
-Until everything is accomplished. This is the key.
+!!! info "until everything is accomplished"
+    This is the key.
 
 _How is it accomplished?_ **In Christ!** His life, death, and resurrection are the accomplishment the Law pointed towards. Things don't disappear by being abolished, but by reaching their intended fulfillment in Him.
 
