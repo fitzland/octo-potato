@@ -20,7 +20,7 @@
   color: var(--md-yellow);
   font-weight: normal;
 }
-.md-typeset .text-source {
+.md-content .text-source {
   color: var(--md-green);
   font-weight: normal;
 }

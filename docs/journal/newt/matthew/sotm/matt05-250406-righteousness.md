@@ -7,7 +7,7 @@ tags:
 title: Jesus & the Scriptures
 ---
 
-# Righteousness. (Matthew 5:17-20)
+# Jesus & the Scriptures. (Matthew 5:17-20)
 
 ## Structure/Outline
 
@@ -27,20 +27,15 @@ Manifesto of the King
     
 ## Review 
 
-### [Salt](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250323-salt/) & [Light](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250330-light/).
+The world is a rotting place, that needs a preservative. We must be [Salt](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250323-salt/).   
 
-The world is a rotting place, that needs a preservative.   
-The world is a dark place, that needs the light of Jesus.
+The world is a dark place, that needs the [Light](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250330-light/) of Jesus.
 
 !!! question "Icebreaker"   
     
-    If someone died and God asked them,  
-    “Why should I let you into heaven?”  
-    What would you expect them to say?
-
-**I’m a good person**. Well, how good is good enough?  
-What is the cut-off point to gain eternal life?   
-How righteous must I bee to get into heaven?
+    If someone died and God asked them, “Why should I let you into heaven?” What would you expect them to say?   
+    
+    **I’m a good person**. Well, how good is good enough? What is the cut-off point to gain eternal life? How righteous must I be to get into heaven?
 
 ## Passage
 
@@ -52,11 +47,11 @@ How righteous must I bee to get into heaven?
 
 ### Context
 
-Jesus is speaking to His disciples and a large crowd. The culture was saturated by the Law of Moses (Torah). And, there were debates about how to interpret and apply it.
+Jesus is giving _the Sermon on the Mount_ where He is speaking to His disciples and a large crowd. At that time the culture was saturated by the Law of Moses (Torah). And, there were debates about how to interpret and apply it.
 
-Jesus talks about His relationship with the Law and tries to help us understand the true righteousness required for His Kingdom.
+In this passage, Jesus talks about His relationship with the Law and tries to help us understand the true righteousness required for His Kingdom.
 
-He follows with this formula:  
+Next, He will give specific examples following this formula:  
 _You have heard it was said…But I say to you…_
 
 *   Murder (Matthew 5:21-26)
@@ -77,20 +72,21 @@ _You have heard it was said…But I say to you…_
 
 > [`Matthew 5:17`](https://biblehub.com/matthew/5-17.htm). **Do not think** that I have come to abolish the Law or the Prophets; I have not come to _abolish_ them but to _fulfill_ them.
 
-**The Claim**. Jesus didn't come to [ABOLISH]{.md-typeset .text-quote} (destroy) the Law.
+**The Claim**. Jesus didn't come to [ABOLISH]{.text-quote} (destroy) the Law.
 
-**Misconception**. Some might think that Jesus came to discard or abolish the the Law; it doesn't matter anymore.
+**Misconception**. Some might think that Jesus came to get rid of the the Law; meaning that it doesn't matter anymore.
 
 !!! info "Abolish"   
-    (GR. katalysai). to tear down, destroy, annul, invalidate. *Jesus says this is not His purpose*.
+    (GR. katalysai). to tear down, destroy, annul, invalidate.   
+    *Jesus says this is not His purpose*.
 
 #### Why would someone think that?
 
-**Sinners**. Jesus regularly spent time with sinners (tax collectors, prostitutes, the ritually unclean); suggesting a disregard towards God’s commands for _HOLINESSS_ and _SEPARATION FROM SIN_.
+**Sinners**. Jesus regularly spent time with sinners (tax collectors, prostitutes, and the unclean); suggesting a disregard towards God’s commands for _HOLINESSS_ and _SEPARATION FROM SIN_.
     
-**Sabbath**. Jesus healed on the Sabbath, defended his disciples for picking grain on the Sabbath; suggesting a disregard towards the _Fourth Commandment_ to observe the Sabbath.
+**Sabbath**. Jesus healed on the Sabbath and defended his disciples for picking grain on the Sabbath; suggesting a disregard towards the _Fourth Commandment_ to _observe the Sabbath_.
     
-**Food Laws**. Jesus said what goes into a person doesn’t defile them; all foods are clean (Mark 7:19); challenging _complex dietary laws_.
+**Food Laws**. Jesus said what goes into a person doesn’t defile them; all foods are clean [`Mark 7:19`](https://biblehub.com/mark/7-9.htm); challenging _complex dietary laws_.
     
 **Mercy & Forgiveness**. Jesus focused heavily on love, mercy, forgiveness, and the internal condition of the heart; suggesting _strict judgment_ was being replaced.
     
@@ -100,17 +96,18 @@ _You have heard it was said…But I say to you…_
     
 #### What was His counter argument?
 
-**The Counter**. He came to [FULFILL]{.md-typeset .text-quote} (complete) the Law.
+**The Counter**. He came to [FULFILL]{.md-content .text-source} (complete) the Law.
 
 !!! info "Fulfill"   
-    (GR. plērōsai). to fill up, complete, bring to its intended goal or realization. *Jesus says this is His purpose*.
+    (GR. plērōsai). to fill up, complete, bring to its intended goal or realization.   
+    *Jesus says this is His purpose*.
 
 > [`Romans 10:4`](https://biblehub.com/romans/10-4.htm). For Christ is the end \[GR. telos—end, goal, or completion\] of the law, to bring righteousness to everyone who believes.
 
 !!! example "Illustration"   
-    Think of a seed. The Law is like the seed, containing the potential for a plant. Jesus is the plant, the full expression of what the seed was meant to be.
+    _Think of a seed_. The Law is like a seed, containing the potential for a plant. Jesus is the plant, the full expression of what the seed was meant to be.
 
-    Think of a Building. Jesus isn't tearing down the structure God built in the OT. He's completing the project, bringing it to its glorious, intended conclusion.
+    _Think of a Building_. Jesus isn't tearing down the structure God built in the OT. He's completing the project, bringing it to its glorious, intended conclusion.
 
 #### How did Jesus fulfill the Law?
 
@@ -156,29 +153,28 @@ Jesus came to be the living embodiment of the Law’s demands, to perfectly obey
 
 #### What does Jesus say about the Law’s authority?
 
-**Point**. Jesus affirms the absolute divine authority and permanence of the Law. Nothing will be arbitrarily discarded.
+Jesus affirms the absolute _divine authority_ and _permanence_ of the Law. Nothing will be arbitrarily discarded.
 
 !!! info "single jot"   
-    (GR. iōta). Refers to the Hebrew letter Yod (י), the smallest letter in the alphabet.
+    (GR. iōta). the Hebrew letter Yod (י), the smallest letter in the alphabet.
 
 !!! info "stroke of a pen"
-    (GR. keraia). Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters.
+    (GR. keraia). the tiny hooks or flourishes that distinguish similar Hebrew letters.
 
 !!! example "Illustration"   
     It's like saying, not even the dot on an _i_ or the cross on a _t_ will pass away. Jesus uses hyperbole to stress the divine inspiration and authority of all Scripture.
 
 #### What is the crucial qualifier?
 
-!!! info "until everything is accomplished"
-    This is the key.
+!!! info "until _everything_ is accomplished"
+    This is key. God is sovereign and will do all that he intends. 
 
 _How is it accomplished?_ **In Christ!** His life, death, and resurrection are the accomplishment the Law pointed towards. Things don't disappear by being abolished, but by reaching their intended fulfillment in Him.
 
-*   Some aspects are fulfilled (sacrificial system)
+*   Some aspects have been fulfilled (sacrificial system)
     
-*   Some continue until Christ's return (love for God and neighbor).
+*   Some will continue until Christ's return (love for God and neighbor).
     
-
 ### Practice What You Preach
 
 > [`Matthew 5:19`](https://biblehub.com/matthew/5-19.htm). Therefore, anyone who _sets aside_ one of the least of these commands and teaches others accordingly will be called **least** in the kingdom of heaven, but whoever _practices and teaches_ these commands will be called **great** in the kingdom of heaven.
@@ -188,9 +184,8 @@ _How is it accomplished?_ **In Christ!** His life, death, and resurrection are t
 **Yes**. How we regard or handle God's commands _reflects our standing_ within the Kingdom community.
 
 !!! info "sets aside"   
-    (GR. lysē). related to _abolish_ (katalysai); to disregard or treat as irrelevant.
-
-*   Loosening the Law's requirements or teaching others that they are no longer binding.
+    (GR. lysē). related to _abolish_ (katalysai); to disregard or treat as irrelevant.   
+    Loosening the Law's requirements or teaching others that they are no longer binding.
     
 > [`Luke 6:46`](https://biblehub.com/luke/6-46.htm). Why do you call me 'Lord, Lord,' and not do what I tell you?
 
@@ -208,7 +203,7 @@ _How is it accomplished?_ **In Christ!** His life, death, and resurrection are t
 
 **great**. Those who rightly understand the Law through Christ, practice it from the heart, and teach it accurately will be esteemed.
 
-**Action**. It's not enough to know the Law; you must live it authentically and teach it.
+**Summary**. It's not enough to know the Law; you must live it authentically and teach it.
 
 #### Is this a critique of the Pharisees?
 
@@ -222,19 +217,19 @@ _How is it accomplished?_ **In Christ!** His life, death, and resurrection are t
 
 > [`Matthew 5:20`](https://biblehub.com/matthew/5-20.htm). For I tell you that unless your righteousness **exceeds** that of the scribes and Pharisees, _you will never enter_ the kingdom of heaven.
 
-**Point**. Entrance into the kingdom requires a righteousness greater than that of the scribes and Pharisees.
+#### What kind of righteousness is required to enter heaven?
 
-*   The Pharisees were the epitome of outward religious observance. Jesus says more is required.
+**Greater**. Entrance into the kingdom requires a righteousness that _exceeds_ that of the scribes and Pharisees.
+
+*   The Pharisees were the epitome of outward religious observance. Jesus says _more_ is required.
     
 *   They dedicated their lives to studying and keeping the Law (externally). If their righteousness isn't enough, whose could be?
     
-
 !!! example "Illustration." 
-    (High Jump). Imagine the Pharisees setting the high jump bar at what seemed an impressive height (their external rule-keeping). Jesus comes along and says, _That's not nearly high enough_. The real standard is perfect holiness, set by God Himself.
+    _High Jump_. Imagine the Pharisees setting the high jump bar at what seemed an impressive height (their external rule-keeping). Jesus comes along and says, _That's not nearly high enough_. The real standard is perfect holiness, set by God Himself.   
+    **No human can clear that bar on their own.**
 
-**No human can clear that bar on their own.**
-
-This verse is meant to drive us to despair of self-righteousness. If the _best_ fall short, we all fall short.
+This verse should drive us to despair of self-righteousness. If the _best_ fall short, we _all_ fall short.
 
 Human effort, however sincere or meticulous, cannot meet God's perfect standard.
 
@@ -291,9 +286,8 @@ _Righteousness imputed (given) by God through faith._
     
 *   It comes thru faith; trusting in Jesus as Lord and Savior.
     
-
 !!! example "Illustration."
-    Imagine owing an enormous debt you can never repay. Someone else (Jesus) pays the debt in full. The creditor (God) then credits their payment to your account. That's imputed righteousness.
+    _Paid Debt_. Imagine owing an enormous debt you can never repay. Someone else (Jesus) pays the debt in full. The creditor (God) then credits their payment to your account. That's imputed righteousness.
 
 The Result: A New Heart and a New Life
 

@@ -4,6 +4,7 @@ tags:
     - Matthew
     - SotM
     - righteousness
+title: Light of the World
 ---
 
 # Light of the World (Matthew 5:14-16)
