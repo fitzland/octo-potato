@@ -35,10 +35,10 @@
 
 .md-typeset .admonition {
   font-weight: normal;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .md-typeset .admonition-title {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: bold;
 }
 .md-typeset .admonition-content {
@@ -92,6 +92,12 @@ mark {
   /* other styles, e.g., padding */
 }
 
+h1, h2, h3, h4 {
+  font-weight: normal; /* Ensure headings are not bold */
+  font-size: 1.5rem; /* Default size for all headings */
+  margin: 0.5rem 0; /* Add some space around headings */
+}
+
 h1 {
   color: #dc85e9;
 }
@@ -106,8 +112,6 @@ h3 {
 
 h4 {
   color: #63bbee;
-  font-size: 1.2rem;
-  font-weight: normal;
 }
 
 
