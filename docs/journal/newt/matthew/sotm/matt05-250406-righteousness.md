@@ -158,14 +158,14 @@ Jesus came to be the living embodiment of the Law’s demands, to perfectly obey
 
 **Point**. Jesus affirms the absolute divine authority and permanence of the Law. Nothing will be arbitrarily discarded.
 
-!!! info "single jot."   
+!!! info "single jot"   
     (GR. iōta). Refers to the Hebrew letter Yod (י), the smallest letter in the alphabet.
 
-!!! info "stroke of a pen."
+!!! info "stroke of a pen"
     (GR. keraia). Refers to the tiny hooks or flourishes that distinguish similar Hebrew letters.
 
-!!! example "Illustration."   
-    It's like saying, _Not even the dot on an 'i' or the cross on a 't' will pass away_. Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
+!!! example "Illustration"   
+    It's like saying, Not even the dot on an _i_ or the cross on a _t_ will pass away_. Jesus uses hyperbole to stress the meticulous divine inspiration and authority of all Scripture.
 
 #### What is the crucial qualifier?
 
@@ -184,9 +184,9 @@ _How is it accomplished?_ **In Christ!** His life, death, and resurrection are t
 
 #### Does it matter how we handle God’s commands?
 
-**Point**. _Yes_. How we regard or handle God's commands reflects our standing within the Kingdom community.
+**Yes**. How we regard or handle God's commands _reflects our standing_ within the Kingdom community.
 
-!!! info "sets aside."   
+!!! info "sets aside"   
     (GR. lysē). related to _abolish_ (katalysai); to disregard or treat as irrelevant.
 
 *   Loosening the Law's requirements or teaching others that they are no longer binding.
@@ -195,12 +195,12 @@ _How is it accomplished?_ **In Christ!** His life, death, and resurrection are t
 
 **least**. Those who diminish the Law's importance and encourage others to do so will have a diminished role in the Kingdom.
 
-!!! info "practices."   
+!!! info "practices"   
     (GR. poiēsē). does, observes.
 
 > [`James 1:22`](https://biblehub.com/james/1-22.htm). But be doers of the word, and not hearers only, deceiving yourselves.
 
-!!! info "teaches."   
+!!! info "teaches"   
     (GR. didaxē). instructs.
 
 > [`Deuteronomy 6:6-7`](https://biblehub.com/deuteronomy/6.htm). These words I am commanding you today are to be upon your hearts. And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up.
