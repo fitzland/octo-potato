@@ -53,20 +53,21 @@ Jesus has just stated that He did not come to abolish the Law but to fulfill it,
 
 ## What is the traditional understanding of murder?
 
-### The Original Commandment
+> `Matthew 5:21`. You have heard that it was said to the ancients, 'Do not murder' and 'Anyone who murders will be subject to judgment.'
 
-**Decalogue**. The 6th Commandment—We have typically heard this command as: Thou shall not *kill*, but the Hebrew term *ratsach* specifically refers to unlawful, intentional killing with malice.
+### The Sixth Commandment
 
-> `Exodus 20:13`. Do not murder.
-> `Deuteronomy 5:17`. Do not murder.
+**Decalogue**. The 6th Commandment—We have typically heard this command as: *Thou shall not kill*, but the Hebrew term *ratsach* specifically refers to unlawful, intentional killing with malice.
+
+> `Exodus 20:13`. Do not murder. Also `Deuteronomy 5:17`.
 
 #### Distinguished from other forms of killing in the OT:
 
-**Manslaughter**. Killing someone unintentionally, without prior hatred or planning. Intent is a critical factor when considering judgment.
+**Manslaughter**. Killing someone *unintentionally*, without prior hatred or planning. Intent is a critical factor when determining if the killing is murder.
 
 > `Numbers 35:12`. You are to have cities as a refuge from the avenger, so that the manslayer will not die until he stands trial before the assembly.
 
-**Capital punishment**. The Law *prescribed* the death penalty for certain serious offenses, including premeditated murder, kidnapping, adultery, blasphemy, etc. These state-sanctioned executions, carried out after due process (requiring witnesses, judgment) were not considered murder.
+**Capital punishment**. The Law prescribed the *death penalty* for certain serious offenses, including premeditated murder, kidnapping, adultery, blasphemy, etc. These state-sanctioned executions, carried out after due process (requiring witnesses, judgment) were not considered murder.
 
 > `Exodus 21:12`. Whoever strikes and kills a man must surely be put to death.
 > `Exodus 21:16`. Whoever kidnaps another man must be put to death, whether he sells him or the man is found in his possession. 
@@ -80,12 +81,23 @@ Jesus has just stated that He did not come to abolish the Law but to fulfill it,
 
 > `Exodus 22:2`. If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed.
 
-### The Basis for the Prohibition
-- Human life is sacred because people are created in God's image (Genesis 1:27)
-- "Whoever sheds human blood, by humans shall their blood be shed" (Genesis 9:6)
-- Consequences for murder included capital punishment and blood guilt that "polluted the land" (Numbers 35:33-34)
+### Basis for the Prohibition
 
-## II. Jesus' Deeper Understanding (v. 22)
+**Sanctity of Human Life**. Human life is sacred because people are created in the image of God (Genesis 1:27).
+
+- Taking a human life is not just an assault on the individual but on God in whose image they are made.
+
+> `Genesis 9:6`. Whoever sheds human blood, by humans shall their blood be shed.
+
+### Consequences of Murder
+
+**Capital Punishment**. The penalty for proven murder was death. There was no possibility of substitution or paying a ransom (Numbers 35:31). The principle of *lex talionis* ("life for life" - Exodus 21:23-24) applied directly here.
+
+**Bloodguilt**. Unavenged murder was believed to pollute the land where the community lived (Numbers 35:33-34). The land could only be cleansed by the blood (execution) of the one who shed innocent blood.
+
+## What was Jesus' correction and deeper understanding?
+
+> `Matthew 5:22`. But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, 'Raca,' will be subject to the Sanhedrin. But anyone who says, 'You fool!' will be subject to the fire of hell.
 
 Jesus doesn't contradict the Law but reveals its deeper, heart-level intent. He shifts focus from the external act to the internal attitude.
 
