@@ -57,7 +57,7 @@ Jesus has just stated that He did not come to abolish the Law but to fulfill it,
 
 ### What is the traditional understanding?
 
-**Decalogue**. We have typically hear the sixth commandment as: *Thou shall not kill*, but the Hebrew term specifically refers to unlawful, intentional killing with malice.
+**Decalogue**. We typically hear the sixth commandment as: *Thou shall not kill*, but the Hebrew term specifically refers to unlawful, intentional killing with malice.
 
 !!! info "Murder"   
     (Heb. ratsach). murder, slay, with premeditation.
@@ -79,25 +79,25 @@ Jesus has just stated that He did not come to abolish the Law but to fulfill it,
 
 **Warfare**. Wars commanded or permitted by God (*national defense*) involved killing but were generally understood within a different framework than personal, unlawful murder.
 
-> `Deuteronomy 7:1-2`. When the Lord your God brings you into the land…, then you must destroy them totally. (conquest of Canaan)
+> [`Deuteronomy 7:1-2`](https://biblehub.com/deuteronomy/7.htm). When the Lord your God brings you into the land…, then you must destroy them totally. (conquest of Canaan)
 
-> `1 Samuel 15:1-3`. Now go, attack the Amalekites and totally destroy all that belongs to them. (during monarchy)
+> [`1 Samuel 15:1-3`](https://biblehub.com/1samuel/15.htm). Now go, attack the Amalekites and totally destroy all that belongs to them. (during monarchy)
 
 **Self-defense**. Killing a *thief* breaking into one's house at night. 
 
-> `Exodus 22:2`. If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed.
+> [`Exodus 22:2`](https://biblehub.com/exodus/22-2.htm). If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed.
 
-#### Basis for the Prohibition
+### What is the basis for the pProhibition?
 
-**Sanctity of Human Life**. Human life is sacred because people are created in the image of God (Genesis 1:27).
+**Sanctity of Human Life**. Human life is sacred because people are created in the _image of God_ (Genesis 1:27).
 
 - Taking a human life is not just an assault on the individual but on God in whose image they are made.
 
-> `Genesis 9:6`. Whoever sheds human blood, by humans shall their blood be shed.
+> [`Genesis 9:6`](https://biblehub.com/genesis/9-6.htm). Whoever sheds human blood, by humans shall their blood be shed.
 
 - This verse, given after the Flood long before the Mosaic Law, establishes the principle: taking a life made in God's image demands the forfeiture of the killer's life as a just consequence.
 
-### Consequences of Murder
+### What are the consequences of murder?
 
 **Capital Punishment**. The penalty for proven murder was death. There was no possibility of substitution or paying a ransom (Numbers 35:31). The principle of *lex talionis* ("life for life" - Exodus 21:23-24) applied directly here.
 
@@ -105,53 +105,71 @@ Jesus has just stated that He did not come to abolish the Law but to fulfill it,
 
 ## What was Jesus' correction and deeper understanding?
 
-> `Matthew 5:22`. But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, 'Raca,' will be subject to the Sanhedrin. But anyone who says, 'You fool!' will be subject to the fire of hell.
+> [`Matthew 5:22`](https://biblehub.com/matthew/5-22.htm). But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, 'Raca,' will be subject to the Sanhedrin. But anyone who says, 'You fool!' will be subject to the fire of hell.
 
 ### But I tell you...
     
 Jesus claims authority equal to or greater than the traditional interpretation of the Law. He shifts the focus from the *outward act* of murder to the *internal attitude* that precedes it.
 
-Jesus doesn't contradict the Law but reveals its deeper, heart-level intent. He shifts focus from the external act to the internal attitude.
-
-### The Same Root
+### What is the root of murder?
 
 The same root of *malice* and *disregard* for the value of another human being that leads to physical murder is present in *unrighteous anger*, *contemptuous speech* (Raca), and *condemning judgment* (You fool!). 
 
-While the Old Testament Law primarily dealt with the *external* act, Jesus revealed that God judges the *internal* attitude with equal seriousness, connecting these heart issues to judgment, even the *fire of hell*. He wasn't lessening the gravity of physical murder; He was elevating the gravity of the internal sins that are its seed.
+While the Old Testament Law primarily dealt with the *external* act, Jesus revealed that God judges the *internal* attitude with equal seriousness, connecting these heart issues to judgment, even the *fire of hell*. He wasn't lessening the gravity of physical murder; He was elevating the gravity of the internal sins that are its root.
 
-> `1 John 3:15`. Anyone who hates his brother is a murderer.
+Being angry with a brother *without cause* or with simmering resentment makes one subject to judgment.
 
-> `Genesis 4:5-8`. Cain's anger preceded his murder of Abel.
+> [`1 John 3:15`](https://biblehub.com/1john/3-15.htm). Anyone who hates his brother is a murderer.
 
-> `Ephesians 4:26-27`. Be angry, yet do not sin.
+> [`Genesis 4:5-8`](https://biblehub.com/genesis/4.htm). Cain's anger preceded his murder of Abel.
 
-> `James 1:19-20`. Man's anger does not bring about the righteousness that God desires.
+> [`Ephesians 4:26-27`](https://biblehub.com/ephesians/4.htm). Be angry, yet do not sin.
 
-### The Escalation of Anger
+> [`James 1:19-20`](https://biblehub.com/james/1.htm). Man's anger does not bring about the righteousness that God desires.
 
-!!! info "Raca"   
-    (Arm. katalysai). empty-headed, worthless; contempt for intellect. 
+### How does anger escalate?
 
-!!! info "Abolish"   
-    (Gr. mōros). to imply moral and spiritual deficiency, godlessness. 
-
-Jesus illustrates how internal anger manifests verbally with increasing severity:
+Jesus tells how internal anger manifests verbally with increasing severity:
 
 | Expression | Meaning | Consequence |
 |------------|---------|-------------|
 | **Anger** | Internal hostility | Subject to judgment |
-| **Raca** | Aramaic term meaning *empty-headed* or *worthless* (contempt for intellect/worth) | Subject to the Sanhedrin (highest Jewish court) |
-| **You fool!** | Greek term implying moral and spiritual deficiency, godlessness (Psalm 14:1) | Subject to the fire of hell (Gehenna) |
+| **Raca** | Term showing contempt for intellect/worth | Subject to the Sanhedrin (highest Jewish court) |
+| **You fool!** | Term implying moral and spiritual deficiency, godlessness (Psalm 14:1) | Subject to the fire of hell (Gehenna) |
+
+!!! info "Raca"   
+    (Grk. rhaka). Aramaic term meaning empty-headed, worthless.
+    An expression of profound *contempt* and *dismissal*. It attacks a person's intelligence and inherent worth, essentially saying, "You are nothing; your opinion/existence doesn't matter.
+
+!!! info "Sanhedrin"   
+    The Sanhedrin was the highest Jewish judicial council in Jerusalem, composed of 71 members (elders, chief priests, scribes). It dealt with the most serious religious and legal matters.
+
+Jesus isn't necessarily saying that the historical Sanhedrin would literally prosecute someone for using this term. Rather, He's using the highest human court as a *benchmark for the seriousness* of the offense in God's eyes.
+
+To express such utter contempt for another person is a violation grave enough to warrant, metaphorically speaking, judgment before the highest authority. It signifies a severe breach of community and relationship, deeply offensive to God who created that person.
+
+!!! info "You Fool!"   
+    (Gr. mōros). dull, stupid; to imply moral and spiritual deficiency, godlessness. 
+
+This Greek word (*mōros*, from which we get "moron") carries a heavier weight than just intellectual deficiency. In the biblical context, foolishness often implies *moral and spiritual* deficiency. It suggests wickedness, godlessness, or rebellion against God and His wisdom.    
+
+> [`Psalm 14:1`](https://biblehub.com/psalm/14-1.htm). The fool says in his heart, 'There is no God.'
+
+**Fire of Hell**. By assigning this ultimate consequence, Jesus indicates that this kind of condemnatory speech reflects a heart condition that is so severely opposed to God's love and judgment that it aligns the speaker with those deserving eternal punishment. 
+
+To contemptuously label someone as a moral and spiritual reprobate is to usurp God's role as judge and to express a level of malice and condemnation that originates from a heart condition worthy of hell itself.
 
 #### Cross-references
   
-> Proverbs 12:18. The words of the reckless pierce like swords.
+> [`Proverbs 12:18`](https://biblehub.com/proverbs/12-18.htm). The words of the reckless pierce like swords.
 
-> Matthew 12:36-37. Men will have to give account on the day of judgment for every careless word.
+> [`Matthew 12:36-37`](https://biblehub.com/matthew/12.htm). Men will have to give account on the day of judgment for every careless word.
 
-> James 3:6-10. The destructive power of the tongue.
+> [`James 3:6-10`](https://biblehub.com/james/3.htm). The destructive power of the tongue.
 
-## III. Priority of Reconciliation Over Religious Ritual (vv. 23-24)
+## What is more important than religious ritual?
+
+> [`Matthew 5:23-24`](https://biblehub.com/matthew/5-23.htm) So if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift.
 
 ### The Radical Command
 - "If you are offering your gift at the altar and remember that your brother has something against you..."
