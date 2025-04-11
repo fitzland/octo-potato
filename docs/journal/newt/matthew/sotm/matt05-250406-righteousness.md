@@ -72,7 +72,7 @@ _You have heard it was said…But I say to you…_
 
 > [`Matthew 5:17`](https://biblehub.com/matthew/5-17.htm). **Do not think** that I have come to abolish the Law or the Prophets; I have not come to _abolish_ them but to _fulfill_ them.
 
-**The Claim**. Jesus didn't come to [ABOLISH]{.text-quote} (destroy) the Law.
+**The Claim**. Jesus didn't come to *ABOLISH* (destroy) the Law.
 
 **Misconception**. Some might think that Jesus came to get rid of the the Law; meaning that it doesn't matter anymore.
 

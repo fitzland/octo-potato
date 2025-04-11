@@ -51,35 +51,39 @@ Jesus did not come to **ABOLISH** the Law, but rather to **FULFILL** the Law.
 
 Jesus has just stated that He did not come to abolish the Law but to fulfill it, and that our righteousness must exceed that of the scribes and Pharisees (5:17-20). This passage is the first of **six antitheses** where Jesus contrasts traditional understanding ("*You have heard it said...*") with His deeper interpretation ("*But I say to you...*").
 
-## What is the traditional understanding of murder?
+## The Sixth Commandment
 
-> `Matthew 5:21`. You have heard that it was said to the ancients, 'Do not murder' and 'Anyone who murders will be subject to judgment.'
+> [`Matthew 5:21`](https://biblehub.com/matthew/5-21.htm). You have heard that it was said to the ancients, 'Do not murder' and 'Anyone who murders will be subject to judgment.'
 
-### The Sixth Commandment
+### What is the traditional understanding?
 
-**Decalogue**. The 6th Commandment—We have typically heard this command as: *Thou shall not kill*, but the Hebrew term *ratsach* specifically refers to unlawful, intentional killing with malice.
+**Decalogue**. We have typically hear the sixth commandment as: *Thou shall not kill*, but the Hebrew term specifically refers to unlawful, intentional killing with malice.
 
-> `Exodus 20:13`. Do not murder. Also `Deuteronomy 5:17`.
+!!! info "Murder"   
+    (Heb. ratsach). murder, slay, with premeditation.
 
-#### Other forms of killing, not considered murder:
+
+> [`Exodus 20:13`](https://biblehub.com/exodus/20-13.htm). Do not murder. Also [`Deuteronomy 5:17`](https://biblehub.com/deuteronomy/5-17.htm).
+
+### What are other forms of killing?
 
 **Manslaughter**. Killing someone *unintentionally*, without prior hatred or planning. Intent is a critical factor when determining if the killing is considered murder.
 
-> `Numbers 35:12`. You are to have cities as a refuge from the avenger, so that the manslayer will not die until he stands trial before the assembly.
+> [`Numbers 35:12`](https://biblehub.com/numbers/35-12.htm). You are to have cities as a refuge from the avenger, so that the manslayer will not die until he stands trial before the assembly.
 
 **Capital punishment**. The Law prescribed the *death penalty* for certain offenses, including premeditated murder, kidnapping, adultery, and blasphemy. These state-sanctioned executions, carried out after due process (requiring witnesses, judgment) were not considered murder.
 
-> `Exodus 21:12`. Whoever strikes and kills a man must surely be put to death.
+> [`Exodus 21:12`](https://biblehub.com/exodus/21-12.htm). Whoever strikes and kills a man must surely be put to death.
 
-> `Exodus 21:16`. Whoever kidnaps another man must be put to death, whether he sells him or the man is found in his possession. 
+> [`Exodus 21:16`](https://biblehub.com/exodus/21-16.htm). Whoever kidnaps another man must be put to death, whether he sells him or the man is found in his possession. 
 
-**Warfare**. Wars commanded or permitted by God (national defense) involved killing but were generally understood within a different framework than personal, unlawful murder.
+**Warfare**. Wars commanded or permitted by God (*national defense*) involved killing but were generally understood within a different framework than personal, unlawful murder.
 
 > `Deuteronomy 7:1-2`. When the Lord your God brings you into the land…, then you must destroy them totally. (conquest of Canaan)
 
 > `1 Samuel 15:1-3`. Now go, attack the Amalekites and totally destroy all that belongs to them. (during monarchy)
 
-**Self-defense**. Killing a thief breaking into one's house at night. 
+**Self-defense**. Killing a *thief* breaking into one's house at night. 
 
 > `Exodus 22:2`. If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed.
 
@@ -113,30 +117,39 @@ Jesus doesn't contradict the Law but reveals its deeper, heart-level intent. He 
 
 The same root of *malice* and *disregard* for the value of another human being that leads to physical murder is present in *unrighteous anger*, *contemptuous speech* (Raca), and *condemning judgment* (You fool!). 
 
-While the Old Testament Law primarily dealt with the external act, Jesus revealed that God judges the internal attitude with equal seriousness, connecting these heart issues to judgment, even the "fire of hell." He wasn't lessening the gravity of physical murder; He was elevating the gravity of the internal sins that are its seed.
+While the Old Testament Law primarily dealt with the *external* act, Jesus revealed that God judges the *internal* attitude with equal seriousness, connecting these heart issues to judgment, even the *fire of hell*. He wasn't lessening the gravity of physical murder; He was elevating the gravity of the internal sins that are its seed.
 
-- "Anyone who is angry with his brother will be subject to judgment"
-- Anger receives the same level of culpability as the act of murder
-- **Cross-references:**
-  - "Anyone who hates his brother is a murderer" (1 John 3:15)
-  - Cain's anger preceded his murder of Abel (Genesis 4:5-8)
-  - "Be angry, yet do not sin" (Ephesians 4:26-27)
-  - "Man's anger does not bring about the righteousness that God desires" (James 1:19-20)
+> `1 John 3:15`. Anyone who hates his brother is a murderer.
 
-### B. Escalating Contempt and Consequences
+> `Genesis 4:5-8`. Cain's anger preceded his murder of Abel.
+
+> `Ephesians 4:26-27`. Be angry, yet do not sin.
+
+> `James 1:19-20`. Man's anger does not bring about the righteousness that God desires.
+
+### The Escalation of Anger
+
+!!! info "Raca"   
+    (Arm. katalysai). empty-headed, worthless; contempt for intellect. 
+
+!!! info "Abolish"   
+    (Gr. mōros). to imply moral and spiritual deficiency, godlessness. 
 
 Jesus illustrates how internal anger manifests verbally with increasing severity:
 
 | Expression | Meaning | Consequence |
 |------------|---------|-------------|
 | **Anger** | Internal hostility | Subject to judgment |
-| **"Raca"** | Aramaic term meaning "empty-headed" or "worthless" (contempt for intellect/worth) | Subject to the Sanhedrin (highest Jewish court) |
-| **"You fool!"** | Greek *mōros*, implying moral and spiritual deficiency, godlessness (Psalm 14:1) | Subject to the fire of hell (Gehenna) |
+| **Raca** | Aramaic term meaning *empty-headed* or *worthless* (contempt for intellect/worth) | Subject to the Sanhedrin (highest Jewish court) |
+| **You fool!** | Greek term implying moral and spiritual deficiency, godlessness (Psalm 14:1) | Subject to the fire of hell (Gehenna) |
 
-- **Cross-references:**
-  - "The words of the reckless pierce like swords" (Proverbs 12:18)
-  - "Men will have to give account on the day of judgment for every careless word" (Matthew 12:36-37)
-  - The destructive power of the tongue (James 3:6-10)
+#### Cross-references
+  
+> Proverbs 12:18. The words of the reckless pierce like swords.
+
+> Matthew 12:36-37. Men will have to give account on the day of judgment for every careless word.
+
+> James 3:6-10. The destructive power of the tongue.
 
 ## III. Priority of Reconciliation Over Religious Ritual (vv. 23-24)
 
