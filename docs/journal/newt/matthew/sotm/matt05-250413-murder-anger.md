@@ -129,7 +129,7 @@ Being angry with a brother *without cause* or with simmering resentment makes on
 
 ### How does anger escalate?
 
-Jesus tells how internal anger manifests verbally with increasing severity:
+Jesus describes how internal anger manifests verbally with increasing severity:
 
 | Expression | Meaning | Consequence |
 |------------|---------|-------------|
@@ -147,18 +147,18 @@ Jesus tells how internal anger manifests verbally with increasing severity:
 
 Jesus isn't necessarily saying that the historical Sanhedrin would literally prosecute someone for using this term. Rather, He's using the highest human court as a *benchmark for the seriousness* of the offense in God's eyes.
 
-To express such utter contempt for another person is a violation grave enough to warrant, metaphorically speaking, judgment before the highest authority. It signifies a severe breach of community and relationship, deeply offensive to the God who created that person.
+He is saying that expressing such contempt for another person is a violation bad enough to warrant judgment before the highest authority. It signifies a severe breach of community and relationship, deeply offensive to the God who created that person.
 
 !!! info "You Fool!"   
     (Gr. mōros). dull, stupid; to imply moral and spiritual deficiency, godlessness. 
     
-    This word from which we get _moron_ carries a heavier weight than just intellectual deficiency. In the biblical context, foolishness often implies *moral and spiritual* deficiency. 
+    This word from which we get the word _moron_ carries a heavier weight than just intellectual deficiency. It implies *moral and spiritual* deficiency. 
 
-> [`Psalm 14:1`](https://biblehub.com/psalm/14-1.htm). The fool says in his heart, 'There is no God.'
+> [`Psalm 14:1`](https://biblehub.com/psalms/14-1.htm). The fool says in his heart, 'There is no God.'
 
 **Fire of Hell**. By assigning this ultimate consequence, Jesus indicates that this kind of condemnatory speech reflects a heart condition that is so severely opposed to God's love and judgment that it aligns the speaker with those deserving eternal punishment. 
 
-To contemptuously label someone as a moral and spiritual reprobate is to usurp God's role as judge and to express a level of malice and condemnation that originates from a heart condition worthy of hell itself.
+When we label someone as a moral and spiritual reprobate, we usurp God's role as judge and express a level of malice and condemnation that originates from a heart condition worthy of hell itself.
 
 #### Cross-references
   
@@ -172,25 +172,25 @@ To contemptuously label someone as a moral and spiritual reprobate is to usurp G
 
 > [`Matthew 5:23-24`](https://biblehub.com/matthew/5.htm#21) So if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift.
 
-### What is the significance of offering a gift at the Altar?
+### What is the significance of offering a gift at the altar?
 
 **Act of Worship**. The Temple in Jerusalem, and specifically its altar(s), was the designated center of Israel's worship life according to the Mosaic Covenant. Bringing offerings was not optional for a devout Jew; it was a commanded means of relating to God.
 
 #### Types of Offerings
 
-The _gift_ (Greek: *dōron*) could refer to various types of offerings prescribed in the Law (detailed primarily in Leviticus 1-7):
+The _gift_ (Greek: *dōron*) could refer to various types of offerings (Leviticus 1-7):
 
-**Sacrifices for Atonement**. Sin Offerings (*Chattat*) and Guilt Offerings (*Asham*) were crucial for dealing with unintentional sins and specific trespasses, restoring the individual's relationship with God and the community after wrongdoing.
+**Sacrifices for Atonement**. Sin Offerings (*chattat*) and Guilt Offerings (*asham*) were crucial for dealing with unintentional sins and specific trespasses, restoring the individual's relationship with God and the community after wrongdoing.
 
-**Fellowship & Thanksgiving**. Peace Offerings (*Shelamim*), which included thanksgiving offerings, vow offerings, and freewill offerings, often involved a shared meal, signifying communion and peace with God.
+**Fellowship & Thanksgiving**. Peace Offerings (*shelamim*), which included thanksgiving offerings, vow offerings, and freewill offerings, often involved a shared meal, signifying communion and peace with God.
 
-**Dedication & Homage**. Burnt Offerings (*Olah*) signified complete surrender and dedication to God. Grain Offerings (*Minchah*) represented the dedication of one's labor and substance.
+**Dedication & Homage**. Burnt Offerings (*olah*) signified complete surrender and dedication to God. Grain Offerings (*minchah*) represented the dedication of one's labor and substance.
 
 **Other Gifts**. Tithes and firstfruits were also sometimes brought to the Temple complex.
 
-#### Purpose and Meaning
+#### Purpose & Meaning
 
-These offerings served multiple purposes:
+Offerings served multiple purposes:
 
 **Obedience**. Fulfilling God's commands in the Law.
 
@@ -207,14 +207,18 @@ These offerings served multiple purposes:
 #### The Ritual Process
 
 Bringing an offering was a serious and structured event:
-    *   The worshiper would bring their offering (an unblemished animal, grain, etc.) into the appropriate Temple court.
-    *   They would approach the vicinity of the great Brazen Altar in the Court of the Priests.
-    *   Priests officiated the process: inspecting the offering, performing the necessary ritual actions (like laying on of hands by the worshiper for animal sacrifices, slaughtering, manipulating the blood against the altar, burning specific portions on the altar fire).
-    *   The act of placing the gift *at* or *before* the altar was a pivotal moment signifying its presentation to God.
 
-5.  **High Importance:** This act of presenting an offering at the altar was considered one of the most sacred duties and privileges. It was the prescribed way to draw near to God, deal with sin, express devotion, and maintain one's standing within the covenant community. It was a tangible expression of faith and repentance.
+*   The worshiper would bring their offering (an unblemished animal, grain, etc.) into the appropriate Temple court.
 
-### What Would Usually Take Precedence Over Offering the Gift?
+*   They would approach the vicinity of the great Brazen Altar in the Court of the Priests.
+
+*   Priests officiated the process: inspecting the offering, performing the necessary ritual actions (like laying on of hands by the worshiper for animal sacrifices, slaughtering, manipulating the blood against the altar, burning specific portions on the altar fire).
+
+*   The act of placing the gift *at* or *before* the altar was a pivotal moment signifying its presentation to God.
+
+**High Importance**. This act of presenting an offering at the altar was considered one of the most sacred duties and privileges. It was the prescribed way to draw near to God, deal with sin, express devotion, and maintain one's standing within the covenant community. It was a tangible expression of faith and repentance.
+
+### What would usually take precedence over offering the gift?
 
 *Before* Jesus' specific teaching here, the things that would typically halt or take precedence over the *immediate completion* of presenting an offering at the altar were primarily related to **ritual requirements and readiness**:
 
@@ -226,14 +230,9 @@ Bringing an offering was a serious and structured event:
 
 **Major Unrepented Sin**. While the *ritual system* itself focused heavily on correct procedure and purity, the prophets had long emphasized that God rejected sacrifices offered by those who were simultaneously living in gross injustice, idolatry, or rebellion without repentance (Isaiah 1:11-17; Jeremiah 7:21-23; Amos 5:21-24; Micah 6:6-8). They declared that God desired "mercy, not sacrifice," and "justice... rather than burnt offerings." However, in the *daily practice* and understanding of many, the ritual often proceeded unless the person was formally excluded or personally convicted to repent first. The *systemic* prerequisite was usually ritual purity, not necessarily proven relational integrity at that exact moment (though relational integrity was certainly part of God's overall expectation for righteousness).
 
-### The Radical Command
-- "If you are offering your gift at the altar and remember that your brother has something against you..."
-- Offering gifts at the altar was a central act of Jewish worship and covenant relationship
-- Types of offerings included sacrifices for atonement, fellowship, thanksgiving, and dedication
+### What new precedent does Jesus offer?
 
-### What Takes Precedence?
-- Traditional focus: ritual purity and correctness of the offering
-- Jesus' teaching: relational reconciliation takes absolute priority over religious ritual
+Jesus suggest that relational reconciliation takes absolute priority over religious ritual
 - Leave your gift → Go be reconciled → Then return to worship
 
 ### Significance
