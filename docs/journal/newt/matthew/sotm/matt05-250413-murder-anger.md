@@ -87,7 +87,7 @@ Jesus has just stated that He did not come to abolish the Law but to fulfill it,
 
 > [`Exodus 22:2`](https://biblehub.com/exodus/22-2.htm). If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed.
 
-### What is the basis for the pProhibition?
+### What is the basis for the prohibition?
 
 **Sanctity of Human Life**. Human life is sacred because people are created in the _image of God_ (Genesis 1:27).
 
@@ -103,7 +103,7 @@ Jesus has just stated that He did not come to abolish the Law but to fulfill it,
 
 **Bloodguilt**. Unavenged murder was believed to pollute the land where the community lived (Numbers 35:33-34). The land could only be cleansed by the blood (execution) of the one who shed innocent blood.
 
-## What was Jesus' correction and deeper understanding?
+## A New Interpretation
 
 > [`Matthew 5:22`](https://biblehub.com/matthew/5-22.htm). But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, 'Raca,' will be subject to the Sanhedrin. But anyone who says, 'You fool!' will be subject to the fire of hell.
 
@@ -134,11 +134,12 @@ Jesus tells how internal anger manifests verbally with increasing severity:
 | Expression | Meaning | Consequence |
 |------------|---------|-------------|
 | **Anger** | Internal hostility | Subject to judgment |
-| **Raca** | Term showing contempt for intellect/worth | Subject to the Sanhedrin (highest Jewish court) |
-| **You fool!** | Term implying moral and spiritual deficiency, godlessness (Psalm 14:1) | Subject to the fire of hell (Gehenna) |
+| **Raca** | Showing contempt for intellect/worth | Subject to the Sanhedrin (highest Jewish court) |
+| **You fool!** | Implying moral and spiritual deficiency (Psalm 14:1) | Subject to the fire of hell (Gehenna) |
 
 !!! info "Raca"   
-    (Grk. rhaka). Aramaic term meaning empty-headed, worthless.
+    (Grk. rhaka). from an Aramaic term meaning empty-headed, worthless.
+    
     An expression of profound *contempt* and *dismissal*. It attacks a person's intelligence and inherent worth, essentially saying, "You are nothing; your opinion/existence doesn't matter.
 
 !!! info "Sanhedrin"   
@@ -146,12 +147,12 @@ Jesus tells how internal anger manifests verbally with increasing severity:
 
 Jesus isn't necessarily saying that the historical Sanhedrin would literally prosecute someone for using this term. Rather, He's using the highest human court as a *benchmark for the seriousness* of the offense in God's eyes.
 
-To express such utter contempt for another person is a violation grave enough to warrant, metaphorically speaking, judgment before the highest authority. It signifies a severe breach of community and relationship, deeply offensive to God who created that person.
+To express such utter contempt for another person is a violation grave enough to warrant, metaphorically speaking, judgment before the highest authority. It signifies a severe breach of community and relationship, deeply offensive to the God who created that person.
 
 !!! info "You Fool!"   
     (Gr. mōros). dull, stupid; to imply moral and spiritual deficiency, godlessness. 
-
-This Greek word (*mōros*, from which we get "moron") carries a heavier weight than just intellectual deficiency. In the biblical context, foolishness often implies *moral and spiritual* deficiency. It suggests wickedness, godlessness, or rebellion against God and His wisdom.    
+    
+    This word from which we get _moron_ carries a heavier weight than just intellectual deficiency. In the biblical context, foolishness often implies *moral and spiritual* deficiency. 
 
 > [`Psalm 14:1`](https://biblehub.com/psalm/14-1.htm). The fool says in his heart, 'There is no God.'
 
@@ -163,13 +164,67 @@ To contemptuously label someone as a moral and spiritual reprobate is to usurp G
   
 > [`Proverbs 12:18`](https://biblehub.com/proverbs/12-18.htm). The words of the reckless pierce like swords.
 
-> [`Matthew 12:36-37`](https://biblehub.com/matthew/12.htm). Men will have to give account on the day of judgment for every careless word.
+> [`Matthew 12:36-37`](https://biblehub.com/matthew/12.htm#36). Men will have to give account on the day of judgment for every careless word.
 
-> [`James 3:6-10`](https://biblehub.com/james/3.htm). The destructive power of the tongue.
+> [`James 3:6-10`](https://biblehub.com/james/3.htm#6). The destructive power of the tongue.
 
-## What is more important than religious ritual?
+## At the Altar
 
-> [`Matthew 5:23-24`](https://biblehub.com/matthew/5-23.htm) So if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift.
+> [`Matthew 5:23-24`](https://biblehub.com/matthew/5.htm#21) So if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift.
+
+### What is the significance of offering a gift at the Altar?
+
+**Act of Worship**. The Temple in Jerusalem, and specifically its altar(s), was the designated center of Israel's worship life according to the Mosaic Covenant. Bringing offerings was not optional for a devout Jew; it was a commanded means of relating to God.
+
+#### Types of Offerings
+
+The _gift_ (Greek: *dōron*) could refer to various types of offerings prescribed in the Law (detailed primarily in Leviticus 1-7):
+
+**Sacrifices for Atonement**. Sin Offerings (*Chattat*) and Guilt Offerings (*Asham*) were crucial for dealing with unintentional sins and specific trespasses, restoring the individual's relationship with God and the community after wrongdoing.
+
+**Fellowship & Thanksgiving**. Peace Offerings (*Shelamim*), which included thanksgiving offerings, vow offerings, and freewill offerings, often involved a shared meal, signifying communion and peace with God.
+
+**Dedication & Homage**. Burnt Offerings (*Olah*) signified complete surrender and dedication to God. Grain Offerings (*Minchah*) represented the dedication of one's labor and substance.
+
+**Other Gifts**. Tithes and firstfruits were also sometimes brought to the Temple complex.
+
+#### Purpose and Meaning
+
+These offerings served multiple purposes:
+
+**Obedience**. Fulfilling God's commands in the Law.
+
+**Atonement**. Seeking forgiveness and cleansing from sin.
+
+**Worship**. Expressing reverence, adoration, and homage to God.
+
+**Thanksgiving**. Showing gratitude for blessings received.
+
+**Fellowship**. Maintaining and restoring communion with God and the covenant community.
+
+**Seeking Favor**. Approaching God to petition for needs.
+
+#### The Ritual Process
+
+Bringing an offering was a serious and structured event:
+    *   The worshiper would bring their offering (an unblemished animal, grain, etc.) into the appropriate Temple court.
+    *   They would approach the vicinity of the great Brazen Altar in the Court of the Priests.
+    *   Priests officiated the process: inspecting the offering, performing the necessary ritual actions (like laying on of hands by the worshiper for animal sacrifices, slaughtering, manipulating the blood against the altar, burning specific portions on the altar fire).
+    *   The act of placing the gift *at* or *before* the altar was a pivotal moment signifying its presentation to God.
+
+5.  **High Importance:** This act of presenting an offering at the altar was considered one of the most sacred duties and privileges. It was the prescribed way to draw near to God, deal with sin, express devotion, and maintain one's standing within the covenant community. It was a tangible expression of faith and repentance.
+
+### What Would Usually Take Precedence Over Offering the Gift?
+
+*Before* Jesus' specific teaching here, the things that would typically halt or take precedence over the *immediate completion* of presenting an offering at the altar were primarily related to **ritual requirements and readiness**:
+
+**Ritual Purity**. A worshiper had to be in a state of ritual purity to enter the sacred Temple precincts and participate in offerings. If someone realized they had contracted ritual impurity (e.g., contact with a dead body, certain bodily discharges - see Leviticus 11-15, Numbers 19), they would first need to undergo the prescribed purification rituals, which could take time, *before* they could proceed with their offering. Uncleanness barred access.
+
+**Correctness of the Offering**. If the offering itself was found to be blemished or unsuitable according to the specific requirements of the Law for that type of offering, it would be rejected. The worshiper would need to procure a proper offering.
+
+**Following Prescribed Order**. The rituals themselves had a specific order. A worshiper couldn't just rush to the altar; they had to follow the steps mediated by the priesthood.
+
+**Major Unrepented Sin**. While the *ritual system* itself focused heavily on correct procedure and purity, the prophets had long emphasized that God rejected sacrifices offered by those who were simultaneously living in gross injustice, idolatry, or rebellion without repentance (Isaiah 1:11-17; Jeremiah 7:21-23; Amos 5:21-24; Micah 6:6-8). They declared that God desired "mercy, not sacrifice," and "justice... rather than burnt offerings." However, in the *daily practice* and understanding of many, the ritual often proceeded unless the person was formally excluded or personally convicted to repent first. The *systemic* prerequisite was usually ritual purity, not necessarily proven relational integrity at that exact moment (though relational integrity was certainly part of God's overall expectation for righteousness).
 
 ### The Radical Command
 - "If you are offering your gift at the altar and remember that your brother has something against you..."
