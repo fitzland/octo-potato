@@ -27,7 +27,7 @@ Manifesto of the King
     
 ## Review 
 
-Jesus did not come to ABOLISH the Law, but rather to FULFILL the Law.
+Jesus did not come to **ABOLISH** the Law, but rather to **FULFILL** the Law.
 
 !!! question "Icebreaker"   
     
@@ -49,20 +49,24 @@ Jesus did not come to ABOLISH the Law, but rather to FULFILL the Law.
 
 ## Context
 
-This passage is part of the Sermon on the Mount (Matthew 5-7), where Jesus reveals the nature of righteousness in the Kingdom of Heaven. It appears in the section on citizens of the Kingdom, specifically addressing their motives (5:17-48).
+Jesus has just stated that He did not come to abolish the Law but to fulfill it, and that our righteousness must exceed that of the scribes and Pharisees (5:17-20). This passage is the first of **six antitheses** where Jesus contrasts traditional understanding ("*You have heard it said...*") with His deeper interpretation ("*But I say to you...*").
 
-Jesus has just stated that He did not come to abolish the Law but to fulfill it, and that our righteousness must exceed that of the scribes and Pharisees (5:17-20). This passage is the first of six "antitheses" where Jesus contrasts traditional understanding ("You have heard it said...") with His deeper interpretation ("But I say to you...").
-
-## I. Traditional Understanding of Murder (v. 21)
+## What is the traditional understanding of murder?
 
 ### The Original Commandment
-- From the Decalogue: "Do not murder" (Exodus 20:13, Deuteronomy 5:17)
-- The Hebrew term *ratsach* specifically refers to unlawful, intentional killing with malice
+- **From the Decalogue**. Do not murder—the 6th Commandment. (Exodus 20:13, Deuteronomy 5:17)
+- We have typically heard theis command as: Thou shall not kill, but the Hebrew term *ratsach* specifically refers to unlawful, intentional killing with malice
 - Distinguished from other forms of killing in the OT:
-  - Manslaughter (unintentional killing - Numbers 35:9-28)
-  - Capital punishment (state-sanctioned execution - Exodus 21:12)
-  - Warfare (national defense)
-  - Self-defense (Exodus 22:2)
+  - Manslaughter. Killing someone unintentionally, without prior hatred or planning. Intent is a critical factor when considering judgment.
+    - Numbers 35:12. You are to have cities as a refuge from the avenger, so that the manslayer will not die until he stands trial before the assembly.
+  - Capital punishment. The Law *prescribed* the death penalty for certain serious offenses, including premeditated murder, kidnapping, adultery, blasphemy, etc. These state-sanctioned executions, carried out after due process (requiring witnesses, judgment) were not considered murder.
+    - Exodus 21:12. Whoever strikes and kills a man must surely be put to death.
+    - Exodus 21:16. Whoever kidnaps another man must be put to death, whether he sells him or the man is found in his possession. 
+  - Warfare. Wars commanded or permitted by God (national defense) involved killing but were generally understood within a different framework than personal, unlawful murder.
+    - Deuteronomy 7:1-2. When the Lord your God brings you into the land…, then you must destroy them totally. (conquest of Canaan)
+    - 1 Samuel 15:1-3. Now go, attack the Amalekites and totally destroy all that belongs to them. (during monarchy)
+  - Self-defense. Killing a thief breaking into one's house at night. 
+    -Exodus 22:2. If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed.
 
 ### The Basis for the Prohibition
 - Human life is sacred because people are created in God's image (Genesis 1:27)
