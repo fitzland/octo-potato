@@ -208,19 +208,19 @@ Offerings served multiple purposes:
 
 Bringing an offering was a serious and structured event:
 
-*   The worshiper would bring their offering (an unblemished animal, grain, etc.) into the appropriate Temple court.
+**Bringing Offering**. The worshiper would bring their offering (an unblemished animal, grain, etc.) into the appropriate Temple court.
 
-*   They would approach the vicinity of the great Brazen Altar in the Court of the Priests.
+**Approaching Altar**. They would approach the vicinity of the great Brazen Altar in the Court of the Priests.
 
-*   Priests officiated the process: inspecting the offering, performing the necessary ritual actions (like laying on of hands by the worshiper for animal sacrifices, slaughtering, manipulating the blood against the altar, burning specific portions on the altar fire).
+**Inspection & Ritual**. Priests officiated the process: inspecting the offering, performing the necessary ritual actions (like laying on of hands by the worshiper for animal sacrifices, slaughtering, manipulating the blood against the altar, burning specific portions on the altar fire).
 
-*   The act of placing the gift *at* or *before* the altar was a pivotal moment signifying its presentation to God.
+**Presentation**. The act of placing the gift *at* or *before* the altar was a pivotal moment signifying its presentation to God.
 
 **High Importance**. This act of presenting an offering at the altar was considered one of the most sacred duties and privileges. It was the prescribed way to draw near to God, deal with sin, express devotion, and maintain one's standing within the covenant community. It was a tangible expression of faith and repentance.
 
-### What would usually take precedence over offering the gift?
+### What could stop this ritual of worship?
 
-*Before* Jesus' specific teaching here, the things that would typically halt or take precedence over the *immediate completion* of presenting an offering at the altar were primarily related to **ritual requirements and readiness**:
+#### Requirements & Readiness
 
 **Ritual Purity**. A worshiper had to be in a state of ritual purity to enter the sacred Temple precincts and participate in offerings. If someone realized they had contracted ritual impurity (e.g., contact with a dead body, certain bodily discharges - see Leviticus 11-15, Numbers 19), they would first need to undergo the prescribed purification rituals, which could take time, *before* they could proceed with their offering. Uncleanness barred access.
 
@@ -228,20 +228,31 @@ Bringing an offering was a serious and structured event:
 
 **Following Prescribed Order**. The rituals themselves had a specific order. A worshiper couldn't just rush to the altar; they had to follow the steps mediated by the priesthood.
 
-**Major Unrepented Sin**. While the *ritual system* itself focused heavily on correct procedure and purity, the prophets had long emphasized that God rejected sacrifices offered by those who were simultaneously living in gross injustice, idolatry, or rebellion without repentance (Isaiah 1:11-17; Jeremiah 7:21-23; Amos 5:21-24; Micah 6:6-8). They declared that God desired "mercy, not sacrifice," and "justice... rather than burnt offerings." However, in the *daily practice* and understanding of many, the ritual often proceeded unless the person was formally excluded or personally convicted to repent first. The *systemic* prerequisite was usually ritual purity, not necessarily proven relational integrity at that exact moment (though relational integrity was certainly part of God's overall expectation for righteousness).
+**Major Unrepented Sin**. While the *ritual system* itself focused heavily on correct procedure and purity, the prophets had long emphasized that God rejected sacrifices offered by those who were simultaneously living in gross injustice, idolatry, or rebellion without repentance (Isaiah 1:11-17; Jeremiah 7:21-23; Amos 5:21-24; Micah 6:6-8). 
 
-### What new precedent does Jesus offer?
+- They declared that God desired "mercy, not sacrifice," and "justice... rather than burnt offerings." However, in the *daily practice* and understanding of many, the ritual often proceeded unless the person was formally excluded or personally convicted to repent first. 
 
-Jesus suggest that relational reconciliation takes absolute priority over religious ritual
-- Leave your gift → Go be reconciled → Then return to worship
+- The *systemic* prerequisite was usually ritual purity, not necessarily proven relational integrity at that exact moment (though relational integrity was certainly part of God's overall expectation for righteousness).
 
-### Significance
-- God values restored human relationships more than religious rituals performed while relationships remain broken
-- The horizontal relationship (person-to-person) directly impacts the vertical relationship (person-to-God)
-- **Cross-references:**
-  - "I desire mercy, not sacrifice" (Matthew 9:13, Hosea 6:6)
-  - "If you hold anything against anyone, forgive him" (Mark 11:25)
-  - "If anyone says, 'I love God,' yet hates his brother, he is a liar" (1 John 4:20)
+### What new requirement does Jesus offer?
+
+#### Go Be Reconciled
+
+**Reconciliation**. Jesus suggest that relational reconciliation takes absolute priority over religious ritual.
+
+#### Significance
+
+**Relationships**. God values restored human relationships more than religious rituals performed while relationships remain broken.
+
+**Impact**. The horizontal relationship (person-to-person) directly impacts the vertical relationship (person-to-God).
+
+#### Cross-references
+
+> [`Matthew 9:13`](https://biblehub.com/matthew/9-13.htm). I desire mercy, not sacrifice. Also [`Hosea 6:6`](https://biblehub.com/hosea/6-6.htm)
+
+> [`Mark 11:25`](https://biblehub.com/mark/11-25.htm) If you hold anything against anyone, forgive him.
+
+> [`1 John 4:20`](https://biblehub.com/1john/4-20.htm) If anyone says, 'I love God,' yet hates his brother, he is a liar.
 
 ## IV. Urgency of Reconciliation (vv. 25-26)
 
