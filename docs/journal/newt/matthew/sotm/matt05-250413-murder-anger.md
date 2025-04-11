@@ -1,17 +1,51 @@
-# Matthew 5:21-26 (Berean Standard Bible) - Anger and Reconciliation
+---
+tags:
+    - NT
+    - Matthew
+    - SotM
+    - righteousness
+title: Anger & Reconciliation
+---
 
-## Passage Text
-> 21 You have heard that it was said to the ancients, 'Do not murder' and 'Anyone who murders will be subject to judgment.'
-> 
-> 22 But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, 'Raca,' will be subject to the Sanhedrin. But anyone who says, 'You fool!' will be subject to the fire of hell.
-> 
-> 23 So if you are offering your gift at the altar and there remember that your brother has something against you, 
-> 
-> 24 leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift.
-> 
-> 25 Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. 
-> 
-> 26 Truly I tell you, you will not get out until you have paid the last penny.
+# Anger & Reconciliation. (Matthew 5:21-26)
+
+## Structure/Outline
+
+Manifesto of the King
+
+1.  Citizens of the Kingdom (ch 5)
+    
+    1.  Quality (1-12)
+        
+    2.  Function (13-16)
+        
+    3.  **Motive (17-48)**
+        
+2.  Values of the Kingdom (ch 6)
+    
+3.  Relationship with the Kingdom (ch 7)
+    
+## Review 
+
+Jesus did not come to ABOLISH the Law, but rather to FULFILL the Law.
+
+!!! question "Icebreaker"   
+    
+    What's the difference between being angry and expressing anger? Is one more acceptable than the other?
+    
+    When you were really angry with someone but managed to hold back from saying or doing something hurtful. What helped you control your anger in that moment, and how did you feel afterward?
+
+## Passage
+
+!!! quote "Matthew 5:21-26"
+
+    21 You have heard that it was said to the ancients, 'Do not murder' and 'Anyone who murders will be subject to judgment.' 
+    
+    22 But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, 'Raca,' will be subject to the Sanhedrin. But anyone who says, 'You fool!' will be subject to the fire of hell.
+    
+    23 So if you are offering your gift at the altar and there remember that your brother has something against you, 24 leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift.
+    
+    25 Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. 26 Truly I tell you, you will not get out until you have paid the last penny.
 
 ## Context
 
