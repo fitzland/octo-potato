@@ -249,17 +249,15 @@ Bringing an offering was a serious and structured event:
 
 > [`Matthew 5:25-26`](https://biblehub.com/matthew/5.htm#25) Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. Truly I tell you, you will not get out until you have paid the last penny.
 
-> [`Romans 12:18`]. If it is possible, as far as it depends on you, live at peace with everyone." (The goal of peaceful relationships).
+> [`Romans 12:18`](https://biblehub.com/romans/12-18.htm). If it is possible, as far as it depends on you, live at peace with everyone." (The goal of peaceful relationships).
 
 ### Settling Out of Court
 
 !!! example "Illustration"   
     
-    Jesus uses a practical, everyday example of someone being taken to court by an adversary (accuser).
+    Jesus uses a practical, everyday example of someone being taken to court by an adversary (accuser). In most cases, you are better off settling out of court (cost, time, & some control over the outcome).
     
-    In most cases, you are better off settling out of court (cost & time, control over the outcome).
-    
-> [`Proverbs 25:8`]. Do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?" (Advises settling disputes).
+> [`Proverbs 25:8`](https://biblehub.com/proverbs/25-8.htm). Do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?" (Advises settling disputes).
 
 **Progressive Consequences**. When we don't settle out of court, we have less control over the outcome. 
 
@@ -272,9 +270,9 @@ Bringing an offering was a serious and structured event:
 
 **Spiritual Parallel**. While this has a literal application to legal and financial disputes, it strongly implies a spiritual parallel. Unresolved sin and conflict (stemming from the anger mentioned earlier) have severe consequences before God, the ultimate Judge. Failing to seek reconciliation carries a heavy spiritual cost.
 
-> [`Luke 12:57-59`]. A very close parallel passage, emphasizing the same urgency.
+> [`Luke 12:57-59`](https://biblehub.com/luke/12.htm#57). A very close parallel passage, emphasizing the same urgency.
 
-> [`Matthew 18:21-35`]. The Parable of the Unforgiving Servant, showing the severe consequences of failing to extend mercy/forgiveness after receiving it from God.
+> [`Matthew 18:21-35`](https://biblehub.com/matthew/18.htm#21). The Parable of the Unforgiving Servant, showing the severe consequences of failing to extend mercy/forgiveness after receiving it from God.
 
 ## Key Theological Themes
 
