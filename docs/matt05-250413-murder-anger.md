@@ -9,7 +9,9 @@ title: Anger & Reconciliation
 
 # Anger & Reconciliation. (Matthew 5:21-26)
 
-## Structure/Outline
+## Introduction
+
+### Structure/Outline
 
 Manifesto of the King
 
@@ -25,7 +27,7 @@ Manifesto of the King
     
 3.  Relationship with the Kingdom (ch 7)
     
-## Review 
+### Review 
 
 Jesus did not come to **ABOLISH** the Law, but rather to **FULFILL** the Law.
 
@@ -35,7 +37,7 @@ Jesus did not come to **ABOLISH** the Law, but rather to **FULFILL** the Law.
     
     When you were really angry with someone but managed to hold back from saying or doing something hurtful. What helped you control your anger in that moment, and how did you feel afterward?
 
-## Passage
+### Passage
 
 !!! quote "Matthew 5:21-26"
 
@@ -47,7 +49,7 @@ Jesus did not come to **ABOLISH** the Law, but rather to **FULFILL** the Law.
     
     25 Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. 26 Truly I tell you, you will not get out until you have paid the last penny.
 
-## Context
+### Context
 
 Jesus has just stated that He did not come to abolish the Law but to fulfill it, and that our righteousness must exceed that of the scribes and Pharisees (5:17-20). This passage is the first of **six antitheses** where Jesus contrasts traditional understanding ("*You have heard it said...*") with His deeper interpretation ("*But I say to you...*").
 
@@ -61,7 +63,6 @@ Jesus has just stated that He did not come to abolish the Law but to fulfill it,
 
 !!! info "Murder"   
     (Heb. ratsach). murder, slay, with premeditation.
-
 
 > [`Exodus 20:13`](https://biblehub.com/exodus/20-13.htm). Do not murder. Also [`Deuteronomy 5:17`](https://biblehub.com/deuteronomy/5-17.htm).
 
@@ -113,11 +114,11 @@ Jesus claims authority equal to or greater than the traditional interpretation o
 
 ### What is the root of murder?
 
-The same root of *malice* and *disregard* for the value of another human being that leads to physical murder is present in *unrighteous anger*, *contemptuous speech* (Raca), and *condemning judgment* (You fool!). 
+The same root of *malice* and *disregard* for the value of another human being that leads to **physical murder** is present in _unrighteous anger_, _contemptuous speech_ (Raca), and *condemning judgment* (You fool!). 
 
 While the Old Testament Law primarily dealt with the *external* act, Jesus revealed that God judges the *internal* attitude with equal seriousness, connecting these heart issues to judgment, even the *fire of hell*. He wasn't lessening the gravity of physical murder; He was elevating the gravity of the internal sins that are its root.
 
-Being angry with a brother *without cause* or with simmering resentment makes one subject to judgment.
+Being angry with a brother _without cause_ or with simmering _resentment_ makes one subject to judgment.
 
 > [`1 John 3:15`](https://biblehub.com/1john/3-15.htm). Anyone who hates his brother is a murderer.
 
