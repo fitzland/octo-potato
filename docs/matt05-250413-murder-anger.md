@@ -90,17 +90,17 @@ When we typically hear the sixth commandment, it goes like this: *Thou shall not
 
 > [`Exodus 22:2`](https://biblehub.com/exodus/22-2.htm). If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed.
 
-### What is the basis for the prohibition?
+### Why is murder prohibited?
 
-**Sanctity of Human Life**. Human life is sacred because people are created in the _image of God_ (Genesis 1:27).
+**Value of Human Life**. Human life is sacred because people are created in the _image of God_ (Genesis 1:27).
 
-- Taking a human life is not just an assault on the individual but on God in whose image they are made.
+**Attack on God**. Taking a human life is not just an assault on the individual but on the God in whose image they are made.
+
+### What are the consequences of murder?
 
 > [`Genesis 9:6`](https://biblehub.com/genesis/9-6.htm). Whoever sheds human blood, by humans shall their blood be shed.
 
-- This verse, given after the Flood long before the Mosaic Law, establishes the principle: taking a life made in God's image demands the forfeiture of the killer's life as a just consequence.
-
-### What are the consequences of murder?
+**Established Principle**. This verse, given after the Flood long before the Mosaic Law, establishes the principle: taking a life made in God's image demands the forfeiture of the killer's life as a just consequence.
 
 **Capital Punishment**. The penalty for proven murder was death. There was no possibility of substitution or paying a ransom (Numbers 35:31). The principle of *lex talionis* ("life for life" - Exodus 21:23-24) applied directly here.
 
@@ -116,15 +116,15 @@ Jesus claims authority equal to or greater than the traditional interpretation o
 
 ### What is the root of murder?
 
-The same root of *malice* and *disregard* for the value of another human being that leads to **physical murder** is present in _unrighteous anger_, _contemptuous speech_ (Raca), and *condemning judgment* (You fool!). 
-
-While the Old Testament Law primarily dealt with the *external* act, Jesus revealed that God judges the *internal* attitude with equal seriousness, connecting these heart issues to judgment, even the *fire of hell*. He wasn't lessening the gravity of physical murder; He was elevating the gravity of the internal sins that are its root.
-
-Being angry with a brother _without cause_ or with simmering _resentment_ makes one subject to judgment.
+> [`Genesis 4:5-8`](https://biblehub.com/genesis/4.htm). Cain's anger preceded his murder of Abel.
 
 > [`1 John 3:15`](https://biblehub.com/1john/3-15.htm). Anyone who hates his brother is a murderer.
 
-> [`Genesis 4:5-8`](https://biblehub.com/genesis/4.htm). Cain's anger preceded his murder of Abel.
+**Anger**. The same root of *malice* and *disregard* for the value of another human being that leads to **physical murder** is present in _unrighteous anger_, _contemptuous speech_ (Raca), and *condemning judgment* (You fool!). 
+
+While the Old Testament Law primarily dealt with the _external act_, Jesus revealed that God judges the _internal attitude_ with equal seriousness. He connects these heart issues to judgment, even the _fire of hell_. He wasn't lessening the gravity of physical murder; He was elevating the gravity of the internal sins that are its root.
+
+Being angry with a brother _without cause_ or with simmering _resentment_ makes one subject to judgment.
 
 > [`Ephesians 4:26-27`](https://biblehub.com/ephesians/4.htm). Be angry, yet do not sin.
 
@@ -140,6 +140,12 @@ Jesus describes how internal anger manifests verbally with increasing severity:
 | **Raca** | Showing contempt for intellect/worth | Subject to the Sanhedrin (highest Jewish court) |
 | **You fool!** | Implying moral and spiritual deficiency (Psalm 14:1) | Subject to the fire of hell (Gehenna) |
 
+> [`Proverbs 12:18`](https://biblehub.com/proverbs/12-18.htm). The words of the reckless pierce like swords.
+
+> [`Matthew 12:36-37`](https://biblehub.com/matthew/12.htm#36). Men will have to give account on the day of judgment for every careless word.
+
+> [`James 3:6-10`](https://biblehub.com/james/3.htm#6). The destructive power of the tongue.
+
 !!! info "Raca"   
     (Grk. rhaka). from an Aramaic term meaning empty-headed, worthless.
     
@@ -147,35 +153,25 @@ Jesus describes how internal anger manifests verbally with increasing severity:
 
 !!! info "Sanhedrin"   
     The Sanhedrin was the highest Jewish judicial council in Jerusalem, composed of 71 members (elders, chief priests, scribes). It dealt with the most serious religious and legal matters.
+    
+    Jesus isn't necessarily saying that the Sanhedrin would literally prosecute someone for using this term. Rather, He's using the highest human court as a *benchmark for the seriousness* of the offense in God's eyes.
 
-Jesus isn't necessarily saying that the historical Sanhedrin would literally prosecute someone for using this term. Rather, He's using the highest human court as a *benchmark for the seriousness* of the offense in God's eyes.
-
-He is saying that expressing such contempt for another person is a violation bad enough to warrant judgment before the highest authority. It signifies a severe breach of community and relationship, deeply offensive to the God who created that person.
+> [`Psalm 14:1`](https://biblehub.com/psalms/14-1.htm). The fool says in his heart, 'There is no God.'
 
 !!! info "You Fool!"   
     (Gr. mōros). dull, stupid; to imply moral and spiritual deficiency, godlessness. 
     
     This word from which we get the word _moron_ carries a heavier weight than just intellectual deficiency. It implies *moral and spiritual* deficiency. 
 
-> [`Psalm 14:1`](https://biblehub.com/psalms/14-1.htm). The fool says in his heart, 'There is no God.'
+**Fire of Hell**. Jesus indicates that this kind of condemnatory speech reflects a heart condition that is so severely opposed to God's love and judgment that it aligns the speaker with those deserving eternal punishment. 
 
-**Fire of Hell**. By assigning this ultimate consequence, Jesus indicates that this kind of condemnatory speech reflects a heart condition that is so severely opposed to God's love and judgment that it aligns the speaker with those deserving eternal punishment. 
-
-When we label someone as a moral and spiritual reprobate, we usurp God's role as judge and express a level of malice and condemnation that originates from a heart condition worthy of hell itself.
-
-#### Cross-references
-  
-> [`Proverbs 12:18`](https://biblehub.com/proverbs/12-18.htm). The words of the reckless pierce like swords.
-
-> [`Matthew 12:36-37`](https://biblehub.com/matthew/12.htm#36). Men will have to give account on the day of judgment for every careless word.
-
-> [`James 3:6-10`](https://biblehub.com/james/3.htm#6). The destructive power of the tongue.
+**My Judgment**. When we label someone as a moral and spiritual reprobate, we usurp God's role as judge and express a level of malice and condemnation that originates from a heart condition worthy of hell itself.
 
 ## At the Altar
 
 > [`Matthew 5:23-24`](https://biblehub.com/matthew/5.htm#21) So if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift.
 
-### What is the significance of offering a gift at the altar?
+### What is the significance?
 
 **Act of Worship**. The Temple in Jerusalem, and specifically its altar(s), was the designated center of Israel's worship life according to the Mosaic Covenant. Bringing offerings was not optional for a devout Jew; it was a commanded means of relating to God.
 
@@ -213,11 +209,9 @@ Bringing an offering was a serious and structured event:
 
 **Bringing Offering**. The worshiper would bring their offering (an unblemished animal, grain, etc.) into the appropriate Temple court.
 
-**Approaching Altar**. They would approach the vicinity of the great Brazen Altar in the Court of the Priests.
+**Approaching Altar**. They would approach the Altar in the Court of the Priests.
 
 **Inspection & Ritual**. Priests officiated the process: inspecting the offering, performing the necessary ritual actions (like laying on of hands by the worshiper for animal sacrifices, slaughtering, manipulating the blood against the altar, burning specific portions on the altar fire).
-
-**Presentation**. The act of placing the gift *at* or *before* the altar was a pivotal moment signifying its presentation to God.
 
 **High Importance**. This act of presenting an offering at the altar was considered one of the most sacred duties and privileges. It was the prescribed way to draw near to God, deal with sin, express devotion, and maintain one's standing within the covenant community. It was a tangible expression of faith and repentance.
 
@@ -225,17 +219,13 @@ Bringing an offering was a serious and structured event:
 
 #### Requirements & Readiness
 
-**Ritual Purity**. A worshiper had to be in a state of ritual purity to enter the sacred Temple precincts and participate in offerings. If someone realized they had contracted ritual impurity (e.g., contact with a dead body, certain bodily discharges - see Leviticus 11-15, Numbers 19), they would first need to undergo the prescribed purification rituals, which could take time, *before* they could proceed with their offering. Uncleanness barred access.
+**Ritual Purity**. Uncleanness barred access. If someone realized they had contracted ritual impurity (e.g., contact with a dead body, certain bodily discharges - see Leviticus 11-15, Numbers 19), they would first need to undergo the prescribed purification rituals, before they could proceed with their offering. 
 
-**Correctness of the Offering**. If the offering itself was found to be blemished or unsuitable according to the specific requirements of the Law for that type of offering, it would be rejected. The worshiper would need to procure a proper offering.
+**Unsatisfactory Offering**. If the offering itself was found to be blemished or unsuitable according to the specific requirements of the Law for that type of offering, it would be rejected. The worshiper would need to procure a proper offering.
 
-**Following Prescribed Order**. The rituals themselves had a specific order. A worshiper couldn't just rush to the altar; they had to follow the steps mediated by the priesthood.
+**Prescribed Order**. The rituals themselves had a specific order. A worshiper couldn't just rush to the altar; they had to follow the steps mediated by the priesthood.
 
-**Major Unrepented Sin**. While the *ritual system* itself focused heavily on correct procedure and purity, the prophets had long emphasized that God rejected sacrifices offered by those who were simultaneously living in gross injustice, idolatry, or rebellion without repentance (Isaiah 1:11-17; Jeremiah 7:21-23; Amos 5:21-24; Micah 6:6-8). 
-
-- They declared that God desired "mercy, not sacrifice," and "justice... rather than burnt offerings." However, in the *daily practice* and understanding of many, the ritual often proceeded unless the person was formally excluded or personally convicted to repent first. 
-
-- The *systemic* prerequisite was usually ritual purity, not necessarily proven relational integrity at that exact moment (though relational integrity was certainly part of God's overall expectation for righteousness).
+**Unrepented Sin**. While the ritual system itself focused heavily on correct procedure and purity, the prophets had long emphasized that God rejected sacrifices offered by those who were simultaneously living in gross injustice, idolatry, or rebellion without repentance ([`Isaiah 1:11-17`](https://biblehub.com/isaiah/1.htm#11); [`Jeremiah 7:21-23`](https://biblehub.com/jeremiah/7.htm#21); [`Amos 5:21-24`](https://biblehub.com/amos/5.htm#21); [`Micah 6:6-8`](https://biblehub.com/micah/6.htm#6)). 
 
 ### What new requirement does Jesus offer?
 
