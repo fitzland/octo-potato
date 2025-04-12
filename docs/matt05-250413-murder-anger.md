@@ -255,11 +255,36 @@ Bringing an offering was a serious and structured event:
 
 !!! example "Illustration"   
     
-    Jesus uses a practical, everyday example of someone being taken to court by an adversary (accuser). In most cases, you are better off settling out of court (cost, time, & some control over the outcome).
+    Jesus uses a practical, everyday example of someone being taken to court by an adversary (accuser). He tells us that we would be better off settling out of court (cost, time, & some control over the outcome).
     
 > [`Proverbs 25:8`](https://biblehub.com/proverbs/25-8.htm). Do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?" (Advises settling disputes).
 
-**Progressive Consequences**. When we don't settle out of court, we have less control over the outcome. 
+**Progressive Consequences**. Here's the breakdown of the process He describes:
+
+1. **on the way to court**. This is the initial stage, *before* any formal legal action has been taken. The "adversary" (Greek: *antidikos* - opponent in a lawsuit) is someone who has a claim or grievance against you. "In the way with him" literally means while you are walking together, perhaps on the road *to* the magistrate or court, or simply while you still have the opportunity for direct, private interaction before escalating the matter.
+
+    - **reconcile quickly**. This means negotiating, compromising, apologizing, making restitution – whatever is necessary to resolve the dispute privately and amicably between the two parties involved. The goal is to prevent the conflict from entering the formal legal system.
+
+2. **to the judge**. If you fail to "reconcile quickly" during the "out of court" phase, the adversary proceeds with formal legal action. They bring the complaint before the designated authority – the "judge" (Greek: *kritēs*). This moves the dispute from a private matter to a public, legal one.
+
+    - **Shift in Control**. At this point, you lose direct control over the resolution. The power to decide the outcome now rests with the judge, an impartial (in theory) third party. The adversary is no longer someone you can simply negotiate with; they are presenting their case for a formal ruling.
+
+3. **to the officer**. The judge makes a ruling. If the judgment goes against you (e.g., you are found liable for a debt or guilty of an offense requiring payment or penalty), the judge doesn't personally enforce the sentence. Instead, the judge hands you over (delivers you) to the appropriate enforcement agent – the "officer" (Greek: *hypēretēs* - attendant, servant, often used for court officials, bailiffs, or guards).
+
+    - **Formal Enforcement**. The judge's decision is formalized. The officer is now legally authorized and responsible for carrying out the sentence decreed by the judge. This could involve seizing property, collecting a fine, or, as mentioned next, imprisonment.
+
+4.  **to prison**. This is the final stage in the scenario Jesus presents. The officer carries out the judge's sentence by imprisoning the person who failed to settle earlier. In that era, imprisonment was often used for debtors until the debt was paid (sometimes by relatives or friends), not necessarily just for criminals as we might primarily think today.
+
+    - **Physical confinement**. The person loses their freedom as a direct consequence of the legal judgment. Jesus adds in the next verse (v. 26) the severity: "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing." This emphasizes the potentially inescapable and complete nature of the consequence once this stage is reached.
+
+**The Deeper Meaning**. While describing a literal process, Jesus uses this as an analogy for spiritual matters:
+
+*   **The Adversary:** Can represent someone we have wronged, or ultimately, God, against whom we have sinned.
+*   **"In the Way":** Represents our current life – the time we have *now* to get right with others and with God.
+*   **"Agree Quickly":** Represents repentance, seeking forgiveness, making amends, and reconciling relationships *before* it's too late.
+*   **Judge, Officer, Prison:** Represent the process of divine judgment and its inescapable consequences for unresolved sin and broken relationships.
+
+Jesus' point is one of **urgency**. He is stressing the critical importance of dealing with conflict, guilt, and relational breaches *immediately* – both horizontally (with other people) and vertically (with God) – to avoid far more severe and potentially irreversible consequences later on (i.e., judgment). He connects this directly to his teachings on anger and the need for reconciliation before even attempting religious acts like offering sacrifices (Matthew 5:23-24).
 
 1. You accuser may hand you over to the Judge.
 2. The judge may hand you over to an officer.
