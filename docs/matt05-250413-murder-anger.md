@@ -245,31 +245,34 @@ Bringing an offering was a serious and structured event:
 
 > [`1 John 4:20`](https://biblehub.com/1john/4-20.htm) If anyone says, 'I love God,' yet hates his brother, he is a liar.
 
-## Urgency of Reconciliation
+## What happens when you don't reconcile?
 
 > [`Matthew 5:25-26`](https://biblehub.com/matthew/5.htm#25) Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. Truly I tell you, you will not get out until you have paid the last penny.
+
+> [`Romans 12:18`]. If it is possible, as far as it depends on you, live at peace with everyone." (The goal of peaceful relationships).
 
 ### Settling Out of Court
 
 !!! example "Illustration"   
     
-    Jesus uses a practical, everyday illustration: someone being taken to court by an adversary (accuser).
+    Jesus uses a practical, everyday example of someone being taken to court by an adversary (accuser).
     
-    Settle the matter before it escalates to formal judgment.
+    In most cases, you are better off settling out of court (cost & time, control over the outcome).
     
-    
-Failure to reconcile leads to a progression of negative consequences: judge -> officer -> prison.
-
-**Consequence**. Full Payment Required 
-
-The imprisonment described is not lenient; one stays "until you have paid the last penny." This implies a strict and complete execution of the sentence or debt.
-
-While this has a literal application to legal and financial disputes, within the context of the Sermon on the Mount, it strongly implies a spiritual parallel. Unresolved sin and conflict (stemming from the anger mentioned earlier) have severe consequences before God, the ultimate Judge. Failing to seek reconciliation carries a heavy spiritual cost.
-
-> [`Luke 12:57-59`]. A very close parallel passage, emphasizing the same urgency.
 > [`Proverbs 25:8`]. Do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?" (Advises settling disputes).
 
-> [`Romans 12:18`]. If it is possible, as far as it depends on you, live at peace with everyone." (The goal of peaceful relationships).
+**Progressive Consequences**. When we don't settle out of court, we have less control over the outcome. 
+
+1. You accuser may hand you over to the Judge.
+2. The judge may hand you over to an officer.
+3. The officer will throw you into prison. 
+4. You'll remain in prison until your debt is paid.
+
+**No Leniency**. The imprisonment described is not lenient; full payment is required (stay until you have paid the last penny). 
+
+**Spiritual Parallel**. While this has a literal application to legal and financial disputes, it strongly implies a spiritual parallel. Unresolved sin and conflict (stemming from the anger mentioned earlier) have severe consequences before God, the ultimate Judge. Failing to seek reconciliation carries a heavy spiritual cost.
+
+> [`Luke 12:57-59`]. A very close parallel passage, emphasizing the same urgency.
 
 > [`Matthew 18:21-35`]. The Parable of the Unforgiving Servant, showing the severe consequences of failing to extend mercy/forgiveness after receiving it from God.
 
