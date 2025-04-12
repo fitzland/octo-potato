@@ -51,7 +51,7 @@ Jesus did not come to **ABOLISH** the Law, but rather to **FULFILL** the Law.
 
 ### Context
 
-Jesus has just stated that He did not come to abolish the Law but to fulfill it, and that our righteousness must exceed that of the scribes and Pharisees (5:17-20). This passage is the first of **six antitheses** where Jesus contrasts traditional understanding ("*You have heard it said...*") with His deeper interpretation ("*But I say to you...*").
+Jesus has stated that He did not come to abolish the Law but to fulfill it, and that our righteousness must exceed that of the scribes and Pharisees (5:17-20). Now, Jesus provides the first of six **antitheses** where He contrasts the traditional understanding ("*You have heard it said...*") with His more complete interpretation ("*But I say to you...*").
 
 ## The Sixth Commandment
 
@@ -59,12 +59,14 @@ Jesus has just stated that He did not come to abolish the Law but to fulfill it,
 
 ### What is the traditional understanding?
 
-**Decalogue**. We typically hear the sixth commandment as: *Thou shall not kill*, but the Hebrew term specifically refers to unlawful, intentional killing with malice.
+**Decalogue**. Jesus references specifically the Decalogue (or 10 Commandments) and more generally all the judicial guidelines related to the sixth command in the Law. 
 
-!!! info "Murder"   
-    (Heb. ratsach). murder, slay, with premeditation.
+When we typically hear the sixth commandment, it goes like this: *Thou shall not kill*, but the Hebrew term is more specific and refers to unlawful, intentional killing with malice.
 
 > [`Exodus 20:13`](https://biblehub.com/exodus/20-13.htm). Do not murder. Also [`Deuteronomy 5:17`](https://biblehub.com/deuteronomy/5-17.htm).
+
+!!! info "Murder"   
+    (Heb. ratsach). murder, slay with premeditation and evil intent.
 
 ### What are other forms of killing?
 
@@ -257,6 +259,9 @@ Bringing an offering was a serious and structured event:
 
 ## IV. Urgency of Reconciliation (vv. 25-26)
 
+> [`Matthew 5:25-26`](https://biblehub.com/matthew/5.htm#25) Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. Truly I tell you, you will not get out until you have paid the last penny.
+
+
 ### The Legal Analogy
 - "Settle matters quickly with your adversary who is taking you to court"
 - Failure to reconcile leads to escalating consequences: adversary → judge → officer → prison
@@ -266,17 +271,19 @@ Bringing an offering was a serious and structured event:
 - This has both practical and spiritual applications
 - There is urgency in resolving conflicts - both in human relationships and with God
 - The time for reconciliation is limited - "while you are still on the way"
-- **Cross-references:**
+
+#### Cross-references
+
   - A parallel passage emphasizing urgency (Luke 12:57-59)
   - "As far as it depends on you, live at peace with everyone" (Romans 12:18)
   - The Parable of the Unforgiving Servant (Matthew 18:21-35)
 
 ## Key Theological Themes
 
-1. **Internal Righteousness**: God judges the heart, not just external actions
-2. **Authority of Jesus**: He claims authority to interpret and deepen the Law
-3. **Relationship Priority**: Reconciled relationships precede acceptable worship
-4. **Urgency**: Time for dealing with sin and seeking reconciliation is limited
+1. **Internal Righteousness**. God judges the heart, not just external actions
+2. **Authority of Jesus**. He claims authority to interpret and deepen the Law
+3. **Relationship Priority**. Reconciled relationships precede acceptable worship
+4. **Urgency**. Time for dealing with sin and seeking reconciliation is limited
 
 ## Application Points
 
