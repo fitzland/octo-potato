@@ -231,42 +231,47 @@ Bringing an offering was a serious and structured event:
 
 #### Go Be Reconciled
 
+> [`Matthew 9:13`](https://biblehub.com/matthew/9-13.htm). I desire mercy, not sacrifice. Also [`Hosea 6:6`](https://biblehub.com/hosea/6-6.htm)
+
 **Reconciliation**. Jesus suggest that relational reconciliation takes absolute priority over religious ritual.
 
 #### Significance
 
 **Relationships**. God values restored human relationships more than religious rituals performed while relationships remain broken.
 
-**Impact**. The horizontal relationship (person-to-person) directly impacts the vertical relationship (person-to-God).
-
-#### Cross-references
-
-> [`Matthew 9:13`](https://biblehub.com/matthew/9-13.htm). I desire mercy, not sacrifice. Also [`Hosea 6:6`](https://biblehub.com/hosea/6-6.htm)
-
 > [`Mark 11:25`](https://biblehub.com/mark/11-25.htm) If you hold anything against anyone, forgive him.
+
+**Impact**. Our horizontal relationship (person-to-person) directly impacts our vertical relationship (person-to-God).
 
 > [`1 John 4:20`](https://biblehub.com/1john/4-20.htm) If anyone says, 'I love God,' yet hates his brother, he is a liar.
 
-## IV. Urgency of Reconciliation (vv. 25-26)
+## Urgency of Reconciliation
 
 > [`Matthew 5:25-26`](https://biblehub.com/matthew/5.htm#25) Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. Truly I tell you, you will not get out until you have paid the last penny.
 
+### Settling Out of Court
 
-### The Legal Analogy
-- "Settle matters quickly with your adversary who is taking you to court"
-- Failure to reconcile leads to escalating consequences: adversary → judge → officer → prison
-- "You will not get out until you have paid the last penny" - implies complete execution of the sentence
+!!! example "Illustration"   
+    
+    Jesus uses a practical, everyday illustration: someone being taken to court by an adversary (accuser).
+    
+    Settle the matter before it escalates to formal judgment.
+    
+    
+Failure to reconcile leads to a progression of negative consequences: judge -> officer -> prison.
 
-### Spiritual Implications
-- This has both practical and spiritual applications
-- There is urgency in resolving conflicts - both in human relationships and with God
-- The time for reconciliation is limited - "while you are still on the way"
+**Consequence**. Full Payment Required 
 
-#### Cross-references
+The imprisonment described is not lenient; one stays "until you have paid the last penny." This implies a strict and complete execution of the sentence or debt.
 
-  - A parallel passage emphasizing urgency (Luke 12:57-59)
-  - "As far as it depends on you, live at peace with everyone" (Romans 12:18)
-  - The Parable of the Unforgiving Servant (Matthew 18:21-35)
+While this has a literal application to legal and financial disputes, within the context of the Sermon on the Mount, it strongly implies a spiritual parallel. Unresolved sin and conflict (stemming from the anger mentioned earlier) have severe consequences before God, the ultimate Judge. Failing to seek reconciliation carries a heavy spiritual cost.
+
+> [`Luke 12:57-59`]. A very close parallel passage, emphasizing the same urgency.
+> [`Proverbs 25:8`]. Do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?" (Advises settling disputes).
+
+> [`Romans 12:18`]. If it is possible, as far as it depends on you, live at peace with everyone." (The goal of peaceful relationships).
+
+> [`Matthew 18:21-35`]. The Parable of the Unforgiving Servant, showing the severe consequences of failing to extend mercy/forgiveness after receiving it from God.
 
 ## Key Theological Themes
 
