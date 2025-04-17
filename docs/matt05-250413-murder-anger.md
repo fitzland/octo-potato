@@ -27,7 +27,7 @@ Manifesto of the King
     
 3.  Relationship with the Kingdom (ch 7)
     
-### Review 
+### Review (Jesus & the Law)
 
 Jesus did not come to **ABOLISH** the Law, but rather to **FULFILL** the Law.
 
