@@ -29,13 +29,13 @@ Manifesto of the King
 
 !!! question "Icebreaker"
 
-    Think about the phrase *purity of heart*. What does that phrase mean to you, even before we dive into the text?
+    Think about the phrase *purity of heart*. What does that phrase mean to you?
 
     When you hear the commandment 'You shall not commit adultery,' what actions or scenarios immediately come to mind?
 
 Think about the traditional, external understanding.
 
-> In today's world, where do you think the _line_ is drawn by most people regarding faithfulness in relationships? Is it mostly about physical actions?
+In today's world, where do you think the _line_ is drawn by most people regarding faithfulness in relationships? Is it mostly about **physical actions**?
 
 ### Context
 
@@ -69,7 +69,7 @@ Jesus acknowledges the established commandment against the act of adultery.
 
 This was the seventh command of the Decalogue.
 
-> `Exodus 20:14`. You shall not *commit adultery*.
+> [`Exodus 20:14`](https://biblehub.com/exodus/20-14.htm). You shall not *commit adultery*.
 
 [`moicheuō`] The primary focus was avoiding the **physical act** itself. The command was an *external boundary*.
 
@@ -79,7 +79,7 @@ The general understanding was that the command was fulfilled by simply avoiding 
 
 Under Old Testament Law the consequences were severe.
 
-> `Leviticus 20:10`. If a man commits adultery with another man's wife—with the wife of his neighbor—both the adulterer and the adulteress must surely *be put to death*.
+> [`Leviticus 20:10`](https://biblehub.com/leviticus/20-10.htm). If a man commits adultery with another man's wife—with the wife of his neighbor—both the adulterer and the adulteress must surely *be put to death*.
 
 ## Spirit of the Law
 
@@ -93,26 +93,26 @@ Under Old Testament Law the consequences were severe.
 
 Jesus reveals that God's standard includes the heart; lustful intent is adultery of the heart.
 
-[`blepōn`] looking—a common word for physical sight; a present active participle---continuous action; looking long enough for intent to
+[`blepōn`] looking—a common word for physical sight; a present active participle—continuous action; looking long enough for intent to
 form.
 
-[`epithymēsai`]. lustfully—the Greek implies looking with the purpose of desiring or coveting sexually. It's not merely noticing someone\'s appearance, but indulging a desire for them in the heart.
+[`epithymēsai`]. lustfully—the Greek implies looking with the purpose of desiring or coveting sexually. It's not merely noticing someone's appearance, but indulging a desire for them in the heart.
 
 **A deliberate look with a specific purpose or intent.**
 
 Jesus equates this internal sin (*in his heart*) with the act itself in terms of guilt before God.
 
-He emphasizes God\'s concern with our inner world---our thoughts, desires, and motivations.
+He emphasizes God's concern with our inner world—our thoughts, desires, and motivations.
 
-> `Proverbs 4:23`. Guard your heart above all else, for it is the source of life.
+> [`Proverbs 4:23`](https://biblehub.com/proverbs/4-23.htm). Guard your heart above all else, for it is the source of life.
 
-> `Mark 7:21-23`. For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery, coveting, wickedness, deceit, licentiousness, envy, slander, arrogance, and foolishness.
+> [`Mark 7:21-23`](https://biblehub.com/mark/7.htm#21). For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery, coveting, wickedness, deceit, licentiousness, envy, slander, arrogance, and foolishness.
 
 ### Broadening Lust
 
 Jesus specifically addresses *sexual lust* here, but the principle of **internal desire leading to sin** can apply more broadly.
 
-> `1 John 2:16`. For all that is in the world—the desires of the flesh, the desires of the eyes, and the pride of life—is not from the Father but from the world.
+> [`1 John 2:16`](https://biblehub.com/1john/2-16.htm). For all that is in the world—the desires of the flesh, the desires of the eyes, and the pride of life—is not from the Father but from the world.
 
 #### What are some other ways that lust can manifest?
 
@@ -126,13 +126,9 @@ Lust for food.
 
 Lust for control.
 
-> `James 1:14-15`. But each one is tempted when by his own evil desire he is lured away and enticed. Then after desire has conceived, it gives birth to sin; and sin, when it is fully grown, gives birth to death.
+> [`James 1:14-15`](https://biblehub.com/james/1.htm#14). But each one is tempted when by his own evil desire he is lured away and enticed. Then after desire has conceived, it gives birth to sin; and sin, when it is fully grown, gives birth to death.
 
 Shows the progression starting with internal desire.
-
-> `Colossians 3:5`. Put to death, therefore, the components of your earthly nature: sexual immorality, impurity, lust, evil desires, and greed, which is idolatry.
-
-This verse links lust, evil desires, & greed directly to idolatry. **Putting something in front of God**.
 
 ### Key Point
 
@@ -146,7 +142,7 @@ We must not place our desires for things above our desire for God.
     
     And if your right hand causes you to sin, cut it off and throw it away. *It is better* for you *to lose one part* of your body than **for your whole body to go into hell**.
 
-> `Mark 9:43, 47`. If your hand causes you to sin, cut it off… And if your eye causes you to sin, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell…
+> [`Mark 9:43, 47`](https://biblehub.com/mark/9.htm#43). If your hand causes you to sin, cut it off… And if your eye causes you to sin, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell…
 
 ### What Jesus says—Hyperbole
 
@@ -166,13 +162,13 @@ Jesus is telling us that the danger of sin is so great that we must take decisiv
 
 Be ruthless in identifying and removing anything that causes you to sin or stumble, no matter how valuable it may seem.
 
-> `Colossians 3:5`. Put to death, therefore, the components of your earthly nature: sexual immorality, impurity, lust, evil desires, and greed, which is idolatry.
+> [`Colossians 3:5`](https://biblehub.com/colossians/3-5.htm). Put to death, therefore, the components of your earthly nature: sexual immorality, impurity, lust, evil desires, and greed, which is idolatry.
 
-> `1 Corinthians 9:27`. No, I discipline my body and make it my slave, so that after I have preached to others, I myself will not be disqualified. (Paul's doesn't want to be a hypocrite so he takes spiritual discipline seriously).
+> [`1 Corinthians 9:27`](https://1corinthians/9-27.htm). No, I discipline my body and make it my slave, so that after I have preached to others, I myself will not be disqualified. (Paul's doesn't want to be a hypocrite so he takes spiritual discipline seriously).
 
 ### A Helpful Comparison
 
-*Losing a part* (a source of temptation, a habit, a relationship, access to certain media) is far better than **losing your whole self** to judgment (hell---Gehenna, the place of final judgment).
+*Losing a part* (a source of temptation, a habit, a relationship, access to certain media) is far better than **losing your whole self** to judgment (hell—Gehenna, the place of final judgment).
 
 It demands decisive action, not passive hopefulness.
 
@@ -208,7 +204,7 @@ It demands decisive action, not passive hopefulness.
 
 **What** **is** **it**. creating rationalizations or excuses for entertaining lustful thoughts or engaging in borderline behaviors.
 
-**How it looks**. everyone struggles with this; it's just a fantasy, it's not hurting anyone; my spouse isn\'t meeting my needs, so this is understandable; compared to others, my struggle is minor.
+**How it looks**. everyone struggles with this; it's just a fantasy, it's not hurting anyone; my spouse isn't meeting my needs, so this is understandable; compared to others, my struggle is minor.
 
 > `Jeremiah 17:9`. justification is self-deception.
 
@@ -218,7 +214,7 @@ It demands decisive action, not passive hopefulness.
 
 **What** **is** **it**. shifting the responsibility for my own lustful thoughts or actions onto external factors.
 
-**How it looks**. she shouldn't have dressed that way; media is full of it, how can I avoid it?; if my life weren't so stressful, I wouldn't need this escape; it's my spouse's fault for...; she flirted with me first.
+**How it looks**. she shouldn't have dressed that way; media is full of it, how can I avoid it?; if my life weren't so stressful, I wouldn't need this escape; it's my spouse's fault for…; she flirted with me first.
 
 > `James 1:14`. we are tempted when drawn away *by our own* evil desire.
 
@@ -244,7 +240,7 @@ It demands decisive action, not passive hopefulness.
 
 God's grace empowers us to live righteously.
 
-> `Titus 2:11-12`. For the grace of God has appeared, bringing salvation to all people. It trains us to renounce ungodliness and worldly passions, and to live sensible, righteous, and godly lives in the present age...
+> `Titus 2:11-12`. For the grace of God has appeared, bringing salvation to all people. It trains us to renounce ungodliness and worldly passions, and to live sensible, righteous, and godly lives in the present age…
 
 > `Hebrews 4:16`. Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.
 
@@ -276,7 +272,7 @@ We are not meant to fight these battles alone.
 
 Filling our minds with truth displaces sinful thoughts.
 
-> `Psalm 119:9, 11`. How can a young man keep his way pure? By guarding it according to Your word\... I have hidden Your word in my heart that I might not sin against You.
+> `Psalm 119:9, 11`. How can a young man keep his way pure? By guarding it according to Your word… I have hidden Your word in my heart that I might not sin against You.
 
 > `Joshua 1:8`. This Book of the Law must not depart from your mouth; meditate on it day and night, so that you may be careful to do everything written in it.
 
@@ -286,7 +282,7 @@ Communication with God is essential for strength, wisdom and deliverance from te
 
 > `Matthew 26:41`. Watch and pray so that you will not enter into temptation. The spirit is willing, but the flesh is weak.
 
-> `Matthew 6:13 `{.western}(Part of the Lord\'s Prayer). And lead us not into temptation, but deliver us from the evil one.
+> `Matthew 6:13 `{.western}(Part of the Lord's Prayer). And lead us not into temptation, but deliver us from the evil one.
 
 #### focusing thoughts on God
 
@@ -302,7 +298,7 @@ Choosing what to dwell on is crucial for mental purity.
 
 > `Philippians 4:8`. Finally, brothers, whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.
 
-> `Romans 12:2`. Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is---His good, pleasing and perfect will.
+> `Romans 12:2`. Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is—His good, pleasing and perfect will.
 
 ## Conclusion & Prayer
 
