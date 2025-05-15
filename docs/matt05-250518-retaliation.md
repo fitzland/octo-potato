@@ -33,31 +33,31 @@ As He lays out the ethics and righteousness expected of citizens in the Kingdom 
 
 Jesus used the following pattern:
 
-*You have heard it said*… But I say to you…**
+_You have heard it said… But I say to you…_
 
-And, He's raising the standard from *outward conformity *to inward transformation.
+And, He's raising the standard from **outward conformity** to **inward transformation**.
 
-##### A Review of Last few Passages
+##### A Review of the Last Few Passages
 
-Jesus didn’t come to **abolish **the Law, but rather to fulfill.
+Jesus didn’t come to _abolish_ the Law, but rather to **fulfill**.
 
-Our righteousness *must exceed *that of the Pharisees.
+Our righteousness must _exceed_ that of the Pharisees.
 
-Our internal *anger *can lead to outward murder.
+Our internal _anger_ can lead to outward **murder**.
 
-Our *lust *is actually adultery of the heart.
+Our _lust_ is actually **adultery** of the heart.
 
-Divorce is encouraged, but allowed and it’s not just because someone is displeasing.
+Divorce is not _encouraged_, but **allowed** and it’s not just because someone is _displeasing_.
 
-Our speech should be *truthful*, *consistent *and reliable.
+Our speech should be _truthful_, _consistent_ and _reliable_.
 
 ##### In this passage
 
 Jesus challenges the common understanding of justice (*an eye for an eye*) and calls His disciples to a radical new way of responding to evil and personal offenses—one that involves non-retaliation and proactive generosity.
 
-Note. Jesus is addressing our *personal*, *individual response *to being wronged. He is not telling us to enable abuse, ignore systemic injustice, or fail to protect the vulnerable.
+Note. Jesus is addressing our _personal_, _individual_ response to being wronged. He is not telling us to _enable_ abuse, _ignore_ systemic injustice, or _fail to protect_ the vulnerable.
 
-His teaching prioritizes God's *redemptive purposes *over personal rights or vengeance; responding to evil not with passive acceptance, but with creative, dignity-preserving alternatives that can transform situations and hearts.
+His teaching prioritizes God's _redemptive purposes_ over **personal rights** or vengeance; responding to evil not with passive acceptance, but with creative, dignity-preserving alternatives that can transform situations and hearts.
 
 !!! question "Icebreaker"
 

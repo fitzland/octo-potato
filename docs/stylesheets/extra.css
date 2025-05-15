@@ -95,7 +95,8 @@ mark {
 .md-content h1,
 .md-content h2,
 .md-content h3,
-.md-content h4 {
+.md-content h4,
+.md-content h5,{
   color: var(--md-primary-fg-color);
   font-weight: normal; /* Ensure headings are not bold */
   font-size: 1.2rem; /* Default size for all headings */
@@ -104,7 +105,7 @@ mark {
 
 
 .md-content h1 {
-  color: #dc85e9;
+  color: #fde9a9;
   font-size: 1.2rem; /* Default size for all headings */
 }
 
@@ -114,14 +115,18 @@ mark {
 }
 
 .md-content h3 {
-  color: #92e285;
+  color: #77bc65;
   font-size: 1.1rem; /* Default size for all headings */
 }
 
 .md-content h4 {
-  color: #63bbee;
+  color: #729fcf;
   font-size: 1.0rem; /* Default size for all headings */
 }
 
+.md-content h5 {
+  color: #b294bb;
+  font-size: 1.0rem; /* Default size for all headings */
+}
 
 
