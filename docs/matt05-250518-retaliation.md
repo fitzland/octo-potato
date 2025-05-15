@@ -39,23 +39,23 @@ And, He's raising the standard from **outward conformity** to **inward transform
 
 ##### A Review of the Last Few Passages
 
-Jesus didn’t come to _abolish_ the Law, but rather to **fulfill**.
+- Jesus didn’t come to _abolish_ the Law, but rather to **fulfill**.
 
-Our righteousness must _exceed_ that of the Pharisees.
+- Our righteousness must _exceed_ that of the Pharisees.
 
-Our internal _anger_ can lead to outward **murder**.
-
-Our _lust_ is actually **adultery** of the heart.
-
-Divorce is not _encouraged_, but **allowed** and it’s not just because someone is _displeasing_.
-
-Our speech should be _truthful_, _consistent_ and _reliable_.
+- Our internal _anger_ can lead to outward **murder**.
+ 
+- Our _lust_ is actually **adultery** of the heart.
+ 
+- Divorce is not _encouraged_, but **allowed** and it’s not just because someone is _displeasing_.
+ 
+- Our speech should be _truthful_, _consistent_ and _reliable_.
 
 ##### In this passage
 
 Jesus challenges the common understanding of justice (*an eye for an eye*) and calls His disciples to a radical new way of responding to evil and personal offenses—one that involves non-retaliation and proactive generosity.
 
-Note. Jesus is addressing our _personal_, _individual_ response to being wronged. He is not telling us to _enable_ abuse, _ignore_ systemic injustice, or _fail to protect_ the vulnerable.
+**Note**. Jesus is addressing our _personal_, _individual_ response to being wronged. He is not telling us to _enable_ abuse, _ignore_ systemic injustice, or _fail to protect_ the vulnerable.
 
 His teaching prioritizes God's _redemptive purposes_ over **personal rights** or vengeance; responding to evil not with passive acceptance, but with creative, dignity-preserving alternatives that can transform situations and hearts.
 
@@ -67,17 +67,17 @@ Societal Norms. How does society (or even **our own instincts**) tell us we shou
 
 ### What the Law Actually Taught. 
 
-Matthew 5:38. You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’
+[`Matthew 5:38`](https://biblehub.com/matthew/5-38.htm). You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’
 
 #### Old Testament Basis. 
 
 This principle, *Lex Talionis *(Latin for law of retaliation), is found in several Old Testament passages.
 
-Exodus 21:23-25. But if there is serious injury, you are to take life for life, eye for eye, tooth for tooth, hand for hand, foot for foot, burn for burn, wound for wound, bruise for bruise.
+[`Exodus 21:23-25`](https://biblehub.com/exodus/21.htm#23). But if there is serious injury, you are to take life for life, eye for eye, tooth for tooth, hand for hand, foot for foot, burn for burn, wound for wound, bruise for bruise.
 
-Leviticus 24:19-20. If anyone injures his neighbor, whatever he has done must be done to him: fracture for fracture, eye for eye, tooth for tooth. Whatever injury he has inflicted, the same is to be inflicted on him.
+[`Leviticus 24:19-20`](https://biblehub.com/leviticus/24.htm#19). If anyone injures his neighbor, whatever he has done must be done to him: fracture for fracture, eye for eye, tooth for tooth. Whatever injury he has inflicted, the same is to be inflicted on him.
 
-Deuteronomy 19:21. Show no pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
+[`Deuteronomy 19:21`](https://biblehub.com/deuteronomy/19-21.htm). Show no pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
 
 #### Original Purpose.
 
