@@ -93,6 +93,11 @@ mark {
   /* other styles, e.g., padding */
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
 .md-content h1,
 .md-content h2,
 .md-content h3,
@@ -120,13 +125,13 @@ mark {
   font-size: 1.1rem; /* Default size for all headings */
 }
 
-.md-content h4 {
+.md-content h4, .md-typeset h4 {
   color: #729fcf;
   font-weight: normal; /* Ensure headings are not bold */
   font-size: 1.0rem; /* Default size for all headings */
 }
 
-.md-content h5 {
+.md-content h5, .md-typeset h5 {
   color: #b294bb;
   font-weight: normal; /* Ensure headings are not bold */
   font-size: 1.0rem; /* Default size for all headings */
