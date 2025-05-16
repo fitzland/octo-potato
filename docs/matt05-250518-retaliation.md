@@ -4,7 +4,7 @@ tags:
     - Matthew
     - SotM
     - righteousness
-title: 7-Retaliation & Redemption
+title: Retaliation & Redemption
 ---
 
 # Retaliation & Redemption (Matthew 5:38-42)
@@ -33,11 +33,11 @@ As He lays out the ethics and righteousness expected of citizens in the Kingdom 
 
 Jesus used the following pattern:
 
-|       |   Traditional Understanding   |   Deeper Understanding   |
-| :-----| :---------------------------- | :----------------------- |
-|       |   _You have heard it said…_   |   _But I say to you…_    |
-
-_You have heard it said… But I say to you…_
+|   Traditional Understanding   |   Deeper Understanding   |
+| :---------------------------- | :----------------------- |
+|   _You have heard it said…_   |   _But I say to you…_    |
+| :---------------------------- | :----------------------- |
+|   What people thought the law meant   |   What God intended they understand   |
 
 And, He's raising the standard from **outward conformity** to **inward transformation**.
 
@@ -59,7 +59,7 @@ And, He's raising the standard from **outward conformity** to **inward transform
 
 Jesus challenges the common understanding of justice (*an eye for an eye*) and calls His disciples to a radical new way of responding to evil and personal offenses—one that involves non-retaliation and proactive generosity.
 
-**Note**. Jesus is addressing our _personal_, _individual_ response to being wronged. He is not telling us to _enable_ abuse, _ignore_ systemic injustice, or _fail to protect_ the vulnerable.
+**NOTE**. Jesus is addressing our _personal_, _individual_ response to being wronged. He is not telling us to _enable_ abuse, _ignore_ systemic injustice, or _fail to protect_ the vulnerable.
 
 His teaching prioritizes God's _redemptive purposes_ over **personal rights** or vengeance; responding to evil not with passive acceptance, but with creative, dignity-preserving alternatives that can transform situations and hearts.
 
@@ -71,23 +71,25 @@ Societal Norms. How does society (or even **our own instincts**) tell us we shou
 
 ## What the Law Actually Taught. 
 
-[`Matthew 5:38`](https://biblehub.com/matthew/5-38.htm). You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’
+!!! quote "Matthew 5:38"
 
-### Old Testament Basis. 
+    You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’
 
-This principle, *Lex Talionis *(Latin for law of retaliation), is found in several Old Testament passages.
+### What was the Old Testament basis?
 
-[`Exodus 21:23-25`](https://biblehub.com/exodus/21.htm#23). But if there is serious injury, you are to take life for life, eye for eye, tooth for tooth, hand for hand, foot for foot, burn for burn, wound for wound, bruise for bruise.
+It was the principle of _Lex Talionis_ (Latin for law of retaliation), which is found in several Old Testament passages.
 
-[`Leviticus 24:19-20`](https://biblehub.com/leviticus/24.htm#19). If anyone injures his neighbor, whatever he has done must be done to him: fracture for fracture, eye for eye, tooth for tooth. Whatever injury he has inflicted, the same is to be inflicted on him.
+> [`Exodus 21:23-25`](https://biblehub.com/exodus/21.htm#23). But if there is serious injury, you are to take _life for life_, _eye for eye_, _tooth for tooth_, _hand for hand_, _foot for foot_, _burn for burn_, _wound for wound_, _bruise for bruise_.
 
-[`Deuteronomy 19:21`](https://biblehub.com/deuteronomy/19-21.htm). Show no pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
+> [`Leviticus 24:19-20`](https://biblehub.com/leviticus/24.htm#19). If anyone injures his neighbor, whatever he has done must be done to him: _fracture for fracture_, _eye for eye_, _tooth for tooth_. Whatever injury he has inflicted, the same is to be inflicted on him.
 
-### Original Purpose.
+> [`Deuteronomy 19:21`](https://biblehub.com/deuteronomy/19-21.htm). Show no pity: _life for life_, _eye for eye_, _tooth for tooth_, _hand for hand_, _foot for foot_.
+
+### What was the purpose of this principle?
 
 #### Limiting Vengeance. 
 
-Primarily, it was designed to limit and restrict personal revenge and escalating blood feuds. Instead of someone taking a life for an eye, or wiping out a whole family for an injury, the punishment was to be proportional to the crime. It set an upper limit on retribution.
+Primarily, it was designed to limit and restrict personal revenge and escalating blood feuds. Instead of someone taking a life for an eye, or wiping out a whole family for an injury, the punishment was to be proportional to the crime. It set an upper limit on retailiation.
 
 #### Ensuring Public Justice, Not Personal Revenge. 
 
@@ -97,17 +99,19 @@ This law was intended for magistrates and judges in a civil court setting to ens
 
 By demanding equal retribution, it implicitly stated that all individuals (within the covenant community) had equal value. An eye of a commoner was worth an eye of a noble.
 
-### Misinterpretation & Misapplication. 
+### How was the principle misinterpreted or misapplied? 
 
-By Jesus' day, this principle was being misunderstood or misapplied by some to justify personal retaliation and a spirit of vengeance, rather than being seen as a guide for civic justice administered by authorities. People might have felt they had a *right* to exact personal revenge on a one-for-one basis.
+By Jesus' day, this principle was being used to justify personal retaliation and a spirit of vengeance, rather than being seen as a guide for civic justice administered by authorities. People might have felt they had a *right* to exact personal revenge on a one-for-one basis.
 
-!!! quote 
+!!! question 
 
     Can we see how easily a principle designed for societal justice can be twisted to justify personal revenge?
 
 ## A Different Response to Evil.
 
-Matthew 5:39a. But I tell you, do not resist an evil person.
+!!! quote "Matthew 5:39a"
+
+    But I tell you, do not resist an evil person.
 
 ### Distinct Shift. 
 
@@ -125,7 +129,7 @@ Note. Jesus is talking about not retaliating against a *person *who does evil to
 
 This command is shocking and counter-intuitive to our natural human responses. It seems to suggest passivity in the face of wrongdoing.
 
-!!! quote 
+!!! question 
 
     How does this command strike you initially?
 
@@ -137,90 +141,97 @@ This isn't about denying that evil exists, but about choosing a radically differ
 
 Jesus provides four concrete examples of what this non-resistance looks like in everyday life.
 
-*Can you think of modern parallels for each one?*
+!!! question
+
+    Can you think of modern parallels for each one?
 
 ### Turning the Other Cheek. 
 
-[`Matthew 5:39b`](https://biblehub.com/matthew/5-39.htm). If anyone slaps you on your right cheek, turn to him the other also.
+> [`Matthew 5:39b`](https://biblehub.com/matthew/5-39.htm). If anyone slaps you on your right cheek, turn to him the other also.
 
 A slap on the right cheek (typically with the back of the right hand if both parties are right-handed) was a profound insult in that culture, more about humiliation and dishonor than causing serious physical injury. It was an act of contempt.
 
 This wasn't just any insult but specifically a backhanded slap, which was how superiors treated inferiors. By turning the other cheek, you weren't inviting further abuse, but standing with dignity and requiring the aggressor to treat you as an equal if they struck again.
 
-!!! quote 
+!!! question
     
     When have you been tempted to let the negativity of someone else drag you down to their level?
 
-[`Romans 12:17-21`](https://biblehub.com/romans/12.htm#17). Do not repay anyone evil for evil... overcome evil with good
+> [`Romans 12:17-21`](https://biblehub.com/romans/12.htm#17). Do not repay anyone evil for evil... overcome evil with good
 
-[`1 Peter 2:21-23`](https://biblehub.com/1_peter/2.htm#21). Christ's example of not retaliating when insulted.
+> [`1 Peter 2:21-23`](https://biblehub.com/1_peter/2.htm#21). Christ's example of not retaliating when insulted.
 
-#### Jesus' Response. 
+#### Jesus tells us… 
 
 Instead of retaliating or demanding an apology for this affront to one's dignity, Jesus says to offer the other cheek. This is not an act of cowardice, but a courageous act of breaking the cycle of insult and retaliation. It can disarm the aggressor and challenge their actions.
 
-#### What it does. 
+#### What it does…
 
-Refusal to let the evil person dictate the terms of the encounter or to be drawn down to their level of animosity. It's about maintaining one's own Christ-like composure and offering a different way.
+This is a refusal to let the evil person dictate the terms of the encounter or to be drawn down to their level of animosity. It's about maintaining one's own Christ-like composure and offering a different way.
 
 ### Giving the Tunic (Cloak) 
 
-Matthew 5:40. And if anyone wants to sue you and take your tunic, let him have your cloak as well.
+> [`Matthew 5:40`](https://biblehub.com/matthew/5-40.htm). And if anyone wants to sue you and take your tunic, let him have your cloak as well.
 
-The *tunic* (Grk. chitōn) was the inner garment, a basic necessity. The *cloak* (Grk. himation) was the outer garment, often used as a blanket at night and more valuable. Under Jewish law (Exodus 22:26-27), a creditor could not permanently keep a poor man's cloak if taken as a pledge, as it was essential for survival.
+The **tunic** (Grk. _chitōn_) was the inner garment, a basic necessity. The **cloak** (Grk. _himation_) was the outer garment, often used as a blanket at night and more valuable. Under Jewish law ([`Exodus 22:26-27`](https://biblehub.com/exodus/22.htm#26)), a creditor could not permanently keep a poor man's cloak if taken as a pledge, as it was essential for survival.
 
-*How attached are we to our possessions, to the point that we would fight tooth and nail?*
+!!! question
 
-#### Jesus' Response. 
+    How attached are we to our possessions, to the point that we would fight tooth and nail?
+
+#### Jesus tells us… 
 
 If someone is so determined to exploit you legally that they sue for your basic inner tunic, Jesus says to go beyond what they demand and offer your more valuable outer cloak as well. This is startling, absurd, generosity.
 
-#### What it does. 
+#### What it does…
 
-Demonstrates a detachment from material possessions and a willingness to suffer loss rather than engage in bitter contention. It again changes the dynamic of the confrontation, highlighting the exploiter's greed by an unexpected act of sacrificial giving.
+This demonstrates a detachment from material possessions and a willingness to suffer loss rather than engage in bitter contention. It changes the dynamic of the confrontation, highlighting the exploiter's greed by an unexpected act of sacrificial giving.
 
 ### Going the Second Mile. 
 
-Matthew 5:41. If anyone forces you to go one mile, go with him two.
+> [`Matthew 5:41`](https://biblehub.com/matthew/5-41.htm). If anyone forces you to go one mile, go with him two.
 
-*forces* (Grk. angareuō) refers to the Roman practice of impressment. A Roman soldier could legally compel a civilian in an occupied territory to carry his pack or equipment for one Roman mile (about 1,000 paces). This was a constant reminder of their subjugation.
+**forces**. (Grk. _angareuō_) refers to a Roman practice of impressment. A Roman soldier could legally compel a civilian in an occupied territory to carry his pack or equipment for one Roman mile (about 1,000 paces). This was a constant reminder of their subjugation.
 
-*Where in your life do you feel forced or obligated?*
+!!! question
 
-Philippians 2:3-4. In humility consider others better than yourselves.
+    Where in your life do you feel forced or obligated?
 
-#### Jesus' Response. 
+> [`Philippians 2:3-4`](https://biblehub.com/philippians/2.htm#3). In humility consider others better than yourselves.
 
-Instead of begrudgingly complying or resisting (leading to punishment), Jesus says to willingly go a second mile.
+#### Jesus tells us… 
 
-#### What it does. 
+Instead of begrudgingly complying or resisting (which could lead to punishment), Jesus says to willingly go a second mile.
 
-Transforms an act of forced servitude into an act of voluntary, cheerful service. It reclaims agency and dignity, and can baffle the oppressor. It’s a way of overcoming evil with good, demonstrating a spirit that cannot be crushed by oppression.
+#### What it does… 
+
+This transforms an act of forced servitude into an act of voluntary, cheerful service. It reclaims agency and dignity, and can baffle the oppressor. It’s a way of overcoming evil with good, demonstrating a spirit that cannot be crushed by oppression.
 
 ### Giving and Loaning Freely.
 
-Matthew 5:42. Give to the one who asks you, and do not turn away from the one who wants to borrow from you.
+> [`Matthew 5:42`](https://biblehub.com/matthew/5-42.htm). Give to the one who asks you, and do not turn away from the one who wants to borrow from you.
 
 This extends the principle of generosity beyond responses to direct antagonism. It calls for an open-handed, compassionate response to those in need.
 
-*How does our willingness to be generous reflect our trust in God as Provider?*
+!!! question
 
-2 Corinthians 9:6-8. God loves a cheerful giver.
+    How does our willingness to be generous reflect our trust in God as Provider?
 
-Proverbs 19:17. Whoever is kind to the poor lends to the LORD.
+> [`2 Corinthians 9:6-8`](https://biblehub.com/2_corinthians/9.htm#6). God loves a cheerful giver.
 
-#### Jesus' Response. 
+> [`Proverbs 19:17`](https://biblehub.com/proverbs/19-17.htm). Whoever is kind to the poor lends to the LORD.
+
+#### Jesus tells us… 
 
 Followers of Christ should be characterized by a willingness to give and lend without an overly calculating or grudging spirit.
 
-#### What it does. 
+#### What it does…
 
-Reflects the generous heart of God Himself, who gives good gifts to all (Matthew 5:45). It cultivates a spirit of mercy and reliance on God as our ultimate provider, rather than clinging tightly to our own resources.
+This reflects the generous heart of God Himself, who gives good gifts to all ([`Matthew 5:45`](https://biblehub.com/matthew/5-45.htm)). It cultivates a spirit of mercy and reliance on God as our ultimate provider, rather than clinging tightly to our own resources.
 
-Note. Presumes that the needs are genuine.
+**NOTE**. This presumes that the needs are genuine.
 
-Augustine. give *to *everyone that asks,  
-not give *everything *to him that asks.
+**Augustine**. said give _to everyone_ that asks, not give _everything_ to him that asks.
 
 ## Kingdom Principles at Play.
 
@@ -230,7 +241,7 @@ We are not called to be a spineless doormat or to enable sin. We are called to o
 
 ### Overcoming Evil with Good. 
 
-Romans 12:21. Do not be overcome by evil, but overcome evil with good. The goal is not just to absorb wrong, but to introduce a transformative element into the situation.
+> [`Romans 12:21`](https://biblehub.com/romans/12-21.htm). Do not be overcome by evil, but overcome evil with good. The goal is not just to absorb wrong, but to introduce a transformative element into the situation.
 
 ### Reflecting the Character of God. 
 
@@ -308,12 +319,10 @@ What is one small step you could take this week to practice non-retaliation or p
 
 ## Closing Prayer.
 
-Father God, Your ways are so much higher than our ways. This teaching of Jesus challenges us to the core of our being and our desire for what we think is "fair."
+God, Your ways are so much higher than our ways. This teaching challenges us to the core of our being and our desire for what we think is _fair_.
 
-Lord, forgive us for the times we have responded to evil with more evil, for harboring resentment, or for seeking personal revenge.
+Forgive us for the times we have responded to evil with more evil, for harboring resentment, or for seeking personal revenge.
 
-Holy Spirit, give us supernatural strength and wisdom to live out these commands. Help us to understand when and how to turn the other cheek, to go the extra mile, and to give generously, not out of weakness, but out of the strength and love of Christ.
+Give us supernatural strength and wisdom to live out these commands. Help us to understand when and how to turn the other cheek, to go the extra mile, and to give generously, not out of weakness, but out of the strength and love of Christ.
 
-May our responses to those who wrong us break cycles of bitterness and instead point them towards Your goodness and grace. Transform our hearts so that we increasingly reflect the character of Jesus, who, when He was reviled, did not revile in return.
-
-In His powerful name, we pray. Amen.
+May our responses to those who wrong us break cycles of bitterness and instead point them towards Your goodness and grace. Transform our hearts so that we increasingly reflect the character of Jesus, who, when He was reviled, did not revile in return. Amen.

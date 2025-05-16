@@ -4,7 +4,7 @@ tags:
     - Matthew
     - SotM
     - righteousness
-title: 4-Adultery & Lust
+title: Adultery & Lust
 ---
 
 # Adultery & Lust (Matthew 5.27-30)

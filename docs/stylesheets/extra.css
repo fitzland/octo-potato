@@ -122,11 +122,13 @@ mark {
 
 .md-content h4 {
   color: #729fcf;
+  font-weight: normal; /* Ensure headings are not bold */
   font-size: 1.0rem; /* Default size for all headings */
 }
 
 .md-content h5 {
   color: #b294bb;
+  font-weight: normal; /* Ensure headings are not bold */
   font-size: 1.0rem; /* Default size for all headings */
 }
 

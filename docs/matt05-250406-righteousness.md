@@ -4,7 +4,7 @@ tags:
     - Matthew
     - SotM
     - righteousness
-title: 1-Jesus & the Scriptures
+title: Jesus & the Scriptures
 ---
 
 # Jesus & the Scriptures. (Matthew 5:17-20)
