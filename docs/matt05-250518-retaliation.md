@@ -36,8 +36,7 @@ Jesus used the following pattern:
 |   Traditional Understanding   |   Deeper Understanding   |
 | :---------------------------- | :----------------------- |
 |   _You have heard it said…_   |   _But I say to you…_    |
-| :---------------------------- | :----------------------- |
-|   What people thought the law meant   |   What God intended they understand   |
+|   a traditional understanding of a principle or law   |   a deeper meaning that God intended we understand   |
 
 And, He's raising the standard from **outward conformity** to **inward transformation**.
 
@@ -59,9 +58,9 @@ And, He's raising the standard from **outward conformity** to **inward transform
 
 Jesus challenges the common understanding of justice (*an eye for an eye*) and calls His disciples to a radical new way of responding to evil and personal offenses—one that involves non-retaliation and proactive generosity.
 
-**NOTE**. Jesus is addressing our _personal_, _individual_ response to being wronged. He is not telling us to _enable_ abuse, _ignore_ systemic injustice, or _fail to protect_ the vulnerable.
+**NOTE**. Jesus is not telling us to _enable_ abuse, _ignore_ systemic injustice, or _fail to protect_ the vulnerable. He is addressing our _personal_, _individual_ response to being wronged.
 
-His teaching prioritizes God's _redemptive purposes_ over **personal rights** or vengeance; responding to evil not with passive acceptance, but with creative, dignity-preserving alternatives that can transform situations and hearts.
+His teaching prioritizes God's _redemptive purposes_ over **personal rights** or **vengeance**. He's telling us to respond to evil not with passive acceptance, but with creative, dignity-preserving alternatives that can transform situations and hearts.
 
 !!! question "Icebreaker"
 
@@ -89,19 +88,19 @@ It was the principle of _Lex Talionis_ (Latin for law of retaliation), which is 
 
 #### Limiting Vengeance. 
 
-Primarily, it was designed to limit and restrict personal revenge and escalating blood feuds. Instead of someone taking a life for an eye, or wiping out a whole family for an injury, the punishment was to be proportional to the crime. It set an upper limit on retailiation.
+**First**, and primarily, it was designed to limit and restrict personal revenge and escalating blood feuds. Instead of someone taking a life for an eye, or wiping out a whole family for an injury, the punishment was to be proportional to the crime. It set an upper limit on retailiation.
 
 #### Ensuring Public Justice, Not Personal Revenge. 
 
-This law was intended for magistrates and judges in a civil court setting to ensure fair and equitable justice. It was not a mandate for individuals to take personal revenge.
+**Second**, the principle was intended for magistrates and judges in a civil court setting to ensure fair and equitable justice. It was not a mandate for individuals to take personal revenge.
 
 #### Upholding the Value of Each Person. 
 
-By demanding equal retribution, it implicitly stated that all individuals (within the covenant community) had equal value. An eye of a commoner was worth an eye of a noble.
+**Finally**, by demanding equal retribution, it implicitly stated that all individuals (within the covenant community) had equal value. An eye of a commoner was worth an eye of a noble. Those who _have_ shouldn't be able to take advantage of those who _have not_.
 
 ### How was the principle misinterpreted or misapplied? 
 
-By Jesus' day, this principle was being used to justify personal retaliation and a spirit of vengeance, rather than being seen as a guide for civic justice administered by authorities. People might have felt they had a *right* to exact personal revenge on a one-for-one basis.
+By Jesus' day, this principle was being used to justify _personal retaliation_ and a spirit of vengeance, rather than being seen as a guide for _civic justice_ administered by authorities. People might have felt they had a **right** to exact personal revenge on a one-for-one basis.
 
 !!! question 
 
@@ -115,15 +114,15 @@ By Jesus' day, this principle was being used to justify personal retaliation and
 
 ### Distinct Shift. 
 
-**But I tell you…** signals Jesus' divine authority and a profound shift in perspective for His followers.
+**But I tell you**. signals Jesus' divine authority and a profound shift in perspective for His followers.
 
 ### Command Explained. 
 
-**Do not resist**. (Grk. _anthistēmi_) means to stand against, oppose, resist, or withstand, often in a direct, confrontational, or retaliatory way.
+**do not resist**. (Grk. _anthistēmi_) means to stand against, oppose, resist, or withstand, often in a direct, confrontational, or retaliatory way.
 
-**an evil person**. refers to someone who is actively doing wrong or causing harm, particularly to the believer.
+**evil person**. refers to someone who is actively doing wrong or causing harm, particularly to the believer.
 
-Note. Jesus is talking about not retaliating against a *person *who does evil to you, not about being passive towards *evil itself *or demonic influence.
+**NOTE**. Jesus is talking about not retaliating against a *person who does evil* to you, not about being passive towards *evil itself* or demonic influence.
 
 ### Initial Impact and Implication. 
 
@@ -137,7 +136,7 @@ Jesus is calling His disciples to voluntarily lay down their right to personal r
 
 This isn't about denying that evil exists, but about choosing a radically different way to respond to it.
 
-## Practical Examples of Non-Retaliation.
+## Jesus Gives Practical Examples.
 
 Jesus provides four concrete examples of what this non-resistance looks like in everyday life.
 
