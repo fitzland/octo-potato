@@ -4,8 +4,10 @@ tags:
     - Matthew
     - SotM
     - righteousness
-title: Retaliation & Redemption (Matthew 5:38-42)
+title: 7-Retaliation & Redemption
 ---
+
+# Retaliation & Redemption (Matthew 5:38-42)
 
 ## Introduction
 
@@ -17,7 +19,7 @@ Manifesto of the King
 
     1.  Quality (1-12)
     2.  Function (13-16)
-    3.  Motive (17-48)
+    3.  _Motive (17-48)_
 
 2.  Values of the Kingdom (ch 6)
 
@@ -30,6 +32,10 @@ We are studying the Sermon on the Mount (Matthew 5-7). Jesus teaches us about li
 As He lays out the ethics and righteousness expected of citizens in the Kingdom of Heaven.
 
 Jesus used the following pattern:
+
+|       |   Traditional Understanding   |   Deeper Understanding   |
+| :-----| :---------------------------- | :----------------------- |
+|       |   _You have heard it said…_   |   _But I say to you…_    |
 
 _You have heard it said… But I say to you…_
 

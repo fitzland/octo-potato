@@ -4,7 +4,7 @@ tags:
     - Matthew
     - SotM
     - righteousness
-title: Anger & Reconciliation
+title: 2-Anger & Reconciliation
 ---
 
 # Anger & Reconciliation. (Matthew 5:21-26)
