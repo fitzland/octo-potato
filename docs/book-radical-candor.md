@@ -2,7 +2,7 @@
 tags:
     - Book
     - Leadership
-title: Book Review of Radical Candor by Kim Scott
+title: "Book Review: Radical Candor by Kim Scott"
 ---
 
 Here are some significant points and ideas from Kim Scott's book *Radical Candor*:

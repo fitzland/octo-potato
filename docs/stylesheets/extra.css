@@ -71,18 +71,19 @@
 }
 
 em, i { /* Applies to both <em> and <i> tags, which Markdown uses for italics */
-  color: #f09e6f;  /* Replace with your desired color (e.g., #FF0000 for red, lightblue, etc.) */
+  color: #f09e6f;  /* Replace with your desired color (e.g., #FF0000 for red, orange, etc.) */
   /* other properties to customize the style */
 }
 
 strong {
   font-weight: normal;  /* Ensure it's bold, even if the theme overrides it */
-  color: #dc85e9;  /* Example: a shade of blue */
+  color: #dc85e9;  /* Example: a shade of lightpink */
   /* other styles */
 }
 
 /* If you REALLY want to style <b> (which you probably shouldn't use much) */
 b {
+  color: #dc85e9; /* Example: a shade of pink */
   font-weight: bold; /* Redundant in most cases, but good to be explicit */
   /* Styles for the bold element */
 }

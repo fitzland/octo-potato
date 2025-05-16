@@ -4,7 +4,7 @@ tags:
     - Matthew
     - SotM
     - righteousness
-title: Retaliation & Redemption
+title: Retaliation & Redemption (Matthew 5:38-42)
 ---
 
 ## Introduction
@@ -95,7 +95,9 @@ By demanding equal retribution, it implicitly stated that all individuals (withi
 
 By Jesus' day, this principle was being misunderstood or misapplied by some to justify personal retaliation and a spirit of vengeance, rather than being seen as a guide for civic justice administered by authorities. People might have felt they had a *right* to exact personal revenge on a one-for-one basis.
 
-*Can we see how easily a principle designed for societal justice *can* be twisted to justify personal revenge?*
+!!! quote 
+
+    Can we see how easily a principle designed for societal justice can be twisted to justify personal revenge?
 
 ## A Different Response to Evil.
 
@@ -103,13 +105,13 @@ Matthew 5:39a. But I tell you, do not resist an evil person.
 
 ### Distinct Shift. 
 
-But I tell you… signals Jesus' divine authority and a profound shift in perspective for His followers.
+**But I tell you…** signals Jesus' divine authority and a profound shift in perspective for His followers.
 
 ### Command Explained. 
 
-Do not resist. (Grk. anthistēmi) means to stand against, oppose, resist, or withstand, often in a direct, confrontational, or retaliatory way.
+**Do not resist**. (Grk. _anthistēmi_) means to stand against, oppose, resist, or withstand, often in a direct, confrontational, or retaliatory way.
 
-an evil person. refers to someone who is actively doing wrong or causing harm, particularly to the believer.
+**an evil person**. refers to someone who is actively doing wrong or causing harm, particularly to the believer.
 
 Note. Jesus is talking about not retaliating against a *person *who does evil to you, not about being passive towards *evil itself *or demonic influence.
 
@@ -117,7 +119,9 @@ Note. Jesus is talking about not retaliating against a *person *who does evil to
 
 This command is shocking and counter-intuitive to our natural human responses. It seems to suggest passivity in the face of wrongdoing.
 
-*How does this command strike you initially?*
+!!! quote 
+
+    How does this command strike you initially?
 
 Jesus is calling His disciples to voluntarily lay down their right to personal retaliation when wronged.
 
@@ -131,17 +135,19 @@ Jesus provides four concrete examples of what this non-resistance looks like in 
 
 ### Turning the Other Cheek. 
 
-Matthew 5:39b. If anyone slaps you on your right cheek, turn to him the other also.
+[`Matthew 5:39b`](https://biblehub.com/matthew/5-39.htm). If anyone slaps you on your right cheek, turn to him the other also.
 
 A slap on the right cheek (typically with the back of the right hand if both parties are right-handed) was a profound insult in that culture, more about humiliation and dishonor than causing serious physical injury. It was an act of contempt.
 
 This wasn't just any insult but specifically a backhanded slap, which was how superiors treated inferiors. By turning the other cheek, you weren't inviting further abuse, but standing with dignity and requiring the aggressor to treat you as an equal if they struck again.
 
-*When have you been tempted to let the negativity of someone else drag you down to their level?*
+!!! quote 
+    
+    When have you been tempted to let the negativity of someone else drag you down to their level?
 
-Romans 12:17-21. Do not repay anyone evil for evil... overcome evil with good
+[`Romans 12:17-21`](https://biblehub.com/romans/12.htm#17). Do not repay anyone evil for evil... overcome evil with good
 
-1 Peter 2:21-23. Christ's example of not retaliating when insulted.
+[`1 Peter 2:21-23`](https://biblehub.com/1_peter/2.htm#21). Christ's example of not retaliating when insulted.
 
 #### Jesus' Response. 
 
