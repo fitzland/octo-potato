@@ -1,6 +1,15 @@
-# Genesis 39:21-23; 40:5-8; 41:10-14
+---
+tags:
+    - OT
+    - Genesis
+    - Law
+    - Joseph
+title: When Life Goes Terribly Wrong
+---
 
-## When Life Goes Terribly Wrong
+# When Life Goes Terribly Wrong
+
+## Genesis 39:21-23; 40:5-8; 41:10-14
 
 ---
 
@@ -42,7 +51,7 @@ To put it another way: God uses our faithfulness *in* the interruptions of life�
 
 ---
 
-### God's Presence in the Pit (Genesis 39:21-23)
+### God's Presence in the Pit 
 
 📖 **SCRIPTURE READING: Genesis 39:21-23**
 
@@ -72,7 +81,7 @@ The result of God's presence and Joseph's faithful response was a reputation of 
 
 ---
 
-### Ministry in the Pit (Genesis 40:5-8)
+### Ministry in the Pit 
 
 📖 **SCRIPTURE READING: Genesis 40:5-8**
 
@@ -102,7 +111,7 @@ After pointing to God, he offers himself as the conduit: "Tell me your dreams." 
 
 ---
 
-### God's Perfect Timing out of the Pit (Genesis 41:10-14)
+### God's Perfect Timing out of the Pit 
 
 📖 **SCRIPTURE READING: Genesis 41:10-14**
 
