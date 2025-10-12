@@ -25,11 +25,11 @@ title: When Life Goes Terribly Wrong
 
 ### Introduction
 
-#### Icebreaker
+!!! question "Icebreaker"
 
-What was your very first job, and what did you learned from it that you didn't expect to?
+    What was your very first job, and what did you learned from it that you didn't expect to?
 
-*When have you been caught off guard by a movie or book plot twist?*
+    When have you been caught off guard by a movie or book plot twist?
 
 #### Hook: Life's Hard Kicks
 
@@ -53,17 +53,17 @@ To put it another way: God uses our faithfulness *in* the interruptions of life�
 
 ### God's Presence in the Pit 
 
-📖 **SCRIPTURE READING: Genesis 39:21-23**
+!!! quote "Genesis 39:21-23"
 
-> **21** But the LORD was with Joseph and extended kindness to him, and granted him favor in the eyes of the prison warden. **22** And the warden put Joseph in charge of all the prisoners in the dungeon, so that he was responsible for all that was done there. **23** The warden did not concern himself with anything under Joseph's care, because the LORD was with Joseph and gave him success in whatever he did.
+    **21** But the LORD was with Joseph and extended kindness to him, and granted him favor in the eyes of the prison warden. **22** And the warden put Joseph in charge of all the prisoners in the dungeon, so that he was responsible for all that was done there. **23** The warden did not concern himself with anything under Joseph's care, because the LORD was with Joseph and gave him success in whatever he did.
 
 Even in the darkest place, the story doesn't begin with Joseph's despair, but with God's presence. Every description of Joseph's success is anchored in one repeated, powerful phrase.
 
 #### Foundation. But the LORD was with him (v. 21, 23)
 
-This is the most important phrase in the chapter, appearing twice in these three verses. It is the "why" behind everything that happens. Joseph's success and favor flow from God's active presence in the darkest of places.
+This is the most important phrase in the chapter, appearing twice in these three verses. It is the *why* behind everything that happens. Joseph's success and favor flow from God's active presence in the darkest of places.
 
-- **Key Term.** The word for God's "kindness" here is *hesed*. This isn't just niceness; it's God's loyal, steadfast, covenant-keeping love. God was demonstrating His unbreakable faithfulness *to* Joseph.
+- **Key Term.** The word for God's *kindness* here is **hesed**. This isn't just niceness; it's God's loyal, steadfast, covenant-keeping love. God was demonstrating His unbreakable faithfulness to Joseph.
 
 #### Response. Diligence over Despair (v. 22)
 
@@ -75,7 +75,7 @@ Joseph's response reveals his character. He could have become bitter, angry, and
 
 The result of God's presence and Joseph's faithful response was a reputation of absolute integrity. "The warden did not concern himself with anything under Joseph's care." This pagan warden saw something so special in this Hebrew slave that he staked his own career on Joseph's character.
 
-- **Illustration.** Blooming Where You're Planted. Joseph didn't wait for a better garden; he created order and fruitfulness in the middle of a prison. His focus wasn't on getting *out* of his circumstances, but on glorifying God *in* his circumstances.
+- **Illustration.** Blooming Where You're Planted. Joseph didn't wait for a better garden; he created order and fruitfulness in the middle of a prison. His focus wasn't on *getting OUT of his circumstances*, but on *glorifying God IN his circumstances*.
 
 **Teaching Point:** God's presence + Our faithfulness = Trust & influence, even in the pit
 
@@ -83,9 +83,9 @@ The result of God's presence and Joseph's faithful response was a reputation of 
 
 ### Ministry in the Pit 
 
-📖 **SCRIPTURE READING: Genesis 40:5-8**
+!!! quote "Genesis 40:5-8"
 
-> **5** One night both the chief cupbearer and the chief baker of the king of Egypt, who were confined in the prison, had a dream, and each dream had its own meaning. **6** When Joseph came to them in the morning, he saw that they looked distraught. **7** So he asked Pharaoh's officers who were in custody with him in his master's house, "Why are your faces so downcast today?" **8** They replied, "We both had dreams, but there is no one to interpret them." Then Joseph said to them, "Don't interpretations belong to God? Tell me your dreams."
+    **5** One night both the chief cupbearer and the chief baker of the king of Egypt, who were confined in the prison, had a dream, and each dream had its own meaning. **6** When Joseph came to them in the morning, he saw that they looked distraught. **7** So he asked Pharaoh's officers who were in custody with him in his master's house, "Why are your faces so downcast today?" **8** They replied, "We both had dreams, but there is no one to interpret them." Then Joseph said to them, "Don't interpretations belong to God? Tell me your dreams."
 
 Joseph's faithfulness wasn't just about his administrative tasks; it was about his heart for people. He turned his prison cell into a counseling center.
 
@@ -113,11 +113,11 @@ After pointing to God, he offers himself as the conduit: "Tell me your dreams." 
 
 ### God's Perfect Timing out of the Pit 
 
-📖 **SCRIPTURE READING: Genesis 41:10-14**
+!!! quote "Genesis 41:10-14"
 
-> **10** Pharaoh was once angry with his servants, and he put me and the chief baker in the custody of the captain of the guard. **11** One night both the chief baker and I had dreams, and each dream had its own meaning. **12** Now a young Hebrew was there with us, a servant of the captain of the guard. We told him our dreams, and he interpreted them for us individually. **13** And it happened just as he had interpreted for us: I was restored to my position, and the other man was hanged.
->
-> **14** So Pharaoh sent for Joseph, and he was quickly brought out of the dungeon. After he had shaved and changed his clothes, he went in before Pharaoh.
+    **10** Pharaoh was once angry with his servants, and he put me and the chief baker in the custody of the captain of the guard. **11** One night both the chief baker and I had dreams, and each dream had its own meaning. **12** Now a young Hebrew was there with us, a servant of the captain of the guard. We told him our dreams, and he interpreted them for us individually. **13** And it happened just as he had interpreted for us: I was restored to my position, and the other man was hanged.
+
+    **14** So Pharaoh sent for Joseph, and he was quickly brought out of the dungeon. After he had shaved and changed his clothes, he went in before Pharaoh.
 
 This section shows how God sovereignly weaves together human forgetfulness and royal urgency to accomplish His perfect plan, demonstrating that His timing is always perfect.
 
@@ -154,7 +154,7 @@ Just as "the LORD was with Joseph," we can find strength by focusing on His pres
 - **Trust over Despair.** In a setback, actively trust that God is not just providing, but potentially *redirecting* you for His greater purposes.
 - **Gratitude over Grumbling.** In a chronic difficulty, intentionally practice gratitude by focusing on the good things you still have.
 
-**Challenge.** Gratitude Pivot. When you face a frustration this week, pause. Before reacting, intentionally name three specific blessings and thank God for them, pivoting your heart from the problem to the Provider.
+**Challenge.** *Gratitude Pivot*. When you face a frustration this week, pause. Before reacting, intentionally name three specific blessings and thank God for them, pivoting your heart from the problem to the Provider.
 
 ##### Minister to Others
 
@@ -162,7 +162,7 @@ Joseph's suffering gave him empathy. Our pain can become a platform for ministry
 
 - **Become an Instrument.** Shift your focus from asking, "Why me?" to asking, "God, how can I be an instrument of Your grace to someone around me *right now*?"
 
-**Challenge.** Prisoner's Perspective. Each day this week, look for one person who seems "downcast." Make a specific effort to ask them how they are doing and listen with genuine compassion, just as Joseph did.
+**Challenge.** *Prisoner's Perspective*. Each day this week, look for one person who seems "downcast." Make a specific effort to ask them how they are doing and listen with genuine compassion, just as Joseph did.
 
 ##### Rest in God's Timing
 
@@ -170,7 +170,7 @@ Trusting God's perfect timing frees us from the burden of bitterness and anxiety
 
 - **Release Resentment:** Because God is a God of perfect justice, you don't have to hold the grudge. Actively choose to offer forgiveness, releasing others to God and freeing your own heart.
 
-**Challenge.** Forgiveness Reminder. If you feel resentment welling up, stop. Take a breath and whisper a prayer: "Lord, help me trust Your justice and extend Your grace."
+**Challenge.** *Forgiveness Reminder*. If you feel resentment welling up, stop. Take a breath and whisper a prayer: "Lord, help me trust Your justice and extend Your grace."
 
 ---
 
