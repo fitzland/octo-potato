@@ -45,13 +45,13 @@ Elisha's journey from a wealthy farmer to God's prophet unfolds in three distinc
 ### Act 1: The Call in the Field (1 Kings 19:19-21)
 **Burn the Plow** - The moment of divine interruption and radical commitment.
 
-#### 📖 Scripture (1 Kings 19:19-21, BSB)
+!!! quote "1 Kings 19:19-21, BSB"
 
-> **19** So Elijah went from there and found Elisha son of Shaphat. He was plowing with twelve yoke of oxen, and he himself was driving the twelfth pair. Elijah went up to him and threw his cloak around him. **20** Elisha then left his oxen and ran after Elijah. "Please let me kiss my father and mother goodbye," he said, "and then I will follow you."
->
-> "Go back," Elijah replied. "What have I done to you?"
->
-> **21** So Elisha left him and went back. He took his yoke of oxen and slaughtered them. He burned the plowing equipment to cook the meat and gave it to the people, and they ate. Then he set out to follow Elijah and became his servant.
+    **19** So Elijah went from there and found Elisha son of Shaphat. He was plowing with twelve yoke of oxen, and he himself was driving the twelfth pair. Elijah went up to him and threw his cloak around him. **20** Elisha then left his oxen and ran after Elijah. "Please let me kiss my father and mother goodbye," he said, "and then I will follow you."
+
+    "Go back," Elijah replied. "What have I done to you?"
+
+    **21** So Elisha left him and went back. He took his yoke of oxen and slaughtered them. He burned the plowing equipment to cook the meat and gave it to the people, and they ate. Then he set out to follow Elijah and became his servant.
 
 #### Setting
 A field, representing Elisha's prosperous, secure, and successful worldly life. With twelve yoke of oxen, he was a man of significant status and wealth—this wasn't a small family farm, but a substantial agricultural operation.
@@ -93,7 +93,7 @@ Elisha's response is one of total surrender. He doesn't debate his adequacy or m
 The road, the wilderness—wherever Elijah went. This was the **"School of Pouring Water."**
 
 #### Process
-Elisha went from being a master to being a servant—from controlling twelve yoke of oxen to pouring water on someone else's hands. 2 Kings 3:11 describes him as the one "who used to pour water on the hands of Elijah." This humble, hidden service was the training ground where his character was forged and his initial commitment was tested and proven.
+Elisha went from being a master to being a servant—from controlling twelve yoke of oxen to pouring water on someone else's hands. [`2 Kings 3:11`](https://biblehub.com/2_kings/3-11.htm) describes him as the one "who used to pour water on the hands of Elijah." This humble, hidden service was the training ground where his character was forged and his initial commitment was tested and proven.
 
 **This wasn't weeks or months—it was years of faithful service.** The text doesn't give us an exact timeline, but Elisha served Elijah through multiple significant events and ministries. The apprenticeship season can be long.
 
@@ -110,15 +110,15 @@ Elisha went from being a master to being a servant—from controlling twelve yok
 
 But Elisha's apprenticeship wasn't just about pouring water and humble service. He had a **front-row seat to witness God's power** through Elijah in dramatic ways:
 
-##### Lesson 1: Confronting Injustice (1 Kings 21)
+##### Lesson 1: Confronting Injustice ([`1 Kings 21`](https://biblehub.com/1_kings/21.htm))
 
 Elisha witnessed Elijah fearlessly confront King Ahab in the vineyard of the murdered Naboth. **He learned that God's call requires the courage to speak truth to power, no matter how corrupt or dangerous.** The prophetic ministry isn't about comfort—it's about standing for justice even when kings oppose you.
 
-##### Lesson 2: The Reliability of God's Word (1 Kings 22)
+##### Lesson 2: The Reliability of God's Word ([`1 Kings 22`](https://biblehub.com/1_kings/22.htm))
 
 Elisha saw the chillingly accurate fulfillment of Elijah's prophecy when King Ahab was killed in battle and dogs licked his blood—exactly as predicted. **He learned that God's Word of judgment is inescapable and absolutely reliable.** What God declares will come to pass.
 
-##### Lesson 3: The Power of God's Presence (2 Kings 1)
+##### Lesson 3: The Power of God's Presence ([`2 Kings 1`](https://biblehub.com/2_kings/1.htm))
 
 Elisha saw Elijah call down fire from heaven to consume the soldiers of King Ahaziah who came to arrest him. **He learned that God is a jealous God who protects His messengers with terrifying power.** This wasn't just theory—Elisha witnessed the raw power of God defending His prophet.
 
@@ -145,31 +145,33 @@ Elijah and Elisha travel from Gilgal toward the Jordan River. Along the way, gro
 #### Test
 After years of faithful service, Elisha proves his loyalty by refusing to leave his master's side. Three times he's given the option to stay behind; three times he refuses. "As surely as the LORD lives and as you live, I will not leave you."
 
-#### 📖 Scripture (2 Kings 2:7-15, BSB)
+!!! quote "2 Kings 2:7-8, BSB"
 
-##### Miracle at the Jordan (vv. 7-8)
+    **7** Fifty men from the sons of the prophets went and stood at a distance, facing the place where Elijah and Elisha had stopped by the Jordan. **8** Then Elijah took his cloak, rolled it up, and struck the water. The water divided to the right and to the left, and the two of them crossed over on dry ground.
 
-> **7** Fifty men from the sons of the prophets went and stood at a distance, facing the place where Elijah and Elisha had stopped by the Jordan. **8** Then Elijah took his cloak, rolled it up, and struck the water. The water divided to the right and to the left, and the two of them crossed over on dry ground.
-
-Fifty prophets stand at a distance as witnesses. Elijah takes his cloak, rolls it up, and strikes the water—**directly echoing Moses parting the Red Sea (Exodus 14)**. The water divides, and they cross on dry ground. This demonstrates that the God of the Exodus is still at work, and the cloak (like Moses' staff) is a symbol of God's authority working through His chosen prophet.
+Fifty prophets stand at a distance as witnesses. Elijah takes his cloak, rolls it up, and strikes the water—**directly echoing Moses parting the Red Sea ([`Exodus 14`](https://biblehub.com/exodus/14.htm))**. The water divides, and they cross on dry ground. This demonstrates that the God of the Exodus is still at work, and the cloak (like Moses' staff) is a symbol of God's authority working through His chosen prophet.
 
 ##### Request (vv. 9-10)
 
-> **9** When they had crossed over, Elijah said to Elisha, "Tell me, what can I do for you before I am taken away from you?"
->
-> "Please," Elisha replied, "let me inherit a double portion of your spirit."
->
-> **10** "You have asked a difficult thing," Elijah said. "Nevertheless, if you see me when I am taken from you, it will be yours. But if not, it will not be so."
+!!! quote "2 Kings 2:9-10, BSB"
+
+    **9** When they had crossed over, Elijah said to Elisha, "Tell me, what can I do for you before I am taken away from you?"
+
+    "Please," Elisha replied, "let me inherit a double portion of your spirit."
+
+    **10** "You have asked a difficult thing," Elijah said. "Nevertheless, if you see me when I am taken from you, it will be yours. But if not, it will not be so."
 
 When they cross over, Elijah asks what he can do for Elisha before being taken away. Elisha's response is profound: **"Let me inherit a double portion of your spirit."**
 
-This is not a request for twice Elijah's power—it's the **request of a firstborn son for his inheritance** (Deuteronomy 21:17). Elisha is asking to be recognized as Elijah's legitimate spiritual heir, equipped to carry on the ministry with the same Spirit of God that empowered Elijah. This acknowledges their deep father-son relationship.
+This is not a request for twice Elijah's power—it's the **request of a firstborn son for his inheritance** ([`Deuteronomy 21:17`](https://biblehub.com/deuteronomy/21-17.htm)). Elisha is asking to be recognized as Elijah's legitimate spiritual heir, equipped to carry on the ministry with the same Spirit of God that empowered Elijah. This acknowledges their deep father-son relationship.
 
 Elijah responds: "You have asked a difficult thing. Nevertheless, if you see me when I am taken from you, it will be yours."
 
 ##### Divine Ascent (v. 11)
 
-> **11** As they were walking along and talking, suddenly a chariot of fire with horses of fire appeared and separated the two of them, and Elijah went up to heaven in a whirlwind.
+!!! quote "2 Kings 2:11, BSB"
+
+    **11** As they were walking along and talking, suddenly a chariot of fire with horses of fire appeared and separated the two of them, and Elijah went up to heaven in a whirlwind.
 
 Suddenly, a **chariot of fire with horses of fire** appears and separates them. Elijah goes up to heaven in a whirlwind.
 
@@ -180,25 +182,13 @@ Suddenly, a **chariot of fire with horses of fire** appears and separates them. 
 
 Elijah doesn't die—he is taken directly into God's presence, a profound statement of God's power over life and death.
 
-#### 📖 Scripture (2 Kings 2:12-15, BSB)
+!!! quote "2 Kings 2:12-15, BSB"
 
-##### Grief and Transfer (v. 12)
+    **12** Elisha saw this and cried out, "My father, my father, the chariots and horsemen of Israel!" And Elisha saw him no more. Then he took hold of his own clothes and tore them in two.
 
-> **12** Elisha saw this and cried out, "My father, my father, the chariots and horsemen of Israel!" And Elisha saw him no more. Then he took hold of his own clothes and tore them in two.
+    **13** He picked up the cloak that had fallen from Elijah and went back and stood on the bank of the Jordan. **14** Then he took the cloak that had fallen from Elijah and struck the water. "Where now is the LORD, the God of Elijah?" he asked. And when he had struck the water, it divided to the right and to the left, and he crossed over.
 
-Elisha cries out: **"My father, my father, the chariots and horsemen of Israel!"** He verbally acknowledges that Elijah was the embodiment of Israel's true strength—God's power. Then he tears his clothes in grief, a traditional sign of deep mourning.
-
-##### Confirmation
-The call that began with a mantle being *thrown on him* is confirmed when the mantle is *dropped for him*. **Elisha picks up the cloak that fell from Elijah**—literally and figuratively taking on the mantle of his master.
-
-##### Test of Faith (vv. 13-14)
-> **13** He picked up the cloak that had fallen from Elijah and went back and stood on the bank of the Jordan. **14** Then he took the cloak that had fallen from Elijah and struck the water. "Where now is the LORD, the God of Elijah?" he asked. And when he had struck the water, it divided to the right and to the left, and he crossed over.
->
-When the water parts for Elisha, it is **God's unmistakable confirmation**.
-
-#### The Public Affirmation (v. 15)
-
-> **15** When the sons of the prophets from Jericho, who were watching, saw him, they said, "The spirit of Elijah rests on Elisha." And they went to meet him and bowed to the ground before him.
+    **15** When the sons of the prophets from Jericho, who were watching, saw him, they said, "The spirit of Elijah rests on Elisha." And they went to meet him and bowed to the ground before him.
 Elisha returns to the Jordan and strikes the water with Elijah's cloak, crying out: **"Where now is the LORD, the God of Elijah?"** This isn't doubt—it's a bold challenge and prayer, a moment of truth. He is publicly asking God to affirm his calling by showing the same power through him.
 
 The fifty prophets watching from Jericho see this miracle and immediately recognize the transfer of authority. They declare: **"The spirit of Elijah rests on Elisha,"** and they bow down before him. What began in a field with oxen and a plow is now confirmed at the river with power and authority.
@@ -303,11 +293,11 @@ It is there that God, after speaking to the discouraged prophet in the "still sm
 - **Sons of the prophets:** Not biological sons but members of prophetic guilds or communities studying under senior prophets
 
 #### Theological Connections
-- **Jesus' teaching:** "No one who puts a hand to the plow and looks back is fit for service in the kingdom of God" (Luke 9:62)
-- **Abraham's call:** Like Elisha, Abraham was called to leave his homeland and security (Genesis 12:1-3)
-- **Jesus washing feet:** The apprenticeship of service echoes Jesus' teaching that greatness comes through serving (John 13)
+- **Jesus' teaching:** "No one who puts a hand to the plow and looks back is fit for service in the kingdom of God" ([`Luke 9:62`](https://biblehub.com/luke/9-62.htm))
+- **Abraham's call:** Like Elisha, Abraham was called to leave his homeland and security ([`Genesis 12:1-3`](https://biblehub.com/genesis/12.htm#1))
+- **Jesus washing feet:** The apprenticeship of service echoes Jesus' teaching that greatness comes through serving ([`John 13`](https://biblehub.com/john/13.htm))
 - **Moses and the Red Sea:** The parting of the Jordan deliberately echoes the Exodus, showing continuity of God's power
-- **Firstborn inheritance:** The "double portion" (Deuteronomy 21:17) was the legal right of the firstborn son
+- **Firstborn inheritance:** The "double portion" ([`Deuteronomy 21:17`](https://biblehub.com/deuteronomy/21-17.htm)) was the legal right of the firstborn son
 
 ---
 

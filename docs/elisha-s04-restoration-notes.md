@@ -43,13 +43,13 @@ Naaman's path from a powerful commander with a debilitating disease to a restore
 ### Part 1: The Unlikely Hope (2 Kings 5:1-3)
 **Hope arrives from the most unexpected source.**
 
-#### 📖 Scripture (2 Kings 5:1-3, BSB)
+!!! quote "2 Kings 5:1-3, BSB"
 
-> **1** Now Naaman, the commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper.
->
-> **2** At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife.
->
-> **3** She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”
+    **1** Now Naaman, the commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper.
+
+    **2** At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife.
+
+    **3** She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”
 
 #### Context
 Naaman was a man who had it all: power, prestige, and the king's favor. He was a "great man" and a "valiant warrior." The text even notes that the LORD had given Aram victory through him, a subtle reminder of God's sovereignty over all nations. Yet, despite his greatness, he had a secret weakness: a skin disease. This wasn't necessarily the modern Hansen's disease, but a condition that made him ritually unclean and was often seen as a divine judgment.
@@ -70,13 +70,13 @@ This is a powerful reminder that God can use anyone, anywhere, at any time. We d
 ### Part 2: The Test of Pride (2 Kings 5:10-12)
 **Naaman's expectations clash with God's simple command.**
 
-#### 📖 Scripture (2 Kings 5:10-12, BSB)
+!!! quote "2 Kings 5:10-12, BSB"
 
-> **10** Then Elisha sent him a messenger, who said, “Go and wash yourself seven times in the Jordan, and your flesh will be restored, and you will be clean.”
->
-> **11** But Naaman went away angry, saying, “I thought that he would surely come out, stand and call on the name of the LORD his God, and wave his hand over the spot to cure my leprosy.
->
-> **12** Are not the Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean?” So he turned and went away in a rage.
+    **10** Then Elisha sent him a messenger, who said, “Go and wash yourself seven times in the Jordan, and your flesh will be restored, and you will be clean.”
+
+    **11** But Naaman went away angry, saying, “I thought that he would surely come out, stand and call on the name of the LORD his God, and wave his hand over the spot to cure my leprosy.
+
+    **12** Are not the Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean?” So he turned and went away in a rage.
 
 #### Context
 After the servant girl's suggestion, Naaman went to his king, who sent him to the king of Israel with a letter and lavish gifts. The king of Israel panicked, thinking it was a trap. Elisha intervened, telling the king to send Naaman to him, so that Naaman would "know that there is a prophet in Israel." Naaman arrived at Elisha's house with his horses and chariots, a full display of his power and importance.
@@ -100,15 +100,15 @@ His reaction was rage. Pride blinded him to the possibility that God's power cou
 ### Part 3: The Humble Restoration (2 Kings 5:14-17)
 **Humility and obedience lead to complete restoration of body and soul.**
 
-#### 📖 Scripture (2 Kings 5:14-17, BSB)
+!!! quote "2 Kings 5:14-17, BSB"
 
-> **14** So Naaman went down and dipped himself seven times in the Jordan, according to the word of the man of God. And his flesh was restored like that of a young boy, and he was clean.
->
-> **15** Then Naaman and all his attendants returned to the man of God. He went and stood before Elisha and said, “Indeed, now I know that there is no God in all the earth except in Israel. So please accept a gift from your servant.”
->
-> **16** But Elisha replied, “As surely as the LORD lives, before whom I stand, I will accept nothing.” And though Naaman urged him, Elisha refused.
->
-> **17** “If you will not,” said Naaman, “please let me, your servant, be given as much soil as a pair of mules can carry. For your servant will never again make a burnt offering or a sacrifice to any other god but the LORD.
+    **14** So Naaman went down and dipped himself seven times in the Jordan, according to the word of the man of God. And his flesh was restored like that of a young boy, and he was clean.
+
+    **15** Then Naaman and all his attendants returned to the man of God. He went and stood before Elisha and said, “Indeed, now I know that there is no God in all the earth except in Israel. So please accept a gift from your servant.”
+
+    **16** But Elisha replied, “As surely as the LORD lives, before whom I stand, I will accept nothing.” And though Naaman urged him, Elisha refused.
+
+    **17** “If you will not,” said Naaman, “please let me, your servant, be given as much soil as a pair of mules can carry. For your servant will never again make a burnt offering or a sacrifice to any other god but the LORD.
 
 #### The Turning Point
 Thankfully, Naaman's servants intervened. They wisely pointed out that if the prophet had asked him to do some "great thing," he would have done it. So why not do this simple thing? Naaman swallowed his pride, went down to the Jordan, and obeyed.
@@ -185,7 +185,7 @@ Be on the lookout this week for how God might be speaking to you through unlikel
 
 #### Theological Connections
 - **God's Sovereignty:** The story shows that God is not a tribal deity. He is the sovereign Lord over all nations, using even enemy commanders for His purposes.
-- **Humility before Grace:** Naaman's story is a perfect Old Testament illustration of the principle that "God opposes the proud but gives grace to the humble" (James 4:6; 1 Peter 5:5).
+- **Humility before Grace:** Naaman's story is a perfect Old Testament illustration of the principle that "God opposes the proud but gives grace to the humble" ([`James 4:6`](https://biblehub.com/james/4-6.htm); [`1 Peter 5:5`](https://biblehub.com/1_peter/5-5.htm)).
 - **Salvation by Grace, Not Works:** Elisha's refusal of Naaman's gift demonstrates that God's healing and restoration cannot be earned or purchased. It is a gift of grace, received through faith and obedience.
 
 ---

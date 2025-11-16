@@ -22,7 +22,7 @@ date: 2025-11-16
 
 ---
 
-#### Core Message
+#### Core Message.
 
 This story reveals a powerful truth about God's character and how He interacts with our lives. Our central message is:
 
@@ -34,13 +34,13 @@ This story reveals a powerful truth about God's character and how He interacts w
 
 The story of the widow's oil unfolds in three clear parts, showing a journey from desperation to deliverance.
 
-> **Part 1: The Cry for Help**  
-> **Part 2: The Command of Faith**  
-> **Part 3: The Miraculous Provision**
+> Part 1. Cry for Help
+> Part 2. Command of Faith
+> Part 3. Miraculous Provision
 
 ---
 
-### Part 1: The Cry for Help (2 Kings 4:1-2)
+### Part 1: Cry for Help (2 Kings 4:1-2)
 **A widow's desperate situation and her plea to God's prophet.**
 
 !!! quote "2 Kings 4:1-2, BSB"
@@ -51,10 +51,10 @@ The story of the widow's oil unfolds in three clear parts, showing a journey fro
 
     She answered, “Your servant has nothing in the house but a jar of oil.”
 
-#### Context
+#### Context.
 The woman was the widow of one of the "sons of the prophets," a member of a prophetic guild that Elisha supervised. In the ancient world, a widow was in an extremely vulnerable position without a husband's economic and legal protection. Her husband, a man who "feared the LORD," had left behind a debt. The creditor was coming to collect by taking her two sons as slaves, a practice common in the ancient Near East, though regulated by Old Testament law. Her situation was dire.
 
-#### The Cry
+#### Cry.
 Her cry to Elisha was not just a cry for justice, but a cry for mercy. She was at the end of her rope. Sometimes, we are hesitant to cry out to God for help because:
 - We see it as a sign of weakness.
 - We feel we don't deserve it.
@@ -70,7 +70,7 @@ Elisha's response is simple and direct: "What can I do for you? ... What do you 
 
 ---
 
-### Part 2: The Command of Faith (2 Kings 4:3-4)
+### Part 2: Command of Faith (2 Kings 4:3-4)
 **Elisha gives the widow a strange set of instructions that require obedience and faith.**
 
 !!! quote "2 Kings 4:3-4, BSB"
@@ -79,7 +79,7 @@ Elisha's response is simple and direct: "What can I do for you? ... What do you 
 
     **4** Then go inside, shut the door behind you and your sons, and pour oil into all these jars, setting the full ones aside.”
 
-#### The Instructions
+#### Instructions.
 Elisha's instructions are a test of faith. He tells her to prepare for an abundance she cannot see.
 1.  **Go and Borrow:** She must actively seek out empty containers from her neighbors.
 2.  **Don't Get Just a Few:** This is a command to expect a great miracle. Her preparation would determine the scale of her provision.
@@ -96,7 +96,7 @@ These instructions required:
 
 ---
 
-### Part 3: The Miraculous Provision (2 Kings 4:5-7)
+### Part 3: Miraculous Provision (2 Kings 4:5-7)
 **The widow's obedience leads to God's extraordinary provision.**
 
 !!! quote "2 Kings 4:5-7, BSB"
@@ -109,12 +109,12 @@ These instructions required:
 
     **7** She went and told the man of God, and he said, “Go, sell the oil, and pay your debt. Then you and your sons can live on the remainder.”
 
-#### The Miracle
+#### Miracle.
 The widow obeyed. In the privacy of her home, a miracle unfolded. Her small jar of oil filled every single container she had gathered. The oil only stopped flowing when there were no more jars to fill. The limit of the provision was set by the extent of her preparation and obedience.
 
 Imagine the amazement of her and her sons as they witnessed this. God's provision was not just enough; it was abundant.
 
-#### The Result
+#### Result.
 Elisha's final instructions bring the story to its conclusion.
 1.  **Sell the Oil:** The miracle provided a marketable commodity.
 2.  **Pay Your Debt:** The immediate crisis was resolved. Her sons were safe.
