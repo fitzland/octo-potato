@@ -43,13 +43,13 @@ The story of the widow's oil unfolds in three clear parts, showing a journey fro
 ### Part 1: The Cry for Help (2 Kings 4:1-2)
 **A widow's desperate situation and her plea to God's prophet.**
 
-#### !!! quote "2 Kings 4:1-2, BSB"
+!!! quote "2 Kings 4:1-2, BSB"
 
-    > **1** Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!”
-    >
-    > **2** “How can I help you?” asked Elisha. “Tell me, what do you have in the house?”
-    >
-    > She answered, “Your servant has nothing in the house but a jar of oil.”
+    **1** Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!”
+
+    **2** “How can I help you?” asked Elisha. “Tell me, what do you have in the house?”
+
+    She answered, “Your servant has nothing in the house but a jar of oil.”
 
 #### Context
 The woman was the widow of one of the "sons of the prophets," a member of a prophetic guild that Elisha supervised. In the ancient world, a widow was in an extremely vulnerable position without a husband's economic and legal protection. Her husband, a man who "feared the LORD," had left behind a debt. The creditor was coming to collect by taking her two sons as slaves, a practice common in the ancient Near East, though regulated by Old Testament law. Her situation was dire.
@@ -73,11 +73,11 @@ Elisha's response is simple and direct: "What can I do for you? ... What do you 
 ### Part 2: The Command of Faith (2 Kings 4:3-4)
 **Elisha gives the widow a strange set of instructions that require obedience and faith.**
 
-#### !!! quote "2 Kings 4:3-4, BSB"
+!!! quote "2 Kings 4:3-4, BSB"
 
-    > **3** “Go,” said Elisha, “borrow empty jars from all your neighbors. Do not gather just a few.
-    >
-    > **4** Then go inside, shut the door behind you and your sons, and pour oil into all these jars, setting the full ones aside.”
+    **3** “Go,” said Elisha, “borrow empty jars from all your neighbors. Do not gather just a few.
+
+    **4** Then go inside, shut the door behind you and your sons, and pour oil into all these jars, setting the full ones aside.”
 
 #### The Instructions
 Elisha's instructions are a test of faith. He tells her to prepare for an abundance she cannot see.
@@ -99,15 +99,15 @@ These instructions required:
 ### Part 3: The Miraculous Provision (2 Kings 4:5-7)
 **The widow's obedience leads to God's extraordinary provision.**
 
-#### !!! quote "2 Kings 4:5-7, BSB"
+!!! quote "2 Kings 4:5-7, BSB"
 
-    > **5** So she left him, and after she had shut the door behind her and her sons, they kept bringing jars to her, and she kept pouring.
-    >
-    > **6** When all the jars were full, she said to her son, “Bring me another.”
-    >
-    > But he replied, “There are no more jars.” Then the oil stopped flowing.
-    >
-    > **7** She went and told the man of God, and he said, “Go, sell the oil, and pay your debt. Then you and your sons can live on the remainder.”
+    **5** So she left him, and after she had shut the door behind her and her sons, they kept bringing jars to her, and she kept pouring.
+
+    **6** When all the jars were full, she said to her son, “Bring me another.”
+
+    But he replied, “There are no more jars.” Then the oil stopped flowing.
+
+    **7** She went and told the man of God, and he said, “Go, sell the oil, and pay your debt. Then you and your sons can live on the remainder.”
 
 #### The Miracle
 The widow obeyed. In the privacy of her home, a miracle unfolded. Her small jar of oil filled every single container she had gathered. The oil only stopped flowing when there were no more jars to fill. The limit of the provision was set by the extent of her preparation and obedience.
