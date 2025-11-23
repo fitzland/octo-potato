@@ -14,9 +14,9 @@ date: 2025-11-16
 
 #### Icebreaker
 
-**Option A:** "When have you received help that arrived just at the right time?"
+**Option A**. "When have you received help that arrived just at the right time?"
 
-**Option B:** "Think of a time you faced a problem that seemed impossible. What did it feel like to need help, and what did you do?"
+**Option B**. "Think of a time you faced a problem that seemed impossible. What did it feel like to need help, and what did you do?"
 
 *We all face moments of overwhelming need. Today, we'll look at a story of a woman in a desperate situation and see how God met her need in an extraordinary way.*
 
@@ -40,7 +40,7 @@ The story of the widow's oil unfolds in three clear parts, showing a journey fro
 
 ---
 
-### 1: Cry for Help (2 Kings 4:1-2)
+### 1. Cry for Help (2 Kings 4:1-2)
 **A widow's desperate situation and her plea to God's prophet.**
 
 !!! quote "2 Kings 4:1-2, BSB"
@@ -70,7 +70,7 @@ Elisha's response is simple and direct: "What can I do for you? ... What do you 
 
 ---
 
-### 2: Command of Faith (2 Kings 4:3-4)
+### 2. Command of Faith (2 Kings 4:3-4)
 **Elisha gives the widow a strange set of instructions that require obedience and faith.**
 
 !!! quote "2 Kings 4:3-4, BSB"
@@ -82,15 +82,15 @@ Elisha's response is simple and direct: "What can I do for you? ... What do you 
 #### Instructions
 Elisha's instructions are a test of faith. He tells her to prepare for an abundance she cannot see.
 
-1.  **Go and Borrow:** She must actively seek out empty containers from her neighbors.
-2.  **Don't Get Just a Few:** This is a command to expect a great miracle. Her preparation would determine the scale of her provision.
-3.  **Go Inside and Pour:** The miracle would happen in private, behind closed doors, with only her and her sons as witnesses.
+1.  **Go and Borrow**. She must actively seek out empty containers from her neighbors.
+2.  **Don't Get Just a Few**. This is a command to expect a great miracle. Her preparation would determine the scale of her provision.
+3.  **Go Inside and Pour**. The miracle would happen in private, behind closed doors, with only her and her sons as witnesses.
 
 These instructions required:
 
--   **Obedient Faith:** She had to follow the specific, unusual instructions without alteration.
--   **Expectant Faith:** Gathering many jars demonstrated her belief that God could and would provide abundantly.
--   **Giving God What She Had:** She had to use her one small jar of oil, her only remaining resource, and trust God with it.
+-   **Obedient Faith**. She had to follow the specific, unusual instructions without alteration.
+-   **Expectant Faith**. Gathering many jars demonstrated her belief that God could and would provide abundantly.
+-   **Giving God What She Had**. She had to use her one small jar of oil, her only remaining resource, and trust God with it.
 
 #### Discussion Questions
 - How do our actions (or inaction) demonstrate our faith in God's provision?
@@ -98,7 +98,7 @@ These instructions required:
 
 ---
 
-### 3: Miraculous Provision (2 Kings 4:5-7)
+### 3. Miraculous Provision (2 Kings 4:5-7)
 **The widow's obedience leads to God's extraordinary provision.**
 
 !!! quote "2 Kings 4:5-7, BSB"
@@ -119,9 +119,9 @@ Imagine the amazement of her and her sons as they witnessed this. God's provisio
 #### Result
 Elisha's final instructions bring the story to its conclusion.
 
-1.  **Sell the Oil:** The miracle provided a marketable commodity.
-2.  **Pay Your Debt:** The immediate crisis was resolved. Her sons were safe.
-3.  **Live on the Rest:** God's provision went beyond her immediate need, providing for her family's future.
+1.  **Sell the Oil**. The miracle provided a marketable commodity.
+2.  **Pay Your Debt**. The immediate crisis was resolved. Her sons were safe.
+3.  **Live on the Rest**. God's provision went beyond her immediate need, providing for her family's future.
 
 This is a picture of God's *shalom*—His peace, wholeness, and completeness. He didn't just solve her debt problem; He restored her family's security and future.
 
@@ -173,14 +173,14 @@ Share one of your needs with a trusted friend or your small group. Ask them to p
 ### Extra Context & Background
 
 #### Historical & Cultural Notes
-- **Sons of the Prophets:** These were not biological sons but members of prophetic communities or guilds. They studied and served under a senior prophet like Elisha.
-- **Creditor and Slavery:** The Law of Moses provided regulations for debt-slavery (see [`Exodus 21:1-11`](https://biblehub.com/exodus/21.htm#1); [`Deuteronomy 15:12-18`](https://biblehub.com/deuteronomy/15.htm#12)), but it was often abused. A kinsman-redeemer was supposed to step in to prevent this ([`Leviticus 25:47-55`](https://biblehub.com/leviticus/25.htm#47)), but this widow had no one. Elisha, through God's power, acts as her redeemer.
-- **Oil:** Olive oil was a foundational commodity in ancient Israel. It was used for cooking, fuel for lamps, medicine, and in religious ceremonies. It was a valuable resource for trade.
+- **Sons of the Prophets**. These were not biological sons but members of prophetic communities or guilds. They studied and served under a senior prophet like Elisha.
+- **Creditor and Slavery**. The Law of Moses provided regulations for debt-slavery (see [`Exodus 21:1-11`](https://biblehub.com/exodus/21.htm#1); [`Deuteronomy 15:12-18`](https://biblehub.com/deuteronomy/15.htm#12)), but it was often abused. A kinsman-redeemer was supposed to step in to prevent this ([`Leviticus 25:47-55`](https://biblehub.com/leviticus/25.htm#47)), but this widow had no one. Elisha, through God's power, acts as her redeemer.
+- **Oil**. Olive oil was a foundational commodity in ancient Israel. It was used for cooking, fuel for lamps, medicine, and in religious ceremonies. It was a valuable resource for trade.
 
 #### Theological Connections
-- **Parallel to Elijah:** This miracle closely parallels the one performed by Elijah for the widow of Zarephath ([`1 Kings 17:8-16`](https://biblehub.com/1_kings/17.htm#8)), showing that the same Spirit of God was at work in Elisha.
-- **God's Provision:** This story is a powerful illustration of God's character as Jehovah Jireh, "The Lord Will Provide" ([`Genesis 22:14`](https://biblehub.com/genesis/22-14.htm)).
-- **Foreshadowing of Christ:** God's provision for the widow—paying her debt and giving her a new life—is a beautiful picture of the gospel. Through Jesus, God pays our sin debt, which we could never pay, and gives us a new, abundant life in Him.
+- **Parallel to Elijah**. This miracle closely parallels the one performed by Elijah for the widow of Zarephath ([`1 Kings 17:8-16`](https://biblehub.com/1_kings/17.htm#8)), showing that the same Spirit of God was at work in Elisha.
+- **God's Provision**. This story is a powerful illustration of God's character as Jehovah Jireh, "The Lord Will Provide" ([`Genesis 22:14`](https://biblehub.com/genesis/22-14.htm)).
+- **Foreshadowing of Christ**. God's provision for the widow—paying her debt and giving her a new life—is a beautiful picture of the gospel. Through Jesus, God pays our sin debt, which we could never pay, and gives us a new, abundant life in Him.
 
 ---
 
