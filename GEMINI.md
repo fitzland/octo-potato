@@ -75,6 +75,17 @@ This is the step-by-step process we will follow to merge the best elements of th
 
 6.  **Craft Introduction & Conclusion:** We will work together to write a compelling icebreaker, introduction, and concluding prayer, drawing inspiration from the "Bible Meets Life" sections.
 
+### **Formatting Preferences for Lesson Notes**
+
+To ensure consistency and readability, please adhere to the following formatting guidelines for all lesson notes:
+
+-   **Main Scripture Passages:** Use the `!!! quote "Book Chapter:Verse, BSB"` format. The scripture text itself should be indented with 4 spaces, without any `>` blockquote markers.
+-   **Headings:**
+    -   Remove "The " from the beginning of headings (e.g., "Cry for Help" instead of "The Cry for Help").
+    -   Replace colons with periods in headings and where they signify a definition or main point (e.g., "Core Message." instead of "Core Message:").
+    -   Remove periods from the end of headings.
+-   **Cross-References:** All cross-references should be linked to BibleHub using the format: `[`Book Chapter:Verse`](https://biblehub.com/book/chapter-verse.htm)`.
+
 ---
 
 There are other common types of passages and our lesson prep approach will adapt for each.

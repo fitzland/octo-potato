@@ -34,13 +34,13 @@ This story reveals a powerful truth about God's character and how He interacts w
 
 The story of the widow's oil unfolds in three clear parts, showing a journey from desperation to deliverance.
 
-> Part 1. Cry for Help
-> Part 2. Command of Faith
-> Part 3. Miraculous Provision
+1. Cry for Help
+2. Command of Faith
+3. Miraculous Provision
 
 ---
 
-### Part 1: Cry for Help (2 Kings 4:1-2)
+### 1: Cry for Help (2 Kings 4:1-2)
 **A widow's desperate situation and her plea to God's prophet.**
 
 !!! quote "2 Kings 4:1-2, BSB"
@@ -70,7 +70,7 @@ Elisha's response is simple and direct: "What can I do for you? ... What do you 
 
 ---
 
-### Part 2: Command of Faith (2 Kings 4:3-4)
+### 2: Command of Faith (2 Kings 4:3-4)
 **Elisha gives the widow a strange set of instructions that require obedience and faith.**
 
 !!! quote "2 Kings 4:3-4, BSB"
@@ -81,11 +81,13 @@ Elisha's response is simple and direct: "What can I do for you? ... What do you 
 
 #### Instructions
 Elisha's instructions are a test of faith. He tells her to prepare for an abundance she cannot see.
+
 1.  **Go and Borrow:** She must actively seek out empty containers from her neighbors.
 2.  **Don't Get Just a Few:** This is a command to expect a great miracle. Her preparation would determine the scale of her provision.
 3.  **Go Inside and Pour:** The miracle would happen in private, behind closed doors, with only her and her sons as witnesses.
 
 These instructions required:
+
 -   **Obedient Faith:** She had to follow the specific, unusual instructions without alteration.
 -   **Expectant Faith:** Gathering many jars demonstrated her belief that God could and would provide abundantly.
 -   **Giving God What She Had:** She had to use her one small jar of oil, her only remaining resource, and trust God with it.
@@ -96,7 +98,7 @@ These instructions required:
 
 ---
 
-### Part 3: Miraculous Provision (2 Kings 4:5-7)
+### 3: Miraculous Provision (2 Kings 4:5-7)
 **The widow's obedience leads to God's extraordinary provision.**
 
 !!! quote "2 Kings 4:5-7, BSB"
@@ -116,6 +118,7 @@ Imagine the amazement of her and her sons as they witnessed this. God's provisio
 
 #### Result
 Elisha's final instructions bring the story to its conclusion.
+
 1.  **Sell the Oil:** The miracle provided a marketable commodity.
 2.  **Pay Your Debt:** The immediate crisis was resolved. Her sons were safe.
 3.  **Live on the Rest:** God's provision went beyond her immediate need, providing for her family's future.
