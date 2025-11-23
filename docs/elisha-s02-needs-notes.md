@@ -131,6 +131,25 @@ This is a picture of God's *shalom*—His peace, wholeness, and completeness. He
 
 ---
 
+### Key Truths from This Story
+
+**1. God hears our cries and is eager to help.**
+Elisha's immediate, compassionate response to the widow reflects God's own character. He doesn't dismiss her plea but engages directly, asking, "How can I help you?" This shows us a God who is attentive to our cries and ready to respond.
+
+**2. Our cries to God are demonstrations of faith.**
+In her desperation, the widow could have given up. Instead, she chose to seek out God's prophet. This act was more than a cry of despair; it was an act of faith, believing that a solution was possible even when she could not see one.
+
+**3. We gain strength through our struggles.**
+The widow's hardship compelled her to act. She had to humble herself to borrow jars from her neighbors and then physically participate in the miracle by pouring the oil. Her active involvement, born from her struggle, was a crucial part of her journey to deliverance.
+
+**4. In moments of uncertainty, our faith is refined and deepened.**
+Elisha’s command to borrow empty jars was strange and made little logical sense. It was a direct test of the widow's faith in a moment of extreme uncertainty. By choosing to obey, her faith moved from a desperate hope to an active trust, deepening her reliance on God.
+
+**5. God desires to meet our needs.**
+The miracle itself is the ultimate proof of God's desire to provide. The oil didn't just cover her debt; it provided for her family's future. God's provision was not merely sufficient—it was abundant, revealing His generous nature and His deep desire to restore His people.
+
+---
+
 ### Application & Practical Living
 
 This story is not just about a miracle long ago; it's about how God works in our lives today.
@@ -181,6 +200,27 @@ Share one of your needs with a trusted friend or your small group. Ask them to p
 - **Parallel to Elijah**. This miracle closely parallels the one performed by Elijah for the widow of Zarephath ([`1 Kings 17:8-16`](https://biblehub.com/1_kings/17.htm#8)), showing that the same Spirit of God was at work in Elisha.
 - **God's Provision**. This story is a powerful illustration of God's character as Jehovah Jireh, "The Lord Will Provide" ([`Genesis 22:14`](https://biblehub.com/genesis/22-14.htm)).
 - **Foreshadowing of Christ**. God's provision for the widow—paying her debt and giving her a new life—is a beautiful picture of the gospel. Through Jesus, God pays our sin debt, which we could never pay, and gives us a new, abundant life in Him.
+
+---
+
+### Review: What Happened Before This Story
+
+*   **Elisha's Early Ministry (2 Kings 2:16-25)**.
+    *   Sons of the prophets search for Elijah in vain, confirming Elisha's succession.
+    *   Elisha heals the waters of Jericho.
+    *   Elisha curses mocking youths, resulting in a bear attack (asserting prophetic authority).
+
+*   **War Against Moab (2 Kings 3)**.
+    *   Jehoram (King of Israel) rebels against Mesha (King of Moab).
+    *   Alliance formed: Israel, Judah (Jehoshaphat), and Edom.
+    *   Allied armies run out of water in the desert.
+    *   Elisha is consulted, prophesies water and victory.
+    *   God miraculously provides water for the armies.
+    *   Moabites are deceived by the water's appearance, attack, and are defeated.
+    *   Allied forces devastate Moab.
+    *   King of Moab sacrifices his firstborn son, leading to the withdrawal of the allied armies.
+
+*   **Significance**. These events highlight Elisha's established prophetic power and God's intervention, setting the stage for the personal miracle in 2 Kings 4.
 
 ---
 
