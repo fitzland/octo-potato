@@ -14,9 +14,9 @@ date: 2025-11-16
 
 #### Icebreaker
 
-**Option A:** "When have you misjudged a book by its cover, either a person or a situation?"
+**Option A**. "When have you misjudged a book by its cover, either a person or a situation?"
 
-**Option B:** "Who’s the most prideful character you recall from a book or movie? What was their downfall or turning point?"
+**Option B**. "Who’s the most prideful character you recall from a book or movie? What was their downfall or turning point?"
 
 *Sometimes, the most profound changes come from the most unexpected places. Today we'll look at the story of a powerful man whose life was turned upside down by an unlikely messenger and a command that challenged his pride.*
 
@@ -32,15 +32,16 @@ The story of Naaman's healing is a powerful demonstration of God's sovereignty a
 
 ### A Journey of Restoration
 
-Naaman's path from a powerful commander with a debilitating disease to a restored man with a new faith unfolds in three key scenes.
+Naaman's path from a powerful commander with a debilitating disease to a restored man with a new faith unfolds in four key scenes.
 
-> **Part 1: The Unlikely Hope**  
-> **Part 2: The Test of Pride**  
-> **Part 3: The Humble Restoration**
+- Unlikely Hope
+- Test of Pride
+- Humble Restoration
+- Sobering Warning
 
 ---
 
-### Part 1: The Unlikely Hope (2 Kings 5:1-3)
+### 1. Unlikely Hope (2 Kings 5:1-3)
 **Hope arrives from the most unexpected source.**
 
 !!! quote "2 Kings 5:1-3, BSB"
@@ -56,18 +57,26 @@ Naaman was a man who had it all: power, prestige, and the king's favor. He was a
 
 The hope for his healing comes not from a king or a great warrior, but from a nameless, young Israelite girl who had been captured in a raid and was now a servant in his house. She was, by all worldly standards, powerless. Yet, she held the key to Naaman's restoration.
 
-#### The Unlikely Messenger
+#### Unlikely Messenger
 This story immediately shows us that God uses unlikely people for His purposes. He works through the small, the lowly, and the weak to accomplish His great plans. This young girl, in a foreign land and a position of servitude, still had faith in the God of Israel and His prophet. She didn't let her circumstances silence her witness.
 
 This is a powerful reminder that God can use anyone, anywhere, at any time. We don't need a position of power or influence to be a part of God's restorative work in the world.
 
 #### Discussion Questions
-- When have you seen God work through an unlikely person?
+
+- When have you seen God work through an unlikely person or in an unexpected way?
 - What might have prevented the servant girl from speaking up? What can we learn from her courage?
+
+##### Why This Matters
+* This part of the story confronts our assumptions about where God's wisdom and power come from. We often look to the influential, the credentialed, and the powerful for answers, but God delights in using the overlooked.
+##### Probe Deeper
+* The servant girl had every reason to be bitter—she was a captive. Instead, she showed compassion. What does this teach us about the posture of our hearts, even in difficult circumstances? How does bitterness block our ability to be used by God?
+##### Teaching Insight
+* God had already placed the answer to Naaman's problem *inside his own house*, but he had to humble himself to listen to a source he would normally ignore. The first step to restoration is often listening to a voice we've been dismissing.
 
 ---
 
-### Part 2: The Test of Pride (2 Kings 5:10-12)
+### 2. Test of Pride (2 Kings 5:10-12)
 **Naaman's expectations clash with God's simple command.**
 
 !!! quote "2 Kings 5:10-12, BSB"
@@ -92,12 +101,40 @@ Naaman's pride was wounded.
 His reaction was rage. Pride blinded him to the possibility that God's power could work through such simple means. He almost missed his miracle because it didn't fit his script.
 
 #### Discussion Questions
-- When have you seen pride get in the way of obedience?
-- Why do we often prefer complex, dramatic solutions over simple, humble ones?
+
+**1. Why do you think successful or self-reliant people often struggle to seek or accept help for their deepest needs?**
+
+##### For the Leader
+
+##### Why This Question Matters
+* This gets at the heart of Naaman's struggle and opens the door for honest conversation about pride, image, and vulnerability—issues everyone faces but successful people often face acutely.
+##### Expected Responses & How to Probe Deeper
+
+*   **Common Answer**. Pride.
+    *   **Follow-up**. What specifically about success feeds pride? Is it the success itself, or how others view us because of it?
+    *   **Go deeper**. Naaman was willing to ask the king of Israel for help, but almost refused to obey Elisha. Why is it sometimes easier to ask powerful people for help than to follow simple instructions?
+*   **Common Answer**. They're used to being in control.
+    *   **Follow-up**. How does asking for help feel like losing control? What are we really afraid of losing?
+    *   **Go deeper**. Naaman brought silver, gold, and fine clothing—trying to control the transaction. When do we try to 'buy' our way out of needing grace?
+##### Personal Application Bridge
+* Before we judge Naaman too harshly, what achievement, role, or image are you protecting right now that's keeping you from the help you need?
+
+**2. What's harder: doing something great for God, or simple daily obedience? Why?**
+
+##### For the Leader
+
+ *   **Why This Question Matters**. This is the core of Naaman's struggle in verses 11-13 and speaks to our modern tendency to prefer the spectacular over the sustainable.
+ *   **Expected Responses & How to Probe Deeper:**
+     *   **Common Answer**. Simple daily obedience is harder.
+         *   **Follow-up**. Why? Naaman's servants noted he would've done a 'great thing.' What makes 'great things' so much more appealing to our ego?
+         *   **Go deeper**. Great things are visible, impressive, and have a clear end. Daily obedience is invisible, ordinary, and ongoing. Which one feeds our ego? Which one requires death to self?
+     *   **Common Answer**. Great things are harder—they require more effort.
+          *   **Follow-up**. Do they? Or do they just require a different kind of effort? Naaman could gather treasure more easily than he could humble himself to dip in a muddy river. What does that tell us?
+ *   **Teaching Insight**. Read this Eugene Peterson quote: *"A long obedience in the same direction" is more transformative than short bursts of spectacular commitment.* Restoration usually comes through humble, ordinary obedience, not dramatic gestures.
 
 ---
 
-### Part 3: The Humble Restoration (2 Kings 5:14-17)
+### 3. Humble Restoration (2 Kings 5:14-17)
 **Humility and obedience lead to complete restoration of body and soul.**
 
 !!! quote "2 Kings 5:14-17, BSB"
