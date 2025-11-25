@@ -77,13 +77,18 @@ This is the step-by-step process we will follow to merge the best elements of th
 
 ### **Formatting Preferences for Lesson Notes**
 
+**Guiding Principle:** Prefer minimal formatting. Use bold, italics, and blockquotes sparingly to maximize their visual impact when used. The goal is readability and clarity.
+
 To ensure consistency and readability, please adhere to the following formatting guidelines for all lesson notes:
 
+-   **Punctuation:** Use periods instead of colons for introductory phrases or headings (e.g., `**Option A.**` instead of `**Option A:**`). This aids readability and marks a full stop.
 -   **Main Scripture Passages:** Use the `!!! quote "Book Chapter:Verse, BSB"` format. The scripture text itself should be indented with 4 spaces, without any `>` blockquote markers.
 -   **Headings:**
     -   Remove "The " from the beginning of headings (e.g., "Cry for Help" instead of "The Cry for Help").
-    -   Replace colons with periods in headings and where they signify a definition or main point (e.g., "Core Message." instead of "Core Message:").
+    -   Remove "Part" from numbered lesson part headings (e.g., `### 1. A New Beginning` instead of `### Part 1: A New Beginning`).
     -   Remove periods from the end of headings.
+-   **Lists:** Use standard Markdown lists (`-` or `*`) for section overviews instead of blockquotes.
+-   **Leader's Notes for Discussion Questions:** To provide guidance for the teacher, leader's notes should follow a discussion question. Introduce these notes with a level 5 heading (`##### For the Leader`). The content within this section should be a simple bulleted list, avoiding blockquotes and using periods at the end of introductory phrases (e.g., `*   **Why This Matters.**`).
 -   **Cross-References:** All cross-references should be linked to BibleHub using the format: `[`Book Chapter:Verse`](https://biblehub.com/book/chapter-verse.htm)`.
 
 ---
