@@ -34,14 +34,14 @@ The story of Naaman's healing is a powerful demonstration of God's sovereignty a
 
 Naaman's path from a powerful commander with a debilitating disease to a restored man with a new faith unfolds in four key scenes.
 
-- 1. The Unlikely Hope
-- 2. The Test of Pride
-- 3. The Humble Restoration
-- 4. The Sobering Warning
+- Unlikely Hope
+- Test of Pride
+- Humble Restoration
+- Sobering Warning
 
 ---
 
-### 1. The Unlikely Hope (2 Kings 5:1-3)
+### 1. Unlikely Hope (2 Kings 5:1-3)
 **Hope arrives from the most unexpected source.**
 
 !!! quote "2 Kings 5:1-3, BSB"
@@ -68,12 +68,12 @@ This story immediately shows us that God uses unlikely people for His purposes. 
 ##### For the Leader
 
 *   **Why This Matters**. This part of the story confronts our assumptions about where God's wisdom and power come from. We often look to the influential, the credentialed, and the powerful for answers, but God delights in using the overlooked.
-*   **Probe Deeper**. "The servant girl had every reason to be bitter—she was a captive. Instead, she showed compassion. What does this teach us about the posture of our hearts, even in difficult circumstances? How does bitterness block our ability to be used by God?"
+*   **Probe Deeper**. The servant girl had every reason to be bitter—she was a captive. Instead, she showed compassion. What does this teach us about the posture of our hearts, even in difficult circumstances? How does bitterness block our ability to be used by God?
 *   **Teaching Insight**. God had already placed the answer to Naaman's problem *inside his own house*, but he had to humble himself to listen to a source he would normally ignore. The first step to restoration is often listening to a voice we've been dismissing.
 
 ---
 
-### 2. The Test of Pride (2 Kings 5:10-12)
+### 2. Test of Pride (2 Kings 5:10-12)
 **Naaman's expectations clash with God's simple command.**
 
 !!! quote "2 Kings 5:10-12, BSB"
@@ -95,13 +95,13 @@ Naaman arrived at Elisha's house with his horses and chariots, a full display of
 
 *   **Why This Question Matters**. This gets at the heart of Naaman's struggle and opens the door for honest conversation about pride, image, and vulnerability—issues everyone faces but successful people often face acutely.
 *   **Expected Responses & How to Probe Deeper:**
-     *   **Common Answer**. "Pride."
-         *   **Follow-up**. "What specifically about success feeds pride? Is it the success itself, or how others view us because of it?"
-         *   **Go deeper**. "Naaman was willing to ask the king of Israel for help, but almost refused to obey Elisha. Why is it sometimes easier to ask powerful people for help than to follow simple instructions?"
-     *   **Common Answer**. "They're used to being in control."
-         *   **Follow-up**. "How does asking for help feel like losing control? What are we really afraid of losing?"
-         *   **Go deeper**. "Naaman brought silver, gold, and fine clothing—trying to control the transaction. When do we try to 'buy' our way out of needing grace?"
-*   **Personal Application Bridge**. "Before we judge Naaman too harshly, what achievement, role, or image are you protecting right now that's keeping you from the help you need?"
+     *   **Common Answer**. Pride.
+         *   **Follow-up**. What specifically about success feeds pride? Is it the success itself, or how others view us because of it?
+         *   **Go deeper**. Naaman was willing to ask the king of Israel for help, but almost refused to obey Elisha. Why is it sometimes easier to ask powerful people for help than to follow simple instructions?
+     *   **Common Answer**. They're used to being in control.
+         *   **Follow-up**. How does asking for help feel like losing control? What are we really afraid of losing?
+         *   **Go deeper**. Naaman brought silver, gold, and fine clothing—trying to control the transaction. When do we try to 'buy' our way out of needing grace?
+*   **Personal Application Bridge**. Before we judge Naaman too harshly, what achievement, role, or image are you protecting right now that's keeping you from the help you need?
 
 **2. What's harder: doing something great for God, or simple daily obedience? Why?**
 
@@ -109,16 +109,16 @@ Naaman arrived at Elisha's house with his horses and chariots, a full display of
 
  *   **Why This Question Matters**. This is the core of Naaman's struggle in verses 11-13 and speaks to our modern tendency to prefer the spectacular over the sustainable.
  *   **Expected Responses & How to Probe Deeper:**
-     *   **Common Answer**. "Simple daily obedience is harder."
-         *   **Follow-up**. "Why? Naaman's servants noted he would've done a 'great thing.' What makes 'great things' so much more appealing to our ego?"
-         *   **Go deeper**. "Great things are visible, impressive, and have a clear end. Daily obedience is invisible, ordinary, and ongoing. Which one feeds our ego? Which one requires death to self?"
-     *   **Common Answer**. "Great things are harder—they require more effort."
-          *   **Follow-up**. "Do they? Or do they just require a different kind of effort? Naaman could gather treasure more easily than he could humble himself to dip in a muddy river. What does that tell us?"
+     *   **Common Answer**. Simple daily obedience is harder.
+         *   **Follow-up**. Why? Naaman's servants noted he would've done a 'great thing.' What makes 'great things' so much more appealing to our ego?
+         *   **Go deeper**. Great things are visible, impressive, and have a clear end. Daily obedience is invisible, ordinary, and ongoing. Which one feeds our ego? Which one requires death to self?
+     *   **Common Answer**. Great things are harder—they require more effort.
+          *   **Follow-up**. Do they? Or do they just require a different kind of effort? Naaman could gather treasure more easily than he could humble himself to dip in a muddy river. What does that tell us?
  *   **Teaching Insight**. Read this Eugene Peterson quote: *"A long obedience in the same direction" is more transformative than short bursts of spectacular commitment.* Restoration usually comes through humble, ordinary obedience, not dramatic gestures.
 
 ---
 
-### 3. The Humble Restoration (2 Kings 5:14-17)
+### 3. Humble Restoration (2 Kings 5:14-17)
 **Humility and obedience lead to complete restoration of body and soul.**
 
 !!! quote "2 Kings 5:14-17, BSB"
@@ -131,7 +131,7 @@ Naaman arrived at Elisha's house with his horses and chariots, a full display of
 
     **17** “If you will not,” said Naaman, “please let me, your servant, be given as much soil as a pair of mules can carry. For your servant will never again make a burnt offering or a sacrifice to any other god but the LORD.
 
-#### The Transformation
+#### Transformation
 The most profound restoration was not physical, but spiritual. Naaman returned to Elisha a changed man. He confessed his faith, offered a gift (which was refused, showing grace is free), and committed to exclusive worship. God didn't just heal his skin; He captured his heart.
 
 #### Discussion Questions
@@ -142,20 +142,20 @@ The most profound restoration was not physical, but spiritual. Naaman returned t
 
  *   **Why This Question Matters**. We often ask God for a patch-job, but He wants rebirth. This question pushes the group to think beyond simple problem-solving to total transformation.
  *   **Expected Responses:**
-     *   *Cynicism:* "I need to reset my cynicism about people. I’ve been burned, but I need to trust like a child again."
-     *   *Worry:* "I need to reset my anxiety. A child trusts their father to provide. I’m trying to control everything."
-     *   *Wonder:* "I’ve lost the wonder of the Gospel. It’s become routine. I need to be amazed again."
- *   **Follow-Up Probe**. "Naaman promised to worship no other god (v. 17). True restoration changes our worship. If God reset this area of your life today, how would it change the way you worship, pray, or serve this week?"
+     *   *Cynicism*. I need to reset my cynicism about people. I’ve been burned, but I need to trust like a child again.
+     *   *Worry*. I need to reset my anxiety. A child trusts their father to provide. I’m trying to control everything.
+     *   *Wonder*. I’ve lost the wonder of the Gospel. It’s become routine. I need to be amazed again.
+ *   **Follow-Up Probe**. Naaman promised to worship no other god (v. 17). True restoration changes our worship. If God reset this area of your life today, how would it change the way you worship, pray, or serve this week?
 
 ---
 
-### 4. The Sobering Warning (2 Kings 5:20-27)
+### 4. Sobering Warning (2 Kings 5:20-27)
 **Proximity to miracles does not guarantee a pure heart.**
 
 !!! quote "2 Kings 5:20, 25-26 BSB"
     **20** But Gehazi, the servant of Elisha the man of God, said to himself, “My master has spared this Aramean, Naaman, by not accepting from him what he brought. As surely as the LORD lives, I will run after him and get something from him.” ... **25** When he went in and stood before his master, Elisha asked him, “Where have you been, Gehazi?” “Your servant has been nowhere,” he answered. **26** But Elisha said to him, “Did not my spirit go with you when the man got down from his chariot to meet you? Is this the time to accept money and clothes, olive groves and vineyards, sheep and oxen, menservants and maidservants?
 
-#### The Contrast
+#### Contrast
 The story ends with a tragic contrast. Naaman, the pagan outsider, leaves with a new heart and clean skin. Gehazi, Elisha's own servant and a spiritual insider, leaves with Naaman's leprosy and a corrupt heart. He saw the miracle but missed the point, chasing material gain instead of spiritual truth.
 
 #### Discussion Questions
