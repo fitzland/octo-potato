@@ -66,15 +66,15 @@ This story immediately shows us that God uses unlikely people for His purposes. 
     
     What can we learn from her courage?
 
-#### Why This Matters
+### Why This Matters
 
 This part of the story confronts our assumptions about where God's wisdom and power come from. We often look to the influential, the credentialed, and the powerful for answers, but God delights in using the overlooked.
 
-#### Probe Deeper
+### Probe Deeper
 
 The servant girl had every reason to be bitter—she was a captive. Instead, she showed compassion. What does this teach us about the posture of our hearts, even in difficult circumstances? How does bitterness block our ability to be used by God?
 
-#### Teaching Insight
+### Teaching Insight
 
 God had already placed the answer to Naaman's problem *inside his own house*, but he had to humble himself to listen to a source he would normally ignore. The first step to restoration is often listening to a voice we've been dismissing.
 
@@ -97,11 +97,11 @@ Naaman arrived at Elisha's house with his horses and chariots, a full display of
 
     Why do you think successful or self-reliant people often struggle to seek or accept help for their deepest needs?
 
-#### Why This Question Matters
+### Why This Question Matters
 
 This gets at the heart of Naaman's struggle and opens the door for honest conversation about pride, image, and vulnerability—issues everyone faces but successful people often face acutely.
 
-#### Expected Responses
+### Expected Responses
 
 **Pride**.
 
@@ -115,7 +115,7 @@ This gets at the heart of Naaman's struggle and opens the door for honest conver
 
 *Go deeper*. Naaman brought silver, gold, and fine clothing—trying to control the transaction. When do we try to 'buy' our way out of needing grace?
 
-#### Personal Application
+### Personal Application
 
 Before we judge Naaman too harshly, what achievement, role, or image are you protecting right now that's keeping you from the help you need?
 
@@ -123,11 +123,11 @@ Before we judge Naaman too harshly, what achievement, role, or image are you pro
 
     What's harder: doing something great for God, or simple daily obedience?
 
-#### Why This Question Matters. 
+### Why This Question Matters. 
  
  This is the core of Naaman's struggle in verses 11-13 and speaks to our modern tendency to prefer the spectacular over the sustainable.
  
-#### Expected Responses
+### Expected Responses
 
 **Simple daily obedience is harder**.
 
@@ -139,7 +139,7 @@ Before we judge Naaman too harshly, what achievement, role, or image are you pro
 
 *Follow-up*. Do they? Or do they just require a different kind of effort? Naaman could gather treasure more easily than he could humble himself to dip in a muddy river. What does that tell us?
 
-#### Teaching Insight
+### Teaching Insight
  
  **Eugene Peterson**. *A long obedience in the same direction is more transformative than short bursts of spectacular commitment.* Restoration usually comes through humble, ordinary obedience, not dramatic gestures.
 
@@ -168,11 +168,11 @@ The most profound restoration was not physical, but spiritual. Naaman returned t
     
     What specific area of your life needs a RESET to childlike faith rather than just a REPAIR?
 
-#### Why This Question Matters
+### Why This Question Matters
 
-We often ask God for a patch-job, but He wants rebirth. This question pushes the group to think beyond simple problem-solving to total transformation.
+We often ask God for a patch-job, but He wants rebirth. This question pushes the group to think beyond simple problem-solving to to-tal transformation.
 
-#### Expected Responses
+### Expected Responses
 
 **Cynicism**. I need to reset my cynicism about people. I’ve been burned, but I need to trust like a child again.
 
@@ -196,11 +196,11 @@ The story ends with a tragic contrast. Naaman, the pagan outsider, leaves with a
 
     How is it possible to be *close to the fire* of God's work—in church, in ministry, in a Christian family—and still remain cold or corrupt in our hearts?
 
-#### Why This Question Matters
+### Why This Question Matters
  
  This is a crucial warning against *spiritual familiarity*. We can handle holy things without being holy ourselves. It's a sobering call for self-examination for everyone in the room.
  
-#### Expected Responses
+### Expected Responses
 
 **Desensitization**. We get used to the miracles and start treating ministry as a business or a routine.
 

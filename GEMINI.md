@@ -81,15 +81,26 @@ This is the step-by-step process we will follow to merge the best elements of th
 
 To ensure consistency and readability, please adhere to the following formatting guidelines for all lesson notes:
 
--   **Punctuation:** Use periods instead of colons for introductory phrases or headings (e.g., `**Option A.**` instead of `**Option A:**`). This aids readability and marks a full stop.
+-   **Frontmatter:** Every lesson note must begin with a YAML frontmatter block containing `title` and `tags`.
+    -   The `tags` list should include:
+        -   **Testament:** `OT` or `NT`.
+        -   **Section:** `LAW`, `HISTORY`, `PROPHETS`, `GOSPELS`, `GENERAL LETTERS`, or `PASTORAL LETTERS`.
+        -   **Book:** The name of the biblical book (e.g., `2 Kings`, `Matthew`).
+        -   **Characters:** Any primary biblical figures (e.g., `Elisha`, `Jesus`).
 -   **Main Scripture Passages:** Use the `!!! quote "Book Chapter:Verse, BSB"` format. The scripture text itself should be indented with 4 spaces, without any `>` blockquote markers.
 -   **Headings:**
-    -   Remove "The " from the beginning of headings (e.g., "Cry for Help" instead of "The Cry for Help").
-    -   Remove "Part" from numbered lesson part headings (e.g., `### 1. A New Beginning` instead of `### Part 1: A New Beginning`).
-    -   Remove periods from the end of headings.
--   **Lists:** Use standard Markdown lists (`-` or `*`) for section overviews instead of blockquotes.
--   **Leader's Notes for Discussion Questions:** To provide guidance for the teacher, leader's notes should follow a discussion question. Introduce these notes with a level 5 heading (`##### For the Leader`). The content within this section should be a simple bulleted list, avoiding blockquotes and using periods at the end of introductory phrases (e.g., `*   **Why This Matters.**`).
--   **Cross-References:** All cross-references should be linked to BibleHub using the format: `[`Book Chapter:Verse`](https://biblehub.com/book/chapter-verse.htm)`.
+    -   Use Level 2 headings (`##`) for all top-level sections (e.g., `## Introduction`, `## 1. The First Point`, `## Application`).
+    -   Subsections must follow a strict hierarchy (H2 -> H3 -> H4). Do not skip levels (e.g., H2 -> H4).
+    -   Existing `####` headings should become `###`.
+    -   Existing `#####` headings should become `####`.
+-   **Discussion Questions:**
+    -   Place each question in its own `!!! question "Discussion Question"` admonition block.
+    -   Optional leader notes can be included within the block, introduced with a `#### For the Leader` heading and followed by a bulleted list.
+-   **General Style:**
+    -   **Punctuation:** Use periods instead of colons for list-like headings (e.g., `**Option A.**`).
+    -   **Lists:** Use standard Markdown lists (`-` or `*`) for section overviews.
+    -   **Cross-References:** Link all scripture references to BibleHub, e.g., `[`Book Chapter:Verse`](https://biblehub.com/book/chapter-verse.htm)`.
+    -   **Heading Names:** Keep headings concise. Avoid prefixes like "The ", "Part ", or "Act ".
 
 ---
 

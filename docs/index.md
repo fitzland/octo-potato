@@ -2,13 +2,13 @@
 
 ## Purpose
 
-This site is used to collect my notes and documentation on various topics.
+This site is used to collect my notes and other documentation on various topics.
 
 It is made using mkdocs. For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Project layout
+## Key Topics
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+*   [NT](tags/#nt)
+*   [OT](tags/#ot)
+*   [Matthew](tags/#matthew)
+*   [2 Kings](tags/#2-kings)
