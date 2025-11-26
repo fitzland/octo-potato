@@ -1,14 +1,13 @@
 ---
+tags:
+    - OT
+    - 2 Kings
+    - Elisha
 title: God's Hand in Restoring Lives
-description: A lesson on Naaman's healing and the power of obedience from 2 Kings 5.
-authors: Jeff
-date: 2025-11-16
 ---
 
 # God's Hand in Restoring Lives
 **2 Kings 5:1-3, 10-12, 14-17**
-
----
 
 ## Introduction
 
@@ -104,13 +103,13 @@ This gets at the heart of Naaman's struggle and opens the door for honest conver
 
 #### Expected Responses
 
-**Common Answer**. Pride.
+**Pride**.
 
 *Follow-up*. What specifically about success feeds pride? Is it the success itself, or how others view us because of it?
 
 *Go deeper*. Naaman was willing to ask the king of Israel for help, but almost refused to obey Elisha. Why is it sometimes easier to ask powerful people for help than to follow simple instructions?
 
-**Common Answer**. They're used to being in control.
+**They're used to being in control**.
 
 *Follow-up*. How does asking for help feel like losing control? What are we really afraid of losing?
 
@@ -122,7 +121,7 @@ Before we judge Naaman too harshly, what achievement, role, or image are you pro
 
 !!! question "Discussion Question" 
 
-    What's harder: doing something great for God, or simple daily obedience? Why?
+    What's harder: doing something great for God, or simple daily obedience?
 
 #### Why This Question Matters. 
  
@@ -130,23 +129,21 @@ Before we judge Naaman too harshly, what achievement, role, or image are you pro
  
 #### Expected Responses
 
-**Common Answer**. Simple daily obedience is harder.
+**Simple daily obedience is harder**.
 
 *Follow-up*. Why? Naaman's servants noted he would've done a 'great thing.' What makes 'great things' so much more appealing to our ego?
 
 *Go deeper*. Great things are visible, impressive, and have a clear end. Daily obedience is invisible, ordinary, and ongoing. Which one feeds our ego? Which one requires death to self?
 
-**Common Answer**. Great things are harder—they require more effort.
+**Great things are harder—they require more effort**.
 
 *Follow-up*. Do they? Or do they just require a different kind of effort? Naaman could gather treasure more easily than he could humble himself to dip in a muddy river. What does that tell us?
 
 #### Teaching Insight
  
- **Eugene Peterson**. *"A long obedience in the same direction" is more transformative than short bursts of spectacular commitment.* Restoration usually comes through humble, ordinary obedience, not dramatic gestures.
+ **Eugene Peterson**. *A long obedience in the same direction is more transformative than short bursts of spectacular commitment.* Restoration usually comes through humble, ordinary obedience, not dramatic gestures.
 
- **A.W. Tozer**. *"It is not what a man does that determines whether his work is sacred or secular, it is why he does it."*
-
----
+ **A.W. Tozer**. *It is not what a man does that determines whether his work is sacred or secular, it is why he does it.*
 
 ## 3. Humble Restoration (2 Kings 5:14-17)
 
@@ -177,13 +174,13 @@ We often ask God for a patch-job, but He wants rebirth. This question pushes the
 
 #### Expected Responses
 
--   *Cynicism*. I need to reset my cynicism about people. I’ve been burned, but I need to trust like a child again.
--   *Worry*. I need to reset my anxiety. A child trusts their father to provide. I’m trying to control everything.
--   *Wonder*. I’ve lost the wonder of the Gospel. It’s become routine. I need to be amazed again.
+**Cynicism**. I need to reset my cynicism about people. I’ve been burned, but I need to trust like a child again.
 
-#### Follow-Up Probe
- 
- Naaman promised to worship no other god (v. 17). True restoration changes our worship. If God reset this area of your life today, how would it change the way you worship, pray, or serve this week?
+**Worry**. I need to reset my anxiety. A child trusts their father to provide. I’m trying to control everything.
+
+**Wonder**. I’ve lost the wonder of the Gospel. It’s become routine. I need to be amazed again.
+
+*Follow-Up*. Naaman promised to worship no other god (v. 17). True restoration changes our worship. If God reset this area of your life today, how would it change the way you worship, pray, or serve this week?
 
 ## 4. Sobering Warning (2 Kings 5:20-27)
 
@@ -205,12 +202,13 @@ The story ends with a tragic contrast. Naaman, the pagan outsider, leaves with a
  
 #### Expected Responses
 
--   *Desensitization*. We get used to the miracles and start treating ministry as a business or a routine.
--   *Entitlement*. Gehazi thought, 'I’ve served hard; I deserve a cut.' We start thinking God or the church owes us something.
--   *Compartmentalization*. We think our public service gives us a pass for our private sins.
+**Desensitization**. We get used to the miracles and start treating ministry as a business or a routine.
 
-#### Follow-Up Probe. 
-Naaman (the outsider) went away cleansed. Gehazi (the insider) went away diseased. What practical steps can we take to protect our hearts from becoming like Gehazi's?
+**Entitlement**. Gehazi thought, 'I’ve served hard; I deserve a cut.' We start thinking God or the church owes us something.
+
+**Compartmentalization**. We think our public service gives us a pass for our private sins.
+
+*Follow-Up*. Naaman (the outsider) went away cleansed. Gehazi (the insider) went away diseased. What practical steps can we take to protect our hearts from becoming like Gehazi's?
 
 ## Application & Practical Living
 
