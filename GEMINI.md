@@ -83,8 +83,8 @@ To ensure consistency and readability, please adhere to the following formatting
 
 -   **Frontmatter:** Every lesson note must begin with a YAML frontmatter block containing `title` and `tags`.
     -   The `tags` list should include:
-        -   **Testament:** `OT` or `NT`.
-        -   **Section:** `LAW`, `HISTORY`, `PROPHETS`, `GOSPELS`, `GENERAL LETTERS`, or `PASTORAL LETTERS`.
+        -   **Testament:** `OT` or `NT` (must be all caps).
+        -   **Section:** `LAW`, `HISTORY`, `PROPHETS`, `GOSPELS`, `GENERAL LETTERS`, or `PASTORAL LETTERS` (must be all caps).
         -   **Book:** The name of the biblical book (e.g., `2 Kings`, `Matthew`).
         -   **Characters:** Any primary biblical figures (e.g., `Elisha`, `Jesus`).
 -   **Main Scripture Passages:** Use the `!!! quote "Book Chapter:Verse, BSB"` format. The scripture text itself should be indented with 4 spaces, without any `>` blockquote markers.

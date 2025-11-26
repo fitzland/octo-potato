@@ -1,49 +1,48 @@
 ---
 tags:
     - NT
+    - GOSPELS
     - Matthew
+    - Jesus
     - SotM
     - righteousness
 title: Jesus & the Scriptures
 ---
 
-# Jesus & the Scriptures. (Matthew 5:17-20)
+# Jesus & the Scriptures
+**Matthew 5:17-20**
 
-## Structure/Outline
+## Introduction
+
+### Structure/Outline
 
 Manifesto of the King
 
 1.  Citizens of the Kingdom (ch 5)
-    
     1.  Quality (1-12)
-        
     2.  Function (13-16)
-        
     3.  **Motive (17-48)**
-        
 2.  Values of the Kingdom (ch 6)
-    
 3.  Relationship with the Kingdom (ch 7)
-    
-## Review 
 
-The world is a rotting place, that needs a preservative. We must be [Salt](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250323-salt/).   
+### Review 
 
-The world is a dark place, that needs the [Light](https://fitzhugh.us/journal/newt/matthew/sotm/matt05-250330-light/) of Jesus.
+The world is a rotting place, that needs a preservative. We must be [Salt](matt05-250316-salt.md).   
 
-!!! question "Icebreaker"   
-    
+The world is a dark place, that needs the [Light](matt05-250330-light.md) of Jesus.
+
+### Icebreaker
+!!! question "Discussion Question"   
     If someone died and God asked them, “Why should I let you into heaven?” What would you expect them to say?   
     
     **I’m a good person**. Well, how good is good enough? What is the cut-off point to gain eternal life? How righteous must I be to get into heaven?
 
-## Passage
+### Passage
 
-!!! quote "Matthew 5:17-20"
+!!! quote "Matthew 5:17-20, BSB"
+    **17** Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. **18** For truly I tell you, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished.
 
-    Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them. For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished.
-
-    So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven. For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.
+    **19** Therefore anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven. **20** For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven.
 
 ### Context
 
@@ -54,19 +53,14 @@ In this passage, Jesus talks about His relationship with the Law and tries to he
 Next, He will give specific examples following this formula:  
 _You have heard it was said…But I say to you…_
 
-*   Murder (Matthew 5:21-26)
-    
-*   Adultery (Matthew 5:27-30)
-    
-*   Divorce (Matthew 5:31-32)
-    
-*   Oaths (Matthew 5:33-37)
-    
-*   Eye for Eye (Matthew 5:38-42)
-    
-*   Love your neighbor (Matthew 5:43-47)
+-   Murder (Matthew 5:21-26)
+-   Adultery (Matthew 5:27-30)
+-   Divorce (Matthew 5:31-32)
+-   Oaths (Matthew 5:33-37)
+-   Eye for Eye (Matthew 5:38-42)
+-   Love your neighbor (Matthew 5:43-47)
 
-## Jesus & the Law
+## 1. Jesus & the Law
 
 ### Why did Jesus come?
 
@@ -81,22 +75,16 @@ _You have heard it was said…But I say to you…_
     _Jesus says this is not His purpose_.
 
 #### Why would someone think Jesus came to abolish the Law?
-
-**Sinners**. Jesus regularly spent time with sinners (tax collectors, prostitutes, and the unclean); suggesting a disregard towards God’s commands for _HOLINESSS_ and _SEPARATION FROM SIN_.
-    
-**Sabbath**. Jesus healed on the Sabbath and defended his disciples for picking grain on the Sabbath; suggesting a disregard towards the _Fourth Commandment_ to _observe the Sabbath_.
-    
-**Food Laws**. Jesus said what goes into a person doesn’t defile them; all foods are clean [`Mark 7:19`](https://biblehub.com/mark/7-9.htm); challenging _complex dietary laws_.
-    
-**Mercy & Forgiveness**. Jesus focused heavily on love, mercy, forgiveness, and the internal condition of the heart; suggesting _strict judgment_ was being replaced.
-    
-**Religious Traditions**. Jesus condemned the Pharisees for hypocrisy—elevating tradition above God’s commands; suggesting a rejection of _tradition_ as a guide.
-    
-**Authority**. Jesus taught with inherent authority; placing His word on par or _above the Law_.
+- **Sinners**. Jesus regularly spent time with sinners (tax collectors, prostitutes, and the unclean); suggesting a disregard towards God’s commands for _HOLINESSS_ and _SEPARATION FROM SIN_.
+- **Sabbath**. Jesus healed on the Sabbath and defended his disciples for picking grain on the Sabbath; suggesting a disregard towards the _Fourth Commandment_ to _observe the Sabbath_.
+- **Food Laws**. Jesus said what goes into a person doesn’t defile them; all foods are clean [`Mark 7:19`](https://biblehub.com/mark/7-9.htm); challenging _complex dietary laws_.
+- **Mercy & Forgiveness**. Jesus focused heavily on love, mercy, forgiveness, and the internal condition of the heart; suggesting _strict judgment_ was being replaced.
+- **Religious Traditions**. Jesus condemned the Pharisees for hypocrisy—elevating tradition above God’s commands; suggesting a rejection of _tradition_ as a guide.
+- **Authority**. Jesus taught with inherent authority; placing His word on par or _above the Law_.
     
 #### What was His counter argument?
 
-**The Counter**. He came to [FULFILL]{.md-content p.text-source} (complete) the Law.
+**The Counter**. He came to FULFILL (complete) the Law.
 
 !!! info "Fulfill"   
     (GR. plērōsai). to fill up, complete, bring to its intended goal or realization.   
@@ -112,32 +100,21 @@ _You have heard it was said…But I say to you…_
 #### How did Jesus fulfill the Law?
 
 **Prophecy**.
-
-*   _Birthplace_. [`Micah 5:2`](https://biblehub.com/micah/5-2.htm). Bethlehem…out of you will come forth for Me One to be ruler over Israel.
-    
-*   _Virgin Birth_. [`Isaiah 7:14`](https://biblehub.com/isaiah/7-14.htm). Behold, the virgin will conceive and give birth to a son, and will call Him Immanuel.
-    
-*   _Triumphal Entry_. [`Zechariah 9:9`](https://biblehub.com/zechariah/9-9.htm). your King comes to you, righteous and victorious, humble riding on a donkey.
-    
-*   _Suffering_. [`Isaiah 53`](https://biblehub.com/isaiah/53.htm). v. 3. despised and rejected by men, v. 5. pierced for our transgressions, crushed for our iniquities, v. 9. assigned a grave with the wicked, v. 12. numbered with the transgressors.
-    
-*   _Crucifixion_. [`Psalm 22`](https://biblehub.com/psalm/22.htm). v. 1. my God, why have you forsaken me?, v. 16. they have pierced my hands and my feet, v. 18. they divide my garments among them.
+-   _Birthplace_. [`Micah 5:2`](https://biblehub.com/micah/5-2.htm). Bethlehem…out of you will come forth for Me One to be ruler over Israel.
+-   _Virgin Birth_. [`Isaiah 7:14`](https://biblehub.com/isaiah/7-14.htm). Behold, the virgin will conceive and give birth to a son, and will call Him Immanuel.
+-   _Triumphal Entry_. [`Zechariah 9:9`](https://biblehub.com/zechariah/9-9.htm). your King comes to you, righteous and victorious, humble riding on a donkey.
+-   _Suffering_. [`Isaiah 53`](https://biblehub.com/isaiah/53.htm). v. 3. despised and rejected by men, v. 5. pierced for our transgressions, crushed for our iniquities, v. 9. assigned a grave with the wicked, v. 12. numbered with the transgressors.
+-   _Crucifixion_. [`Psalm 22`](https://biblehub.com/psalm/22.htm). v. 1. my God, why have you forsaken me?, v. 16. they have pierced my hands and my feet, v. 18. they divide my garments among them.
     
 **Typology**.
-
-*   _Passover Lamb_. [`Exodus 12`](https://biblehub.com/exodus/12.htm). the unblemished lamb whose blood protected Israel from judgment in Egypt.
-    
-*   _Sacrificial System_. `Leviticus`. a complex system of animal sacrifices required for atonement and fellowship with God; sin required death.
-    
-*   _High Priesthood_. `Leviticus`; `Numbers`. Aaronic priesthood mediated between God and man.
-    
-*   _Tabernacle_. `Exodus 25-40`. The place where God’s presence dwelt among His people.
+-   _Passover Lamb_. [`Exodus 12`](https://biblehub.com/exodus/12.htm). the unblemished lamb whose blood protected Israel from judgment in Egypt.
+-   _Sacrificial System_. `Leviticus`. a complex system of animal sacrifices required for atonement and fellowship with God; sin required death.
+-   _High Priesthood_. `Leviticus`; `Numbers`. Aaronic priesthood mediated between God and man.
+-   _Tabernacle_. `Exodus 25-40`. The place where God’s presence dwelt among His people.
     
 **Morality**.
-
-*   _Perfect Obedience_. [`Deuteronomy 27:26`](https://biblehub.com/deuteronomy/27-26.htm). Cursed is he who does not put the words of this law into practice.
-    
-*   _Law of Love_. [`Deuteronomy 6:5`](https://biblehub.com/deuteronomy/6-5.htm). Love the LORD your God with all your heart… [`Leviticus 19:18`](https://biblehub.com/leviticus/19-18.htm). …love your neighbor as yourself.
+-   _Perfect Obedience_. [`Deuteronomy 27:26`](https://biblehub.com/deuteronomy/27-26.htm). Cursed is he who does not put the words of this law into practice.
+-   _Law of Love_. [`Deuteronomy 6:5`](https://biblehub.com/deuteronomy/6-5.htm). Love the LORD your God with all your heart… [`Leviticus 19:18`](https://biblehub.com/leviticus/19-18.htm). …love your neighbor as yourself.
     
 #### What is the core message?
 
@@ -171,9 +148,8 @@ Not the smallest part of the Law will pass away. Jesus affirms the _divine autho
 
 _How is it accomplished?_ **In Christ!** His life, death, and resurrection are the accomplishment the Law pointed towards. Things don't disappear by being abolished, but by reaching their intended fulfillment in Him.
 
-*   Some aspects have been fulfilled (sacrificial system)
-    
-*   Some will continue until Christ's return (love for God and neighbor).
+-   Some aspects have been fulfilled (sacrificial system)
+-   Some will continue until Christ's return (love for God and neighbor).
     
 ### Practice What You Preach
 
@@ -213,17 +189,16 @@ _How is it accomplished?_ **In Christ!** His life, death, and resurrection are t
 
 > [`Matthew 7:9-13`](https://biblehub.com/matthew/9.htm#9). You neatly set aside the command of God to maintain your own tradition. For Moses said, ‘Honor your father and your mother’ and ‘Anyone who curses his father or mother must be put to death.’ But you say that if a man says to his father or mother, ‘Whatever you would have received from me is **Corban**’ (that is, _a gift devoted to God_), he is no longer permitted to do anything for his father or mother. Thus you nullify the word of God by the tradition you have handed down. And you do so in many such matters.
 
-### The Standard for Heaven
+## 2. The Standard for Heaven
 
 > [`Matthew 5:20`](https://biblehub.com/matthew/5-20.htm). For I tell you that unless your righteousness **exceeds** that of the scribes and Pharisees, _you will never enter_ the kingdom of heaven.
 
-#### What kind of righteousness is required to enter heaven?
+### What kind of righteousness is required to enter heaven?
 
 **Greater**. Entrance into the kingdom requires a righteousness that _exceeds_ that of the scribes and Pharisees.
 
-*   The Pharisees were the epitome of outward religious observance. Jesus says _more_ is required.
-    
-*   They dedicated their lives to studying and keeping the Law (externally). If their righteousness isn't enough, whose could be?
+-   The Pharisees were the epitome of outward religious observance. Jesus says _more_ is required.
+-   They dedicated their lives to studying and keeping the Law (externally). If their righteousness isn't enough, whose could be?
     
 !!! example "Illustration." 
     _High Jump_. Imagine the Pharisees setting the high jump bar at what seemed an impressive height (their external rule-keeping). Jesus comes along and says, _That's not nearly high enough_. The real standard is perfect holiness, set by God Himself.   
@@ -233,7 +208,7 @@ This verse should drive us to despair of self-righteousness. If the _best_ fall 
 
 Human effort, however sincere or meticulous, cannot meet God's perfect standard.
 
-#### How did their righteousness fail?
+### How did their righteousness fail?
 
 _It failed in at least five ways._
 
@@ -249,7 +224,7 @@ _It failed in at least five ways._
 
 > [`Matthew 23:28`](https://biblehub.com/matthew/23-28.htm). In the same way, on the outside you appear to people as righteous, but on the inside you are full of hypocrisy and wickedness.
 
-#### What did Jesus want it to be?
+### What did Jesus want it to be?
 
 **Source**. Ultimately God-given and imputed. While it results in righteous actions, its foundation is the perfect righteousness of Christ credited to the believer through faith (Romans 3:21-22; Philippians 3:9). It originates outside of oneself.
 
@@ -268,11 +243,12 @@ _It failed in at least five ways._
 
 It's not just quantitatively more rule-keeping, but qualitatively different and infinitely higher because its source and nature are divine.
 
-_How might we fall_ _into the trap of Pharisaical righteousness today, focusing on outward appearances rather than inward transformation?_
+!!! question "Discussion Question"
+    How might we fall into the trap of Pharisaical righteousness today, focusing on outward appearances rather than inward transformation?
 
-### We have a problem
+## 3. We have a problem
 
-#### How Do We Meet This Standard?
+### How Do We Meet This Standard?
 
 Jesus sets an impossible standard. How can anyone's righteousness surpass that of the Pharisees?
 
@@ -282,9 +258,8 @@ _Righteousness imputed (given) by God through faith._
 
 **Explanation**. We can't earn it. It is a free gift.
 
-*   It's based on what Jesus has done, not on what we do.
-    
-*   It comes thru faith; trusting in Jesus as Lord and Savior.
+-   It's based on what Jesus has done, not on what we do.
+-   It comes thru faith; trusting in Jesus as Lord and Savior.
     
 !!! example "Illustration."
     _Paid Debt_. Imagine owing an enormous debt you can never repay. Someone else (Jesus) pays the debt in full. The creditor (God) then credits their payment to your account. That's imputed righteousness.
@@ -305,18 +280,13 @@ We cannot earn God's favor through our own efforts. True righteousness comes thr
 
 Commit to:
 
-*   seeking God's grace,
-    
-*   studying His Word,
-    
-*   living in obedience to His commands,
-    
-*   not out of obligation,
-    
-*   but out of love and gratitude for all He has done.
-    
+-   seeking God's grace,
+-   studying His Word,
+-   living in obedience to His commands,
+-   not out of obligation,
+-   but out of love and gratitude for all He has done.
 
-#### Pray.
+### Pray.
 
 Thank you for your Word that endures forever. Help us to understand that Jesus came not to abolish the law but to fulfill it. May we grasp the depth of your commandments beyond mere external observance.
 

@@ -1,6 +1,7 @@
 ---
 tags:
     - OT
+    - HISTORY
     - 2 Kings
     - Elisha
 title: God's Hand in Restoring Lives
