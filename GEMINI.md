@@ -97,7 +97,7 @@ To ensure consistency and readability, please adhere to the following formatting
     -   Place each question in its own `!!! question "Discussion Question"` admonition block.
     -   Optional leader notes can be included within the block, introduced with a `#### For the Leader` heading and followed by a bulleted list.
 -   **General Style:**
-    -   **Punctuation:** Use periods instead of colons for list-like headings (e.g., `**Option A.**`).
+    -   **Punctuation for Bolded Labels:** All bolded labels within a section (e.g., `**Key Insight**`, `**Historical Context**`) should end with a period (`.`) rather than a colon (`:`), unless it's a question. (e.g., `**Why Seven?**` is acceptable).
     -   **Lists:** Use standard Markdown lists (`-` or `*`) for section overviews.
     -   **Cross-References:** Link all scripture references to BibleHub, e.g., `[`Book Chapter:Verse`](https://biblehub.com/book/chapter-verse.htm)`.
     -   **Heading Names:** Keep headings concise. Avoid prefixes like "The ", "Part ", or "Act ".
