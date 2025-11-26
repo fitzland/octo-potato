@@ -50,17 +50,22 @@ Naaman's path from a powerful commander with a debilitating disease to a restore
     **3** She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”
 
 ### Context
-Naaman was a man who had it all: power, prestige, and the king's favor. He was a "great man" and a "valiant warrior." The text even notes that the LORD had given Aram victory through him, a subtle reminder of God's sovereignty over all nations. Yet, despite his greatness, he had a secret weakness: a skin disease. This wasn't necessarily the modern Hansen's disease, but a condition that made him ritually unclean and was often seen as a divine judgment.
+Naaman was a man who had it all: power, prestige, and the king's favor. He was a *great man* and a *valiant warrior*. The text even notes that the LORD had given Aram victory through him, a subtle reminder of God's sovereignty over all nations. 
 
-The hope for his healing comes not from a king or a great warrior, but from a nameless, young Israelite girl who had been captured in a raid and was now a servant in his house. She was, by all worldly standards, powerless. Yet, she held the key to Naaman's restoration.
+Yet, despite his greatness, he had a secret weakness: *a skin disease*. This wasn't necessarily the modern Hansen's disease, but a condition that made him ritually unclean and was often seen as a divine judgment.
+
+The hope for his healing comes not from a king or a great warrior, but from a nameless, young Israelite girl who had been captured in a raid and was now a servant in his house. She was, by all worldly standards, *powerless*. Yet, she held the key to Naaman's restoration.
 
 ### Unlikely Messenger
-This story immediately shows us that God uses unlikely people for His purposes. He works through the small, the lowly, and the weak to accomplish His great plans. This young girl, in a foreign land and a position of servitude, still had faith in the God of Israel and His prophet. She didn't let her circumstances silence her witness. This is a powerful reminder that God can use anyone, anywhere, at any time.
+This story immediately shows us that God uses unlikely people for His purposes. He works through the *small*, the *lowly*, and the *weak* to accomplish His great plans. This young girl, in a foreign land and a position of servitude, still had faith in the God of Israel and His prophet. She didn't let her circumstances silence her witness. This is a powerful reminder that God can use *anyone*, *anywhere*, *at any time*.
 
-### Discussion Question
+!!! question "Discussion Question"
 
-- When have you seen God work through an unlikely person or in an unexpected way?
-- What might have prevented the servant girl from speaking up? What can we learn from her courage?
+    When have you seen God work through an unlikely person or in an unexpected way?
+
+    What might have prevented the servant girl from speaking up? 
+    
+    What can we learn from her courage?
 
 #### Why This Matters
 
@@ -74,9 +79,8 @@ The servant girl had every reason to be bitter—she was a captive. Instead, she
 
 God had already placed the answer to Naaman's problem *inside his own house*, but he had to humble himself to listen to a source he would normally ignore. The first step to restoration is often listening to a voice we've been dismissing.
 
----
-
 ## 2. Test of Pride (2 Kings 5:10-12)
+
 **Naaman's expectations clash with God's simple command.**
 
 !!! quote "2 Kings 5:10-12, BSB"
@@ -90,7 +94,7 @@ God had already placed the answer to Naaman's problem *inside his own house*, bu
 ### Context
 Naaman arrived at Elisha's house with his horses and chariots, a full display of his power and importance. He had a clear expectation of how this would go. He, a great man, expected a great show. Instead, Elisha didn't even come out. He sent a messenger with a simple, almost insulting, command: "Go wash seven times in the Jordan." Naaman's pride was wounded. He almost missed his miracle because it didn't fit his script.
 
-!!! quote "Discussion Question"
+!!! question "Discussion Question"
 
     Why do you think successful or self-reliant people often struggle to seek or accept help for their deepest needs?
 
@@ -99,21 +103,24 @@ Naaman arrived at Elisha's house with his horses and chariots, a full display of
 This gets at the heart of Naaman's struggle and opens the door for honest conversation about pride, image, and vulnerability—issues everyone faces but successful people often face acutely.
 
 #### Expected Responses
+
 **Common Answer**. Pride.
 
--   **Follow-up**. What specifically about success feeds pride? Is it the success itself, or how others view us because of it?
--   **Go deeper**. Naaman was willing to ask the king of Israel for help, but almost refused to obey Elisha. Why is it sometimes easier to ask powerful people for help than to follow simple instructions?
+*Follow-up*. What specifically about success feeds pride? Is it the success itself, or how others view us because of it?
+
+*Go deeper*. Naaman was willing to ask the king of Israel for help, but almost refused to obey Elisha. Why is it sometimes easier to ask powerful people for help than to follow simple instructions?
 
 **Common Answer**. They're used to being in control.
 
--   **Follow-up**. How does asking for help feel like losing control? What are we really afraid of losing?
--   **Go deeper**. Naaman brought silver, gold, and fine clothing—trying to control the transaction. When do we try to 'buy' our way out of needing grace?
+*Follow-up*. How does asking for help feel like losing control? What are we really afraid of losing?
+
+*Go deeper*. Naaman brought silver, gold, and fine clothing—trying to control the transaction. When do we try to 'buy' our way out of needing grace?
 
 #### Personal Application
 
 Before we judge Naaman too harshly, what achievement, role, or image are you protecting right now that's keeping you from the help you need?
 
-!!! quote "Discussion Question" 
+!!! question "Discussion Question" 
 
     What's harder: doing something great for God, or simple daily obedience? Why?
 
@@ -125,12 +132,13 @@ Before we judge Naaman too harshly, what achievement, role, or image are you pro
 
 **Common Answer**. Simple daily obedience is harder.
 
--   **Follow-up**. Why? Naaman's servants noted he would've done a 'great thing.' What makes 'great things' so much more appealing to our ego?
--   **Go deeper**. Great things are visible, impressive, and have a clear end. Daily obedience is invisible, ordinary, and ongoing. Which one feeds our ego? Which one requires death to self?
+*Follow-up*. Why? Naaman's servants noted he would've done a 'great thing.' What makes 'great things' so much more appealing to our ego?
+
+*Go deeper*. Great things are visible, impressive, and have a clear end. Daily obedience is invisible, ordinary, and ongoing. Which one feeds our ego? Which one requires death to self?
 
 **Common Answer**. Great things are harder—they require more effort.
 
--   **Follow-up**. Do they? Or do they just require a different kind of effort? Naaman could gather treasure more easily than he could humble himself to dip in a muddy river. What does that tell us?
+*Follow-up*. Do they? Or do they just require a different kind of effort? Naaman could gather treasure more easily than he could humble himself to dip in a muddy river. What does that tell us?
 
 #### Teaching Insight
  
@@ -157,7 +165,7 @@ Before we judge Naaman too harshly, what achievement, role, or image are you pro
 ### Transformation
 The most profound restoration was not physical, but spiritual. Naaman returned to Elisha a changed man. He confessed his faith, offered a gift (which was refused, showing grace is free), and committed to exclusive worship. God didn't just heal his skin; He captured his heart.
 
-!!! quote "Discussion Question"
+!!! question "Discussion Question"
 
     The text says Naaman’s flesh was restored *like that of a young boy*. Spiritual restoration isn't just fixing a problem; it's a total reset. 
     
@@ -187,7 +195,7 @@ We often ask God for a patch-job, but He wants rebirth. This question pushes the
 ### Contrast
 The story ends with a tragic contrast. Naaman, the pagan outsider, leaves with a new heart and clean skin. Gehazi, Elisha's own servant and a spiritual insider, leaves with Naaman's leprosy and a corrupt heart. He saw the miracle but missed the point, chasing material gain instead of spiritual truth.
 
-!!! quote "Discussion Question"
+!!! question "Discussion Question"
 
     How is it possible to be *close to the fire* of God's work—in church, in ministry, in a Christian family—and still remain cold or corrupt in our hearts?
 
