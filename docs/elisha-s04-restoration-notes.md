@@ -144,7 +144,7 @@ This gets at the heart of Naaman's struggle and opens the door for honest conver
 
 **Notice the pattern**. Once again, it's the *servants* who have the wisdom. First, a young servant girl points him toward healing. Now, his own attendants save him from his pride.
 
-**The Penetrating Question**. "If he had told you to do something great, wouldn't you have done it?"
+**Penetrating Question**. "If he had told you to do something great, wouldn't you have done it?"
 
 This exposes the real issue: it's not that the task was too hard—it was too *simple*. It's not that obedience was too costly—it was too *humbling*.
 
@@ -247,7 +247,7 @@ Throughout Scripture, God consistently chooses methods that humble human pride:
 - **Jesus**. Save the world through crucifixion ([1 Corinthians 1:18-25](https://biblehub.com/1_corinthians/1-18.htm))
 - **Paul**. Glory in weakness ([2 Corinthians 12:9-10](https://biblehub.com/2_corinthians/12-9.htm))
 
-**The Pattern**. God's methods are designed to ensure that when deliverance comes, *He alone gets the glory*.
+**Pattern**. God's methods are designed to ensure that when deliverance comes, *He alone gets the glory*.
 
 Naaman wanted a spectacular show. God gave him muddy water and simple obedience. Why? So no one could say, "Naaman was healed by Elisha's great power." Instead, everyone would say, "The LORD healed Naaman."
 
@@ -269,7 +269,7 @@ Naaman wanted a spectacular show. God gave him muddy water and simple obedience.
 
     **17** “If you will not,” said Naaman, “please let me, your servant, be given as much soil as a pair of mules can carry. For your servant will never again make a burnt offering or a sacrifice to any other god but the LORD.
 
-### The Seventh Dip
+### Seventh Dip
 
 **Consider Naaman's journey down into the Jordan**.
 
@@ -282,6 +282,7 @@ Naaman wanted a spectacular show. God gave him muddy water and simple obedience.
 - **Dip 7**. **Complete restoration.** "His flesh was restored like that of a young boy."
 
 **Why Seven?** In Scripture, seven represents completeness and perfection. God could have healed Naaman on the first dip, but the sevenfold command required:
+
 - **Complete obedience** (not partial)
 - **Persistent faith** (not giving up at dip 3)
 - **Total surrender** (trusting God's process, not demanding results on your timeline)
@@ -301,7 +302,7 @@ The most profound restoration was not physical, but spiritual. Naaman returned t
 
 We often ask God for a patch-job, but He wants rebirth. This question pushes the group to think beyond simple problem-solving to to-tal transformation.
 
-### Expected Responses
+### Common Answers
 
 **Cynicism**. I need to reset my cynicism about people. I’ve been burned, but I need to trust like a child again.
 
@@ -311,7 +312,7 @@ We often ask God for a patch-job, but He wants rebirth. This question pushes the
 
 *Follow-Up*. Naaman promised to worship no other god (v. 17). True restoration changes our worship. If God reset this area of your life today, how would it change the way you worship, pray, or serve this week?
 
-### The Soil Request (v. 17)
+### Soil Request (v. 17)
 
 Naaman's request for two mule-loads of soil seems strange to modern readers, but it reveals his complete transformation:
 
@@ -338,7 +339,7 @@ Examples:
 !!! quote "2 Kings 5:20, 25-26 BSB"
     **20** But Gehazi, the servant of Elisha the man of God, said to himself, “My master has spared this Aramean, Naaman, by not accepting from him what he brought. As surely as the LORD lives, I will run after him and get something from him.” ... **25** When he went in and stood before his master, Elisha asked him, “Where have you been, Gehazi?” “Your servant has been nowhere,” he answered. **26** But Elisha said to him, “Did not my spirit go with you when the man got down from his chariot to meet you? Is this the time to accept money and clothes, olive groves and vineyards, sheep and oxen, menservants and maidservants?
 
-### The Deception Unfolds (v. 20-24)
+### Deception Unfolds (v. 20-24)
 
 !!! quote "2 Kings 5:21-24, BSB"
     **21** So Gehazi pursued Naaman. And when Naaman saw him running after him, he got down from the chariot to meet him and asked, "Is everything all right?"
@@ -349,14 +350,14 @@ Examples:
     
     **24** When Gehazi came to the hill, he took the gifts from the servants and stored them in the house. Then he dismissed the men, and they departed.
 
-**The Layers of Deception**.
-1. **He lied to Naaman** (invented the story about prophets needing money)
-2. **He lied in God's name** ("My master has sent me"—invoking Elisha's authority)
-3. **He took double** (asked for 2 talents when he originally wanted 1)
-4. **He hid the evidence** (stored it secretly in the house)
-5. **He lied to Elisha** (v. 25—"Your servant went nowhere")
+**Layers of Deception**.
+- **He lied to Naaman** (invented the story about prophets needing money)
+- **He lied in God's name** ("My master has sent me"—invoking Elisha's authority)
+- **He took double** (asked for 2 talents when he originally wanted 1)
+- **He hid the evidence** (stored it secretly in the house)
+- **He lied to Elisha** (v. 25—"Your servant went nowhere")
 
-**The Progression**. Notice how one sin leads to another. Greed → deception → using God's name falsely → theft → cover-up → more lies. This is how corruption works—it compounds.
+**Progression**. Notice how one sin leads to another. Greed → deception → using God's name falsely → theft → cover-up → more lies. This is how corruption works—it compounds.
 
 **Key Insight**. Gehazi had time to turn back. After taking the money, he could have confessed. After hiding it, he could have repented. But instead, he doubled down with more lies. At what point in a pattern of sin do we finally stop and repent?
 
@@ -454,7 +455,7 @@ Gehazi's story is not unique—it's a warning repeated throughout Scripture:
 - Tried to look generous while being greedy
 - Both died as a result
 
-**The Pattern**. In all three cases, people close to God's work were undone by greed and deception. The warning is clear: being in the inner circle doesn't make you immune to sin—it actually increases your responsibility and your accountability.
+**Pattern**. In all three cases, people close to God's work were undone by greed and deception. The warning is clear: being in the inner circle doesn't make you immune to sin—it actually increases your responsibility and your accountability.
 
 **For Us**. Church leaders, long-time members, ministry volunteers—we must guard our hearts most carefully. Familiarity with sacred things can breed contempt if we're not vigilant.
 
