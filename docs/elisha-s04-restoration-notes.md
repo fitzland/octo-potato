@@ -52,13 +52,15 @@ Each scene reveals something about how God works and what He requires of us.
     **3** She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”
 
 ### Context
+
 Naaman was a man who had it all: power, prestige, and the king's favor. He was a *great man* and a *valiant warrior*. The text even notes that the LORD had given Aram victory through him, a subtle reminder of God's sovereignty over all nations. 
 
-Yet, despite his greatness, he had a secret weakness: *a skin disease*. This wasn't necessarily the modern Hansen's disease, but a condition that made him ritually unclean and was often seen as a divine judgment.
+Yet, despite his greatness, he had a secret weakness: a *skin disease*. This wasn't necessarily the modern Hansen's disease, but a condition that made him ritually unclean and was often seen as a divine judgment.
 
 The hope for his healing comes not from a king or a great warrior, but from a nameless, young Israelite girl who had been captured in a raid and was now a servant in his house. She was, by all worldly standards, *powerless*. Yet, she held the key to Naaman's restoration.
 
 ### Unlikely Messenger
+
 This story immediately shows us that God uses unlikely people for His purposes. He works through the *small*, the *lowly*, and the *weak* to accomplish His great plans. This young girl, in a foreign land and a position of servitude, still had faith in the God of Israel and His prophet. She didn't let her circumstances silence her witness. This is a powerful reminder that God can use *anyone*, *anywhere*, *at any time*.
 
 !!! question "Discussion Question"
@@ -67,11 +69,9 @@ This story immediately shows us that God uses unlikely people for His purposes. 
 
     What might have prevented the servant girl from speaking up? 
     
-    What can we learn from her courage?
-
 ### Why This Matters
 
-This part of the story confronts our assumptions about where God's wisdom and power come from. We often look to the influential, the credentialed, and the powerful for answers, but God delights in using the overlooked.
+This part of the story confronts our assumptions about where God's wisdom and power come from. We often look to the *influential*, the *credentialed*, and the *powerful* for answers, but God delights in using the *overlooked*.
 
 ### Probe Deeper
 
@@ -83,16 +83,17 @@ God had already placed the answer to Naaman's problem *inside his own house*, bu
 
 ### Modern Application
 
-**The Servant Girl Principle**. God often places us in difficult circumstances not just *for* our growth, but *through* our witness. 
+**Servant Girl Principle**. God often places us in difficult circumstances not just for our *growth*, but for our *witness*. 
 
 Consider:
+
 - The difficult coworker who needs to hear about Christ
 - The challenging family member God has positioned you to influence
 - The painful season that's actually your platform for testimony
 
-The question isn't "Why am I here?" but "Who am I here for?"
+The question isn't *Why am I here?* but *Who am I here for?*
 
-**Reflection**. Who is the "Naaman" in your life—someone with power, success, or status who desperately needs what you have in Christ, but would never think to ask you?
+**Reflection**. Who is the *Naaman* in your life—someone with power, success, or status who desperately needs what you have in Christ, but would never think to ask you?
 
 ## 2. Test of Pride (2 Kings 5:10-12)
 
@@ -107,6 +108,7 @@ The question isn't "Why am I here?" but "Who am I here for?"
     **12** Are not the Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean?” So he turned and went away in a rage.
 
 ### Context
+
 Naaman arrived at Elisha's house with his horses and chariots, a full display of his power and importance. He had a clear expectation of how this would go. He, a great man, expected a great show. Instead, Elisha didn't even come out. He sent a messenger with a simple, almost insulting, command: "Go wash seven times in the Jordan." Naaman's pride was wounded. He almost missed his miracle because it didn't fit his script.
 
 !!! question "Discussion Question"
@@ -125,7 +127,7 @@ This gets at the heart of Naaman's struggle and opens the door for honest conver
 
 *Go deeper*. Naaman was willing to ask the king of Israel for help, but almost refused to obey Elisha. Why is it sometimes easier to ask powerful people for help than to follow simple instructions?
 
-**They're used to being in control**.
+**Used to being in control**.
 
 *Follow-up*. How does asking for help feel like losing control? What are we really afraid of losing?
 
@@ -137,16 +139,16 @@ This gets at the heart of Naaman's struggle and opens the door for honest conver
 
 *Go deeper*. The servant girl and Naaman's own servants knew about his leprosy. Who in your life already knows your struggle? Why is admitting it publicly so much harder?
 
-### The Servants Speak Again (v. 13)
+### Servants Speak Again (v. 13)
 
 !!! quote "2 Kings 5:13, BSB"
     But Naaman's servants approached him and said, "My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, 'Wash and be cleansed'?"
 
 **Notice the pattern**. Once again, it's the *servants* who have the wisdom. First, a young servant girl points him toward healing. Now, his own attendants save him from his pride.
 
-**Penetrating Question**. "If he had told you to do something great, wouldn't you have done it?"
+**Penetrating Question**. If he had told you to do something great, wouldn't you have done it?
 
-This exposes the real issue: it's not that the task was too hard—it was too *simple*. It's not that obedience was too costly—it was too *humbling*.
+This exposes the real issue: it's not that the task was *too hard*—it was too *simple*. It's not that obedience was *too costly*—it was too *humbling*.
 
 **Key Insight**. The servants essentially said, "You're willing to do *anything* impressive, but you're refusing to do *this* simple thing. Your pride is showing."
 
@@ -273,13 +275,13 @@ Naaman wanted a spectacular show. God gave him muddy water and simple obedience.
 
 **Consider Naaman's journey down into the Jordan**.
 
-- **Dip 1**. Pride is screaming. "This is ridiculous. I'm a commander!"
-- **Dip 2**. Nothing changes. "I knew this wouldn't work."
-- **Dip 3**. Still diseased. "Those servants talked me into this foolishness."
-- **Dip 4**. No improvement. "The rivers of Damascus are definitely better."
-- **Dip 5**. Still leprous. "How much longer do I humiliate myself?"
-- **Dip 6**. No visible change. "One more time, then I'm done with this nonsense."
-- **Dip 7**. **Complete restoration.** "His flesh was restored like that of a young boy."
+- **Dip 1**. Pride is screaming. *This is ridiculous. I'm a commander!*
+- **Dip 2**. Nothing changes. *I knew this wouldn't work.*
+- **Dip 3**. Still diseased. Those servants talked me into this foolishness.
+- **Dip 4**. No improvement. The rivers of Damascus are definitely better.
+- **Dip 5**. Still leprous. How much longer do I humiliate myself?
+- **Dip 6**. No visible change. One more time, then I'm done with this nonsense.
+- **Dip 7**. **Complete restoration.** His flesh was restored like that of a young boy.
 
 **Why Seven?** In Scripture, seven represents completeness and perfection. God could have healed Naaman on the first dip, but the sevenfold command required:
 
@@ -319,13 +321,15 @@ Naaman's request for two mule-loads of soil seems strange to modern readers, but
 **Historical Context**. Ancient pagans believed gods were territorial—tied to specific lands. Naaman wanted Israelite soil so he could worship Israel's God on Israel's land, even back in Aram.
 
 **Theological Significance**. 
+
 - He's committing to worship only the LORD (monotheism was radical)
 - He's willing to look foolish (imagine explaining this to other Aramean commanders)
 - He understands that true worship requires tangible commitment
 
-**Modern Equivalent**. What is your "two mules of soil"—the tangible, visible commitment you need to make that shows your restoration is real?
+**Modern Equivalent**. What is your *two mules of soil*—the tangible, visible commitment you need to make that shows your restoration is real?
 
 Examples:
+
 - Getting rid of something that represents your old life
 - Publicly declaring your faith (baptism, church membership)
 - Changing your schedule to prioritize God
@@ -337,11 +341,13 @@ Examples:
 **Proximity to miracles does not guarantee a pure heart.**
 
 !!! quote "2 Kings 5:20, 25-26 BSB"
+
     **20** But Gehazi, the servant of Elisha the man of God, said to himself, “My master has spared this Aramean, Naaman, by not accepting from him what he brought. As surely as the LORD lives, I will run after him and get something from him.” ... **25** When he went in and stood before his master, Elisha asked him, “Where have you been, Gehazi?” “Your servant has been nowhere,” he answered. **26** But Elisha said to him, “Did not my spirit go with you when the man got down from his chariot to meet you? Is this the time to accept money and clothes, olive groves and vineyards, sheep and oxen, menservants and maidservants?
 
 ### Deception Unfolds (v. 20-24)
 
 !!! quote "2 Kings 5:21-24, BSB"
+
     **21** So Gehazi pursued Naaman. And when Naaman saw him running after him, he got down from the chariot to meet him and asked, "Is everything all right?"
     
     **22** "Everything is all right," Gehazi replied. "My master has sent me to say, 'I have just now discovered that two young men from the sons of the prophets have come to me from the hill country of Ephraim. Please give them a talent of silver and two sets of clothing.'"
@@ -362,6 +368,7 @@ Examples:
 **Key Insight**. Gehazi had time to turn back. After taking the money, he could have confessed. After hiding it, he could have repented. But instead, he doubled down with more lies. At what point in a pattern of sin do we finally stop and repent?
 
 ### Contrast
+
 The story ends with a tragic contrast. Naaman, the pagan outsider, leaves with a new heart and clean skin. Gehazi, Elisha's own servant and a spiritual insider, leaves with Naaman's leprosy and a corrupt heart. He saw the miracle but missed the point, chasing material gain instead of spiritual truth.
 
 !!! question "Discussion Question"
@@ -401,7 +408,6 @@ This question is crucial because it addresses the danger of being around restora
 *Modern equivalent*. Using ministry for resume-building, networking, platform, income
 
 *Warning sign*. When we're more concerned with what we get FROM ministry than what God does THROUGH ministry
-
 
 **Entitlement from Association**. My master should have accepted something = I deserve something because I'm connected to this work
 
@@ -492,13 +498,14 @@ Identify one area where God is calling you to simple, humble obedience, but your
 
 **Part B—Respond**. Like Naaman with the servant girl, actually *act* on at least one piece of counsel you receive from an unlikely source. Then reflect: What made it hard to listen? What did you learn by obeying?
 
-**Bonus**. Consider—are *you* in a position to be an "unlikely messenger" for someone? Who is the "Naaman" in your sphere of influence who needs to hear about the God of restoration?
+**Bonus**. Consider—are *you* in a position to be an *unlikely messenger* for someone? Who is the *Naaman* in your sphere of influence who needs to hear about the God of restoration?
 
 ### 4. Examine Your Ministry Motives (Heart Check)
 
 Since Gehazi's story is part of this passage, it demands a response. Ask yourself these hard questions:
 
-**The Gehazi Self-Examination**.
+**Gehazi Self-Examination**.
+
 - Do I serve God to get something, or to give something?
 - Am I more focused on the recognition I receive or the work God does through me?
 - Have I become numb to God's work because I'm around it so often?
@@ -506,7 +513,7 @@ Since Gehazi's story is part of this passage, it demands a response. Ask yoursel
 - Do I resent when God blesses others freely (like Naaman) while I feel I've "earned" something?
 - Am I comfortable manipulating spiritual moments for personal gain?
 
-**The Brutal Honesty Prayer**. "Lord, show me if I'm serving You or using You. Reveal any Gehazi-like motives in my heart. I'd rather face this now than at the judgment seat."
+**Brutal Honesty Prayer**. "Lord, show me if I'm serving You or using You. Reveal any Gehazi-like motives in my heart. I'd rather face this now than at the judgment seat."
 
 **Action Step**. If God reveals something, confess it to a trusted Christian friend this week. Don't let it fester like Gehazi did.
 
@@ -541,6 +548,7 @@ Since Gehazi's story is part of this passage, it demands a response. Ask yoursel
 This context helps us understand just how much Naaman was risking and how much he was humbling himself.
 
 ### Theological Connections
+
 - **God's Sovereignty**. The story shows that God is the sovereign Lord over all nations, using even enemy commanders for His purposes.
 - **Humility before Grace**. Naaman's story is a perfect Old Testament illustration of the principle that "God opposes the proud but gives grace to the humble" ([`James 4:6`](https://biblehub.com/james/4-6.htm); [`1 Peter 5:5`](https://biblehub.com/1_peter/5-5.htm)).
 - **Salvation by Grace, Not Works**. Elisha's refusal of Naaman's gift demonstrates that God's healing and restoration cannot be earned or purchased. It is a gift of grace, received through faith and obedience. This connects directly to the New Testament's teaching on salvation.
