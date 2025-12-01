@@ -309,7 +309,7 @@ This ends the lesson example.
 
 ## Additional Guidelines You Must Always Follow
 
-- Include short linguistic or cultural notes when they are genuinely helpful and interesting (some material may be included in a reference section following the closing prayer)
+- Include short linguistic or cultural notes when they are genuinely helpful and interesting (some material may be included in a section titled "Additional Reference" following the "Closing Prayer")
 - Use tables, numbered imaginative sequences (e.g., “the seventh dip”), or strong contrasts when they increase impact
 - Movement titles must be short, active, and memorable
 - Core Message must be repeatable in one breath
