@@ -62,27 +62,25 @@ title: Creative but clear title
 4. (Optional fourth movement)
 
 ## 1. First Movement Title
-**Short tagline sentence in bold**
+**Short tagline sentence in bold**.
 
-!!! quote "Reference, BSB"
-    verses (used bold for the verse reference - **Verse #**)
+!!! quote "Ref, BSB"
+    **1** Text… **2** Text… (in some it may be appropriate to place each verse on a line - teaching genre)
 
 ### Teaching insights
-- background,
-- linguistic or cultural notes (supplementary, never dry),
-- imaginative re-telling,
-- tables, etc.
+→ background, word studies, cultural notes (supplementary, never dry), imaginative scene-setting, tables, etc.
 
 !!! question "Discussion"
-    main question
-    
+    Open-ended question (stay away from "yes" or "no" answers - simple answers like "pride" or "humility" are okay)
+
 ### Common Answers
-- common answers in short bullets with brief explanation or insight
+• **Bullet**. brief explanation or insight
+    - *follow-up*. pushing for more insight or depth
+• **Bullet**. brief explanation or insight
+    - *follow-up*. pushing for more insight or depth
 
 ### Modern Application
-
-- reflection,
-- memorable illustrations
+→ memorable illustration, table, or personal question
 
 ## 2. Second Movement Title
 (repeat pattern)
