@@ -74,10 +74,10 @@ title: Creative but clear title
     Open-ended question (stay away from "yes" or "no" answers - simple answers like "pride" or "humility" are okay)
 
 ### Common Answers
-**Bullet**. brief explanation or insight
+**Answer One**. brief explanation or insight
 - *follow-up*. pushing for more insight or depth
 
-**Bullet**. brief explanation or insight
+**Answer Two**. brief explanation or insight
 - *follow-up*. pushing for more insight or depth
 
 ### Modern Application
