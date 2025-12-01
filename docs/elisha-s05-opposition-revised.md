@@ -5,7 +5,7 @@ tags:
     - 2 Kings
     - Elisha
     - Spiritual Warfare
-title: God's Hand When We Face Overwhelming Opposition
+title: God's Hand When We Face Overwhelming Opposition (v. 2)
 ---
 
 # God's Hand When We Face Overwhelming Opposition
