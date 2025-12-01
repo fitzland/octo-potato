@@ -22,7 +22,7 @@ Every lesson must follow this exact structure — no exceptions.
 - Common Answers format:
   - Primary (2–3): **Capitalised Phrase**. explanation
     - *follow-up*. italic probe
-  - Optional (any number): **Brief Answer**. [optional] short description
+  - Optional (any number): **Capitalised Phrase**. [optional] short description
 - Closing Reflection heading: ## Closing Reflection (Moment of Decision)
 - Optional sections: ## Postscript … (for material outside selected verses)
 - Optional final section: ## Additional Reference
