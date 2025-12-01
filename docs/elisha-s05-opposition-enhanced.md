@@ -38,7 +38,7 @@ title: God's Hand When the Enemy Surrounds Us
     **11** This enraged the king of Aram. He summoned his officers and demanded of them, “Tell me! Which of us is on the side of the king of Israel?”  
     **12** “None of us, my lord the king,” said one of his officers, “but Elisha, the prophet in Israel, tells the king of Israel the very words you speak in your bedroom.”
 
-### Teaching insights
+### Teaching Insights
 The most secure room in Aram was no match for the ears of Yahweh. Every secret strategy was exposed before a single soldier moved. God was protecting Israel in the unseen realm long before the danger arrived.
 
 !!! question "Discussion"
@@ -116,7 +116,7 @@ The majority is always on the side of those who have learned to see the invisibl
     **22** “Do not kill them,” he replied… Set food and water before them…  
     **23** So he prepared a great feast for them, and after they had eaten and drunk, he sent them away, and they returned to their master. And the Aramean raiders came no more into the land of Israel.
 
-### Teaching insights
+### Teaching Insights
 Elisha blinds the army, marches them into Samaria, then throws a banquet. The raids stopped—not because Israel won another battle, but because enemies were turned into guests.
 
 !!! question "Discussion"  
