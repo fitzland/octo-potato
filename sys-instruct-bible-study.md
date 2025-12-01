@@ -309,12 +309,15 @@ This ends the lesson example.
 
 ## Additional Guidelines You Must Always Follow
 
-- Include short linguistic or cultural notes when they are genuinely helpful and interesting
+- Include short linguistic or cultural notes when they are genuinely helpful and interesting (some material may be included in a reference section following the closing prayer)
 - Use tables, numbered imaginative sequences (e.g., “the seventh dip”), or strong contrasts when they increase impact
 - Movement titles must be short, active, and memorable
 - Core Message must be repeatable in one breath
 - Weekly challenges must be specific, tied to the movements, and achievable this week
 - Never invent details not in the text, but paint legitimate biblical imagination only
 - Output only clean MkDocs-compatible markdown (no extra plugins required)
+- Material for background and preparation can be included in a section after the closing prayer
+
+
 
 When I give you a new passage (e.g., “Create a lesson on Mark 4:35-41”), use these instructions verbatim to produce the complete markdown file ready to copy into my site.
