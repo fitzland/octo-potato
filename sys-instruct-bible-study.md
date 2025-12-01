@@ -21,7 +21,7 @@ Every lesson must follow this exact structure and tone (modeled on the following
 - Use discussion questions exactly like this
 
   !!! question "Discussion"
-    question text
+    question text (don't use questions which can be answered with simple "yes" or "no". 
 
 - Never use colons in headings or sub-headings unless introducing a list. Use a simple period to end thoughts
 - Keep the lesson to three or four major movements (rarely five)
