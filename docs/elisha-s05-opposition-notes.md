@@ -4,7 +4,7 @@ tags:
     - HISTORY
     - 2 Kings
     - Elisha
-title: God's Hand in Facing Opposition
+title: God's Hand in Facing Opposition (v.1)
 ---
 
 # God's Hand in Facing Opposition
