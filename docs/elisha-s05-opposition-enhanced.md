@@ -64,14 +64,14 @@ The conversations your enemies are having about you right now have already been 
 Dothan sat in a small valley. At sunrise the servant walked outside and saw the entire horizon filled with enemy troops. His cry “What shall we do?” is the most human reaction in Scripture when circumstances scream louder than faith.
 
 !!! question "Discussion"  
-    What is the loudest “army” surrounding you right now, and how has it been shaping the way you sleep, pray, and treat the people closest to you.
+    What is the loudest ARMY surrounding you right now, and how has it been shaping the way you sleep, pray, and treat the people closest to you.
 
 ### Common Answers
 **Finances or health**. constant pressure  
-- *follow-up*. Who or what have you been turning to first instead of God when the fear hits  
+- *follow-up*. Who or what have you been turning to first instead of God when the fear hits?  
 
-**A relationship**. marriage, child, parent, coworker  
-- *follow-up*. How has fear of losing that person changed the way you love them
+**Relationships**. marriage, child, parent, coworker  
+- *follow-up*. How has fear of losing that person changed the way you love them?  
 
 ### Modern Application
 Panic is the tax we pay for trusting our eyes more than His word.
@@ -90,19 +90,19 @@ Elisha did not deny the visible army; he simply saw the greater invisible one. �
 
 | The servant saw               | Elisha saw                        |
 |-------------------------------|-----------------------------------|
-| Enemy horses and chariots        | Horses and chariots of fire       |
+| Enemy horses and chariots     | Horses and chariots of fire       |
 | Surrounded and helpless       | Surrounded and protected          |
-| “We are outnumbered”          | “They are outnumbered”            |
+| *We are outnumbered*          | *They are outnumbered*            |
 
 !!! question "Discussion"  
-    Share a specific moment when God suddenly opened your eyes to see His presence or power in a situation that had previously felt hopeless. What changed in you the moment you saw.
+    Share a specific moment when God suddenly opened your eyes to see His presence or power in a situation that had previously felt hopeless. What changed in you the moment you saw?
 
 ### Common Answers
 **Worship or crisis prayer**. sudden peace that defied circumstances  
-- *follow-up*. What had kept your eyes closed until that moment  
+- *follow-up*. What had kept your eyes closed until that moment?  
 
 **A verse or song**. Scripture came alive at exactly the right second you needed it  
-- *follow-up*. How can we position ourselves so that happens more often
+- *follow-up*. How can we position ourselves so that happens more often?
 
 ### Modern Application
 The majority is always on the side of those who have learned to see the invisible.
@@ -120,14 +120,14 @@ The majority is always on the side of those who have learned to see the invisibl
 Elisha blinds the army, marches them into Samaria, then throws a banquet. The raids stopped—not because Israel won another battle, but because enemies were turned into guests.
 
 !!! question "Discussion"  
-    Tell us about a time when you chose kindness toward someone who had hurt you—and it actually changed them (or changed you). What made you take that terrifying step.
+    Tell about a time when you chose kindness toward someone who had hurt you—and it actually changed them (or changed you). What made you take that terrifying step?
 
 ### Common Answers
 **Work or neighbourhood enemy**. small act of generosity melted hostility  
-- *follow-up*. What lie did fear tell you would happen if you showed mercy  
+- *follow-up*. What lie did fear tell you would happen if you showed mercy?  
 
 **Family member**. forgiveness ended years of estrangement  
-- *follow-up*. How did offering grace feel like weakness at first but later proved to be strength
+- *follow-up*. How did offering grace feel like weakness at first but later proved to be strength?  
 
 ### Modern Application
 Sometimes the quickest way to disarm an army is to set a table.
@@ -138,7 +138,7 @@ Sometimes the quickest way to disarm an army is to set a table.
 3. **Feed an Enemy**. Perform one deliberate act of kindness this week toward someone who has hurt or opposed you (text, coffee, prayer, note). No strings attached.  
 4. **Declare the Majority**. Memorize 2 Kings 6:16 and speak it out loud the moment fear rises: “Those who are with us are more than those who are with them.”
 
-## Closing Reflection – Your Moment of Decision
+## Closing Reflection (Your Moment of Decision)
 Right now you are living in one of three places.
 
 **A.** Still inside the house. unaware of either the danger or the deliverance around you.  
