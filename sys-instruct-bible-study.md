@@ -20,7 +20,7 @@ Every lesson must follow this exact structure and tone (modeled on the following
 
 - Use discussion questions exactly like this
 
-!!! question "Discussion"
+  !!! question "Discussion"
     question text
 
 - Never use colons in headings or sub-headings unless introducing a list. Use a simple period to end thoughts
