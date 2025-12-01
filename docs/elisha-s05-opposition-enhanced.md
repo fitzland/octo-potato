@@ -46,7 +46,8 @@ The most secure room in Aram was no match for the ears of Yahweh. Every secret s
 
 ### Common Answers
 **Near Miss**. accident, betrayal, or diagnosis that never happened  
-- *follow-up*. Why are we so quick to call it “luck” instead of providence  
+- *follow-up*. Why are we so quick to call it “luck” instead of providence
+
 **Unexpected Provision**. money, job, or relationship arrived exactly when needed  
 - *follow-up*. How does remembering those moments change the way we face today’s battles
 
@@ -68,6 +69,7 @@ Dothan sat in a small valley. At sunrise the servant walked outside and saw the 
 ### Common Answers
 **Finances or health**. constant pressure  
 - *follow-up*. Who or what have you been turning to first instead of God when the fear hits  
+
 **A relationship**. marriage, child, parent, coworker  
 - *follow-up*. How has fear of losing that person changed the way you love them
 
@@ -98,6 +100,7 @@ Elisha did not deny the visible army; he simply saw the greater invisible one. �
 ### Common Answers
 **Worship or crisis prayer**. sudden peace that defied circumstances  
 - *follow-up*. What had kept your eyes closed until that moment  
+
 **A verse or song**. Scripture came alive at exactly the right second you needed it  
 - *follow-up*. How can we position ourselves so that happens more often
 
