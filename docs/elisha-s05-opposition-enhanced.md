@@ -42,16 +42,16 @@ title: God's Hand When the Enemy Surrounds Us
 The most secure room in Aram was no match for the ears of Yahweh. Every secret strategy was exposed before a single soldier moved. God was protecting Israel in the unseen realm long before the danger arrived.
 
 !!! question "Discussion"
-    When have you later discovered that God had been protecting or guiding you long before you even sensed the threat.
+    Tell us about a time when you later realised God had been moving on your behalf long before you ever saw the danger or prayed the prayer.
 
 ### Common Answers
-**A near miss** – accident, diagnosis, or betrayal that never happened  
-- *follow-up*. What kept you from seeing His hand at the time  
-**Financial provision** – money arrived exactly when needed  
-- *follow-up*. Why do we usually credit coincidence instead of God
+**A near miss** – accident, betrayal, or diagnosis that never happened  
+- *follow-up*. Why are we so quick to call it “luck” instead of providence  
+**Unexpected provision** – money, job, or relationship arrived exactly when needed  
+- *follow-up*. How does remembering those moments change the way we face today’s battles
 
 ### Modern Application
-Your enemy’s plans are never hidden from God. The conversation that is happening about you right now in the unseen realm has already been overheard by your Father.
+The conversations your enemies are having about you right now have already been overheard in heaven.
 
 ## 2. Dawn of Panic (2 Kings 6:15)
 **What we see with natural eyes can paralyse us.**
@@ -63,18 +63,16 @@ Your enemy’s plans are never hidden from God. The conversation that is happeni
 Dothan sat in a small valley. At sunrise the servant walked outside and saw the entire horizon filled with enemy troops. His cry “What shall we do?” is the most human reaction in Scripture when circumstances scream louder than faith.
 
 !!! question "Discussion"
-    What situation in your life right now feels like an entire army has surrounded your city.
+    What is the loudest “army” surrounding you right now, and how has it been shaping the way you sleep, pray, and treat the people closest to you.
 
 ### Common Answers
-**Finances** – bills stacking higher than income  
-- *follow-up*. Where do you turn first when money feels impossible  
-**Health crisis** – diagnosis or long-term struggle  
-- *follow-up*. How does fear of the future rob present peace  
-**Broken relationship** – betrayal or estrangement  
-- *follow-up*. Why is it hardest to trust God with people we love
+**Finances or health** – constant pressure  
+- *follow-up*. Who or what have you been turning to first instead of God when the fear hits  
+**A relationship** – marriage, child, parent, coworker  
+- *follow-up*. How has fear of losing that person changed the way you love them
 
 ### Modern Application
-Panic is proof we are measuring the threat with the wrong eyes.
+Panic is the tax we pay for trusting our eyes more than His word.
 
 ## 3. Opened Eyes (2 Kings 6:16–17)
 **Those who are with us are more than those who are with them.**
@@ -84,24 +82,24 @@ Panic is proof we are measuring the threat with the wrong eyes.
     **17** Then Elisha prayed, “O LORD, please open his eyes that he may see.” And the LORD opened the servant’s eyes, and he looked and saw the hills full of horses and chariots of fire all around Elisha.
 
 ### Teaching insights
-Elisha did not deny the visible army; he simply saw the greater invisible one. “Chariots of fire” echoes Elijah’s departure (2 Kings 2:11) and declares that the God who took Elijah is still fighting for Israel.
+Elisha did not deny the visible army; he simply saw the greater invisible one. “Chariots of fire” echoes Elijah’s departure and declares that the God who took Elijah is still fighting for Israel.
 
 ### Contrast That Changes Everything
 
 | The servant saw               | Elisha saw                        |
 |-------------------------------|-----------------------------------|
-| Enemy horses and chariots     | Horses and chariots of fire       |
+| Enemy horses and chariots        | Horses and chariots of fire       |
 | Surrounded and helpless       | Surrounded and protected          |
 | “We are outnumbered”          | “They are outnumbered”            |
 
 !!! question "Discussion"
-    When has God previously opened your eyes to see His presence in a moment that felt hopeless.
+    Share a specific moment when God suddenly opened your eyes to see His presence or power in a situation that had previously felt hopeless. What changed in you the moment you saw.
 
 ### Common Answers
-**Worship or prayer** – sudden peace that made no sense  
-- *follow-up*. What triggered the shift in perspective  
-**Scripture promise** – verse that came alive at the right moment  
-- *follow-up*. How can we train our eyes to look there first
+**Worship or crisis prayer** – sudden peace that defied circumstances  
+- *follow-up*. What had kept your eyes closed until that moment  
+**A verse or song** – Scripture came alive at exactly the right second you needed it  
+- *follow-up*. How can we position ourselves so that happens more often
 
 ### Modern Application
 The majority is always on the side of those who have learned to see the invisible.
@@ -109,26 +107,26 @@ The majority is always on the side of those who have learned to see the invisibl
 ## 4. Feast Instead of Fight (2 Kings 6:18–23)
 **God’s power is displayed most clearly when it restores enemies instead of destroying them.**
 
-!!! quote "2 Kings 6:18–23, BSB
+!!! quote "2 Kings 6:18–23, BSB"
     **18** As the Arameans came down toward him, Elisha prayed to the LORD, “Strike these people with blindness.” So He struck them with blindness…  
     **21** When the king of Israel saw them, he asked Elisha, “My father, shall I kill them? Shall I kill them?”  
     **22** “Do not kill them,” he replied… Set food and water before them…  
     **23** So he prepared a great feast for them, and after they had eaten and drunk, he sent them away, and they returned to their master. And the Aramean raiders came no more into the land of Israel.
 
 ### Teaching insights
-Elisha blinds the army, leads them into Samaria, then feeds them. The result? The text says the raids stopped. Grace accomplished in one meal what years of war could not.
+Elisha blinds the army, marches them into Samaria, then throws a banquet. The raids stopped—not because Israel won another battle, but because enemies were turned into guests.
 
 !!! question "Discussion"
-    When has an act of kindness toward someone who opposed you brought unexpected peace.
+    Tell us about a time when you chose kindness toward someone who had hurt you—and it actually changed them (or changed you). What made you take that terrifying step.
 
 ### Common Answers
-**Work conflict** – buying lunch for a difficult coworker changed the atmosphere  
-- *follow-up*. Why is mercy harder when we finally have the upper hand  
-**Family feud** – choosing forgiveness ended years of silence  
-- *follow-up*. What fear keeps us from being the first to offer grace
+**Work or neighbourhood enemy** – small act of generosity melted hostility  
+- *follow-up*. What lie did fear tell you would happen if you showed mercy  
+**Family member** – forgiveness ended years of estrangement  
+- *follow-up*. How did offering grace feel like weakness at first but later proved to be strength
 
 ### Modern Application
-Sometimes the fastest way to defeat an enemy is to make him a brother.
+Sometimes the quickest way to disarm an army is to set a table.
 
 ## Weekly Challenges
 1. **Open My Eyes Prayer** – Pray Elisha’s exact words every morning this week: “Lord, open my eyes that I may see.” Write down one thing each day you believe God showed you.  
@@ -149,7 +147,7 @@ Which one are you today. And what will you ask God to open before the next sunri
 Lord, open my eyes that I may see Your unseen army today.
 
 ## Closing Prayer
-Father, forgive us for the mornings we have walked outside and only seen the enemy army. Forgive us for measuring danger with human eyes and forgetting the chariots of fire that surround Your people. Open our eyes to see that those who are with us are always more. Give us faith to stand calm when everything looks lost, and give us grace to prepare a feast when vengeance feels justified. May we live as those who belong to the true majority. In the mighty name of Jesus, who has disarmed every power that opposes us, we pray. Amen.
+Father, forgive us for the mornings we have walked outside and only to see the enemy army. Forgive us for measuring danger with human eyes and forgetting the chariots of fire that surround Your people. Open our eyes to see that those who are with us are always more. Give us faith to stand calm when everything looks lost, and give us grace to prepare a feast when vengeance feels justified. May we live as those who belong to the true majority. In the mighty name of Jesus, who has disarmed every power that opposes us, we pray. Amen.
 
 ## Additional Reference
 - **Dothan** – small hill country village about 10 miles north of Samaria; same place where Joseph was sold by his brothers (Gen 37).  
