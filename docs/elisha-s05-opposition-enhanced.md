@@ -122,6 +122,7 @@ Elisha blinds the army, marches them into Samaria, then throws a banquet. The ra
 ### Common Answers
 **Work or neighbourhood enemy**. small act of generosity melted hostility  
 - *follow-up*. What lie did fear tell you would happen if you showed mercy  
+
 **Family member**. forgiveness ended years of estrangement  
 - *follow-up*. How did offering grace feel like weakness at first but later proved to be strength
 
