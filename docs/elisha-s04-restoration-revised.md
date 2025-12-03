@@ -16,7 +16,7 @@ title: God's Hand in Restoring Lives (v. 2)
 **Option A**. When have you misjudged a book by its cover—either a person or a situation?  
 **Option B**. Who’s the most prideful character you recall from a book or movie? What was their downfall or turning point?
 
-*Sometimes the most profound changes come from the most unexpected places.*
+*Sometimes the most profound changes come from the most unexpected places*.
 
 Today we watch a powerful foreign commander have his life turned upside down by an unlikely messenger and a command that offended every ounce of his pride.
 
@@ -24,18 +24,18 @@ Today we watch a powerful foreign commander have his life turned upside down by 
 **God restores us as we are obedient to Him, and His methods often defy our expectations and humble our pride.**
 
 ### Lesson Flow – Four Movements
-1. **Unlikely Hope** – A servant girl points the way  
-2. **Test of Pride** – God’s simple command offends Naaman  
-3. **Humble Restoration** – Obedience brings transformation of body and soul  
-4. **Sobering Warning** – Gehazi’s cautionary tale  
+1. **Unlikely Hope**. A servant girl points the way  
+2. **Test of Pride**. God’s simple command offends Naaman  
+3. **Humble Restoration**. Obedience brings transformation of body and soul  
+4. **Sobering Warning**. Gehazi’s cautionary tale  
 
 ## 1. Unlikely Hope (2 Kings 5:1-3)
-**Hope arrives from the most unexpected source.**
+**Hope arrives from the most unexpected source**.
 
 !!! quote "2 Kings 5:1-3, BSB"
-    1 Now Naaman, commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. He was a mighty man of valor, but he was a leper.  
-    2 At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife.  
-    3 She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”
+    **1** Now Naaman, commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. He was a mighty man of valor, but he was a leper.  
+    **2** At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife.  
+    **3** She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”
 
 **Teaching Insight**  
 God had already placed the answer to Naaman’s deepest problem inside his own house—yet it came through a powerless, nameless slave girl he would normally ignore. The first step to restoration is often humbling ourselves to listen to a voice we’ve been dismissing.
