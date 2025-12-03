@@ -33,6 +33,7 @@ Today we watch a powerful foreign commander have his life turned upside down by 
 **Hope arrives from the most unexpected source**.
 
 !!! quote "2 Kings 5:1-3, BSB"
+
     **1** Now Naaman, commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. He was a mighty man of valor, but he was a leper.  
     **2** At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife.  
     **3** She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”
@@ -44,6 +45,7 @@ God had already placed the answer to Naaman’s deepest problem inside his own h
 God delights to work through the small, the lowly, and the weak. This young captive refused to let bitterness silence her witness.
 
 !!! question "Discussion"
+
     When have you seen God work through an unlikely person or circumstance?  
     What might have kept the servant girl silent?
 
@@ -55,17 +57,20 @@ The question is never “Why am I here?” but “Who am I here for?”
 Who is the “Naaman” in your life—someone successful or powerful who desperately needs what you have in Christ but would never think to ask you?
 
 ## 2. Test of Pride (2 Kings 5:10-13)
-**Naaman’s expectations crash against God’s simple command.**
+**Naaman’s expectations crash against God’s simple command**.
 
 !!! quote "2 Kings 5:10-12, BSB"
-    10 Then Elisha sent him a messenger, saying, “Go and wash yourself seven times in the Jordan, and your flesh will be restored, and you will be clean.”  
-    11 But Naaman went away angry, saying, “I thought that he would surely come out, stand and call on the name of the LORD his God, and wave his hand over the spot to cure my leprosy.  
-    12 Are not Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean?” So he turned and went away in a rage.
+
+    **10** Then Elisha sent him a messenger, saying, “Go and wash yourself seven times in the Jordan, and your flesh will be restored, and you will be clean.”  
+    **11** But Naaman went away angry, saying, “I thought that he would surely come out, stand and call on the name of the LORD his God, and wave his hand over the spot to cure my leprosy.  
+    **12** Are not Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean?” So he turned and went away in a rage.
 
 Naaman arrived with horses, chariots, silver, and gold—expecting a great show worthy of a great man. Instead Elisha didn’t even come out of the house.
 
 ### Servants Speak Again (v. 13) – the turning point
+
 !!! quote "2 Kings 5:13, BSB"
+
     But Naaman’s servants approached him and said, “My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, ‘Wash and be cleansed’?”
 
 **Penetrating Question**  
@@ -73,19 +78,23 @@ If the prophet had asked for something impressive, wouldn’t you have done it?
 The real issue wasn’t that the task was too hard—it was too simple, too humbling.
 
 !!! question "Discussion"
+
     Why do successful, self-reliant people often struggle to accept help for their deepest needs?
 
 Common answers (keep brief—deeper diagnosis comes next):  
+
 - Pride / fear of losing image  
 - Used to being in control  
 - Fear of looking weak
 
 ### Teaching Insights – Why Success Makes Humility So Hard
+
 - **Success Trap** – We begin to believe our own press and fear anything that threatens the image others have of us.  
 - **Competency Curse** – Having solved big problems, we think we should be able to solve all problems ourselves.  
 - **Isolation at the Top** – The higher you climb, the fewer people feel free to speak truth to you.
 
-!!! question "Second Discussion"
+!!! question "Discussion"
+
     What’s harder: doing something great for God, or simple, daily obedience?
 
 ### Appeal of GREAT THINGS vs. Reality of SIMPLE OBEDIENCE  
@@ -107,14 +116,16 @@ Noah’s ark • Gideon’s 300 • David’s sling • Jesus’ cross • Paul�
 Naaman had to dip seven times. Imagine dip #3—nothing yet. Dip #5—still leprous. What is your “dip #3” moment where you’re tempted to quit the simple obedience because results are slow?
 
 ## 3. Humble Restoration (2 Kings 5:14-17)
-**Obedience leads to complete restoration—body and soul.**
+**Obedience leads to complete restoration—body and soul**.
 
 !!! quote "2 Kings 5:14-17, BSB"
-    14 So he went down and dipped himself seven times in the Jordan… and his flesh was restored like that of a young boy, and he was clean.  
-    15 Then Naaman… stood before Elisha and said, “Indeed, now I know that there is no God in all the earth except in Israel…”  
-    17 “If you will not accept a gift,” said Naaman, “please let me… be given as much soil as a pair of mules can carry. For your servant will never again make burnt offering or sacrifice to any other god but the LORD.”
+
+    **14** So he went down and dipped himself seven times in the Jordan… and his flesh was restored like that of a young boy, and he was clean.  
+    **15** Then Naaman… stood before Elisha and said, “Indeed, now I know that there is no God in all the earth except in Israel…”  
+    **17** “If you will not accept a gift,” said Naaman, “please let me… be given as much soil as a pair of mules can carry. For your servant will never again make burnt offering or sacrifice to any other god but the LORD.”
 
 ### Picture the Seventh Dip
+
 - Dip 1 – Pride screaming  
 - Dip 3 – Still nothing  
 - Dip 6 – One more time…  
@@ -126,6 +137,7 @@ Seven = biblical completeness. God could have healed on dip one, but He required
 Naaman’s skin was healed, but his heart was captured. He confesses the LORD alone is God and asks for Israelite soil to worship on—radical, public, costly commitment.
 
 !!! question "Discussion"
+
     The text says his flesh became like that of a young boy.  
     What area of your life needs a full RESET to childlike faith more than just a quick REPAIR?
 
@@ -135,11 +147,13 @@ Naaman’s skin was healed, but his heart was captured. He confesses the LORD al
 **Proximity to miracles does not guarantee a transformed heart.**
 
 !!! quote "2 Kings 5:20, 25-26, BSB"
-    20 Gehazi… said to himself, “My master has spared this Aramean Naaman by not accepting from him what he brought. As surely as the LORD lives, I will run after him and get something from him.”  
-    25 …Elisha asked him, “Where have you been, Gehazi?” “Your servant went nowhere,” he answered.  
-    26 But Elisha said, “Did not my spirit go with you… Is this the time to take money…?”
+
+    **20** Gehazi… said to himself, “My master has spared this Aramean Naaman by not accepting from him what he brought. As surely as the LORD lives, I will run after him and get something from him.”  
+    **25** …Elisha asked him, “Where have you been, Gehazi?” “Your servant went nowhere,” he answered.  
+    **26** But Elisha said, “Did not my spirit go with you… Is this the time to take money…?”
 
 ### Quick Summary of Deception (v. 21-24)
+
 - Lied to Naaman (invented story about prophets)  
 - Lied in God’s name  
 - Took double what he originally wanted  
@@ -149,13 +163,16 @@ Naaman’s skin was healed, but his heart was captured. He confesses the LORD al
 One sin snowballed into many. Gehazi had multiple chances to repent but doubled down.
 
 ### Tragic Contrast
+
 - Naaman the pagan outsider leaves clean and worshiping the true God  
 - Gehazi the spiritual insider leaves leprous forever
 
 !!! question "Discussion"
+
     How does Gehazi’s story warn us about wrong motives even in ministry and church life?
 
 ### Gehazi Syndrome Today
+
 - Using ministry for personal gain or platform  
 - Entitlement from years of service (“I deserve…”)  
 - Transactional view of grace (“Someone should pay”)  
@@ -170,6 +187,7 @@ One sin snowballed into many. Gehazi had multiple chances to repent but doubled 
 New Testament echoes: Judas • Ananias & Sapphira — same pattern.
 
 ## Weekly Challenges
+
 1. **Jordan River Step** – Identify one area where God is calling you to simple, humble obedience that your pride resists. Take a concrete step this week.  
 2. **Obedience Audit** – Prayerfully work through the checklist (see original notes).  
 3. **Unlikely Messenger Watch & Respond** – Look for wisdom from unexpected sources; act on at least one.  
