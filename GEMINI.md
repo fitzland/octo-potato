@@ -47,7 +47,7 @@ When I give a passage, first tell me the genre and which column we will use.
 ## Formatting Rules for All Lesson Prep Output
 - Frontmatter with tags: OT/NT, section, book, key people/themes  
 - Scripture in `!!! quote "Reference, BSB"` with verses on separate lines, bold verse numbers  
-- Headings: `##` for main sections, `###` for subsections (never skip levels)  
+- Headings: H1 for the main lesson title (derived from frontmatter), ## for main sections, ### for subsections (never skip levels)  
 - Discussion questions in `!!! question "Discussion"`  
 - Bold labels end with period outside bold: **Key Insight**.  
 - Weekly challenges titled with bold + period outside: **Log Inventory 24-Hour Fast**.  

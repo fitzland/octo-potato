@@ -4,45 +4,13 @@ tags:
     - HISTORY
     - 2 Kings
     - Elisha
-title: God's Hand in Restoring Lives (v. 3)
+title: God's Hand in Restoring Lives
 ---
 
-<details>
-<summary>Click to view full text of 2 Kings 5 (BSB)</summary>
 
-!!! quote "2 Kings 5, BSB"
-    **1** Now Naaman, the commander of the army of the king of Aram, was a great man in his master's sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper.
-    **2** At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife.
-    **3** She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”
-    **4** And Naaman went and told his master what the girl from the land of Israel had said.
-    **5** “Go now,” said the king of Aram, “and I will send you with a letter to the king of Israel.” So Naaman departed, taking with him ten talents of silver, six thousand shekels of gold, and ten sets of clothing.
-    **6** And the letter that he took to the king of Israel stated: “With this letter I am sending my servant Naaman, so that you may cure him of his leprosy.”
-    **7** When the king of Israel read the letter, he tore his clothes and asked, “Am I God, killing and giving life, that this man expects me to cure a leper? Surely you can see that he is seeking a quarrel with me!”
-    **8** Now when Elisha the man of God heard that the king of Israel had torn his clothes, he sent a message to the king: “Why have you torn your clothes? Please let the man come to me, and he will know that there is a prophet in Israel.”
-    **9** So Naaman came with his horses and chariots and stood at the door of Elisha's house.
-    **10** Then Elisha sent him a messenger, who said, “Go and wash yourself seven times in the Jordan, and your flesh will be restored, and you will be clean.”
-    **11** But Naaman went away angry, saying, “I thought that he would surely come out, stand and call on the name of the LORD his God, and wave his hand over the spot to cure my leprosy.
-    **12** Are not the Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not have washed in them and been cleansed?” So he turned and went away in a rage.
-    **13** Naaman's servants, however, approached him and said, “My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, ‘Wash and be cleansed’?”
-    **14** So Naaman went down and dipped himself in the Jordan seven times, according to the word of the man of God, and his flesh was restored and became like that of a little child, and he was clean.
-    **15** Then Naaman and all his attendants went back to the man of God, stood before him, and declared, “Now I know for sure that there is no God in all the earth except in Israel. So please accept a gift from your servant.”
-    **16** But Elisha replied, “As surely as the LORD lives, before whom I stand, I will not accept it.” And although Naaman urged him to accept it, he refused.
-    **17** “If you will not,” said Naaman, “please let me, your servant, be given as much soil as a pair of mules can carry. For your servant will never again make a burnt offering or a sacrifice to any other god but the LORD.
-    **18** Yet may the LORD forgive your servant this one thing: When my master goes into the temple of Rimmon to worship there, and he leans on my arm, and I bow down in the temple of Rimmon, may the LORD forgive your servant in this matter.”
-    **19** “Go in peace,” said Elisha. But after Naaman had traveled a short distance,
-    **20** Gehazi, the servant of Elisha the man of God, said, “Look, my master has spared this Aramean, Naaman, while not accepting what he brought. As surely as the LORD lives, I will run after him and get something from him.”
-    **21** So Gehazi pursued Naaman. And when Naaman saw him running toward him, he got down from the chariot to meet him and asked, “Is everything all right?”
-    **22** “Everything is all right,” Gehazi answered. “My master sent me to say, ‘Two young men from the company of the prophets have just come to me from the hill country of Ephraim. Please give them a talent of silver and two sets of clothing.’”
-    **23** But Naaman insisted, “Please, take two talents.” He urged Gehazi to accept them, and then tied up the two talents of silver in two bags, with two sets of clothing. He gave them to two of his servants, and they carried them ahead of Gehazi.
-    **24** When Gehazi came to the hill, he took the gifts from their hands and stored them in the house. Then he sent the men away, and they left.
-    **25** When Gehazi went in and stood before his master, Elisha asked him, “Where have you been, Gehazi?” “Your servant went nowhere,” he replied.
-    **26** But Elisha said to him, “Was not my spirit with you when the man got down from his chariot to meet you? Is this the time to accept money and clothing, olive groves and vineyards, sheep and cattle, or male and female servants?
-    **27** Therefore, the leprosy of Naaman will cling to you and to your descendants forever.” So Gehazi went out from Elisha’s presence, as white as snow with leprosy.
-
-</details>
 
 # God's Hand in Restoring Lives
-**2 Kings 5:1-3, 10-12, 14-17 (with Gehazi warning from 20-27)**
+**2 Kings 5:1-27**
 
 ## Introduction
 
@@ -71,16 +39,18 @@ Naaman's journey from disease to restoration unfolds in four movements:
 
 Each scene reveals something about how God works and what He requires of us.
 
-## 1. Unlikely Hope (2 Kings 5:1-3)
+## 1. Unlikely Hope (2 Kings 5:1-4)
 **Hope arrives from the most unexpected source.**
 
-!!! quote "2 Kings 5:1-3, BSB"
+!!! quote "2 Kings 5:1-4, BSB"
 
     **1** Now Naaman, the commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper.
 
     **2** At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife.
 
     **3** She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”
+    
+    **4** And Naaman went and told his master what the girl from the land of Israel had said.
 
 ### Context & Insights
 
@@ -109,25 +79,28 @@ Consider:
 
 **Reflection**. Who is the *Naaman* in your life—someone with power, success, or status who desperately needs what you have in Christ, but would never think to ask you?
 
-## 2. Test of Pride (2 Kings 5:10-13)
+## 2. Test of Pride (2 Kings 5:5-13)
 **Naaman's expectations clash with God's simple command.**
 
-!!! quote "2 Kings 5:10-12, BSB"  
+!!! quote "2 Kings 5:5-13, BSB"  
+
+    **5** “Go now,” said the king of Aram, “and I will send you with a letter to the king of Israel.” So Naaman departed, taking with him ten talents of silver, six thousand shekels of gold, and ten sets of clothing.
+    
+    **6** And the letter that he took to the king of Israel stated: “With this letter I am sending my servant Naaman, so that you may cure him of his leprosy.”
+    
+    **7** When the king of Israel read the letter, he tore his clothes and asked, “Am I God, killing and giving life, that this man expects me to cure a leper? Surely you can see that he is seeking a quarrel with me!”
+    
+    **8** Now when Elisha the man of God heard that the king of Israel had torn his clothes, he sent a message to the king: “Why have you torn your clothes? Please let the man come to me, and he will know that there is a prophet in Israel.”
+    
+    **9** So Naaman came with his horses and chariots and stood at the door of Elisha's house.
 
     **10** Then Elisha sent him a messenger, who said, “Go and wash yourself seven times in the Jordan, and your flesh will be restored, and you will be clean.”
 
     **11** But Naaman went away angry, saying, “I thought that he would surely come out, stand and call on the name of the LORD his God, and wave his hand over the spot to cure my leprosy.
 
     **12** Are not the Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean?” So he turned and went away in a rage.
-
-### Context
-Naaman arrived at Elisha's house with his horses and chariots, a full display of his power and importance. He had a clear expectation of how this would go. He, a great man, expected a great show. Instead, Elisha didn't even come out. He sent a messenger with a simple, almost insulting, command: "Go wash seven times in the Jordan." Naaman's pride was wounded. He almost missed his miracle because it didn't fit his script.
-
-### Servants Speak Again (v. 13)
-
-!!! quote "2 Kings 5:13, BSB"  
-
-    But Naaman's servants approached him and said, "My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, 'Wash and be cleansed'?"
+    
+    **13** Naaman's servants, however, approached him and said, "My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, 'Wash and be cleansed'?"
 
 *This section provides different approaches to teaching this point*.
 
@@ -176,10 +149,10 @@ God repeatedly chooses “foolish” methods to humble pride:
 
 *A long obedience in the same direction is more transformative than short bursts of spectacular commitment.*
 
-## 3. Humble Restoration (2 Kings 5:14-17)
+## 3. Humble Restoration (2 Kings 5:14-19)
 **Humility and obedience lead to complete restoration of body and soul.**
 
-!!! quote "2 Kings 5:14-17, BSB"  
+!!! quote "2 Kings 5:14-19, BSB"  
 
     **14** So Naaman went down and dipped himself seven times in the Jordan, according to the word of the man of God. And his flesh was restored like that of a young boy, and he was clean.
 
@@ -188,6 +161,10 @@ God repeatedly chooses “foolish” methods to humble pride:
     **16** But Elisha replied, “As surely as the LORD lives, before whom I stand, I will accept nothing.” And though Naaman urged him, Elisha refused.
 
     **17** “If you will not,” said Naaman, “please let me, your servant, be given as much soil as a pair of mules can carry. For your servant will never again make a burnt offering or a sacrifice to any other god but the LORD.
+    
+    **18** Yet may the LORD forgive your servant this one thing: When my master goes into the temple of Rimmon to worship there, and he leans on my arm, and I bow down in the temple of Rimmon, may the LORD forgive your servant in this matter.”
+    
+    **19** “Go in peace,” said Elisha. But after Naaman had traveled a short distance,
 
 ### Seventh Dip
 
@@ -229,11 +206,23 @@ The most profound restoration was not physical, but spiritual. Naaman returned t
 ## 4. Sobering Warning (2 Kings 5:20-27)
 **Proximity to miracles does not guarantee a pure heart.**
 
-!!! quote "2 Kings 5:20, 25-26, BSB"  
+!!! quote "2 Kings 5:20-27, BSB"  
 
-    **20** But Gehazi, the servant of Elisha the man of God, said to himself, “My master has spared this Aramean, Naaman, by not accepting from him what he brought. As surely as the LORD lives, I will run after him and get something from him.” ... 
-    **25** When he went in and stood before his master, Elisha asked him, “Where have you been, Gehazi?” “Your servant has been nowhere,” he answered. 
-    **26** But Elisha said to him, “Did not my spirit go with you...? Is this the time to accept money...?”
+    **20** Gehazi, the servant of Elisha the man of God, said to himself, “Look, my master has spared this Aramean, Naaman, while not accepting what he brought. As surely as the LORD lives, I will run after him and get something from him.”
+    
+    **21** So Gehazi pursued Naaman. And when Naaman saw him running toward him, he got down from the chariot to meet him and asked, “Is everything all right?”
+    
+    **22** “Everything is all right,” Gehazi answered. “My master sent me to say, ‘Two young men from the company of the prophets have just come to me from the hill country of Ephraim. Please give them a talent of silver and two sets of clothing.’”
+    
+    **23** But Naaman insisted, “Please, take two talents.” He urged Gehazi to accept them, and then tied up the two talents of silver in two bags, with two sets of clothing. He gave them to two of his servants, and they carried them ahead of Gehazi.
+    
+    **24** When Gehazi came to the hill, he took the gifts from their hands and stored them in the house. Then he sent the men away, and they left.
+    
+    **25** When Gehazi went in and stood before his master, Elisha asked him, “Where have you been, Gehazi?” “Your servant went nowhere,” he replied.
+    
+    **26** But Elisha said to him, “Was not my spirit with you when the man got down from his chariot to meet you? Is this the time to accept money and clothing, olive groves and vineyards, sheep and cattle, or male and female servants?
+    
+    **27** Therefore, the leprosy of Naaman will cling to you and to your descendants forever.” So Gehazi went out from Elisha’s presence, as white as snow with leprosy.
 
 **Layers of Deception**.
 
@@ -278,10 +267,42 @@ The warning is clear: being in the inner circle doesn't make you immune to sin�
 
 ### Weekly Challenges
 
-1. **Jordan River Step** – Identify one area where God is calling you to simple, humble obedience that your pride resists. Take a concrete step this week.  
-2. **Obedience Audit** – Prayerfully work through the checklist (see original notes).  
-3. **Unlikely Messenger Watch & Respond** – Look for wisdom from unexpected sources; act on at least one.  
-4. **Gehazi Heart Check** – Ask the brutal-honesty questions; confess anything the Spirit reveals.
+### 1. Obedience Audit (Reflection)
+Prayerfully use the following checklist to consider your own heart of obedience.
+- [ ] I have seen God at work in my life.
+- [ ] When I need healing, I look to God with my hope and requests.
+- [ ] I trust God’s sovereignty in life, death, sickness, and healing.
+- [ ] When it’s clear God has given a command, I am willing to obey.
+- [ ] From my heart, I want to obey God fully.
+- [ ] Peace has come in my life as a result of obeying God.
+
+### 2. Jordan River Step (Action)
+Identify one area where God is calling you to simple, humble obedience, but your pride or expectations are getting in the way. What is your "Jordan River"? Take a concrete step this week to swallow your pride and obey.
+
+### 3. Unlikely Messenger Watch & Response (Attitude + Action)
+
+**Part A—Watch**. Be on the lookout this week for how God might be speaking to you through unlikely people or circumstances. Write down any moments where wisdom comes from an unexpected source.
+
+**Part B—Respond**. Like Naaman with the servant girl, actually *act* on at least one piece of counsel you receive from an unlikely source. Then reflect: What made it hard to listen? What did you learn by obeying?
+
+**Bonus**. Consider—are *you* in a position to be an *unlikely messenger* for someone? Who is the *Naaman* in your sphere of influence who needs to hear about the God of restoration?
+
+### 4. Examine Your Ministry Motives (Heart Check)
+
+Since Gehazi's story is part of this passage, it demands a response. Ask yourself these hard questions:
+
+**Gehazi Self-Examination**.
+
+- Do I serve God to get something, or to give something?
+- Am I more focused on the recognition I receive or the work God does through me?
+- Have I become numb to God's work because I'm around it so often?
+- Is there a secret sin I'm hiding while maintaining a spiritual exterior?
+- Do I resent when God blesses others freely (like Naaman) while I feel I've "earned" something?
+- Am I comfortable manipulating spiritual moments for personal gain?
+
+**Brutal Honesty Prayer**. "Lord, show me if I'm serving You or using You. Reveal any Gehazi-like motives in my heart. I'd rather face this now than at the judgment seat."
+
+**Action Step**. If God reveals something, confess it to a trusted Christian friend this week. Don't let it fester like Gehazi did.
 
 ## Supplementary Content
 
