@@ -102,8 +102,6 @@ Consider:
     
     **13** Naaman's servants, however, approached him and said, "My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, 'Wash and be cleansed'?"
 
-*This section provides different approaches to teaching this point*.
-
 !!! question "Discussion Question"  
 
     Why do you think successful or self-reliant people often struggle to seek or accept help for their deepest needs?
@@ -111,16 +109,22 @@ Consider:
 ### Common Answers
  
 **Pride**.
-*Follow-up*. What specifically about success feeds pride? Is it the success itself, or how others view us because of it?
-*Go deeper*. Naaman was willing to ask the king of Israel for help, but almost refused to obey Elisha. Why is it sometimes easier to ask powerful people for help than to follow simple instructions?
+
+*Follow-up*. What specifically about success feeds pride? Is it the success itself, or how others view us because of it?  
+
+*Go deeper*. Naaman was willing to ask the king of Israel for help, but almost refused to obey Elisha. Why is it sometimes easier to ask powerful people for help than to follow simple instructions?  
  
-**Used to being in control**.
-*Follow-up*. How does asking for help feel like losing control? What are we really afraid of losing?
-*Go deeper*. Naaman brought silver, gold, and fine clothing—trying to control the transaction. When do we try to 'buy' our way out of needing grace?
+**Used to being in control**.  
+
+*Follow-up*. How does asking for help feel like losing control? What are we really afraid of losing?  
+
+*Go deeper*. Naaman brought silver, gold, and fine clothing—trying to control the transaction. When do we try to 'buy' our way out of needing grace?  
  
-**Fear of judgment/loss of reputation**.
-*Follow-up*. Naaman tried to hide his leprosy with his achievements. What do we try to hide behind our successes, activities, or image?
-*Go deeper*. The servant girl and Naaman's own servants knew about his leprosy. Who in your life already knows your struggle? Why is admitting it publicly so much harder?
+**Fear of judgment/loss of reputation**.  
+
+*Follow-up*. Naaman tried to hide his leprosy with his achievements. What do we try to hide behind our successes, activities, or image?  
+
+*Go deeper*. The servant girl and Naaman's own servants knew about his leprosy. Who in your life already knows your struggle? Why is admitting it publicly so much harder?  
 
 !!! question "Discussion Question"  
 
@@ -169,6 +173,7 @@ God repeatedly chooses “foolish” methods to humble pride:
 ### Seventh Dip
 
 **Consider Naaman's journey down into the Jordan**.
+
 - **Dip 1**. Pride is screaming. *This is ridiculous. I'm a commander!*
 - **Dip 2**. Nothing changes. *I knew this wouldn't work.*
 - **Dip 3**. Still diseased. Those servants talked me into this foolishness.
@@ -260,6 +265,7 @@ Gehazi, the spiritual insider, leaves leprous forever.
 ### New Testament Echoes
 
 Gehazi's story is a warning repeated throughout Scripture:
+
 - **Judas Iscariot** ([John 12:4-6](https://biblehub.com/john/12-4.htm)): Close to Jesus, witnessed miracles, but stole money and ultimately betrayed Him.
 - **Ananias and Sapphira** ([Acts 5:1-11](https://biblehub.com/acts/5-1.htm)): Part of the early church, but lied about a financial gift to look generous while being greedy.
 
@@ -269,6 +275,7 @@ The warning is clear: being in the inner circle doesn't make you immune to sin�
 
 ### 1. Obedience Audit (Reflection)
 Prayerfully use the following checklist to consider your own heart of obedience.
+
 - [ ] I have seen God at work in my life.
 - [ ] When I need healing, I look to God with my hope and requests.
 - [ ] I trust God’s sovereignty in life, death, sickness, and healing.
@@ -314,6 +321,7 @@ Since Gehazi's story is part of this passage, it demands a response. Ask yoursel
 **Two Talents of Silver**. Approximately 150 pounds of silver, an enormous sum showing Gehazi's greed.
 
 ### Theological Connections
+
 - **God's Sovereignty**. God is Lord over all nations, using even enemy commanders for His purposes.
 - **Humility before Grace**. Illustrates the principle that "God opposes the proud but gives grace to the humble" ([James 4:6](https://biblehub.com/james/4-6.htm)).
 - **Salvation by Grace, Not Works**. Elisha's refusal of payment shows that God's healing cannot be earned or purchased.
