@@ -73,6 +73,7 @@ God often places us in hard places so that we can be His witness there.
 The question is never *Why am I here?* but **Who am I here for?**
 
 Consider:  
+
 - a difficult coworker who needs to hear about Christ  
 - a challenging family member God has positioned you to influence  
 - a painful season that's actually your platform for testimony  
