@@ -31,33 +31,51 @@ Follow a strict hierarchical structure for headings. **Never skip levels** (e.g.
 
 ## 3. Admonitions
 
-Use MkDocs-style admonitions to call out specific types of content.
+Use MkDocs-style admonitions to call out specific types of content. Admonitions can be standard (always open), collapsed by default, or expanded by default.
 
-### Scripture Quotes
+### Standard Admonitions (`!!!`)
 
-Use the `!!! quote` admonition for Bible passages.
+Use the standard `!!!` syntax for primary content that should always be visible, such as scripture and discussion questions.
 
--   The title should include the reference and translation (e.g., `"2 Kings 5:1-4, BSB"`).
--   Place each verse on a new line.
--   Make verse numbers bold (`**1**`).
-
-**Example:**
-```markdown
-!!! quote "2 Kings 5:1-4, BSB"
-
-    **1** Now Naaman...
-    **2** At this time...
-```
-
-### Discussion Questions
-
-Use the `!!! question` admonition for discussion prompts.
+-   **`!!! quote`**: For Bible passages.
+    -   The title should include the reference and translation (e.g., `"2 Kings 5:1-4, BSB"`).
+    -   Place each verse on a new line.
+    -   Make verse numbers bold (`**1**`).
+-   **`!!! question`**: For discussion prompts.
 
 **Example:**
 ```markdown
 !!! question "Discussion"
 
     When have you seen God work through an unlikely person or in an unexpected way?
+```
+
+### Collapsed-by-Default Admonitions (`???`)
+
+Use the `???` syntax for supplementary information that the reader can choose to expand. This is ideal for tangential context or deeper dives.
+
+-   **`??? info`**: For "read more" sections or supplementary context.
+
+**Example:**
+```markdown
+??? info "Read More: The Powerful & the Powerless"
+
+    Naaman was a man who had it all...
+```
+
+### Expanded-by-Default Admonitions (`???+`)
+
+Use the `???+` syntax for important notes or application sections that should be visible by default but can be collapsed by the user to reduce clutter.
+
+-   **`???+ note`**: For common answers, further insights, or contextual notes.
+-   **`???+ success`**: For application principles (e.g., "Servant Girl Principle").
+-   **`???+ warning`**: For cautionary tales or negative examples (e.g., "Gehazi's Deception").
+
+**Example:**
+```markdown
+???+ success "Application. Servant Girl Principle"
+
+    God often places us in hard places so that we can be His witness there.
 ```
 
 ## 4. Emphasis and Punctuation
@@ -89,3 +107,35 @@ When creating bulleted or numbered lists, ensure there is a blank line between e
 ## 6. Minimal Formatting
 
 Exercise restraint with formatting. Use bold and italics only when they add significant punch or clarity. Avoid over-formatting the text.
+
+## 7. Lesson-Specific Elements
+
+These rules apply to specific components within Bible study lessons.
+
+### Core Message
+-   The Core Message must be a single, bold, tweetable sentence.
+-   **Example**: `**God restores us as we are obedient to Him, and His methods often defy our expectations and humble our pride**.`
+
+### Lesson Flow
+-   Each item in the "Lesson Flow" list should follow the format: `1. **Movement Title**. One-sentence description`.
+-   **Example**: `1. [**Unlikely Hope**. A servant girl points the way](#1-unlikely-hope)`
+
+### Movement Taglines
+-   Movement taglines should be bold and end with a period outside the bolding.
+-   **Example**: `**Hope arrives from the most unexpected source**.`
+
+### Common Answers
+-   Primary answers should be a bold, capitalized phrase followed by an explanation, ending with a period outside the bolding.
+-   Follow-up probes should be italicized.
+-   **Example**:
+    ```markdown
+    **Pride**. fear of losing image
+    - *follow-up*. pushing for more insight or depth
+    ```
+
+### Modern Application
+-   Modern application sections should be short, piercing, and memorable (up to three punchy lines).
+
+### Weekly Challenge Titles
+-   Weekly challenge titles should be bold and end with a period outside the bolding.
+-   **Example**: `1. **Challenge Title**. short, concrete, doable this week`

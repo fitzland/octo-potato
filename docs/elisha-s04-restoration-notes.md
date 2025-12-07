@@ -58,7 +58,7 @@ Each scene reveals something about how God works and what He requires of us.
 
 Naaman, a powerful Syrian commander, had it all—except for his health. He was a leper, a condition that made him an outcast. Hope came from the most unlikely of sources: a young, captive Israelite servant girl in his own house. She held the key to his restoration, a powerful reminder that God often works through the humble and overlooked.
 
-!!! info "Read More: Powerful & Powerless"
+??? info "Read More: Powerful & Powerless"
 
     Naaman was a man who had it all: power, prestige, and the king's favor. He was a *great man* and a *valiant warrior*. The text even notes that the LORD had given Aram victory through him, a subtle reminder of God's sovereignty over all nations. 
     
@@ -74,7 +74,7 @@ This story immediately shows us that God uses unlikely people for His purposes. 
 
     When have you seen God work through an unlikely person or in an unexpected way?
 
-!!! success "Application. Servant Girl Principle"
+???+ success "Application. Servant Girl Principle"
 
     God often places us in hard places so that we can be His witness there.  
     The question is never *Why am I here?* but **Who am I here for?**
@@ -116,7 +116,7 @@ This story immediately shows us that God uses unlikely people for His purposes. 
 
     Why do you think successful or self-reliant people often struggle to seek or accept help for their deepest needs?
 
-!!! note "Common Answers: Why We Struggle to Accept Help"
+???+ note "Common Answers: Why We Struggle to Accept Help"
 
     **Pride**.
 
@@ -140,7 +140,7 @@ This story immediately shows us that God uses unlikely people for His purposes. 
 
     What's harder: doing something great for God, or simple daily obedience?
 
-!!! info "Further Insights: Great Things vs. Simple Obedience"
+??? info "Further Insights: Great Things vs. Simple Obedience"
 
     **Appeal of GREAT THINGS vs. Reality of SIMPLE OBEDIENCE**
     
@@ -182,7 +182,7 @@ This story immediately shows us that God uses unlikely people for His purposes. 
     
     *19* “Go in peace,” said Elisha. But after Naaman had traveled a short distance,
 
-!!! primary "Seventh Dip: Naaman's Journey to Humility"
+???+ note "Seventh Dip: Naaman's Journey to Humility"
 
     **Consider Naaman's journey down into the Jordan**.
 
@@ -211,7 +211,7 @@ The most profound restoration was not physical, but spiritual. Naaman returned t
     
     What specific area of your life needs a RESET to childlike faith rather than just a REPAIR?
 
-!!! success "Application. Your 'Two Mules of Soil'"
+???+ success "Application. Your 'Two Mules of Soil'"
 
     **SOIL REQUEST**. Naaman's request for two mule-loads of soil seems strange, but it reveals his complete transformation. In that time, gods were thought to be tied to specific lands. Naaman wanted to worship Israel's God on Israel's soil, even back home.
 
@@ -245,7 +245,7 @@ The most profound restoration was not physical, but spiritual. Naaman returned t
     
     **27** Therefore, the leprosy of Naaman will cling to you and to your descendants forever.” So Gehazi went out from Elisha’s presence, as white as snow with leprosy.
 
-!!! warning "Gehazi's Layers of Deception"
+???+ warning "Gehazi's Layers of Deception"
 
     **Layers of Deception**.
 
@@ -267,7 +267,7 @@ Gehazi, the spiritual insider, leaves leprous forever.
 
     How does Gehazi's story warn us about wrong motivations even in religious settings?
 
-!!! warning "Modern Echoes of Gehazi's Sin"
+???+ warning "Modern Echoes of Gehazi's Sin"
 
     **Gehazi Syndrome Today**. 
 
@@ -318,7 +318,7 @@ Identify one area where God is calling you to simple, humble obedience, but your
 
 Since Gehazi's story is part of this passage, it demands a response. Ask yourself these hard questions:
 
-!!! note "Gehazi Self-Examination Questions"
+???+ note "Gehazi Self-Examination Questions"
 
     - Do I serve God to get something, or to give something?
     - Am I more focused on the recognition I receive or the work God does through me?
@@ -333,14 +333,14 @@ Since Gehazi's story is part of this passage, it demands a response. Ask yoursel
 
 ## Supplementary Content
 
-!!! note "Historical & Cultural Context"
+???+ note "Historical & Cultural Context"
 
     **Leprosy in the Ancient World**. A catch-all term for skin conditions that made a person ritually unclean and socially isolated. Often seen as divine judgment with no cure.
     **The Jordan River**. Muddy and unimpressive compared to Syrian rivers, but symbolically significant as the entry point to the Promised Land.
     **Aram (Syria)**. A frequent and powerful enemy of Israel, making Naaman's submission to an Israelite prophet politically and personally humiliating.
     **Two Talents of Silver**. Approximately 150 pounds of silver, an enormous sum showing Gehazi's greed.
 
-!!! note "Theological Connections"
+???+ note "Theological Connections"
 
     - **God's Sovereignty**. God is Lord over all nations, using even enemy commanders for His purposes.
     - **Humility before Grace**. Illustrates the principle that "God opposes the proud but gives grace to the humble" ([James 4:6](https://biblehub.com/james/4-6.htm)).
