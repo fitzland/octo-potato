@@ -138,3 +138,29 @@ h5,
 }
 
 
+/* Styles for collapsible admonitions */
+.md-typeset details.admonition { /* Targets the <details> element which acts as the admonition container */
+  font-weight: normal;
+  font-size: 0.8rem; /* Matches .md-typeset .admonition */
+}
+
+.md-typeset details.admonition > summary { /* Targets the <summary> element which acts as the admonition title */
+  font-size: 0.9rem; /* Matches .md-typeset .admonition-title */
+  font-weight: normal;
+}
+
+.md-typeset details.admonition > p, /* Targets direct <p> children of collapsible admonitions */
+.md-typeset details.admonition > ul,
+.md-typeset details.admonition > ol,
+.md-typeset details.admonition > li,
+.md-typeset details.admonition > blockquote,
+.md-typeset details.admonition > div.admonition-content { /* For content wrapped in admonition-content div */
+  color: var(--md-blue); /* Matches .md-typeset .admonition-content color */
+  font-weight: normal;
+}
+
+/* Also ensure content within summary is styled */
+.md-typeset details.admonition > summary > p {
+  color: var(--md-blue); /* Apply specific color if needed, or inherit from summary */
+  font-weight: normal;
+}
