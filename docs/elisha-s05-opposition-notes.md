@@ -46,6 +46,7 @@ title: God's Hand When the Enemy Surrounds Us (v. 3)
 The most secure room in Aram was no match for the ears of Yahweh. Every secret strategy was exposed before a single soldier moved. God was protecting Israel in the unseen realm long before the danger arrived.
 
 !!! question "Discussion"
+
     Tell us about a time when you later realised God had been moving on your behalf long before you ever saw the danger or prayed the prayer.
 
 ???+ note "Common Answers"
@@ -65,12 +66,14 @@ The conversations your enemies are having about you right now have already been 
 **What we see with natural eyes can paralyse us.**
 
 !!! quote "2 Kings 6:15, BSB"  
+
     **15** When the servant of the man of God got up and went out early the next morning, an army with horses and chariots had surrounded the city. “Oh no, my lord! What shall we do?” the servant asked.
 
 ### Teaching Insights
 Dothan sat in a small valley. At sunrise the servant walked outside and saw the entire horizon filled with enemy troops. His cry “What shall we do?” is the most human reaction in Scripture when circumstances scream louder than faith.
 
 !!! question "Discussion"  
+
     What is the loudest ARMY surrounding you right now, and how has it been shaping the way you sleep, pray, and treat the people closest to you.
 
 ???+ note "Common Answers"
@@ -90,7 +93,9 @@ Panic is the tax we pay for trusting our eyes more than His word.
 **Those who are with us are more than those who are with them.**
 
 !!! quote "2 Kings 6:16–17, BSB"  
+
     **16** “Do not be afraid,” Elisha answered, “for those who are with us are more than those who are with them.”  
+
     **17** Then Elisha prayed, “O LORD, please open his eyes that he may see.” And the LORD opened the servant’s eyes, and he looked and saw the hills full of horses and chariots of fire all around Elisha.
 
 ### Teaching Insights
@@ -105,6 +110,7 @@ Elisha did not deny the visible army; he simply saw the greater invisible one. �
     | *We are outnumbered*          | *They are outnumbered*            |
 
 !!! question "Discussion"  
+
     Share a specific moment when God suddenly opened your eyes to see His presence or power in a situation that had previously felt hopeless. What changed in you the moment you saw?
 
 ???+ note "Common Answers"
@@ -133,6 +139,7 @@ The majority is always on the side of those who have learned to see the invisibl
 Elisha blinds the army, marches them into Samaria, then throws a banquet. The raids stopped—not because Israel won another battle, but because enemies were turned into guests.
 
 !!! question "Discussion"  
+
     Tell about a time when you chose kindness toward someone who had hurt you—and it actually changed them (or changed you). What made you take that terrifying step?
 
 ???+ note "Common Answers"
