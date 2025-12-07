@@ -246,6 +246,7 @@ The most profound restoration was not physical, but spiritual. Naaman returned t
     **27** Therefore, the leprosy of Naaman will cling to you and to your descendants forever.” So Gehazi went out from Elisha’s presence, as white as snow with leprosy.
 
 !!! warning "Gehazi's Layers of Deception"
+
     **Layers of Deception**.
 
     - Lied to Naaman (invented story about prophets)  
@@ -303,7 +304,7 @@ Prayerfully use the following checklist to consider your own heart of obedience.
 - [ ] Peace has come in my life as a result of obeying God.
 
 ### 2. Jordan River Step (Action)
-Identify one area where God is calling you to simple, humble obedience, but your pride or expectations are getting in the way. What is your "Jordan River"? Take a concrete step this week to swallow your pride and obey.
+Identify one area where God is calling you to simple, humble obedience, but your pride or expectations are getting in the way. What is your *Jordan River*? Take a concrete step this week to swallow your pride and obey.
 
 ### 3. Unlikely Messenger Watch & Response (Attitude + Action)
 
@@ -317,7 +318,7 @@ Identify one area where God is calling you to simple, humble obedience, but your
 
 Since Gehazi's story is part of this passage, it demands a response. Ask yourself these hard questions:
 
-!!! note inline end "Gehazi Self-Examination Questions"
+!!! note "Gehazi Self-Examination Questions"
 
     - Do I serve God to get something, or to give something?
     - Am I more focused on the recognition I receive or the work God does through me?

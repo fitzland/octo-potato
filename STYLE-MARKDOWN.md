@@ -23,11 +23,11 @@ title: God's Hand in Restoring Lives
 
 ## 2. Headings
 
-Follow a strict hierarchical structure for headings. **Never skip levels** (e.g., an `H1` must be followed by an `H2`, not an `H3`).
+Follow a strict hierarchical structure for headings. **Never skip levels** (e.g., an `H1` must be followed by an `H2`, not an `H3`). Avoid colons in headings unless explicitly introducing a list or example.
 
 -   **`#` (H1)**: Reserved for the main document title. This should match the `title` in the frontmatter.
--   **`##` (H2)**: Used for major sections of the document.
--   **`###` (H3)**: Used for subsections within a major section.
+-   **`##` (H2)**: Used for major sections of the document, such as main movements (`## 1. First Movement Title`). Also used for `## Closing Reflection (Moment of Decision)`, `## Postscript`, and `## Additional Reference`.
+-   **`###` (H3)**: Used for subsections within a major section, such as `### Icebreaker`, `### Core Message`, `### Lesson Flow`, `### Teaching Insights`, `### Common Answers`, `### Modern Application`.
 
 ## 3. Admonitions
 
