@@ -141,11 +141,11 @@ h5,
 /* Styles for collapsible admonitions */
 .md-typeset details.admonition { /* Targets the <details> element which acts as the admonition container */
   font-weight: normal;
-  font-size: 0.8rem; /* Matches .md-typeset .admonition */
+  font-size: 0.9rem; /* Matches .md-typeset .admonition */
 }
 
 .md-typeset details.admonition > summary { /* Targets the <summary> element which acts as the admonition title */
-  font-size: 0.9rem; /* Matches .md-typeset .admonition-title */
+  font-size: 1.0rem; /* Matches .md-typeset .admonition-title */
   font-weight: normal;
 }
 
