@@ -16,3 +16,5 @@ Instructions for completing this task are defined in [TASK-BIBLE-STUDY.md](./TAS
 Formatting rules are defined in [STYLE-MARKDOWN.md](./STYLE-MARKDOWN.md).
 
 The structure for lesson documents is defined in [STRUCTURE-BIBLE-LESSON.md](./STRUCTURE-BIBLE-LESSON.md).
+
+Additional sample lessons are stored in the ./docs folder. This is where the lesson file should be written.
