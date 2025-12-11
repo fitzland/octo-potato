@@ -1,3 +1,7 @@
+# EXAMPLE BIBLE LESSON (STRUCTURE)
+
+The follownng document outlines the general structure of an example bible lesson (Narrative). Follow this structure making necessary adjustments for other genres.
+
 ---
 tags:
     - OT

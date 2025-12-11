@@ -58,7 +58,7 @@ Use the `???` syntax for supplementary information that the reader can choose to
 
 **Example:**
 ```markdown
-??? info "Read More: The Powerful & the Powerless"
+??? info "Read More. Powerful & Powerless"
 
     Naaman was a man who had it all...
 ```
@@ -67,9 +67,9 @@ Use the `???` syntax for supplementary information that the reader can choose to
 
 Use the `???+` syntax for important notes or application sections that should be visible by default but can be collapsed by the user to reduce clutter.
 
--   **`???+ note`**: For common answers, further insights, or contextual notes.
--   **`???+ success`**: For application principles (e.g., "Servant Girl Principle").
--   **`???+ warning`**: For cautionary tales or negative examples (e.g., "Gehazi's Deception").
+-   **`???+ note`**: For further insights or contextual notes.
+-   **`???+ success`**: For supplementary application principles (e.g., "Servant Girl Principle").
+-   **`???+ warning`**: For supplementary cautionary tales or negative examples (e.g., "Gehazi's Deception").
 
 **Example:**
 ```markdown
@@ -118,6 +118,7 @@ These rules apply to specific components within Bible study lessons.
 
 ### Lesson Flow
 -   Each item in the "Lesson Flow" list should follow the format: `1. **Movement Title**. One-sentence description`.
+-   Each item (Movement Title) in the "Lesson Flow" should be linked to the related lesson section.
 -   **Example**: `1. [**Unlikely Hope**. A servant girl points the way](#1-unlikely-hope)`
 
 ### Movement Taglines
