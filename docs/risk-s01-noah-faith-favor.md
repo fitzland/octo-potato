@@ -36,15 +36,15 @@ True faith is a righteous relationship with God that receives His favor, walks i
 
 !!! quote "Genesis 6:5-7, BSB"
 
-    **5** Then the LORD saw that the wickedness of man was great upon the earth, and that *every inclination of the thoughts of his heart was only evil all the time*. **6** And the LORD regretted that He had made man on the earth, and He was grieved in His heart. **7** So the LORD said, “I will blot out man, whom I have created, from the face of the earth—every man and beast and crawling creature and bird of the air—for I am grieved that I have made them.”
+    **5** Then the LORD saw that the wickedness of man was great upon the earth, and that every inclination of the thoughts of his heart was only evil all the time. **6** And the LORD regretted that He had made man on the earth, and He was grieved in His heart. **7** So the LORD said, “I will blot out man, whom I have created, from the face of the earth—every man and beast and crawling creature and bird of the air—for I am grieved that I have made them.”
 
 ### Context & Insights
 
-A world had gone astray. Wickedness wasn’t occasional—it was the constant condition of every human heart. This pervasive evil broke God’s heart and moved Him to just judgment.
+The world had gone astray. Wickedness wasn’t occasional—it was the constant condition of every human heart. This pervasive evil broke God’s heart and moved Him to just judgment.
 
 - *Wickedness*. (rāʿāʿ) = evil that is broken, dysfunctional, even calamitous—humanity had become functionally ruined in God’s sight.
 
-- *Every inclination…* only evil all the time uses the word yētser—the same root God used when He “formed” (yātsar) man from the dust (Gen 2:7). Man’s God-given capacity to shape and imagine had become wholly twisted toward evil every single day.
+- *Every inclination*. only evil all the time uses the word yētser—the same root God used when He *formed* (yātsar) man from the dust (Gen 2:7). Man’s God-given capacity to shape and imagine had become wholly twisted toward evil every single day.
 
 - *Regretted / grieved*. (nāḥam + ʿātsab ʾel-libbô) = deep sighing and relational pain. Sin doesn’t just anger God; it wounds the heart of the Creator who loves His creation.
 
@@ -52,7 +52,7 @@ A world had gone astray. Wickedness wasn’t occasional—it was the constant co
 
 !!! question "Every Inclination"
 
-    1. What does it mean for every inclination of the thoughts of his heart to be only evil all the time?
+    1. What does it mean that every inclination was evil all the time?
 
 #### Common Answers
 
@@ -62,31 +62,29 @@ A world had gone astray. Wickedness wasn’t occasional—it was the constant co
 
 **Constant Sinfulness**. An unceasing stream of evil thoughts and plans, where even moments of apparent good might have been motivated by selfish or wicked underlying desires.
 
-*Dig Deeper*. How might modern culture, with its focus on self-expression and relativism, sometimes obscure our recognition of the depth of human sinfulness?
+*Dig Deeper*. Does our modern culture with its focus on self-expression and relativism, sometimes obscure our recognition of the depth of human sinfulness?
 
 !!! question "Righteous Judgment"
 
     2. How does seeing God’s grief (rather than just anger) change the way we understand His coming judgment?
 
-    It's not impulsive anger but righteous, sorrowful judgment.
-
 #### Common Answers
 
 **Compassionate Justice**. God's judgment isn't arbitrary or cruel, but a painful necessity born out of a broken heart for His creation, much like a loving parent disciplining a wayward child.
 
-**Deep Love**. His sorrow implies a profound love for humanity, making the judgment a tragic consequence of rejecting that love, rather than a cold, impersonal decree.
+**Deep Love**. His sorrow implies a profound love for humanity, making the judgment a tragic consequence, rather than a cold, impersonal decree.
 
 **Relational Pain**. Sin causes God personal pain and regret, transforming His judgment from a legalistic act into a deeply personal response to betrayal and suffering.
 
 *Dig Deeper*. What does God's grief imply about the potential for repentance and restoration even in the face of deep sin? Consider: Jesus weeping over Jerusalem ([Luke 19:41-44](https://biblehub.com/luke/19-41.htm)).
 
-### Practical Applications
+### Practical Application
 
 **Self-Check**. Pause and consider your own heart. Are there areas where *every inclination* of your thoughts might lean towards self, worry, or unrighteousness?
 
 **Empathy for God**. Take a moment to truly reflect on God's grief over sin. How might this understanding deepen your compassion for a world still gripped by sin?
 
-**Transition**. In the middle of total corruption, one man stands out—not because he was perfect, but because God’s grace rested on him.
+*Transition*. In the middle of total corruption, one man stands out—not because he was perfect, but because God’s grace rested on him.
 
 ## 2. Righteous Exception
 
@@ -98,21 +96,19 @@ A world had gone astray. Wickedness wasn’t occasional—it was the constant co
 
 ### Context & Insights
 
-Note. Noah *found favor with God*. Then he is described as righteous and blameless. God’s grace comes first; it is what makes righteous living possible in a corrupt generation.
+In contrast to the rest of humanity, Noah *found favor with God*. He is described as righteous and blameless. God’s grace comes first; it is what makes righteous living possible in a corrupt generation.
 
-- *Found favor*. (mātsāʾ ḥēn) = literally “found grace.” This is the first occurrence of ḥēn (grace) in the entire Bible—grace appears before Noah does anything.
+- *Found favor*. (mātsāʾ ḥēn) = literally *found grace*. This is the first occurrence of grace in the entire Bible—grace appears before Noah does anything.
 
-- *Blameless*. (tāmîm) = whole, complete, having integrity. Same word later used for unblemished sacrificial animals and the Passover lamb. Does not mean sinless, but morally whole in his generation.
+- *Blameless*. (tāmîm) = whole, complete, having integrity. Same word used for unblemished sacrificial animals and the Passover lamb. Does not mean sinless, but morally whole in his generation.
 
-- *Walked with God*. (hithallēk ʾet-hāʾĕlōhîm) = intensive reflexive form: Noah continually, habitually walked in company with God. The exact phrase is used only of Enoch before him (Gen 5:22, 24)—intimate, two-way, daily fellowship.
+- *Walked with God*. (hithallēk ʾet-hāʾĕlōhîm) = intensive reflexive form: Noah continually, habitually walked in company with God. This same phrase is used of Enoch before him (Gen 5:22, 24)—intimate, two-way, daily fellowship.
 
-*Walking with God* means intimate, ongoing fellowship and obedience—like Enoch before him, Noah lived in close communion with his Creator.
-
-**Illustration**. Picture living in a neighborhood where everyone litters, blasts loud music, and trashes the streets—except you. You recycle, keep your yard spotless, and stay kind. People mock you, but you keep doing what’s right because you answer to a higher standard. That’s Noah: the lone righteous man in a sea of corruption, living tuned to God’s frequency.
+**Illustration**. Picture living in a neighborhood where everyone litters, blasts loud music, and trashes the streets—except you. You recycle, keep your yard spotless, and stay kind. People mock you, but you keep doing what’s right because you answer to a higher standard. That’s Noah: the lone righteous man in a sea of corruption.
 
 !!! question "Walk with God"
 
-    1. What does it look like practically to *walk with God* in daily life?
+    1. What does it look like to *walk with God* in daily life?
 
 #### Common Answers
 
@@ -120,13 +116,13 @@ Note. Noah *found favor with God*. Then he is described as righteous and blamele
 
 **Obedient Relationship**. Aligning choices and actions with God's revealed will (His Word), seeking to please Him, and repenting quickly when we fall short, maintaining an open line of communication.
 
-**Intimate Fellowship**. Marked by honest communication, listening through prayer and Scripture, and experiencing God's comfort and guidance, much like a deep friendship with another person.
+**Intimate Fellowship**. Marked by honest communication, listening through prayer and Scripture, and experiencing God's comfort and guidance (a deep friendship with another person).
 
 *Dig Deeper*. How can we cultivate this *conscious awareness* of God's presence amidst the noise and demands of modern life?
 
 !!! question "Obstacles & Distrations"
 
-    2. What are the biggest obstacles or distractions to that kind of walk?
+    2. What are the biggest obstacles/distractions to that kind of walk?
 
 #### Common Answers
 
@@ -140,7 +136,7 @@ Note. Noah *found favor with God*. Then he is described as righteous and blamele
 
 !!! question "Every Thought & Intention"
 
-    3. How does knowing God *sees every thought* and *intention* motivate or challenge your obedience?
+    3. How does knowing that God sees *every thought* and *intention* motivate or challenge your obedience?
 
 #### Common Answers
 
@@ -152,13 +148,13 @@ Note. Noah *found favor with God*. Then he is described as righteous and blamele
 
 *Dig Deeper*. How does this truth impact your prayer life or your internal dialogue?
 
-### Practical Applications
+### Practical Application
 
 **Intimacy Check-in**. Reflect on your current *walk with God*. What is one practical step you can take this week to deepen that intimacy—perhaps setting aside dedicated quiet time, journaling, or engaging in reflective prayer?
 
 **Counter-Cultural Choice**. Identify one area where you can intentionally choose God's way over the world's way this week.
 
-**Transition**. From this grace-initiated relationship flows the most extreme test of obedience the world had yet seen.
+*Transition*. From this grace-initiated relationship flows the most extreme test of obedience the world had yet seen.
 
 ## 3. God’s Covenant & Noah’s Obedience
 
@@ -174,7 +170,7 @@ Note. Noah *found favor with God*. Then he is described as righteous and blamele
 
 ### Context & Insights
 
-God gave impossibly detailed instructions and an unimaginable timeline. Noah’s response? Total, unquestioning obedience. The ark became God’s appointed means of salvation—foreshadowing greater rescue to come.
+God had a plan for salvation. He gave impossibly detailed instructions and an unimaginable timeline. Noah’s response? Total, unquestioning obedience. The ark became God’s appointed means of salvation—foreshadowing greater rescue to come.
 
 - *Covenant*. (bərît) = first explicit use of the word in Scripture. God unilaterally initiates and promises to establish it before Noah has done anything beyond receiving grace.
 
@@ -186,7 +182,7 @@ God gave impossibly detailed instructions and an unimaginable timeline. Noah’s
 
 !!! question "Complete Obedience"
 
-    1. How does Noah’s complete obedience challenge our own understanding of faith today?
+    1. How does Noah’s complete obedience challenge our understanding of faith?
 
 #### Common Answers
 
@@ -226,13 +222,13 @@ God gave impossibly detailed instructions and an unimaginable timeline. Noah’s
 
 *Dig Deeper*. How do these modern *arks* require the same kind of radical trust and perseverance that Noah demonstrated?
 
-### Practical Applications
+### Practical Application
 
-**Obedience Audit**. Identify one area where God's command is clear, but your obedience has been partial or delayed. Commit to taking a concrete, measurable step towards full obedience this week.
+**Obedience Audit**. Identify one area where God's command is clear, but your obedience has been partial or delayed. Commit to taking a concrete, measurable step towards full obedience.
 
 **Trust Builder**. When facing a task that seems overwhelming or illogical, pause and remember Noah. Ask God for the same faith and courage to act on His word, even without seeing the full picture.
 
-**Transition**. When the waters finally receded, Noah’s very first act revealed where his heart truly was.
+*Transition*. When the waters finally receded, Noah’s very first act revealed where his heart truly was.
 
 ## 4. Worship & God’s Renewed Promise
 
@@ -244,9 +240,9 @@ God gave impossibly detailed instructions and an unimaginable timeline. Noah’s
 
 ### Context & Insights
 
-Noah’s first act on dry ground was worship, not survival. The *pleasing aroma* moved God to promise mercy. Human hearts are still evil ([v. 21](https://biblehub.com/genesis/8-21.htm) repeats [6:5](https://biblehub.com/genesis/6-5.htm) almost exactly), yet God’s posture changes—from judgment to patient mercy. The flood washed the world but didn’t wash human nature. Only a greater sacrifice—Jesus on the cross—can do that. Noah’s altar points us to the ultimate sacrifice that secures God’s final *Never again* for everyone who trusts Him.
+Noah’s first act on dry ground was worship, not survival. The *pleasing aroma* moved God to promise mercy. Human hearts are still evil, yet God’s posture changes—from judgment to patient mercy. The flood washed the world but didn’t wash human nature. Only a greater sacrifice—Jesus on the cross—can do that. Noah’s altar points us to the ultimate sacrifice that secures God’s final *Never again* for everyone who trusts Him.
 
-- *Pleasing aroma*. (rēaḥ hannîḥōaḥ) = literally “aroma of rest/satisfaction.” Exact phrase repeated throughout Leviticus for sacrifices that satisfy God and turn away wrath. Noah offers the first recorded burnt offering in Scripture.
+- *Pleasing aroma*. (rēaḥ hannîḥōaḥ) = literally *aroma of rest/satisfaction*. Exact phrase repeated throughout Leviticus for sacrifices that satisfy God and turn away wrath. Noah offers the first recorded burnt offering in Scripture.
 
 - Gen 8:21 quotes 6:5 almost verbatim (“every inclination… evil from his youth”) → the flood did not fix the human heart. God’s “never again” promise is pure grace.
 
@@ -270,7 +266,7 @@ Noah’s first act on dry ground was worship, not survival. The *pleasing aroma*
 
 !!! question "Pleasing Aroma"
 
-    2. Noah’s sacrifice was a pleasing aroma that moved God to mercy. How does Jesus become the ultimate *pleasing aroma* that secures God’s final promise for us?
+    2. Noah’s sacrifice was a *pleasing aroma* that moved God to mercy. How does Jesus become the ultimate *pleasing aroma* that secures God’s final promise for us?
 
 #### Common Answers
 
@@ -296,9 +292,9 @@ Noah’s first act on dry ground was worship, not survival. The *pleasing aroma*
 
 *Dig Deeper*. How does intentionally expressing gratitude impact our perspective and cultivate a more joyful heart?
 
-### Practical Applications
+### Practical Application
 
-**Daily Altar**. Choose one specific moment each day this week (e.g., mealtime, commute, before bed) to pause and verbally thank God for His enduring grace and specific blessings, making it your "altar" of gratitude.
+**Daily Altar**. Choose one specific moment each day this week (e.g., mealtime, commute, before bed) to pause and verbally thank God for His enduring grace and specific blessings, making it your *altar of gratitude*.
 
 **Testimony of Grace**. Share with a trusted friend or family member how God's grace has been evident in your life recently, acknowledging His faithfulness despite our human failings.
 
@@ -311,28 +307,31 @@ In a world drowning in wickedness, Noah’s righteous relationship with God shon
 ### Decision
 
 **A**. World’s Wickedness – Am I aware of sin around and within me, and God’s grief over it?  
-**B**. Noah’s Righteous Walk – Am I cultivating daily intimacy with God, even if it makes me counter-cultural?  
-**C**. Noah’s Complete Obedience – Is there an *ark* God is calling me to build that demands trust right now?  
-**D**. Noah’s Post-Deliverance Worship – Do I prioritize gratitude and worship after God’s acts of grace?
+
+**B**. Righteous Walk – Am I cultivating daily intimacy with God, even if it makes me counter-cultural?
+
+**C**. Complete Obedience – Is there an *ark* God is calling me to build that demands trust right now? 
+
+**D**. Post-Deliverance Worship – Do I prioritize gratitude and worship after God’s acts of grace?
 
 ### Challenges
 
-### 1. Heart Check Challenge.
+#### 1. Heart Check Challenge.
 For one full day this week, consciously notice your thoughts and motives. Write down patterns of self-centeredness or unrighteousness, confess them to God, and specifically ask Him to align your heart with His. Don't just observe; actively engage in prayer for change.
 
-### 2. Ark Building Challenge.
+#### 2. Ark Building Challenge.
 Identify one specific, counter-cultural step of obedience God is asking of you (e.g., forgiving someone who hurt you deeply, generous giving to a specific need, ending a sinful relationship, speaking about Jesus at work, investing in a difficult relationship). Take at least one concrete, measurable step toward it this week, no matter how small.
 
-### 3. Post-Deliverance Worship Challenge.
+#### 3. Post-Deliverance Worship Challenge.
 Recall a recent time God delivered or provided for you in a significant way (big or small). Set aside focused time (at least 15 minutes) this week to thank and worship Him specifically for that—make it your "altar." This could involve journaling, singing, or simply sitting in grateful reflection.
 
-### 4. One-Verse Memory Challenge.
+#### 4. One-Verse Memory Challenge.
 Memorize [Genesis 6:8](https://biblehub.com/genesis/6-8.htm) this week—“But Noah found favor in the eyes of the LORD.” Meditate on this verse daily, letting the truth that grace comes first and is the source of all good in our lives sink deep into your heart.
 
 ### Prayer
 
-> Heavenly Father, we come before You with humble hearts, acknowledging the pervasive wickedness that grieves You, both in the world around us and within our own hearts. We confess that our thoughts and intentions often fall short of Your perfect standard. Thank You for Your profound and undeserved grace that allows us to find favor in Your eyes, not because of our merit, but because of Your loving kindness and the ultimate sacrifice of Jesus Christ, our "pleasing aroma."
+> Heavenly Father, we come before You with humble hearts, acknowledging the pervasive wickedness that grieves You, both in the world around us and within our own hearts. We confess that our thoughts and intentions often fall short of Your perfect standard. Thank You for Your profound and undeserved grace that allows us to find favor in Your eyes, not because of our merit, but because of Your loving kindness and the ultimate sacrifice of Jesus Christ, our *pleasing aroma*.
 
-> Lord, we long to be like Noah—to walk with You intimately, to cultivate a blameless life in our generation, and to obey Your commands completely, even when the path is unclear or unpopular. Grant us the courage to build the "arks" You call us to, trusting Your wisdom and provision above all else.
+> Lord, we long to be like Noah—to walk with You intimately, to cultivate a blameless life in our generation, and to obey Your commands completely, even when the path is unclear or unpopular. Grant us the courage to build the *arks* You call us to, trusting Your wisdom and provision above all else.
 
 > As we reflect on Your faithfulness, we offer You our worship and gratitude for every deliverance and blessing. May our lives become living altars of praise. Strengthen us by Your Spirit to live righteously in a rotten world, reflecting Your light and love. All this we pray in the powerful and precious name of Jesus, our Savior and Lord. Amen.
