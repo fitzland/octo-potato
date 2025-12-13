@@ -1,5 +1,5 @@
 ---
-title: 'David: Faith that Moves with Confidence'
+title: David. Faith that Moves with Confidence
 tags:
     - OT
     - HISTORY
@@ -8,7 +8,7 @@ tags:
     - Faith
     - Confidence
 ---
-## David: Faith that Moves with Confidence
+## David. Faith that Moves with Confidence
 [1 Samuel 17:3-8, 32-37, 45-47](https://biblehub.com/bsb/1_samuel/17.htm), BSB
 
 ## Introduction

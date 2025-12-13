@@ -1,5 +1,5 @@
 ---
-title: 'Rahab: Faith Over Fear'
+title: Rahab. Faith Over Fear
 tags:
     - OT
     - HISTORY
@@ -8,7 +8,7 @@ tags:
     - Faith
     - Fear
 ---
-## Rahab: Faith Over Fear
+## Rahab. Faith Over Fear
 [Joshua 2:1-4, 8-14, 6:22-25](https://biblehub.com/bsb/joshua/2.htm), BSB
 
 ## Introduction

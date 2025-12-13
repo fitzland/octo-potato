@@ -1,4 +1,5 @@
-title: Noah: Faith that Pleases God
+---
+title: Noah. Faith that Pleases God
 tags:
     - OT
     - LAW
@@ -6,7 +7,8 @@ tags:
     - Noah
     - Faith
 ---
-## Noah: Faith that Pleases God 
+
+## Noah. Faith that Pleases God 
 [Genesis 6:5-9, 17-22; 8:20-22](https://biblehub.com/genesis/6-5.htm), BSB
 
 ## Introduction
