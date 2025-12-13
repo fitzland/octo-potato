@@ -26,7 +26,7 @@ True faith is a righteous relationship with God that receives His favor, walks i
 ### Lesson Flow
 
 1.  [**Wicked World & God’s Grief**](#1-wicked-world-gods-grief)
-2.  [**Righteous Exception**](#2-a-righteous-exception)
+2.  [**Righteous Exception**](#2-righteous-exception)
 3.  [**God’s Covenant & Noah’s Obedience**](#3-gods-covenant-noahs-obedience)
 4.  [**Worship & God’s Renewed Promise**](#4-worship-gods-renewed-promise)
 
@@ -42,11 +42,11 @@ True faith is a righteous relationship with God that receives His favor, walks i
 
 The world had gone astray. Wickedness wasn’t occasional—it was the constant condition of every human heart. This pervasive evil broke God’s heart and moved Him to just judgment.
 
-- *Wickedness*. (rāʿāʿ) = evil that is broken, dysfunctional, even calamitous—humanity had become functionally ruined in God’s sight.
+- *Wickedness*. (*rah-ah-ah*) = evil that is broken, dysfunctional, even calamitous—humanity had become functionally ruined in God’s sight.
 
-- *Every inclination*. only evil all the time uses the word yētser—the same root God used when He *formed* (yātsar) man from the dust (Gen 2:7). Man’s God-given capacity to shape and imagine had become wholly twisted toward evil every single day.
+- *Every inclination*. only evil all the time uses the word (*yay-tser*)—the same root God used when He *formed* (*yah-tsar*) man from the dust (Gen 2:7). Man’s God-given capacity to shape and imagine had become wholly twisted toward evil every single day.
 
-- *Regretted / grieved*. (nāḥam + ʿātsab ʾel-libbô) = deep sighing and relational pain. Sin doesn’t just anger God; it wounds the heart of the Creator who loves His creation.
+- *Regretted / grieved*. (*nah-kham*) + (*ah-tsav el lee-bo*) = deep sighing and relational pain. Sin doesn’t just anger God; it wounds the heart of the Creator who loves His creation.
 
 **Illustration**. Imagine a beautiful garden you poured years into. Then invasive weeds take over, choking every good plant until nothing healthy remains. You pull and pull, but they keep spreading. That’s a faint glimpse of God’s grief: He created humanity perfect, yet the weeds of sin had so overrun every heart that every thought was only evil all the time.
 
@@ -98,11 +98,11 @@ The world had gone astray. Wickedness wasn’t occasional—it was the constant 
 
 In contrast to the rest of humanity, Noah *found favor with God*. He is described as righteous and blameless. God’s grace comes first; it is what makes righteous living possible in a corrupt generation.
 
-- *Found favor*. (mātsāʾ ḥēn) = literally *found grace*. This is the first occurrence of grace in the entire Bible—grace appears before Noah does anything.
+- *Found favor*. (mah-tsah khane) = literally *found grace*. This is the first occurrence of grace in the entire Bible—grace appears before Noah does anything.
 
-- *Blameless*. (tāmîm) = whole, complete, having integrity. Same word used for unblemished sacrificial animals and the Passover lamb. Does not mean sinless, but morally whole in his generation.
+- *Blameless*. (taw-meem') = whole, complete, having integrity. Same word used for unblemished sacrificial animals and the Passover lamb. Does not mean sinless, but morally whole in his generation.
 
-- *Walked with God*. (hithallēk ʾet-hāʾĕlōhîm) = intensive reflexive form: Noah continually, habitually walked in company with God. This same phrase is used of Enoch before him (Gen 5:22, 24)—intimate, two-way, daily fellowship.
+- *Walked with God*. (heet-hah-lek et hah-eh-loh-heem) = intensive reflexive form: Noah continually, habitually walked in company with God. This same phrase is used of Enoch before him (Gen 5:22, 24)—intimate, two-way, daily fellowship.
 
 **Illustration**. Picture living in a neighborhood where everyone litters, blasts loud music, and trashes the streets—except you. You recycle, keep your yard spotless, and stay kind. People mock you, but you keep doing what’s right because you answer to a higher standard. That’s Noah: the lone righteous man in a sea of corruption.
 
@@ -172,11 +172,11 @@ In contrast to the rest of humanity, Noah *found favor with God*. He is describe
 
 God had a plan for salvation. He gave impossibly detailed instructions and an unimaginable timeline. Noah’s response? Total, unquestioning obedience. The ark became God’s appointed means of salvation—foreshadowing greater rescue to come.
 
-- *Covenant*. (bərît) = first explicit use of the word in Scripture. God unilaterally initiates and promises to establish it before Noah has done anything beyond receiving grace.
+- *Covenant*. (buh-REET) = first explicit use of the word in Scripture. God unilaterally initiates and promises to establish it before Noah has done anything beyond receiving grace.
 
 - *Precisely as… commanded*. = repeated twice (6:22; 7:5) with the same wording later used for Abraham and Israel’s call to obey Torah—emphasizes exact, full obedience.
 
-- *Ark*. (tēbâ) = rare word used only here and for Moses’ basket (Exod 2). Both are pitch-covered (kōfer—root related to “atonement/covering”) vessels of divine rescue.
+- *Ark*. (tay-VAH) = rare word used only here and for Moses’ basket (Exod 2). Both are pitch-covered (KOH-fer—root related to “atonement/covering”) vessels of divine rescue.
 
 **Illustration**. Imagine a farmer in the desert told by God to build a giant ship—exact measurements, strange design, no water in sight. For decades neighbors laugh, mock, and call him crazy. Yet Noah keeps hammering, exactly as commanded. That’s obedience that defies logic and endures ridicule because it trusts God’s word completely.
 
@@ -242,7 +242,7 @@ God had a plan for salvation. He gave impossibly detailed instructions and an un
 
 Noah’s first act on dry ground was worship, not survival. The *pleasing aroma* moved God to promise mercy. Human hearts are still evil, yet God’s posture changes—from judgment to patient mercy. The flood washed the world but didn’t wash human nature. Only a greater sacrifice—Jesus on the cross—can do that. Noah’s altar points us to the ultimate sacrifice that secures God’s final *Never again* for everyone who trusts Him.
 
-- *Pleasing aroma*. (rēaḥ hannîḥōaḥ) = literally *aroma of rest/satisfaction*. Exact phrase repeated throughout Leviticus for sacrifices that satisfy God and turn away wrath. Noah offers the first recorded burnt offering in Scripture.
+- *Pleasing aroma*. (reh-AH ha-nee-KHO-ah) = literally *aroma of rest/satisfaction*. Exact phrase repeated throughout Leviticus for sacrifices that satisfy God and turn away wrath. Noah offers the first recorded burnt offering in Scripture.
 
 - Gen 8:21 quotes 6:5 almost verbatim (“every inclination… evil from his youth”) → the flood did not fix the human heart. God’s “never again” promise is pure grace.
 
