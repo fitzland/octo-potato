@@ -8,7 +8,7 @@ tags:
     - Faith
 ---
 
-## Joshua. Faith Grounded in God's Word
+# Joshua. Faith Grounded in God's Word
 [Joshua 1:1-9, 16-18 (BSB)](https://biblehub.com/bsb/joshua/1.htm)
 
 ## Introduction
