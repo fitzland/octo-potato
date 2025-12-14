@@ -327,7 +327,7 @@ Identify one specific, counter-cultural step of obedience God is asking of you (
 #### 3. Post-Deliverance Worship.
 Recall a recent time God delivered or provided for you in a significant way (big or small). Set aside focused time (at least 15 minutes) this week to thank and worship Him specifically for that—make it your "altar." This could involve journaling, singing, or simply sitting in grateful reflection.
 
-#### 4. One-Verse Memory.
+#### 4. Memory Verse.
 Memorize [Genesis 6:8](https://biblehub.com/genesis/6-8.htm) this week—“But Noah found favor in the eyes of the LORD.” Meditate on this verse daily, letting the truth that grace comes first and is the source of all good in our lives sink deep into your heart.
 
 ### Prayer

@@ -8,7 +8,7 @@ tags:
     - Faith
     - Confidence
 ---
-## David. Faith that Moves with Confidence
+# David. Faith that Moves with Confidence
 [1 Samuel 17:3-8, 32-37, 45-47](https://biblehub.com/bsb/1_samuel/17.htm), BSB
 
 ## Introduction
@@ -16,6 +16,7 @@ tags:
 ### Icebreaker
 
 **A**. Describe the biggest challenge or *giant* you've ever had to face (in school, work, or life).
+
 **B**. Who is someone you know who exudes quiet confidence? What does that look like in their daily life?
 
 *True faith doesn’t eliminate fear, but it fuels a confidence that is bigger than the challenge.*
@@ -43,7 +44,9 @@ tags:
 For 40 days, the army of Israel is paralyzed. The source of their fear is Goliath, a Philistine champion who seems invincible. The description of his armor and weapons is overwhelming. His height (over 9 feet), the weight of his armor (125 lbs), and the size of his spear were all meant to intimidate. His words were just as intimidating, mocking Israel and their God.
 
 - *Champion*. (*eesh hah-bay-nah-yim*) meaning *man in the middle* or *man between two*. He was the one who would decide the battle by single combat.
+
 - *Why do you come out...?* Goliath's taunt is designed to make Israel feel foolish and powerless. He questions their very right to be on the battlefield.
+
 - *Servants of Saul*. He identifies them by their human king, Saul, who was also hiding in fear. He ignores their identity as the people of the living God.
 
 **Illustration**. Imagine a brilliant but intimidating professor on the first day of class. He lists his impossible standards, mocks the abilities of previous students, and dares anyone to challenge his authority. His goal isn't to teach, but to intimidate the entire class into silence and submission before the semester even begins. Goliath's strategy was the same—to win the battle by fear before a single blow was struck.
@@ -56,7 +59,9 @@ For 40 days, the army of Israel is paralyzed. The source of their fear is Goliat
 #### Common Answers
 
 **Overwhelming Size**. Giants, by nature, appear too big for us to handle. They dominate our field of vision and make us feel small and insignificant.
+
 **Public Challenge**. They often issue their challenges publicly, creating shame and adding the fear of failure in front of others.
+
 **Mocking Identity**. The enemy's taunts often question our identity in Christ, our strength, and God's ability or willingness to help. He wants us to see ourselves as *servants of Saul* (our own weakness) rather than servants of God.
 
 *Dig Deeper*. Why was the entire army of Israel, full of trained soldiers, so afraid of one man? What does this tell us about the power of fear to neutralize strength?
@@ -82,7 +87,9 @@ For 40 days, the army of Israel is paralyzed. The source of their fear is Goliat
 While Saul and his army saw only a boy, David saw a spiritual parallel. His confidence was not based on arrogance, but on his resume of God's faithfulness. He had faced deadly enemies before in the solitude of the wilderness, and God had delivered him every time.
 
 - *You are just a boy*. Saul evaluates David based on outward appearance, the same way he evaluates Goliath. He sees the world's way.
+
 - *Your servant has been...* David's response is a testimony. He doesn't argue his own strength; he presents the evidence of God's past deliverances. The lion and the bear were his private training ground for this public test.
+
 - *The LORD, who delivered me... will deliver me*. This is the core of David's confidence. He connects God's past action directly to his present challenge. He has a history with God, and that history informs his future. He sees Goliath not as a new threat, but as just another *lion or bear*.
 
 **Illustration**. Imagine a veteran firefighter running into a burning building while others hesitate. A rookie says, "You can't go in there, it's too dangerous!" The veteran replies calmly, "I've been in a hundred fires just like this one. The same training and equipment that got me through those will get me through this." His confidence isn't in his own invincibility, but in his proven experience and equipment. David's confidence was the same, but his trust was in the Lord.
@@ -95,7 +102,9 @@ While Saul and his army saw only a boy, David saw a spiritual parallel. His conf
 #### Common Answers
 
 **Private Victories, Public Confidence**. God often tests and proves our faith in small, private battles before He calls us to larger, public ones. Faithfulness in the *pasture* builds the spiritual muscle needed for the "valley."
+
 **Remembrance Builds Faith**. Remembering what God has done in the past fuels our faith for the present. It provides a library of evidence that God is both able and willing to act on our behalf. It stops us from getting *spiritual amnesia*.
+
 **A Defense Against Doubt**. When we are facing a new giant, our memory of God's past deliverances serves as a powerful defense against the taunts of fear and doubt.
 
 *Dig Deeper*. What are some practical ways we can *build a memorial* of God's faithfulness, so we don't forget what He has done for us? (e.g., journaling, a *thankfulness jar,* sharing testimony).
@@ -103,6 +112,7 @@ While Saul and his army saw only a boy, David saw a spiritual parallel. His conf
 ### Practical Application
 
 **Catalog Your Victories**. Take five minutes to list three to five specific times God has delivered you or shown His faithfulness in the past. These are your *lions and bears*.
+
 **Connect Past to Present**. Look at the *giant* you are facing now. Verbally declare, "The Lord who delivered me from [past situation] will deliver me from this."
 
 *Transition*. Armed with a shepherd's tools and a warrior's confidence, David walks into the valley, not with a strategy of his own, but with a declaration of faith.
@@ -120,7 +130,9 @@ While Saul and his army saw only a boy, David saw a spiritual parallel. His conf
 This is David's great battle speech. He doesn't trash-talk Goliath; he preaches a sermon. He reframes the entire conflict. This isn't about David vs. Goliath; it's about the God of Israel vs. a defiant enemy.
 
 - *You come against me with... I come against you in the name of...*. David draws a sharp contrast between worldly power (sword, spear, javelin) and spiritual power (the name of the LORD). He is admitting he is outmatched on a physical level, but he is competing on a different level entirely.
+
 - *The whole world will know that there is a God in Israel*. David's primary motivation is not his own survival or glory, but God's reputation. He sees this battle as a global testimony to the power of Yahweh.
+
 - *The Battle is the LORD's* This is the ultimate statement of faith. David understood that he was just a vessel. The outcome did not depend on his strength or skill with a sling, but on God's power and sovereignty. Victory belonged to the Lord.
 
 **Illustration**. Imagine a diplomat from a tiny country standing up to a powerful tyrant. The tyrant scoffs, "You and what army?" The diplomat calmly replies, "I don't have an army. I have the full authority of the United Nations. An attack on me is an attack on them all." The diplomat's confidence doesn't come from personal strength, but from the authority of the power they represent. David's confidence was infinitely greater, as he spoke for the Lord of Hosts.
@@ -133,7 +145,9 @@ This is David's great battle speech. He doesn't trash-talk Goliath; he preaches 
 #### Common Answers
 
 **Acting on His Authority**. To act "in the name of the LORD" means to act as His representative, on His authority, and according to His will. It's a declaration that we are not acting on our own, but as agents of the King.
+
 **Accessing His Power**. It is an expression of dependence. We are admitting our inadequacy and relying completely on His power to accomplish the task.
+
 **Shifting the Focus**. When our goal is God's glory, not our own comfort or success, it frees us from the pressure to perform. It makes us bold, because the outcome is about Him, not us. It turns our problems into a *platform for God to display His power*.
 
 *Dig Deeper*. How can we distinguish between true God-confidence and simple self-confidence that is *baptized* with Christian language?
@@ -153,8 +167,11 @@ The entire army of Israel saw a giant they could not defeat. David saw a God who
 ### Decision
 
 **A**. The Giant's Taunt – What lies from the enemy have you been listening to and believing?
+
 **B**. The Shepherd's History – What *lion and bear* victories from your past do you need to remember and recount?
+
 **C**. The Warrior's Declaration – Are you ready to confront your giant, not with your own strength, but *in the name of the LORD of Hosts*?
+
 **D**. The Ultimate Motive – Is your desire to win your battle for your own relief, or so that others will know *that there is a God in Israel*?
 
 ### Challenges
@@ -168,7 +185,7 @@ Take your biggest current challenge and write out a one-sentence prayer that re-
 #### 3. *Speak the Name.*
 The next time you feel fear or anxiety about your *giant* this week, stop and say aloud, *The battle is the Lord's, and I come against this in the name of the Lord of Hosts*. Verbalize your confidence, even if your feelings haven't caught up yet.
 
-#### 4. One-Verse Memory Challenge.
+#### 4. Memory Verse.
 Memorize [1 Samuel 17:47](https://biblehub.com/1_samuel/17-47.htm) — "And all those assembled here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and He will give all of you into our hands.”
 
 ### Prayer

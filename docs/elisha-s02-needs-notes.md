@@ -14,9 +14,9 @@ title: God's Hand in Meeting Our Needs
 
 ### Icebreaker
 
-**Option A**. "When have you received help that arrived just at the right time?"
+**A**. "When have you received help that arrived just at the right time?"
 
-**Option B**. "Think of a time you faced a problem that seemed impossible. What did it feel like to need help, and what did you do?"
+**B**. "Think of a time you faced a problem that seemed impossible. What did it feel like to need help, and what did you do?"
 
 *We all face moments of overwhelming need. Today, we'll look at a story of a woman in a desperate situation and see how God met her need in an extraordinary way.*
 
@@ -31,7 +31,9 @@ This story reveals a powerful truth about God's character and how He interacts w
 The story of the widow's oil unfolds in three clear parts, showing a journey from desperation to deliverance.
 
 - Cry for Help
+
 - Command of Faith
+
 - Miraculous Provision
 
 ## 1. Cry for Help (2 Kings 4:1-2)
@@ -46,12 +48,17 @@ The story of the widow's oil unfolds in three clear parts, showing a journey fro
     She answered, “Your servant has nothing in the house but a jar of oil.”
 
 ### Context
+
 The woman was the widow of one of the "sons of the prophets," a member of a prophetic guild that Elisha supervised. In the ancient world, a widow was in an extremely vulnerable position without a husband's economic and legal protection. Her husband, a man who "feared the LORD," had left behind a debt. The creditor was coming to collect by taking her two sons as slaves, a practice common in the ancient Near East, though regulated by Old Testament law. Her situation was dire.
 
 ### Cry
+
 Her cry to Elisha was not just a cry for justice, but a cry for mercy. She was at the end of her rope. Sometimes, we are hesitant to cry out to God for help because:
+
 - We see it as a sign of weakness.
+
 - We feel we don't deserve it.
+
 - Our faith is weak, and we doubt God will answer or that we'll like His solution.
 
 This woman, however, overcomes any hesitation and brings her need to God's representative. She holds nothing back.
@@ -74,6 +81,7 @@ Elisha's response is simple and direct: "What can I do for you? ... What do you 
     **4** Then go inside, shut the door behind you and your sons, and pour oil into all these jars, setting the full ones aside.”
 
 ### Instructions
+
 Elisha's instructions are a test of faith. He tells her to prepare for an abundance she cannot see.
 
 1.  **Go and Borrow**. She must actively seek out empty containers from her neighbors.
@@ -83,7 +91,9 @@ Elisha's instructions are a test of faith. He tells her to prepare for an abunda
 These instructions required:
 
 -   **Obedient Faith**. She had to follow the specific, unusual instructions without alteration.
+
 -   **Expectant Faith**. Gathering many jars demonstrated her belief that God could and would provide abundantly.
+
 -   **Giving God What She Had**. She had to use her one small jar of oil, her only remaining resource, and trust God with it.
 
 !!! question "Discussion Question"
@@ -146,18 +156,16 @@ The miracle itself is the ultimate proof of God's desire to provide. The oil did
 
 This story is not just about a miracle long ago; it's about how God works in our lives today.
 
-### Three Practical Applications
-
-##### 1. Assess Your True Needs.
+#### 1. Assess Your True Needs.
 It can be hard to distinguish between our wants and our needs. Take time this week to ask God to reveal the true needs in your life. What are the things you truly cannot do without?
 
-##### 2. Ask for Help with Boldness.
+#### 2. Ask for Help with Boldness.
 Lower your pride and raise your faith. Bring your needs to God in consistent prayer. Don't be hesitant. Cry out to Him, trusting that He hears and cares.
 
-##### 3. Help Others in Need.
+#### 3. Help Others in Need.
 Look for opportunities to be God's hands and feet to meet the needs of others. Ask God for a discerning, sensitive, and compassionate heart to respond to those in desperate situations around you.
 
-## Weekly Challenges
+## Challenges
 
 ### 1. Needs List (Reflection)
 Take 15 minutes this week to write down the needs you are facing. Then, next to each one, write down what it would look like to "gather more jars" in faith for that need. What practical steps of preparation and faith can you take?
@@ -179,40 +187,27 @@ Share one of your needs with a trusted friend or your small group. Ask them to p
 
 ### Historical & Cultural Notes
 - **Sons of the Prophets**. These were not biological sons but members of prophetic communities or guilds. They studied and served under a senior prophet like Elisha.
+
 - **Creditor and Slavery**. The Law of Moses provided regulations for debt-slavery (see [`Exodus 21:1-11`](https://biblehub.com/exodus/21.htm#1); [`Deuteronomy 15:12-18`](https://biblehub.com/deuteronomy/15.htm#12)), but it was often abused. A kinsman-redeemer was supposed to step in to prevent this ([`Leviticus 25:47-55`](https://biblehub.com/leviticus/25.htm#47)), but this widow had no one. Elisha, through God's power, acts as her redeemer.
+
 - **Oil**. Olive oil was a foundational commodity in ancient Israel. It was used for cooking, fuel for lamps, medicine, and in religious ceremonies. It was a valuable resource for trade.
 
 ### Theological Connections
 - **Parallel to Elijah**. This miracle closely parallels the one performed by Elijah for the widow of Zarephath ([`1 Kings 17:8-16`](https://biblehub.com/1_kings/17.htm#8)), showing that the same Spirit of God was at work in Elisha.
+
 - **God's Provision**. This story is a powerful illustration of God's character as Jehovah Jireh, "The Lord Will Provide" ([`Genesis 22:14`](https://biblehub.com/genesis/22-14.htm)).
+
 - **Foreshadowing of Christ**. God's provision for the widow—paying her debt and giving her a new life—is a beautiful picture of the gospel. Through Jesus, God pays our sin debt, which we could never pay, and gives us a new, abundant life in Him.
 
-## Review: What Happened Before This Story
+## Closing 
 
-*   **Elisha's Early Ministry (2 Kings 2:16-25)**.
-    *   Sons of the prophets search for Elijah in vain, confirming Elisha's succession.
-    *   Elisha heals the waters of Jericho.
-    *   Elisha curses mocking youths, resulting in a bear attack (asserting prophetic authority).
-
-*   **War Against Moab (2 Kings 3)**.
-    *   Jehoram (King of Israel) rebels against Mesha (King of Moab).
-    *   Alliance formed: Israel, Judah (Jehoshaphat), and Edom.
-    *   Allied armies run out of water in the desert.
-    *   Elisha is consulted, prophesies water and victory.
-    *   God miraculously provides water for the armies.
-    *   Moabites are deceived by the water's appearance, attack, and are defeated.
-    *   Allied forces devastate Moab.
-    -   King of Moab sacrifices his firstborn son, leading to the withdrawal of the allied armies.
-
-*   **Significance**. These events highlight Elisha's established prophetic power and God's intervention, setting the stage for the personal miracle in 2 Kings 4.
-
-## Closing Reflection
+### Reflection
 
 We serve a God who is not limited by our lack. The widow had nothing but a small jar of oil and a mountain of debt. But she had a God who could create abundance out of emptiness. The story suggests the oil only stopped flowing because she ran out of jars. God's provision was limited only by her capacity to receive it.
 
 God desires to meet our needs. There is no reason to hesitate in crying out to Him. He may not always respond with a supernatural multiplication of oil, but He will always meet our true needs in a way that is best for us and brings glory to Him. Our part is to cry out, to obey in faith, and to prepare for His abundant provision.
 
-## Closing Prayer
+### Prayer
 
 > Lord,
 >
