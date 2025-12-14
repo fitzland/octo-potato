@@ -160,16 +160,16 @@ The transition from Moses to Joshua is a blueprint for spiritual succession and 
 
 ### Challenges
 
-#### 1. Scripture Saturation Challenge.
+#### 1. Scripture Saturation.
 Choose one verse from Joshua 1 that speaks to your current situation (e.g., v. 5, v. 9). Write it on a note card or set it as your phone background. *meditate* on it—mutter it, ponder it, pray it—every day this week.
 
-#### 2. Single Act of Courage Challenge.
+#### 2. Single Act of Courage.
 Identify one specific, fear-inducing step of obedience God is calling you to (a difficult conversation, a financial decision, an act of service). This week, take that single step, consciously trusting that God's presence goes with you.
 
-#### 3. Encourage Your Leader Challenge.
+#### 3. Encourage Your Leader.
 Think of a leader in your life (pastor, teacher, parent). Send them a note, text, or email this week with a simple message of support, telling them you are praying for them to be *strong and courageous* in their role.
 
-#### 4. One-Verse Memory Challenge.
+#### 4. One-Verse Memory.
 Memorize [Joshua 1:9](https://biblehub.com/joshua/1-9.htm) this week*Have I not commanded you to be strong and courageous? Do not be afraid; do not be discouraged, for the LORD your God is with you wherever you go*.
 
 ### Prayer

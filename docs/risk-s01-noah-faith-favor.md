@@ -318,16 +318,16 @@ In a world drowning in wickedness, Noah’s righteous relationship with God shon
 
 ### Challenges
 
-#### 1. Heart Check Challenge.
+#### 1. Heart Check.
 For one full day this week, consciously notice your thoughts and motives. Write down patterns of self-centeredness or unrighteousness, confess them to God, and specifically ask Him to align your heart with His. Don't just observe; actively engage in prayer for change.
 
-#### 2. Ark Building Challenge.
+#### 2. Ark Building.
 Identify one specific, counter-cultural step of obedience God is asking of you (e.g., forgiving someone who hurt you deeply, generous giving to a specific need, ending a sinful relationship, speaking about Jesus at work, investing in a difficult relationship). Take at least one concrete, measurable step toward it this week, no matter how small.
 
-#### 3. Post-Deliverance Worship Challenge.
+#### 3. Post-Deliverance Worship.
 Recall a recent time God delivered or provided for you in a significant way (big or small). Set aside focused time (at least 15 minutes) this week to thank and worship Him specifically for that—make it your "altar." This could involve journaling, singing, or simply sitting in grateful reflection.
 
-#### 4. One-Verse Memory Challenge.
+#### 4. One-Verse Memory.
 Memorize [Genesis 6:8](https://biblehub.com/genesis/6-8.htm) this week—“But Noah found favor in the eyes of the LORD.” Meditate on this verse daily, letting the truth that grace comes first and is the source of all good in our lives sink deep into your heart.
 
 ### Prayer
