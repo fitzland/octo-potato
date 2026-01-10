@@ -96,49 +96,64 @@ This workflow is followed unless the biblical genre requires adaptation.
 **Goal:** What is the central, transferable truth?
 
 ### Step 4 — Synthesize the Findings
-- Distill the passage into a **single governing idea**.
-- Express the main truth clearly and concisely.
-- Identify tensions, paradoxes, or counterintuitive elements in the text.
 
-This synthesized truth becomes the **central axis** of the lesson.
+- Distill the passage into a **Core Message** (single governing idea)
+- Express it as a complete sentence that captures the main truth
+- Ensure it's memorable and transferable
+- This becomes your lesson's **central axis**
 
----
-
-## Phase 4: Practical Connection (Bridging to Real Life)
-
-**Goal:** Why does this passage matter today?
-
-### Step 5 — Develop Illustrations & Situations
-- Create modern, relatable scenarios where the passage’s principles apply.
-- Use metaphors or illustrations that clarify (not replace) the text.
-
-### Step 6 — Formulate Applications
-- Move from principle → practice.
-- Provide concrete self-examination questions or practical frameworks.
-- Ensure applications flow directly from the passage’s main idea.
+Additionally, create:
+- **Lesson Title** — Evocative, capturing the essence
+- **Lesson Flow Outline** — 2-4 major section titles that break down how the Core Message unfolds in the passage
 
 ---
 
-## Phase 5: Actionable Implementation (Living the Lesson)
+## Phase 4: Lesson Architecture (Building the Teaching Flow)
 
-**Goal:** What should believers do in response?
+**Goal:** Structure the passage into teachable sections with embedded engagement.
 
-### Step 7 — Develop an Icebreaker
-- Use one or two questions to:
-  - Create psychological safety
-  - Encourage participation
-  - Establish relevance
+### Step 5 — Design the Lesson Flow
+- Divide the passage into 2-4 major teaching sections
+- Each section should have:
+  - **Biblical Text** (with Context & Insights)
+  - **Discussion Questions** (exploring meaning/implications)
+  - **Reflection (Heart)** (personal, introspective questions)
+- Order sections to build toward the core message
 
-### Step 8 — Create Weekly Challenges
-- Provide 3–4 specific, achievable practices.
-- Balance internal heart work and external obedience.
-- Emphasize grace-driven effort, not performance.
+### Step 6 — Develop an Icebreaker
+- Create 1-2 opening questions that:
+  - Establish relevance and psychological safety
+  - Connect life experience to the passage theme
+- Place in Introduction, *before* presenting the Core Message
 
-### Step 9 — Craft a Closing Prayer
-- Reflect the lesson’s key confessions, petitions, and praise.
-- Model Scripture-shaped prayer.
+### Step 7 — Create Illustrations & Metaphors
+- Develop modern scenarios where principles apply
+- Use analogies that clarify (not replace) the text
+- Embed these in the "Context & Insights" of each section
 
-### Step 10 — Draft the Final Lesson Document
+---
+
+## Phase 5: Closing Implementation (Moving to Action)
+
+**Goal:** Call for response through decision and practice.
+
+### Step 8 — Craft Decision Questions (Will)
+- 1-2 penetrating questions that call for commitment
+- Focus on heart posture, not just behavior
+- Examples: "Are you ready to...?" "Is your desire to...?"
+
+### Step 9 — Develop Weekly Challenges (Practice)
+- Provide 3-4 specific, achievable practices
+- Balance internal (journaling, prayer, meditation) and external (action, speech, service)
+- Ensure each flows from the passage's main idea
+- Emphasize grace-driven effort, not performance
+
+### Step 10 — Write the Closing Prayer
+- Reflect the lesson's key confessions, petitions, and praise
+- Model Scripture-shaped prayer
+- Include: confession, petition for transformation, declaration of truth
+
+### Step 11 — Assemble the Final Document
 
 **Key Guidelines**
 
@@ -148,6 +163,32 @@ This synthesized truth becomes the **central axis** of the lesson.
 4. **Completeness** — Include all required elements without redundancy.
 5. **Theological Integrity** — Scripture-based, verse-cited (BSB).
 6. **MkDocs Optimization** — Use compatible Markdown features (YAML frontmatter, admonitions, structured headings).
+
+---
+
+## Critical Distinction: Reflection vs. Application
+
+This lesson model maintains a sharp distinction between two types of questions:
+
+**Reflection Questions (Heart) — During Teaching**
+- Placed *within* each section as you teach
+- Purpose: Help learners **think deeply** about what the text means for them personally
+- Nature: Introspective, diagnostic, exploratory
+- Examples: 
+  - "What specific *taunts* are you hearing from your *giant*?"
+  - "How has God delivered you in the past?"
+- These create engagement and internalization without demanding action
+
+**Application Questions (Will) — In the Closing**
+- Placed *only* in the Closing section
+- Purpose: Call learners to **concrete action** in response to the truth
+- Nature: Decisional, behavioral, practical
+- Examples:
+  - "Are you ready to confront your giant in the name of the LORD?"
+  - "Start a Faithfulness Journal this week"
+- These demand response and obedience
+
+**Why This Matters:** Reflection builds conviction during teaching; application channels that conviction into obedience at the end. Mixing them diffuses focus.
 
 ---
 
