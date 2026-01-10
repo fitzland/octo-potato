@@ -34,10 +34,8 @@ Confident faith meets adversity head-on; it remembers God's past faithfulness, s
 ### Lesson Flow
 
 1. [**Paralyzing Challenge**](#1-paralyzing-challenge) (Seeing the Giant)
-2. [**Confident Testimony**](#2-confident-testimony) (Rembering God)
+2. [**Confident Testimony**](#2-confident-testimony) (Remembering God)
 3. [**Victorious Stand**](#3-victorious-stand) (Acting in Faith)
-
-Fear → Testimony → Confrontation
 
 ## 1. Paralyzing Challenge (Seeing the Giant)
 
@@ -105,7 +103,7 @@ David's confidence was not in himself, but was built on a history of experiencin
 
 #### Common Answers
 
-**Private Victories, Public Confidence**. God often tests and proves our faith in small, private battles before He calls us to larger, public ones. Faithfulness in the *pasture* builds the spiritual muscle needed for the *valley*
+**Private Victories, Public Confidence**. God often tests and proves our faith in small, private battles before He calls us to larger, public ones. Faithfulness in the *pasture* builds the spiritual muscle needed for the *valley*.
 
 **Remembrance Builds Faith**. Remembering what God has done in the past fuels our faith for the present. It provides a library of evidence that God is both able and willing to act on our behalf. It stops us from getting *spiritual amnesia*.
 
@@ -133,7 +131,7 @@ Confident faith confronts the enemy not with worldly weapons, but in the name an
 
 - **Battle is the LORD's** David understood that he was just a vessel. The outcome did not depend on his strength or skill with a sling, but on God's power and sovereignty. Victory belonged to the Lord.
 
-Confidence isn’t self-assertion; it’s obedience that trusts God with the outcome.
+*Confidence isn’t self-assertion; it’s obedience that trusts God with the outcome*.
 
 ### Source of Victory
 
