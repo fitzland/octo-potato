@@ -4,44 +4,150 @@ This document outlines the standard 5-Phase, 10-Step workflow for preparing adul
 
 All output generated following this task guide must adhere to the formatting rules defined in [STYLE-MARKDOWN.md](./STYLE-MARKDOWN.md).
 
+---
+
+## Teaching Philosophy & Assumptions
+
+This lesson framework is built on the following convictions:
+
+- Scripture is authoritative, sufficient, and internally coherent.
+- The primary task of teaching is to explain what the text means, not to share opinions.
+- Good application flows from sound interpretation.
+- Scripture must be allowed to interpret Scripture.
+- Lessons should engage the **mind** (understanding), **heart** (formation), and **will** (obedience).
+- Discussion serves the text; the text does not serve discussion.
+
+This process intentionally moves from **text → meaning → synthesis → application → action**, resisting shortcuts that lead to moralism, proof-texting, or speculation.
+
+---
+
+## Interpretive Guardrails (Non-Negotiables)
+
+All lessons must observe the following guardrails:
+
+- Do **not** build doctrine on:
+  - Isolated verses removed from context
+  - Narrative description treated as command
+  - Symbolic or apocalyptic imagery without clear textual anchors
+- Always ask:
+  - What did this passage mean to the original audience?
+  - How does the broader canon clarify this passage?
+- Maintain a clear distinction between:
+  - **Interpretation** — What the text means
+  - **Application** — How believers live in light of it
+- Avoid:
+  - Speculative theology
+  - Over-allegorization
+  - Applications disconnected from the passage’s main idea
+
+---
+
+## Christological Integration Requirement
+
+Every lesson—Old Testament or New Testament—must explicitly address:
+
+> **How does this passage point to Christ, the gospel, or life under the New Covenant?**
+
+This may include:
+- Direct messianic fulfillment
+- Typology (fulfilled patterns)
+- Contrast (law vs. grace)
+- Theological trajectory culminating in Christ
+
+Lessons must avoid moralism by anchoring obedience in Christ’s finished work and ongoing lordship.
+
+---
+
 ## Core Workflow (Didactic Passages – Default)
 
-This sequence is followed unless the genre requires adaptation.
+This workflow is followed unless the biblical genre requires adaptation.
 
-### **Methodology for Developing a Teaching Lesson on a Didactic Passage**
+---
 
-This process is designed to move systematically from deep textual understanding to practical, life-changing application.
+## Phase 1: Method Review (Mindset Alignment)
 
-**Phase 1: Review the Methodology (Getting Mindset Correct)**
-*I want to start each lesson by reviewing our methodology. If there are any changes I will elaborate, so that we can make appropriate modifications to our method.*
+**Goal:** Establish shared expectations for how the passage will be studied.
 
-**Phase 2: Foundational Exegesis (Understanding the Text)**
-*The goal of this phase is to answer the question: "What does this passage actually say and mean?"*
+- Briefly restate the interpretive approach.
+- Note any genre-specific adjustments if required.
 
-1.  **Isolate and Read the Text**. Begin with a clean reading of the selected passage from your preferred translation (BSB).
-2.  **Analyze the Structure**. Break the passage down into its distinct thought-units or rhetorical movements. Identify the flow of the argument: commands, warnings, principles, illustrations, and conclusions. (Our process of synthesizing my initial view with your more rhetorical view was a key part of this).
-3.  **Conduct a Deep Dive**.
-    *   **Linguistics**. Examine key original language words (like *krinō* and *hypokritēs*) to uncover nuances of meaning that might be lost in translation.
-    *   **Cross-References**. Find and analyze relevant parallel passages and thematic connections throughout Scripture. This lets the Bible interpret itself and builds a robust, consistent theological understanding.
+---
 
-**Phase 3: Thematic Synthesis (Defining the Core Message)**
-*The goal of this phase is to answer the question: "What is the central, transferable truth of this passage?"*
+## Phase 2: Foundational Exegesis (Understanding the Text)
 
-4.  **Synthesize the Findings**. Distill the detailed analysis from Phase 1 into a clear, concise summary of the passage's main idea. This often involves identifying the core tension or counterintuitive truth Jesus is presenting (e.g., "The efficacy of spiritual correction is determined by the humility of the giver and the receptivity of the receiver"). This becomes the central axis of your lesson.
+**Goal:** What does this passage actually say and mean?
 
-**Phase 4: Practical Connection (Bridging the Gap to Real Life)**
-*The goal of this phase is to answer the question: "Why does this matter to my class today?"*
+### Step 1 — Isolate and Read the Text
+- Read the full passage in the **Berean Standard Bible (BSB)**.
+- Observe repeated words, contrasts, and transitions.
 
-5.  **Brainstorm Illustrations & Situations**. Develop relatable, modern-day scenarios where the principles of the passage play out (e.g., social media criticism, post-church commentary). Create memorable metaphors and illustrations (the boomerang, the smudged glasses, the surgeon vs. the butcher) to make the abstract concepts concrete.
-6.  **Formulate Practical Applications**. Move from general illustrations to specific, actionable advice. Provide practical questions or "self-check" lists that the class can use for personal reflection (e.g., the Log Inventory questions, the checklist for loving correction).
+### Step 2 — Analyze the Structure
+- Identify thought units and rhetorical movement.
+- Trace the flow: commands, warnings, reasoning, illustrations, conclusions.
 
-**Phase 5: Actionable Implementation (Living Out the Lesson)**
-*The goal of this phase is to answer the question: "What do I do now?"*
+### Step 3 — Conduct a Deep Dive
+- **Linguistics:** Examine key original-language terms where meaning is debated or nuanced.
+- **Cross-References:** Identify parallel passages and canonical connections.
 
-7.  **Develop an Icebreaker**. Design a question or two that can be used to introduce the lesson. Our goal with these is to break down any barriers so that we have a relaxed atmosphere for learning; create connection so that people will share about themselves; establish psychological safety so that the participants will know that it is okay to participate; everyone's input is welcome.
-8.  **Create Weekly Challenges**. Design three or four specific, achievable challenges that encourage the class to actively practice the lesson's teachings during the week. Offer a variety of challenges that target both internal attitudes and external actions (e.g., the Judgment Fast, the Affirmation Offensive).
-9.  **Craft a Closing Prayer**. Write a prayer that summarizes the key confessions, petitions, and praises of the lesson. This models for the class how to turn the teaching into a personal conversation with God and solidifies the main points in their hearts and minds.
-10. **Draft Final Document**. Conclude by draft a final document (markdown) which includes all developed content and lesson elements. *Key Guidelines*. 1. Conciseness. Limit sections to essential points. Use bullet points, short paragraphs, and tables where they reduce wordiness. 2. Clarity. Use active voice, short sentences, and headings for navigation. Define any jargon (e.g., "atonement. the act of making amends for sin"). Structure for easy skimming. 3. Compelling. Incorporate storytelling, real-life applications, questions for reflection, and calls to action. Make it motivational, tying biblical truth to personal growth or community impact. 4. Completeness. Include all necessary elements (outlined below) without omissions. If information is relevant, include it succinctly rather than excluding it—err on the side of informativeness while trimming redundancy. 5. Theological Integrity. Base content on Scripture. Avoid personal opinions; cite verses directly (BSB). 6. MkDocs Optimization. Use Markdown features compatible with MkDocs, such as YAML frontmatter for metadata, admonitions (e.g., !!! note), and navigation-friendly headings. Assume MkDocs plugins like search and navigation are enabled.
+---
+
+## Phase 3: Thematic Synthesis (Defining the Core Message)
+
+**Goal:** What is the central, transferable truth?
+
+### Step 4 — Synthesize the Findings
+- Distill the passage into a **single governing idea**.
+- Express the main truth clearly and concisely.
+- Identify tensions, paradoxes, or counterintuitive elements in the text.
+
+This synthesized truth becomes the **central axis** of the lesson.
+
+---
+
+## Phase 4: Practical Connection (Bridging to Real Life)
+
+**Goal:** Why does this passage matter today?
+
+### Step 5 — Develop Illustrations & Situations
+- Create modern, relatable scenarios where the passage’s principles apply.
+- Use metaphors or illustrations that clarify (not replace) the text.
+
+### Step 6 — Formulate Applications
+- Move from principle → practice.
+- Provide concrete self-examination questions or practical frameworks.
+- Ensure applications flow directly from the passage’s main idea.
+
+---
+
+## Phase 5: Actionable Implementation (Living the Lesson)
+
+**Goal:** What should believers do in response?
+
+### Step 7 — Develop an Icebreaker
+- Use one or two questions to:
+  - Create psychological safety
+  - Encourage participation
+  - Establish relevance
+
+### Step 8 — Create Weekly Challenges
+- Provide 3–4 specific, achievable practices.
+- Balance internal heart work and external obedience.
+- Emphasize grace-driven effort, not performance.
+
+### Step 9 — Craft a Closing Prayer
+- Reflect the lesson’s key confessions, petitions, and praise.
+- Model Scripture-shaped prayer.
+
+### Step 10 — Draft the Final Lesson Document
+
+**Key Guidelines**
+
+1. **Conciseness** — Essential points only; use bullets, tables, and headings.
+2. **Clarity** — Active voice; short sentences; defined terms.
+3. **Compelling** — Story, questions, application, and calls to action.
+4. **Completeness** — Include all required elements without redundancy.
+5. **Theological Integrity** — Scripture-based, verse-cited (BSB).
+6. **MkDocs Optimization** — Use compatible Markdown features (YAML frontmatter, admonitions, structured headings).
 
 ---
 
