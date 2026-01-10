@@ -15,9 +15,9 @@ title: God's Hand in Our Calling
 
 ### Icebreaker
 
-**Option A.** "Think about a major life change you've made—like starting a new job, moving to a new city, or even getting married. What was the most exciting part of that change, and what was the scariest part of leaving your 'old life' behind?"
+**A**. "Think about a major life change you've made—like starting a new job, moving to a new city, or even getting married. What was the most exciting part of that change, and what was the scariest part of leaving your 'old life' behind?"
 
-**Option B.** "What's the biggest 'all-in' commitment you've ever made, where you knew there was no turning back? What did it feel like to take that leap?"
+**B**. "What's the biggest 'all-in' commitment you've ever made, where you knew there was no turning back? What did it feel like to take that leap?"
 
 *Elisha faced a similar moment of no-turning-back commitment. Today we'll follow him through three pivotal moments that reveal how God calls us and how we should respond.*
 
@@ -27,13 +27,15 @@ The story of Elisha's calling demonstrates a powerful, timeless truth about how 
 
 **God's call is not an invitation to debate our adequacy, but a summons to demonstrate our commitment through immediate and irreversible action.**
 
-## A Calling in Three Acts
+### Lesson Flow
 
 Elisha's journey from a wealthy farmer to God's prophet unfolds in three distinct acts, each with a memorable phase:
 
-- The Call in the Field
-- The Years of Hidden Service
-- The Confirmation at the River
+- Call in the Field
+
+- Years of Hidden Service
+
+- Confirmation at the River
 
 ## 1. Call in the Field (1 Kings 19:19-21)
 **Burn the Plow** - The moment of divine interruption and radical commitment.
@@ -47,30 +49,42 @@ Elisha's journey from a wealthy farmer to God's prophet unfolds in three distinc
     **21** So Elisha left him and went back. He took his yoke of oxen and slaughtered them. He burned the plowing equipment to cook the meat and gave it to the people, and they ate. Then he set out to follow Elijah and became his servant.
 
 ### Setting
+
 A field, representing Elisha's prosperous, secure, and successful worldly life. With twelve yoke of oxen, he was a man of significant status and wealth—this wasn't a small family farm, but a substantial agricultural operation.
 
 ### Summons
+
 Elijah's act of throwing his mantle over Elisha was a silent, symbolic summons. It was an invitation to leave behind his current identity and take up the authority, responsibility, and identity of God's prophet.
 
 ### Response
+
 Elisha's response is one of total surrender. He doesn't debate his adequacy or make excuses. *This stands in stark contrast to other biblical heroes:*
 - Moses argued, "Who am I? ... I am slow of speech."
 - Gideon protested, "My clan is the weakest... I am the least in my family."
 - Jeremiah objected, "I do not know how to speak; I am too young."
 
-*Elisha, however, did not focus on his own ability, but on the authority of the Caller.* He demonstrates his trust by slaughtering the oxen (sacrificing his wealth) and burning the plow (destroying his "Plan B"). This is his "Burn the Plow" moment—a public, costly, and irreversible commitment.
+*Elisha, however, did not focus on his own ability, but on the authority of the Caller.* He demonstrates his trust by slaughtering the oxen (sacrificing his wealth) and burning the plow (destroying his "Plan B"). This is his *Burn the Plow* moment—a public, costly, and irreversible commitment.
 
-**Symbolism of His Actions:**
-- **Slaughtering the oxen:** An irreversible break with his past—there was no going back
-- **Burning the plowing equipment:** Using his former tools to cook the meat—a complete transformation of his old life
-- **The feast:** A communal celebration blessing his household and community with the sacrifice (in ancient times, households included extended family and servants)
-- **Following Elijah as servant:** From master to servant—embracing humility as the path to greater calling
+**Symbolism of His Actions**.
 
-**Modern "Plows" We Might Need to Burn:**
+- **Slaughtering the oxen**. An irreversible break with his past—there was no going back
+
+- **Burning the plowing equipment**. Using his former tools to cook the meat—a complete transformation of his old life
+
+- **The feast**. A communal celebration blessing his household and community with the sacrifice (in ancient times, households included extended family and servants)
+
+- **Following Elijah as servant**. From master to servant—embracing humility as the path to greater calling
+
+**Modern "Plows" We Might Need to Burn**.
+
 - The comfort zone that keeps us from obeying God
+
 - The Plan B career we're keeping "just in case"
+
 - The financial safety net we're trusting more than God
+
 - The relationship that's holding us back from God's best
+
 - The reputation or status we're unwilling to risk
 
 !!! question "Discussion Question"
@@ -93,11 +107,16 @@ Elisha went from being a master to being a servant—from controlling twelve yok
 *This wasn't weeks or months—it was years of faithful service.* The text doesn't give us an exact timeline, but Elisha served Elijah through multiple significant events and ministries. The apprenticeship season can be long.
 
 ### What Elisha Was Learning
-- **Servanthood** - True leadership begins with service
-- **Obedience in small things** - Faithfulness in what seems insignificant
-- **Patient endurance** - Waiting on God's timing, not forcing his own
-- **Humility** - The contrast between his former wealth and current role as a servant
-- **Dependence on God** - Watching Elijah's faith and learning to trust God's provision
+
+- **Servanthood**. True leadership begins with service
+
+- **Obedience in small things**. Faithfulness in what seems insignificant
+
+- **Patient endurance**. Waiting on God's timing, not forcing his own
+
+- **Humility**. The contrast between his former wealth and current role as a servant
+
+- **Dependence on God**. Watching Elijah's faith and learning to trust God's provision
 
 *This echoes Jesus washing the disciples' feet—greatness in God's kingdom comes through serving others.*
 
@@ -134,7 +153,7 @@ This intense training—combining humble service with witnessing God's mighty ac
 *If you feel stuck in Act 2 right now, take heart—that's okay. Elisha was there for years. God is forging your character in the hidden places.*
 
 ## 3. Confirmation at the River (2 Kings 2:7-15)
-**Pick Up the Mantle** - Private preparation meets public confirmation.
+**Pick Up the Mantle**. Private preparation meets public confirmation.
 
 ### Setting
 The Jordan River, a place of divine transition and miraculous power—where Joshua led Israel into the Promised Land, where Naaman was healed, and now where Elisha's calling would be publicly confirmed.
@@ -175,10 +194,13 @@ Elijah responds: "You have asked a difficult thing. Nevertheless, if you see me 
 
 Suddenly, a *chariot of fire with horses of fire* appears and separates them. Elijah goes up to heaven in a whirlwind.
 
-**The Symbolism:**
-- **Fire** - A common symbol of God's presence and power (burning bush, pillar of fire, Pentecost)
-- **Chariots and horses** - The ultimate symbols of military might in the ancient world; God's "army" demonstrates His omnipotence
-- **The whirlwind** - In Canaanite religion, Baal was worshiped as the "rider of the clouds" and storm god. By taking Elijah in a whirlwind, *God demonstrates His absolute supremacy over all false gods*
+**The Symbolism**.
+
+- **Fire**. A common symbol of God's presence and power (burning bush, pillar of fire, Pentecost)
+
+- **Chariots and horses**. The ultimate symbols of military might in the ancient world; God's *army* demonstrates His omnipotence
+
+- **The whirlwind**.  In Canaanite religion, Baal was worshiped as the "rider of the clouds" and storm god. By taking Elijah in a whirlwind, *God demonstrates His absolute supremacy over all false gods*
 
 Elijah doesn't die—he is taken directly into God's presence, a profound statement of God's power over life and death.
 
@@ -197,9 +219,7 @@ The fifty prophets watching from Jericho see this miracle and immediately recogn
 
 Elisha's story provides a model for how we can respond to God's summons in our own lives—whether it's a call to a new career, a new level of integrity, or a new ministry.
 
-### Three Practical Applications
-
-#### 1. Identify Your Call. What is God's "Mantle" for You Right Now?
+### 1. Identify Your Call. What is God's "Mantle" for You Right Now?
 
 Take time this week to ask the Holy Spirit to clarify His specific call on your life in this season. Is it a call to radical **integrity** at work? Unconditional **forgiveness** in a relationship? Sacrificial **generosity**? Intentional **discipleship**? 
 
@@ -207,59 +227,71 @@ Take time this week to ask the Holy Spirit to clarify His specific call on your 
 
 Name it.
 
-#### 2. Embrace the Cost. What is Your "Plow" to Burn?
+### 2. Embrace the Cost. What is Your "Plow" to Burn?
 
 Answering God's summons requires decisively leaving something behind. Ask yourself: "What is the one comfort, habit, relationship, or source of security I need to let go of to walk forward in this calling?" 
 
 Take a concrete, irreversible step to "burn that plow." Make it public. Make it costly. Make it final.
 
-#### 3. Accept the Apprenticeship. Where is Your "School of Pouring Water"?
+### 3. Accept the Apprenticeship. Where is Your "School of Pouring Water"?
 
 Identify the daily grind in your life—the mundane, unglamorous, hidden work that feels thankless. This week, re-frame it. Instead of a burden, see it as the specific place God is forging your character and teaching you humility.
 
-**Reframing Examples:**
+**Reframing Examples**.
 - Boring commute → Time to pray and listen to God
+
 - Changing diapers → Learning patience and selfless love
+
 - Entry-level job → School of excellence and integrity
+
 - Caring for aging parents → Honoring God through sacrifice
 
 Ask God daily, "How can I be faithful in this hidden place today?"
 
-## Weekly Challenges
+## Challenges
 
 ### 1. Mantle Question (Reflection)
 Set aside 15 quiet minutes. Ask God: "What is the primary 'mantle' of obedience you are calling me to in this season?" Listen, and write down what you sense God is saying.
 
-**Supplementary Option:** Take a spiritual gifts assessment to better understand how God has equipped you. You can find one here: [Spiritual Gifts Survey](https://explorethebible.lifeway.com/wp-content/uploads/2018/03/DOC-Spiritual-Gifts-Survey.pdf)
+**Supplementary Option**. Take a spiritual gifts assessment to better understand how God has equipped you. You can find one here: [Spiritual Gifts Survey](https://explorethebible.lifeway.com/wp-content/uploads/2018/03/DOC-Spiritual-Gifts-Survey.pdf)
 
 ### 2. Plow-Burning Step (Action)
 Identify one concrete, irreversible action you can take this week to demonstrate your commitment to that call. Do it, and tell a trusted friend for accountability.
 
-**Supplementary Option:** Read about another person who left things behind to follow God (e.g., Abraham in Genesis 12, Peter and Andrew in Matthew 4, or the rich young ruler in Mark 10).
+**Supplementary Option**. Read about another person who left things behind to follow God (e.g., Abraham in Genesis 12, Peter and Andrew in Matthew 4, or the rich young ruler in Mark 10).
 
 ### 3. Water-Pouring Perspective (Attitude)
 Identify your main "grind." Each day before you begin, offer a one-sentence prayer: "God, thank you for this place of preparation. Teach me humility and faithfulness here today."
 
 ### 4. "Next Step" Action (Optional)
-**Identify:** Write down one specific area (Family, Work, Church, Community) where you believe God is inviting you to join His work right now.
+**Identify**. Write down one specific area (Family, Work, Church, Community) where you believe God is inviting you to join His work right now.
 
-**Express:** Speak with a pastor, small group leader, or trusted mentor this week about your spiritual gifts and where you see God at work, asking for opportunities to get involved.
+**Express**. Speak with a pastor, small group leader, or trusted mentor this week about your spiritual gifts and where you see God at work, asking for opportunities to get involved.
 
 ## Supplementary Discussion Questions
 
 These additional questions can deepen group discussion or personal reflection:
 
 ### On the Call (Act 1)
+
 - Who has been an example to you of obedience to God's voice?
+
 - What obstacles can prevent us from responding to God's leadership with all-in obedience?
+
 - Why do you think God often calls us when we're comfortable and successful?
+
 - What made Elisha's response so radical? What would a "safe" response have looked like?
 
 ### On the Apprenticeship (Act 2)
+
 - What makes the "apprenticeship season" so difficult? Why is it necessary?
+
 - How do we know when we're genuinely in Act 2 versus just avoiding Act 1?
+
 - What is your current "school of pouring water"?
+
 - How has God's presence made a difference as you've served Him?
+
 - What might be the consequences of trying to serve God apart from His presence?
 
 ### On the Confirmation (Act 3)
@@ -277,19 +309,30 @@ The events of 1 Kings 19 follow the climax of Elijah's ministry on Mount Carmel 
 It is there that God, after speaking to the discouraged prophet in the "still small voice," gives him three commands: anoint Hazael as king of Aram, Jehu as king of Israel, and Elisha as his own successor (1 Kings 19:9-18). The calling of Elisha happens immediately after this divine encounter.
 
 ### Cultural Notes
-- **Twelve yoke of oxen:** This indicates substantial wealth—not a small family farm but a significant agricultural operation with servants and workers
-- **The mantle/cloak:** More than clothing, it was a symbol of prophetic authority and power. The secular phrase "pass the mantle" originates from this story
-- **Kissing parents goodbye:** Not reluctance but proper respect—formal farewells were culturally important
-- **Elijah's rhetorical question:** "What have I done to you?" was his way of clarifying that the call came from God, not man. Elisha's ultimate service was to God
-- **The feast:** In ancient households (including extended family and servants), this was both farewell and celebration
-- **Sons of the prophets:** Not biological sons but members of prophetic guilds or communities studying under a senior prophet
+
+- **Twelve yoke of oxen**. This indicates substantial wealth—not a small family farm but a significant agricultural operation with servants and workers
+
+- **The mantle/cloak**. More than clothing, it was a symbol of prophetic authority and power. The secular phrase "pass the mantle" originates from this story
+
+- **Kissing parents goodbye**. Not reluctance but proper respect—formal farewells were culturally important
+
+- **Elijah's rhetorical question**. "What have I done to you?" was his way of clarifying that the call came from God, not man. Elisha's ultimate service was to God
+
+- **The feast**. In ancient households (including extended family and servants), this was both farewell and celebration
+
+- **Sons of the prophets**. Not biological sons but members of prophetic guilds or communities studying under a senior prophet
 
 ### Theological Connections
-- **Jesus' teaching:** "No one who puts a hand to the plow and looks back is fit for service in the kingdom of God" ([`Luke 9:62`](https://biblehub.com/luke/9-62.htm))
-- **Abraham's call:** Like Elisha, Abraham was called to leave his homeland and security ([`Genesis 12:1-3`](https://biblehub.com/genesis/12.htm#1))
-- **Jesus washing feet:** The apprenticeship of service echoes Jesus' teaching that greatness comes through serving ([`John 13`](https://biblehub.com/john/13.htm))
-- **Moses and the Red Sea:** The parting of the Jordan deliberately echoes the Exodus, showing continuity of God's power
-- **Firstborn inheritance:** The "double portion" ([`Deuteronomy 21:17`](https://biblehub.com/deuteronomy/21-17.htm)) was the legal right of the firstborn son
+
+- **Jesus' teaching**. "No one who puts a hand to the plow and looks back is fit for service in the kingdom of God" ([`Luke 9:62`](https://biblehub.com/luke/9-62.htm))
+
+- **Abraham's call**. Like Elisha, Abraham was called to leave his homeland and security ([`Genesis 12:1-3`](https://biblehub.com/genesis/12.htm#1))
+
+- **Jesus washing feet**. The apprenticeship of service echoes Jesus' teaching that greatness comes through serving ([`John 13`](https://biblehub.com/john/13.htm))
+
+- **Moses and the Red Sea**. The parting of the Jordan deliberately echoes the Exodus, showing continuity of God's power
+
+- **Firstborn inheritance**. The "double portion" ([`Deuteronomy 21:17`](https://biblehub.com/deuteronomy/21-17.htm)) was the legal right of the firstborn son
 
 ## Addressing Common Objections
 
