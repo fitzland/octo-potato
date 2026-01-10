@@ -88,13 +88,13 @@ John confronts superficial religion, demanding evidence of genuine transformatio
 
 ### Context & Insights
 
-While many responded genuinely to John, confessing sins and being baptized. 
+- **baptized**. Many responded genuinely to John, confessing sins and being baptized in the Jordan.
 
-- **Pharisees & Sadducees**. The arrival of the religious elite drew a scathing rebuke. By calling them *brood of vipers*, John exposed their hypocrisy, dangerous spiritual influence, and poisonous nature, warning that their self-righteousness made them targets for God's wrath. 
+- **Pharisees & Sadducees**. The religious elite drew a scathing rebuke. By calling them *brood of vipers*, John exposed their hypocrisy, dangerous spiritual influence, and poisonous nature, warning that their self-righteousness made them targets for God's wrath.
 
-- **produce fruit**. John saw past their outward religiosity to their lack of genuine inner transformation. 
+- **produce fruit**. John saw past their outward religiosity to their lack of genuine inner transformation.
 
-- **We have Abraham**. He challenges their false security in their lineage. John asserts that God is sovereign and can raise up children for Abraham from literal stones if He chooses, foreshadowing the inclusion of Gentiles into God's family through faith. 
+- **We have Abraham**. He challenges their false security in their lineage. John asserts that God is sovereign and can raise up children for Abraham from literal stones if He chooses, foreshadowing the inclusion of Gentiles into God's family through faith.
 
 True spiritual lineage comes from faith, not birth. The coming judgment is severe and imminent ("axe at the root," "thrown into the fire") for those who fail to produce "fruit in keeping with repentance"—meaning genuine repentance is not just an internal feeling, but accompanied by visible, tangible actions proving a changed heart. The "fruit" evidences a fundamentally changed life. Outward actions that demonstrate an inward change of heart.
 
