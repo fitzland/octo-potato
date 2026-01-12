@@ -2,6 +2,42 @@ site_name: fitzhugh.us
 site_description: Documentation and articles for fitzhugh.us
 site_url: https://fitzhugh.us/
 
+nav:
+  - Home: index.md
+  - 'Bible Studies':
+    - 'Elisha Series':
+      - 'Session 1: Calling': 'elisha-s01-calling-notes.md'
+      - 'Session 2: Needs': 'elisha-s02-needs-notes.md'
+      - 'Session 4: Restoration': 'elisha-s04-restoration-notes.md'
+      - 'Session 5: Opposition': 'elisha-s05-opposition-notes.md'
+    - 'Matthew 5 Series':
+      - 'Salt & Light': 'matt05-salt-light.md'
+      - 'Salt (250316)': 'matt05-250316-salt.md'
+      - 'Light (250330)': 'matt05-250330-light.md'
+      - 'Righteousness (250406)': 'matt05-250406-righteousness.md'
+      - 'Murder & Anger (250413)': 'matt05-250413-murder-anger.md'
+      - 'Adultery (250427)': 'matt05-250427-adultery.md'
+      - 'Retaliation (250518)': 'matt05-250518-retaliation.md'
+    - 'Risk Series':
+      - 'Noah: Faith & Favor': 'risk-s01-noah-faith-favor.md'
+      - 'Joshua: Faith & Obedience': 'risk-s02-joshua-faith-obedience.md'
+      - 'Rahab: Faith & Courage': 'risk-s03-rahab-faith-courage.md'
+      - 'David: Faith & Adversity': 'risk-s04-david-faith-adversity.md'
+      - 'John the Baptist: Faith & Challenges': 'risk-s05-john-baptist-faith-challenges.md'
+      - 'Stephen: Faith & Kingdom': 'risk-s06-stephen-faith-kingdom.md'
+    - "Life's Interruptions":
+      - 'Joseph': '2-lifes-interruptions-s02-joseph-notes.md'
+      - 'The Holy Spirit': '2-lifes-interruptions-s05-acts01-notes.md'
+  - 'Book Notes':
+    - 'Radical Candor': 'book-radical-candor.md'
+  - 'Technical':
+    - 'Minecraft Server Setup': 'minecraft-server-setup.md'
+    - 'MkDocs Workflow': 'web-server-mkdocs-workflow.md'
+    - 'NGINX Typo3 Setup': 'web-server-nginx-typo3-setup.md'
+  - About: about.md
+  - Contact: contact.md
+  - Tags: tags.md
+
 theme:
     name: material
     logo: assets/fitzhugh-us-logo.svg
