@@ -47,7 +47,7 @@ John the Baptist abruptly appears, proclaiming an urgent message of repentance.
 
 ### Context & Insights
 
-- **wilderness**. John emerges from the wilderness, a wild and untamed place, mirroring the untamed nature of his message. His appearance and diet echo the prophet Elijah, signaling a significant prophetic ministry, one that fulfills Isaiah's ancient prophecy (**Isaiah 40:3**).
+- **wilderness**. John emerges from the wilderness, a wild and untamed place, mirroring the untamed nature of his message. His appearance and diet echo the prophet Elijah, signaling a significant prophetic ministry, one that fulfills Isaiah's ancient prophecy (**Isaiah 40:3**). This ascetic lifestyle also represented a radical separation from worldly comforts and a complete dependence on God, reinforcing the urgency and seriousness of his message of repentance.
 
 - **repent**. His core message is simple yet profound: "Repent, for the kingdom of heaven has come near."
 
