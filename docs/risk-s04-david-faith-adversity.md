@@ -1,15 +1,15 @@
 ---
-title: David. Faith that Moves with Confidence
+title: David. Faith that Meets Adversity
 tags:
     - OT
     - HISTORY
     - 1 Samuel
     - David
     - Faith
-    - Confidence
+    - Adversity
 ---
 
-# David. Faith that Moves with Confidence
+# David. Faith that Meets Adversity
 
 [1 Samuel 17:3-8, 32-37, 45-47](https://biblehub.com/bsb/1_samuel/17.htm), BSB
 
@@ -17,9 +17,7 @@ tags:
 
 ### Icebreaker
 
-**A**. Describe the biggest challenge or *giant* you've ever had to face (in school, work, or life).
-
-**B**. What happens when you meet a major roadblock in life?
+Describe the biggest challenge or *giant* (in school, work, or life) you've ever had to face.
 
 Society says to lower the volume of the negative voice in your head and puff up your confidence by believing in yourself to grow, adapt, and improve.
 
@@ -39,7 +37,7 @@ Confident faith meets adversity head-on; it remembers God's past faithfulness, s
 
 ## 1. Paralyzing Challenge (Seeing the Giant)
 
-The enemy's challenge was designed to create fear and paralyze God's people.
+The enemy's challenge was designed to create fear and paralysis.
 
 Adversity provides the opportunity to display our faith.
 
@@ -61,7 +59,7 @@ Adversity provides the opportunity to display our faith.
 
 ### Nature of Giants
 
-> What are the characteristics of the *giants* (daunting diagnosis, financial crisis, relational conflict) we face in our lives?
+> What are the characteristics of the *giants* we face in our lives?
 
 > How does the enemy use intimidation and taunts to paralyze us today?
 
@@ -75,7 +73,7 @@ Adversity provides the opportunity to display our faith.
 
 ### Reflection (Heart)
 
-**Giant's Voice**. What specific *taunts* are you hearing from the *giant* in your life? (e.g., "You'll never beat this," "You're not good enough," "God has abandoned you.")
+> What specific *taunts* are you hearing from the *giant* in your life? (e.g., "You'll never beat this," "You're not good enough," "God has abandoned you.")
 
 *Transition*. The army saw an unbeatable giant, but a young shepherd boy, arriving on the scene, saw something else entirely.
 
@@ -111,7 +109,7 @@ David's confidence was not in himself, but was built on a history of experiencin
 
 ### Reflection (Heart)
 
-**Catalog Victories**. How has God delivered you or shown His faithfulness in the past? What are some *lions and bears* that He has defeated?
+> How has God delivered you or shown His faithfulness in the past? What are some *lions and bears* that He has defeated?
 
 *Transition*. Armed with a shepherd's tools and a warrior's confidence, David walks into the valley, not with a strategy of his own, but with a declaration of faith.
 
@@ -139,7 +137,7 @@ Confident faith confronts the enemy not with worldly weapons, but in the name an
 
 #### Common Answers
 
-**Acting on His Authority**. To act "in the name of the LORD" means to act as His representative, on His authority, and according to His will. It's a declaration that we are not acting on our own, but as agents of the King.
+**Acting on His Authority**. To act *in the name of the LORD* means to act as His representative, on His authority, and according to His will. It's a declaration that we are not acting on our own, but as agents of the King.
 
 **Accessing His Power**. It is an expression of dependence. We are admitting our inadequacy and relying completely on His power to accomplish the task.
 
@@ -147,7 +145,7 @@ Confident faith confronts the enemy not with worldly weapons, but in the name an
 
 ### Reflection (Heart)
 
-**The Battle is the LORD's**. How can you surrender your *battle* to the Lord? How can you acknowledge that the outcome is in His hands and that your role is to be a faithful participant?
+> How can you surrender your *battle* to the Lord? How can you acknowledge that the outcome is in His hands and that your role is to be a faithful participant?
 
 ## Closing
 
@@ -159,7 +157,7 @@ Confident faith confronts the enemy not with worldly weapons, but in the name an
 
 ### Challenges (Practice)
 
-**Resume of Faith**. Start a *Faithfulness Journal* this week. Each day, write down one thing God has done for you—a past victory, a recent provision, a moment of grace. Create a written record of your history with God.
+**Resume of Faith**. Start a *Faith Journal* this week. Write down one thing God has done for you—a past victory, a recent provision, a moment of grace. Create a written record of your history with God.
 
 **Re-frame Your Battle**. Consider your biggest current challenge and think of a truth from God's word that contradicts it. Begin to see the challenge not as a threat to your ability, but as an opportunity for God's power to be shown.
 

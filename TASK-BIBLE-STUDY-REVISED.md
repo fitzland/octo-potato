@@ -59,33 +59,39 @@ Lessons must avoid moralism by anchoring obedience in Christ's finished work and
 
 ---
 
-## Critical Distinction: Reflection vs. Application
+## Critical Distinction: Four Types of Lesson Prompts
 
-This lesson model maintains a sharp distinction between two types of questions:
+This lesson model maintains a sharp distinction between four types of prompts, each with a unique purpose and interaction style, designed to move a learner from understanding to action.
 
-### Reflection Questions (Heart) — During Teaching
+### 1. Discussion Questions (Mind & Community) — For Group Interaction
 
-- Placed **within** each section as you teach
-- Purpose: Help learners **think deeply** about what the text means for them personally
-- Nature: Introspective, diagnostic, exploratory
-- Examples: 
-  - "What specific *taunts* are you hearing from your *giant*?"
-  - "How has God delivered you in the past?"
-  - "What does this reveal about your view of God?"
-- These create engagement and internalization without demanding action
+- **Purpose:** To generate conversation, deepen collective understanding of the text, and explore its implications together. These questions are designed to be answered aloud and foster a shared learning environment.
+- **Nature:** Open-ended, analytical, exploratory. They ask "What?", "Why?", and "How?" about the passage's meaning. They should be high-impact, getting to the core of the passage's message.
+- **Interaction:** Asked aloud with the clear expectation of group participation and discussion.
+- **Placement:** Placed within each major teaching section to unpack the text as you go.
 
-### Application Questions (Will) — In the Closing
+### 2. Reflection Questions (Heart) — For Personal, Silent Introspection
 
-- Placed **only** in the Closing section
-- Purpose: Call learners to **concrete action** in response to the truth
-- Nature: Decisional, behavioral, practical
-- Examples:
-  - "Are you ready to confront your giant in the name of the LORD?"
-  - "Start a Faithfulness Journal this week"
-  - "Memorize this verse and recite it when fear strikes"
-- These demand response and obedience
+- **Purpose:** To guide learners in privately examining their own hearts, beliefs, and attitudes in light of God's truth. The goal is honest self-assessment before God, free from the pressure of group performance or what others might think.
+- **Nature:** Introspective, diagnostic, and personal. Often labeled with `(Heart)`.
+- **Interaction:** Asked aloud by the teacher, but explicitly framed as a question for silent thought. The teacher should create a deliberate pause and state that no verbal answer is expected.
+- **Placement:** Typically at the end of a teaching section to allow the truth to penetrate personally before moving on.
 
-**Why This Matters:** Reflection builds conviction during teaching; application channels that conviction into obedience at the end. Mixing them diffuses focus and diminishes impact.
+### 3. Decision Questions (Will) — For Personal Commitment
+
+- **Purpose:** To call learners to make a fundamental, internal choice or commitment in response to the lesson's truth. This is about deciding to align one's will with God's.
+- **Nature:** Focuses on heart posture and fundamental choices, not specific behaviors. Often phrased as "Will you...?" or "Are you ready to...?"
+- **Interaction:** Primarily rhetorical questions calling for an internal, personal commitment.
+- **Placement:** Placed **only** in the `Closing` section.
+
+### 4. Application Challenges (Practice) — For Concrete Action
+
+- **Purpose:** To provide specific, achievable actions that learners can do during the week *as a result of* the decision they have made.
+- **Nature:** Behavioral, practical, "to-do" items that flow directly from the lesson.
+- **Interaction:** Presented as clear, actionable steps for the week ahead.
+- **Placement:** Placed **only** in the `Closing` section, ideally following the Decision questions.
+
+**Why This Matters:** This progression is intentional. **Discussion** builds shared understanding, **Reflection** allows for personal conviction, **Decision** sets the will, and **Application** channels that will into obedient action. Mixing them diffuses focus and diminishes impact.
 
 ---
 
