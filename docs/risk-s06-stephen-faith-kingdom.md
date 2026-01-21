@@ -75,7 +75,7 @@ The early church faced a growing problem: the Hellenist (Greek-speaking) widows 
 
 ### Context & Insights
 
-Verse 7 serves as a powerful summary and bridge, highlighting the immediate and dramatic result of the apostles' wise decision and the Spirit-filled service of the seven. When practical needs are met and leaders are empowered, the "word of God spread" and the church experienced explosive growth. Significantly, "a large number of priests became obedient to the faith"—a remarkable detail, given their conservative nature and entrenched positions, underscoring the profound impact of the early church's Spirit-led ministry. This demonstrates that effective, holistic ministry leads to God's blessing and kingdom expansion.
+Verse 7 serves as a powerful summary and bridge, highlighting the immediate and dramatic result of the apostles' wise decision and the Spirit-filled service of the seven. When practical needs are met and leaders are empowered, the "word of God spread" and the church experienced explosive growth. Significantly, "a large number of priests became obedient to the faith"—a remarkable detail, given their conservative nature and entrenched positions, underscoring the profound impact of the early church's Spirit-led ministry. This demonstrates that effective, holistic ministry leads to God's blessing and kingdom expansion. When internal conflicts are resolved wisely, the church is strengthened and better prepared to face external opposition, often leading to even greater kingdom advancement.
 
 ### Advancing the Kingdom
 > This verse highlights both numerical growth ("disciples... increased significantly") and the conversion of priests. What does this tell us about how bold, Spirit-led ministry advances the kingdom by overcoming social and religious barriers?
@@ -114,9 +114,13 @@ Stephen, though initially chosen for "serving tables," quickly demonstrated a po
 
 - **Angelic Face (v. 15)**. This detail recalls the radiance of Moses after encountering God (Exodus 34:29-35), signifying God's intimate presence and peace with Stephen even while under intense pressure.
 
+- **Gamaliel's Warning (Acts 5:38-39)**. Just prior to Stephen's arrest, Gamaliel, a respected Pharisee, warned the Sanhedrin: "If their purpose or activity is of human origin, it will fail. But if it is from God, you will not be able to stop these men; you will only find yourselves fighting against God." Stephen's trial tragically demonstrates their disregard for this profound wisdom.
+
 ### The Cost of Boldness
 
 > 1. Stephen's Spirit-filled wisdom was so effective that his opponents couldn't refute him and resorted to slander. When has speaking truth (at work, in your family, or in the community) led to unexpected resistance or misunderstanding?
+>
+> 2. Should faith be kept a private matter to avoid offense? How does Stephen's example challenge our modern assumptions about this?
 >
 > 2. Stephen's "face like the face of an angel" suggests a supernatural peace even while under attack. How can we cultivate a character that relies on God's presence for peace instead of reacting with fear or anger when our faith is challenged?
 
@@ -128,12 +132,12 @@ Stephen, though initially chosen for "serving tables," quickly demonstrated a po
 ## Closing
 
 ### Reflection
-> Stephen's story is a powerful reminder that a bold faith advances God's kingdom. His life shows that Spirit-led service, even when it starts in ordinary ways, can lead to an extraordinary and unstoppable witness. It calls us to embrace the risk of faithful obedience, knowing that even in the fiercest opposition, God's grace empowers us and His presence shines through us.
+> Stephen's story is a powerful reminder that a bold faith advances God's kingdom. His life shows that Spirit-led service, even when it starts in ordinary ways and with seemingly small tasks, can lead to an extraordinary and unstoppable witness. God often uses our faithfulness in little things to prepare us for greater impact. It calls us to embrace the risk of faithful obedience, knowing that even in the fiercest opposition, God's grace empowers us and His presence shines through us.
 
 ### Decision (Will)
 > Stephen's faith was not passive; it was active and bold. As you consider his example, what is your next step of faith?
 >
-> - **Will you embrace the small start?** Like Stephen, are you willing to serve faithfully in the "ordinary" roles, trusting God to use them as a launchpad for kingdom impact?
+> - **Will you embrace faithfulness in the small things?** Like Stephen, are you willing to serve faithfully in the "ordinary" roles, trusting God to use them as a launchpad for greater kingdom impact?
 > - **Will you reclaim your voice?** If opposition has silenced you, will you ask the Spirit to re-empower you to speak truth with wisdom and courage once again?
 > - **Will you take the first risk?** If you have been hesitant on the sidelines, will you trust God and take one concrete step of faith to advance His kingdom, even if it feels risky?
 
