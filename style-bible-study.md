@@ -11,7 +11,7 @@ Follow a strict hierarchical structure for headings. **Never skip levels** (e.g.
 -   `#` (H1): The main lesson title.
 -   `##` (H2): Major sections (e.g., `## 1. Section Title`), `## Introduction`, and the `## Closing` section.
 -   `###` (H3): Subsections like `### Icebreaker`, `### Core Message`, `### Scripture...`, `### Discussion`, and `### Reflection (Heart)`.
--   `####` (H4): Used only for `#### Common Answers` subsections.
+-   `####` (H4): Not currently used.
 
 ---
 
@@ -38,19 +38,19 @@ Scripture passages **within** each lesson section **must not** use `!!! quote` a
 
 There are four distinct types of prompts. They **must not** use `!!! question` admonitions or other complex formatting.
 
-### Discussion Questions
+### Topical Discussion Questions
 
--   Use a descriptive Level 3 heading that states the topic of the question (e.g., `### Nature of Giants`).
+Each discussion prompt should be under its own descriptive, topical Level 3 heading. **Do not** use a generic heading like `### Discussion Questions`. The heading should summarize the specific theme of the question.
+
+-   Use a descriptive `###` heading that states the topic (e.g., `### Nature of Giants`, `### Equal Standing`).
 -   Place the question(s) inside a markdown blockquote (`>`).
--   If providing anticipated answers, use a `#### Common Answers` subheading.
+-   Anticipated answers should follow the question as a list of bolded phrases followed by the explanation.
 
 **Example:**
 ```markdown
 ### Nature of Giants
 
 > How did David's private faithfulness in the pasture prepare him for his public battle in the valley?
-
-#### Common Answers
 
 **Private Victories, Public Confidence**. God often tests and proves our faith in small, private battles before He calls us to larger, public ones.
 ```

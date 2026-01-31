@@ -86,29 +86,31 @@ God has already provided us with everything we need to live a life that reflects
 
 > Peter says we have obtained a *faith of equal standing* through Christ's righteousness. What implications does this have for how we view ourselves and other believers within the church?
 
-- **No Spiritual Hierarchy**. There's no *upper class* of super-spiritual Christians. The newest believer has the same access to God, the same standing before Him, and the same precious faith as the most mature saint or even the apostles themselves. This should eliminate spiritual pride.
+**No Spiritual Hierarchy**. There's no *upper class* of super-spiritual Christians. The newest believer has the same access to God, the same standing before Him, and the same precious faith as the most mature saint or even the apostles themselves. This should eliminate spiritual pride.
 
-- **Encouragement in Our Own Standing**. We don't need to feel inferior or compare ourselves to others. Our faith isn't second-rate or less valuable than anyone else's. We have direct access to God and everything we need for life and godliness, just like every other believer.
+**Encouragement in Our Own Standing**. We don't need to feel inferior or compare ourselves to others. Our faith isn't second-rate or less valuable than anyone else's. We have direct access to God and everything we need for life and godliness, just like every other believer.
 
-- **Unity Across Differences**. Whether we're young or old, rich or poor, educated or uneducated, from different ethnic backgrounds or church traditions—we all share equally in this faith. Our unity is based on Christ's righteousness, not our own achievements or backgrounds.
+**Unity Across Differences**. Whether we're young or old, rich or poor, educated or uneducated, from different ethnic backgrounds or church traditions—we all share equally in this faith. Our unity is based on Christ's righteousness, not our own achievements or backgrounds.
 
-- **Mutual Respect and Humility**. We should treat every believer with dignity and respect, recognizing that God has given them the same precious gift He's given us. No believer should be dismissed, marginalized, or treated as "less than" because we all stand on equal ground at the cross.
+**Mutual Respect and Humility**. We should treat every believer with dignity and respect, recognizing that God has given them the same precious gift He's given us. No believer should be dismissed, marginalized, or treated as "less than" because we all stand on equal ground at the cross.
+
+### God's Promises
 
 > Verses 3-4 speak of God's *divine power* and *precious and very great promises* that enable us to live a godly life and become partakers of the divine nature. What specific promises of God encourage you most in your pursuit of a Christlike character?
 
-- **"I will never leave you nor forsake you" (Hebrews 13:5)**. God's constant presence means we're never alone in our struggle to grow. He's with us in every moment of temptation, every failure, and every small victory.
+**"I will never leave you nor forsake you" (Hebrews 13:5)**. God's constant presence means we're never alone in our struggle to grow. He's with us in every moment of temptation, every failure, and every small victory.
 
-- **"My grace is sufficient for you, for my power is made perfect in weakness" (2 Corinthians 12:9)**. We don't have to be strong enough on our own. God's grace meets us exactly where we are, and His power works best through our weaknesses.
+**"My grace is sufficient for you, for my power is made perfect in weakness" (2 Corinthians 12:9)**. We don't have to be strong enough on our own. God's grace meets us exactly where we are, and His power works best through our weaknesses.
 
-- **"He who began a good work in you will carry it on to completion" (Philippians 1:6)**. God finishes what He starts. Our spiritual growth isn't dependent on our ability to maintain momentum—God Himself is committed to completing the work He began in us.
+**"He who began a good work in you will carry it on to completion" (Philippians 1:6)**. God finishes what He starts. Our spiritual growth isn't dependent on our ability to maintain momentum—God Himself is committed to completing the work He began in us.
 
-- **"If we confess our sins, he is faithful and just to forgive us" (1 John 1:9)**. When we fail (and we will), we have immediate access to forgiveness and cleansing. We don't have to wallow in guilt or give up—we can confess, receive forgiveness, and continue growing.
+**"If we confess our sins, he is faithful and just to forgive us" (1 John 1:9)**. When we fail (and we will), we have immediate access to forgiveness and cleansing. We don't have to wallow in guilt or give up—we can confess, receive forgiveness, and continue growing.
 
-- **"No temptation has overtaken you except what is common to mankind... God will provide a way out" (1 Corinthians 10:13)**. We're not alone in our struggles, and God always provides an escape route from temptation. Character growth is possible because God makes it possible.
+**"No temptation has overtaken you except what is common to mankind... God will provide a way out" (1 Corinthians 10:13)**. We're not alone in our struggles, and God always provides an escape route from temptation. Character growth is possible because God makes it possible.
 
 ### Reflection (Heart)
 
-**Self-Assessment**. Do I truly believe that God has granted me "all things that pertain to life and godliness"? Or do I often feel that I lack the resources or ability to live the Christian life?
+> **Self-Assessment**. Do I truly believe that God has granted me "all things that pertain to life and godliness"? Or do I often feel that I lack the resources or ability to live the Christian life?
 
 *Transition*. God has done His part, granting us everything needed for life and godliness through His power and promises. But Peter doesn't stop there; he immediately calls us to actively respond to this divine provision.
 
@@ -142,32 +144,32 @@ Our active pursuit of Christlike virtues leads to a fruitful and impactful spiri
 
 > Peter urges us to "make every effort to supplement your faith with virtue." In what specific areas of your life do you feel the need to "make every effort" to cultivate these virtues right now?
 
-- **Self-Control** - Perhaps with eating habits, screen time, spending, anger, or words spoken in frustration. Many struggle with mastering desires and impulses in our instant-gratification culture.
+**Self-Control**. Perhaps with eating habits, screen time, spending, anger, or words spoken in frustration. Many struggle with mastering desires and impulses in our instant-gratification culture.
 
-- **Steadfastness/Perseverance** - Enduring through a difficult work situation, health challenges, relational conflict, or financial pressure without giving up or compromising faith.
+**Steadfastness/Perseverance**. Enduring through a difficult work situation, health challenges, relational conflict, or financial pressure without giving up or compromising faith.
 
-- **Brotherly Affection** - Showing genuine family-like care for believers who are different from us, difficult to love, or outside our natural social circle.
+**Brotherly Affection**. Showing genuine family-like care for believers who are different from us, difficult to love, or outside our natural social circle.
 
-- **Knowledge** - Growing in practical wisdom for decision-making, parenting, navigating cultural issues, or discerning truth from error in a confusing world.
+**Knowledge**. Growing in practical wisdom for decision-making, parenting, navigating cultural issues, or discerning truth from error in a confusing world.
 
 ### How Virtues Build
 > The list of virtues culminates in "love." How does growing in the preceding virtues (knowledge, self-control, steadfastness, godliness, brotherly affection) prepare us to truly live out agape love?
 
-- **Knowledge provides direction** - We need wisdom to know *how* to love well. Without knowledge, our "love" might actually enable sin or avoid difficult truth. Knowledge helps us love in ways that genuinely help others.
+**Knowledge provides direction**. We need wisdom to know *how* to love well. Without knowledge, our "love" might actually enable sin or avoid difficult truth. Knowledge helps us love in ways that genuinely help others.
 
-- **Self-control enables sacrifice** - Agape love requires putting others first, which demands self-control over our own preferences, convenience, and comfort. Without self-control, "love" becomes conditional—only when it's easy.
+**Self-control enables sacrifice**. Agape love requires putting others first, which demands self-control over our own preferences, convenience, and comfort. Without self-control, "love" becomes conditional—only when it's easy.
 
-- **Steadfastness makes love enduring** - Real love doesn't quit when it gets hard. Steadfastness trains us to keep loving through disappointment, betrayal, or when love isn't returned. It makes our love reliable and trustworthy.
+**Steadfastness makes love enduring**. Real love doesn't quit when it gets hard. Steadfastness trains us to keep loving through disappointment, betrayal, or when love isn't returned. It makes our love reliable and trustworthy.
 
-- **Godliness keeps love God-centered** - Without godliness, our "love" can become people-pleasing or codependency. Godliness ensures our love flows from reverence for God and seeks what honors Him, not just what makes others happy.
+**Godliness keeps love God-centered**. Without godliness, our "love" can become people-pleasing or codependency. Godliness ensures our love flows from reverence for God and seeks what honors Him, not just what makes others happy.
 
-- **Brotherly affection makes love personal** - Philadelphia (family love) teaches us to see believers as true brothers and sisters. This familial bond prepares us to extend agape even to those outside the family—because we've learned to love sacrificially within it first.
+**Brotherly affection makes love personal**. Philadelphia (family love) teaches us to see believers as true brothers and sisters. This familial bond prepares us to extend agape even to those outside the family—because we've learned to love sacrificially within it first.
 
-- **The virtues together create mature love** - Each virtue addresses a different weakness in our natural attempts to love. Together, they mature us into people capable of the kind of love Christ demonstrated—wise, sacrificial, enduring, God-honoring, and unconditional.
+**The virtues together create mature love**. Each virtue addresses a different weakness in our natural attempts to love. Together, they mature us into people capable of the kind of love Christ demonstrated—wise, sacrificial, enduring, God-honoring, and unconditional.
 
 ### Reflection (Heart)
 
-**Personal Growth Audit**. Looking at Peter's list of virtues, which one do I find most challenging to grow in, and why? What might be hindering my progress in that area?
+> **Personal Growth Audit**. Looking at Peter's list of virtues, which one do I find most challenging to grow in, and why? What might be hindering my progress in that area?
 
 *Transition*. We've seen the call to diligent effort in developing Christlike character, and the promise that such growth prevents ineffectiveness. But Peter also warns of the spiritual dangers of neglecting this pursuit, impacting our assurance and witness.
 
@@ -189,39 +191,37 @@ A life marked by Christlike character is a visible testament to our transformed 
 
 -   **A Rich Entrance into the Eternal Kingdom**. The ultimate promise for those who diligently pursue Christlike character is a "richly provided... entrance into the eternal kingdom." The Greek word *plousios* (πλουσίως) means "richly," "abundantly," or "lavishly." This speaks of an abundant and honored welcome, not merely a barely-there admission. It's not barely squeezing into heaven, but an abundant, honored, royal welcome—like a victorious athlete entering the stadium to thunderous applause, or a beloved child welcomed home by a father running to embrace them. This is the full experience of salvation and reward for a life lived faithfully in response to God's grace. It signifies that living a life of godly character has eternal consequences and rewards.
 
-### Discussion Questions
+### Spiritual Nearsightedness
 
 > Peter states that those who lack these qualities are "nearsighted" and have "forgotten that he was cleansed from his former sins." What are some ways a believer might practically "forget" their cleansing or become spiritually nearsighted in today's world?
 
-#### Common Answers
+**Getting Comfortable with Sin**. When we stop being grieved by our own sin or amazed by grace, we've forgotten how lost we once were and how much we've been forgiven. We begin to treat grace casually.
 
-- **Getting Comfortable with Sin** - When we stop being grieved by our own sin or amazed by grace, we've forgotten how lost we once were and how much we've been forgiven. We begin to treat grace casually.
+**Living for Immediate Gratification**. Spiritual nearsightedness is focusing only on what's right in front of us—comfort, pleasure, success, reputation—while losing sight of eternity and God's purposes. We can see this week but not the eternal kingdom.
 
-- **Living for Immediate Gratification** - Spiritual nearsightedness is focusing only on what's right in front of us—comfort, pleasure, success, reputation—while losing sight of eternity and God's purposes. We can see this week but not the eternal kingdom.
+**Comparing Ourselves to Others**. When we measure our spirituality by how we stack up against other people rather than against Christ's standard, we forget that we all equally needed cleansing. Pride creeps in.
 
-- **Comparing Ourselves to Others** - When we measure our spirituality by how we stack up against other people rather than against Christ's standard, we forget that we all equally needed cleansing. Pride creeps in.
+**Neglecting Spiritual Disciplines**. When we stop regularly engaging with Scripture, prayer, and worship, we lose perspective on who God is and who we were without Him. The memory of our cleansing fades.
 
-- **Neglecting Spiritual Disciplines** - When we stop regularly engaging with Scripture, prayer, and worship, we lose perspective on who God is and who we were without Him. The memory of our cleansing fades.
+**Focusing on External Religion**. Going through religious motions without heart transformation makes us forget that Christianity is about being cleansed and made new, not just performing religious duties.
 
-- **Focusing on External Religion** - Going through religious motions without heart transformation makes us forget that Christianity is about being cleansed and made new, not just performing religious duties.
+### Confirming Your Calling
 
 > How does diligently growing in Christlike character "confirm your calling and election" without implying that we earn our salvation? What does this mean for our assurance of salvation?
 
-#### Common Answers
+**Evidence, Not Earning**. Our character doesn't *cause* our salvation, but it *confirms* it. Just as smoke confirms fire (without causing it), growing Christlike character confirms God's saving work in us. We're not earning salvation; we're demonstrating that salvation has truly occurred.
 
-- **Evidence, Not Earning** - Our character doesn't *cause* our salvation, but it *confirms* it. Just as smoke confirms fire (without causing it), growing Christlike character confirms God's saving work in us. We're not earning salvation; we're demonstrating that salvation has truly occurred.
+**Assurance Through Fruit**. When we see ourselves growing in these virtues, it gives us confidence that God is genuinely at work in our lives. It's the difference between wondering "Am I really saved?" and knowing "Yes, because I can see God changing me."
 
-- **Assurance Through Fruit** - When we see ourselves growing in these virtues, it gives us confidence that God is genuinely at work in our lives. It's the difference between wondering "Am I really saved?" and knowing "Yes, because I can see God changing me."
+**Witness to Others**. Our character confirms our calling not just to ourselves but to the watching world. When people see authentic transformation—real love, self-control, godliness—it testifies that our faith is genuine, not just empty words.
 
-- **Witness to Others** - Our character confirms our calling not just to ourselves but to the watching world. When people see authentic transformation—real love, self-control, godliness—it testifies that our faith is genuine, not just empty words.
+**The Difference Between Root and Fruit**. Faith is the root (how we're saved); character is the fruit (evidence we're saved). We don't produce fruit to become a tree, but healthy trees naturally produce fruit. No fruit raises questions about the health of the root.
 
-- **The Difference Between Root and Fruit** - Faith is the root (how we're saved); character is the fruit (evidence we're saved). We don't produce fruit to become a tree, but healthy trees naturally produce fruit. No fruit raises questions about the health of the root.
-
-- **God's Part and Our Part** - God does the saving and provides everything we need (Section 1). Our diligent pursuit of character (Section 2) demonstrates we've truly received what God has given. Our effort doesn't save us; it shows we're saved.
+**God's Part and Our Part**. God does the saving and provides everything we need (Section 1). Our diligent pursuit of character (Section 2) demonstrates we've truly received what God has given. Our effort doesn't save us; it shows we're saved.
 
 ### Reflection (Heart)
 
-**Honest Assessment**. Am I demonstrating the kind of Christlike character that confirms my calling and election to those around me? What changes do I need to make to ensure my life points clearly to my relationship with Christ?
+> **Honest Assessment**. Am I demonstrating the kind of Christlike character that confirms my calling and election to those around me? What changes do I need to make to ensure my life points clearly to my relationship with Christ?
 
 ## Closing
 
@@ -233,13 +233,13 @@ A life marked by Christlike character is a visible testament to our transformed 
 
 ### Challenges (Practice)
 
-**Daily Virtue Check**. Each day this week, reflect on one of the virtues from 2 Peter 1:5-7. Pray for God's help to grow in it, and identify a specific opportunity to practice it in your interactions or decisions.
+1. **Daily Virtue Check**. Each day this week, reflect on one of the virtues from 2 Peter 1:5-7. Pray for God's help to grow in it, and identify a specific opportunity to practice it in your interactions or decisions.
 
-**Promise Application**. Choose one of God's "precious and very great promises" (v. 4) that resonates with you. Write it down, meditate on it daily, and consider how believing that promise empowers you to escape worldly corruption and pursue godliness.
+2. **Promise Application**. Choose one of God's "precious and very great promises" (v. 4) that resonates with you. Write it down, meditate on it daily, and consider how believing that promise empowers you to escape worldly corruption and pursue godliness.
 
-**Spiritual Vision Check**. Take time this week to review the account of your salvation. Thank God for cleansing you from your former sins and reflect on how your life has changed since then. This can help counter any spiritual "nearsightedness."
+3. **Spiritual Vision Check**. Take time this week to review the account of your salvation. Thank God for cleansing you from your former sins and reflect on how your life has changed since then. This can help counter any spiritual "nearsightedness."
 
-**Memory Verse**. Memorize 2 Peter 1:3 – "His divine power has granted to us all things that pertain to life and godliness, through the knowledge of Him who called us to His own glory and excellence."
+4. **Memory Verse**. Memorize 2 Peter 1:3 – "His divine power has granted to us all things that pertain to life and godliness, through the knowledge of Him who called us to His own glory and excellence."
 
 ### Prayer
 

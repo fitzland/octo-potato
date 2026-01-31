@@ -182,7 +182,6 @@ For each of your 2-4 major sections, develop:
 **Discussion Questions**
 - Create 1-2 open-ended questions that explore the meaning and implications of the text
 - These should deepen understanding and generate conversation
-- May include "Common Answers" subsection with anticipated responses
 
 **Reflection (Heart)**
 - Include 1-2 personal, introspective questions
@@ -326,8 +325,6 @@ tags:
 > [Exploratory question about meaning/implications]
 
 > [Optional follow-up question]
-
-#### Common Answers
 
 [Anticipated responses with brief development. Use bold labels for each answer.]
 

@@ -46,7 +46,6 @@ tags: [OT/NT, Book, Theme, Character, Doctrine]
 
 > [Follow-up question]
 
-#### Common Answers
 [Anticipated responses with brief development]
 
 ### Reflection (Heart)
