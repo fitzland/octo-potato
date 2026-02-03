@@ -178,10 +178,12 @@ For each of your 2-4 major sections, develop:
   - Use bold labels for each insight point
   - Include brief illustrations or metaphors that clarify meaning
   - Keep explanations concise and accessible
+  - **Crucially, avoid direct duplication of ideas or information that will be explored in the Discussion Questions. Context & Insights should provide the foundational understanding, while Discussion Questions prompt deeper engagement *with* that understanding.**
 
 **Discussion Questions**
 - Create 1-2 open-ended questions that explore the meaning and implications of the text
 - These should deepen understanding and generate conversation
+- **Ensure these questions are distinct from the explicit points covered in "Context & Insights," prompting fresh thought rather than merely reiterating.**
 
 **Reflection (Heart)**
 - Include 1-2 personal, introspective questions

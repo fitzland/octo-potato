@@ -40,9 +40,9 @@ There are four distinct types of prompts. They **must not** use `!!! question` a
 
 ### Topical Discussion Questions
 
-Each discussion prompt should be under its own descriptive, topical Level 3 heading. **Do not** use a generic heading like `### Discussion Questions`. The heading should summarize the specific theme of the question.
+Each discussion prompt should be under its own descriptive, topical Level 3 heading.
 
--   Use a descriptive `###` heading that states the topic (e.g., `### Nature of Giants`, `### Equal Standing`).
+-   Use a descriptive `###` heading that states the topic in the format `### Topic (Discussion:Mind)` (e.g., `### Nature of Giants (Discussion:Mind)`, `### Equal Standing (Discussion:Mind)`).
 -   Place the question(s) inside a markdown blockquote (`>`).
 -   Anticipated answers should follow the question as a list of bolded phrases followed by the explanation.
 
