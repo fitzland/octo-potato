@@ -38,7 +38,7 @@ Scripture passages **within** each lesson section **must not** use `!!! quote` a
 
 There are four distinct types of prompts. They **must not** use `!!! question` admonitions or other complex formatting.
 
-### Topical Discussion Questions
+### Discussion Questions
 
 Each discussion prompt should be under its own descriptive, topical Level 3 heading.
 
@@ -48,26 +48,26 @@ Each discussion prompt should be under its own descriptive, topical Level 3 head
 
 **Example:**
 ```markdown
-### Nature of Giants
+### Nature of Giants (Discussion:Mind)
 
 > How did David's private faithfulness in the pasture prepare him for his public battle in the valley?
 
 **Private Victories, Public Confidence**. God often tests and proves our faith in small, private battles before He calls us to larger, public ones.
 ```
 
-### Reflection (Heart) Questions
+### Reflection Questions
 
--   Use a `### Reflection (Heart)` heading.
+-   Use a descriptive `###` headning that states the topic in the format `### Topic (Reflection:Heart)` (e.g., `### Personal Audit (Reflection:Heart)`).
 -   Place the question directly below the heading in a blockquote.
 
 **Example:**
 ```markdown
-### Reflection (Heart)
+### Personal Audit (Reflection:Heart)
 
 > How has God delivered you or shown His faithfulness in the past? What are some *lions and bears* that He has defeated?
 ```
 
-### Decision (Will) Questions
+### Decision Questions
 
 -   Use a `### Decision (Will)` heading.
 -   Present questions as a bulleted list. Each question should be a bolded phrase or sentence.
