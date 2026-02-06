@@ -15,133 +15,196 @@ Philippians 2:1-11, BSB
 
 ### Icebreaker
 
-**A**. Think about a time you witnessed someone genuinely putting the needs of others before their own, even when it was difficult. What impact did that have on you?
+How do you see a *ME FIRST* attitude manifesting in today's culture, media, or even in daily interactions?
 
-**B**. How do you see a “me first” attitude manifesting in today's culture, media, or even in daily interactions?
+Here are some examples:
+
+- Slogans like *You deserve it* and *Have it your way*.
+
+- US vs. THEM—winning arguments over understanding or unity.
+
+- People waiting for their turn to talk rather than listening.
+
+- Refusing tasks deemed *beneath* a person's position or title.
+
+- Aggressive driving, cutting others off, or refusing to let others merge.
+
+- Keeping score in conflicts.
+
+Given how pervasive *ME FIRST* attitudes are, what would it look like to live in a way that genuinely considers others first?
 
 ### Core Message
 
-Consider the needs of others before your own, reflecting the sacrificial humility of Christ.
+Consider and prioritize the needs of others, reflecting the sacrificial humility of Christ.
 
 ### Lesson Flow
 
-1. [**Love Lays the Groundwork for Humility**](#1-love-lays-the-groundwork-for-humility)
-2. [**Love Leads Us to Humbly Serve Others**](#2-love-leads-us-to-humbly-serve-others)
-3. [**Follow the Example of Jesus in Displaying Humility**](#3-follow-the-example-of-jesus-in-displaying-humility)
+1. [**Love Lays the Groundwork**]
+2. [**Love Leads to Humble Service**]
+3. [**Jesus' Example of Humility**]
 
-## 1. Love Lays the Groundwork for Humility
+## 1. Love Lays the Groundwork 
 
-Humility is not merely an act but a posture of the heart, deeply rooted in the love and unity we share in Christ. Before we can genuinely serve others, our internal landscape must be aligned with God's Spirit.
+We just talked about *ME FIRST* attitudes in our culture. It’s easy to slip into that mode when we feel *insecure*, *overlooked*, or like we have to *fight for our place*. 
+
+Paul points us to a completely different starting point—not our lack, but what we already have in Christ.
+
+### Past Experience (Discussion:Mind)
+
+> Think for a moment: When have you felt deeply encouraged, comforted, or genuinely loved? 
+
+> How did that experience change your attitude toward others? Did it make you more open, more patient, more willing to listen?
+
+[Allow sharing and then read the passage.]
 
 ### Philippians 2:1-2, BSB
 
-> **1** If therefore there is any encouragement in Christ, if any comfort from love, if any fellowship in the Spirit, if any affection and compassion, **2** make my joy complete by being of the same mind, having the same love, being in full accord and of one mind.
+> **1** ﻿Therefore if you have any encouragement in Christ, if any comfort from His love, if any fellowship with the Spirit, if any affection and compassion, **2** ﻿then make my joy complete by being like-minded, having the same love, being united in spirit and purpose. 
 
-### Context & Insights
+### Spiritual Realities (Discussion:Mind)
 
-- **Any Encouragement in Christ**. Paul uses a series of "if" clauses not to imply doubt, but to emphasize the profound realities of Christian experience: the comfort found in Christ, the motivation from God’s love, the shared life in the Holy Spirit, and the tender mercies we receive from Him. These are the *foundations* for humility.
-- **Make My Joy Complete**. Paul's deepest desire for the Philippian believers was not for personal gain, but for their spiritual unity and maturity. Their unified love and shared purpose would bring him profound joy, echoing Christ's own joy in His disciples' unity.
-- **Same Mind, Same Love, Full Accord, One Mind**. This isn't a call for uniformity of opinion on every minor issue, but a unity of purpose, affection, and perspective rooted in Christ. It's about a shared commitment to gospel values and a common goal, even amidst diverse gifts and personalities.
-    - **Illustration**: Imagine an orchestra. Each musician plays a different instrument and reads different notes, but they are all united by the conductor's vision and the single musical piece they are performing. Their individual contributions create a harmonious whole.
+Paul uses a series of *IF clauses* (these do not imply doubt) to emphasize four gifts from God that every believer has:
 
-### Unity in Christ (Discussion:Mind)
+- **Encouragement in Christ**. I'm not alone. My union with Christ gives me strength and belonging.
+- **Comfort in Love**. I'm loved despite my unworthiness. 
+- **Fellowship with Spirit**. I'm rightly aligned with God's will. United to Christ and to each other.
+- **Affection & Compassion**. I feel the divine tenderness coming from God; this flows from us towards others.
 
-> Paul outlines several spiritual realities (encouragement in Christ, comfort from love, fellowship in the Spirit, affection, compassion) as the basis for unity. How do these realities foster a mindset of unity and humble service?
+> If we’re secure in Christ’s love, united by His Spirit, and objects of God’s affection—how should that shape the way we relate to other believers?
 
-**Shared Experience**. These shared spiritual experiences bind believers together, reminding them that they are part of something larger than themselves and dependent on God.
+> OR, put another way, when you know you’re fully loved and secure, what happens to your need to prove yourself, defend your position, or put yourself first? 
 
-**Motivation for Others**. The love and compassion received from Christ compels believers to extend that same love and compassion to others.
-
-### Personal Reflection (Reflection:Heart)
-
-> Where in your life or relationships are you most prone to division or a "my way" attitude, and how might remembering these spiritual realities reorient your heart towards unity?
+[Allow responses]
 
 *Transition*. With a foundation of love and unity, Paul now guides us toward the practical outworking of humility in our daily interactions.
 
-## 2. Love Leads Us to Humbly Serve Others
+## 2. Love Leads to Humble Service
 
-Humility moves beyond mere thought; it demands action. It challenges our inherent self-centeredness, urging us to consider the well-being and perspectives of others as highly as—or even more highly than—our own.
+If we’re secure in Christ’s love, we no longer have to build our own security by putting ourselves first. So what does that look like in real life? Paul gives us two clear commands.
 
 ### Philippians 2:3-4, BSB
 
-> **3** Do nothing from selfish ambition or empty conceit, but with humility of mind consider others more significant than yourselves. **4** Do not merely look out for your own personal interests, but also for the interests of others.
+> **3** ﻿Do nothing out of selfish ambition or empty pride, but in humility consider others more important than yourselves. **4** ﻿Each of you should look not only to your own interests, but also to the interests of others. 
 
-### Context & Insights
+### What Humility Is Not (Discussion:Mind)
 
-- **Selfish Ambition or Empty Conceit**. Paul directly confronts two powerful motivators of human behavior: the desire for personal advancement or recognition (`selfish ambition`) and an inflated sense of self-importance (`empty conceit`). These are the antitheses of humility and destroy unity.
-    - **Illustration**: Think of a team project where one member only cares about their individual contribution being highlighted, or tries to take credit for others' work. This undermines the whole team's effort and spirit.
-- **Humility of Mind**. This is not about self-deprecation or thinking less of yourself, but thinking of yourself *less often* and focusing on others. It's an accurate assessment of one's place before God and in relation to others, free from pride.
-- **Consider Others More Significant**. This is a radical call. It means actively seeking the good of others, valuing their needs, opinions, and contributions above your own. It requires empathy and intentionality. It shifts our focus from "what's in it for me?" to "how can I bless them?"
-- **Interests of Others**. This is the practical outworking of considering others more significant. It means being actively concerned with their well-being, success, and spiritual growth, not just your own.
+Paul begins by telling us what humility is NOT. 
 
-### Practicing Humility (Discussion:Mind)
+He warns against two powerful motivators…
 
-> What are some concrete ways we can actively "consider others more significant than ourselves" in our daily lives, whether at home, work, or church?
+- **Selfish Ambition**. A desire for personal advancement or recognition. 
+- **Empty Conceit**. An inflated sense of self-importance. 
+
+> What do these look like in everyday life?
+
+[Examples. Taking credit, talking over others, needing to be right, posting for appearances, etc.]
+
+### What Humility Is (Discussion:Mind)
+
+Next, Paul tells us to consider others as *more important* or more significant than ourselves.
+
+> What does this (more important) actually mean?
+
+> Does it mean thinking *less* OF ourselves, or thinking *less* ABOUT ourselves and *more* ABOUT others?
+
+Paul isn't asking us to have low self-esteem or deny our God-given worth. Rather, he's calling us to shift our focus from self-promotion to others' welfare—to make their needs as important as our own, or even to prioritize them when appropriate.
+
+### Humility in Practice (Discussion:Mind)
+
+Finally, Paul makes it practical. He tells us how in humility we can consider others more important.
+
+> What are some concrete ways we might do that in our daily lives, whether at home, work, or church?
+
+[Allow group to respond]
 
 **Listen Actively**. Giving full attention to what others are saying, seeking to understand their perspective before offering your own.
 
 **Serve Behind the Scenes**. Doing tasks that may not be recognized or praised, simply for the benefit of others.
 
-**Celebrate Others' Successes**. Genuinely rejoicing in the achievements of others, rather than comparing or feeling envious.
+**Celebrate Successes**. Genuinely rejoicing in the achievements of others, rather than comparing or feeling envious.
 
 ### Self-Assessment (Reflection:Heart)
 
-> When was the last time you intentionally put someone else's interests ahead of your own, and what was the outcome (both for you and for them)? If you can't readily recall such an instance, what does that reveal about your current posture?
+> When are you most tempted to operate out of *selfish ambition*—maybe when you feel threatened, overlooked, or in competition?
 
-*Transition*. While these commands challenge us deeply, Paul immediately provides the ultimate example and motivation: the humility of Jesus Christ Himself.
+> When was the last time you intentionally put someone else's interests ahead of your own? If you can’t readily recall such an instance, what might that reveal about your current posture?
 
-<h2>3. Follow the Example of Jesus in Displaying Humility</h2>
+*Transition*. These are high standards—and we can’t do this alone in our own strength; we need Jesus' example and power. 
 
-The call to humility is not an abstract ideal but a tangible imitation of Christ. His journey from divine glory to humble servitude, and then to ultimate exaltation, provides both the pattern and the power for our own humble living.
+## 3. Jesus' Example of Humility
 
-<h3>Philippians 2:5-11, BSB</h3>
+We’ve seen what humility looks like, and how hard it is to live out. Paul knows that—so he doesn’t just give us commands; he gives us the *ultimate example*.
 
-> **5** Let this mind be in you, which was also in Christ Jesus, **6** who, existing in the form of God, did not consider equality with God as something to be grasped, **7** but emptied Himself, taking the form of a servant, being made in human likeness. **8** And being found in appearance as a man, He humbled Himself by becoming obedient to the point of death, even death on a cross. **9** Therefore God highly exalted Him and gave Him the name that is above every name, **10** so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, **11** and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
+### Philippians 2:5-11, BSB
 
-<h3>Context & Insights</h3>
+> **5** ﻿Let this mind be in you which was also in Christ Jesus:
+**6**﻿ Who, existing in the form of God, did not consider equality with God something to be grasped, **7** ﻿but emptied Himself, taking the form of a servant, being made in human likeness. **8** ﻿And being found in appearance as a man, He humbled Himself and became obedient to death—even death on a cross. 
 
-- **Let This Mind Be In You**. This is a direct command to adopt the same attitude, disposition, and mindset that characterized Jesus. It's a call to internalize His self-giving nature.
-- **Existing in the Form of God**. Jesus was fully God, possessing all the divine attributes and prerogatives. He did not merely *appear* to be God, but *was* God.
-- **Did Not Consider Equality with God as Something to Be Grasped**. Unlike Adam, who grasped for equality with God, Jesus, who possessed it, did not cling to His divine privileges. He willingly laid them aside for a greater purpose.
-- **Emptied Himself**. The *kenosis*. This doesn't mean Jesus ceased to be God or divested Himself of His divine nature. Rather, He voluntarily surrendered the independent exercise of His divine prerogatives, choosing instead to live in dependence on the Father and take on human limitations.
-    - **Illustration**: It's like a king taking off his crown and royal robes to serve as a peasant among his people, not ceasing to be king, but choosing to live and work as one of them for a period.
-- **Taking the Form of a Servant, Made in Human Likeness**. Jesus took on true humanity, becoming fully human in every respect, yet without sin. His identity shifted from glorious God to humble servant.
-- **Humbled Himself by Becoming Obedient to the Point of Death**. His humility culminated in complete obedience, even to the most ignominious and painful death imaginable: crucifixion. This was the ultimate act of self-giving.
-- **Therefore God Highly Exalted Him**. Christ's self-humiliation was not an end in itself, but the pathway to ultimate exaltation. God the Father vindicated and glorified Him. This is a foundational principle of the kingdom: true greatness comes through humble service.
-- **Every Knee Should Bow... Every Tongue Confess**. The outcome of Christ's humility is universal recognition of His sovereign Lordship. This will happen, either willingly now or forcibly at the final judgment. It is to the ultimate glory of God the Father.
+> **9** ﻿Therefore God exalted Him to the highest place and gave Him the name above all names, **10** ﻿that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, **11** ﻿and every tongue confess that Jesus Christ is Lord, to the glory of God the Father. 
 
-<h3>The Kenosis and Our Lives (Discussion:Mind)</h3>
+### Mind of Christ (Discussion:Mind)
 
-> The concept of Jesus "emptying Himself" (kenosis) is profound. How does Jesus's example of not clinging to His divine prerogatives, but taking the form of a servant, challenge our natural tendencies to cling to our rights, status, or comforts?
+Paul starts by directing us to adopt the same attitude, disposition, and mindset that characterized Jesus. Based on what we’ve studied so far, what do you think that mind includes?
 
-**Re-evaluating "Rights"**. Jesus's example forces us to question what "rights" we truly possess, especially if they hinder our ability to serve others or glorify God.
+[Possible answers: Others-focused, humble, obedient, secure in identity, not grasping for status.]
 
-**Serving from Position**. True authority and significance, as demonstrated by Christ, come not from demanding service but from humbly giving it.
+### Kenosis (Discussion:Mind)
 
-<h3>Imitating Christ's Humility (Reflection:Heart)</h3>
+Look at verses 6–8. Trace Jesus’ movement:
 
-> In what specific area of your life do you find it most difficult to "let this mind be in you, which was also in Christ Jesus," particularly in laying aside your own preferences or perceived rights for the sake of another or for the gospel?
+- Where did He start? (In the form of God—He was God)
 
-*Transition*. The life and exaltation of Christ provide the perfect example and motivation for living a life of profound, others-centered humility.
+- What did He choose not to do? (Grasp equality)
 
-<h2>Closing</h2>
+- What did He do instead? (Emptied Himself, took servant’s form, became human with limitations, obeyed to death on a cross)
 
-<h3>Decision (Will)</h3>
+The word *emptied* (kenosis) doesn’t mean He stopped being God—but He voluntarily set aside His glory and privileges and submitted to human limitations—hunger, fatigue, temptation, and death. 
+
+> Why would He do that? What does that show us about God’s heart?
+
+> What might it look like for us to *empty ourselves* of something we cling to—status, comfort, being right—in order to serve others?
+
+### Exaltation (Discussion:Mind)
+
+Now look at the turnaround in verses 9–11. 
+
+> What happened because of Jesus’ humility and obedience? 
+
+> How does God’s response to Jesus’ humility challenge our cultural view of how to get ahead?
+
+The outcome of Christ's humility is universal recognition of His sovereign Lordship. This will happen, either willingly now or forcibly at the final judgment. 
+
+### Pattern for Us (Discussion:Mind)
+
+So the pattern is: Humility → Obedience → Exaltation (by God).
+
+How does this pattern give us:
+
+- A model to imitate when we’re called to humble ourselves?
+- Hope when humility feels like losing, not winning?
+
+*Transition*. This is where it all leads: not just trying harder, but letting Christ’s mindset reshape ours. And that leads us to a decision.
+
+## Closing
+
+We’ve seen Christ’s humility, His example, and His exaltation. Now Paul’s question becomes ours: Will we let His mind shape ours?
+
+### Decision (Will)
 
 -   **Christ's Mind**. Will you intentionally cultivate the mindset of Christ, prioritizing others and His glory above your own desires and ambitions?
 -   **Path to Exaltation**. Are you willing to embrace the path of humble service, trusting that God's plan for your exaltation (and His glory) unfolds through self-giving, just as it did for Jesus?
 
-<h3>Challenges (Practice)</h3>
+### Challenges (Practice)
 
-**1. Others-First Initiative**. This week, identify one person (at home, work, or church) and intentionally seek out a way to put their interests or needs before your own, without seeking recognition.
+**Others-First**. Identify one person (at home, work, or church) and intentionally seek out a way to put their interests or needs before your own, without seeking recognition.
 
-**2. Humility Audit**. Reflect daily on your interactions, asking: "Did I seek my own interests, or did I truly consider others more significant? Did I cling to my 'rights' or embrace a servant's posture?" Confess areas of pride and ask for God's help.
+**Humility Audit**. Reflect on your interactions, asking: "Did I seek my own interests, or did I truly consider others more significant? Did I cling to my 'rights' or embrace a servant's posture?" Confess areas of pride and ask for God's help.
 
-**3. Memory Verse**. Memorize Philippians 2:3 — "Do nothing from selfish ambition or empty conceit, but with humility of mind consider others more significant than yourselves."
+**Memory Verse**. Memorize Philippians 2:3. Do nothing from selfish ambition or empty conceit, but with humility of mind consider others more significant than yourselves.
 
-<h3>Prayer</h3>
+### Prayer
 
-> Heavenly Father, we confess that our hearts are naturally prone to pride, selfishness, and a "me first" attitude. We often cling to our rights and seek our own glory, rather than humbly serving others as Christ served us. Forgive us, Lord, for our failure to reflect the beautiful humility of Jesus.
+> Heavenly Father, we confess that our hearts are naturally prone to pride, selfishness, and a *ME FIRST* attitude. We cling to our rights and seek our own glory, rather than humbly serving others as Christ served us. Forgive us, Lord, for our failure to reflect the beautiful humility of Jesus.
 >
 > We pray that by Your Holy Spirit, You would transform our minds and hearts. Grant us the grace to adopt the mind of Christ—to consider others more significant than ourselves, to lay aside our own interests, and to obey You fully, even when it costs us. Help us to find our joy in unity and our purpose in self-giving love.
 >
