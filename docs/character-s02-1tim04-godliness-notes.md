@@ -42,7 +42,7 @@ A godly life points others to Christ.
 
 [Allow discussion - listen for: external vs. internal, rules vs. relationship, ritual vs. heart]
 
-**Synthesis:** Our culture often views *being religious* as focusing on external rules and rituals, which can be performed with little heart change. Godliness, on the other hand, is an internal orientation—a heart that actively desires to please and reflect God. 
+**Synthesis**. Our culture often views *being religious* as focusing on external rules and rituals, which can be performed with little heart change. Godliness, on the other hand, is an internal orientation—a heart that actively desires to please and reflect God. 
 
 While we can certainly be religious without being godly (the Pharisees are a prime example), it's difficult to be genuinely godly without some of the structures religion provides: discipline, community, and commitment to truth. 
 
