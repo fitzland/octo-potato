@@ -1,16 +1,16 @@
 ---
-title: Pursuit of Godliness
+title: Pursuit of Contentment
 tags:
     - NT
     - 1 Timothy
     - Character
-    - Godliness
+    - Contentment
     - Spiritual Discipline
 ---
 
 # Pursuit of Godliness
 
-1 Timothy 4:6-16, BSB
+Philippians 4:10-20, BSB
 
 ## Introduction
 
@@ -19,21 +19,21 @@ tags:
 We're in a series called **Character Counts**.
 
 - **1**. Importance of Character (2 Peter 1:1-11) – Equipped for Christlike character
-- **2**. *Godliness* (1 Timothy 4:6-16) – Point others to Christ
+- **2**. Godliness (1 Timothy 4:6-16) – Point others to Christ
 - **3**. Humility (Philippians 2:1-11) – Consider the needs of others
-- **4**. Contentment (Philippians 4:10-20) – Find satisfaction in Christ
+- **4**. *Contentment* (Philippians 4:10-20) – Find satisfaction in Christ
 - **5**. Generosity (2 Corinthians 8:1-9) – Give from what God has given us
 - **6**. Integrity (1 Peter 3:8-17) – Live consistently with our confession
 
 ### Core Message
 
-A godly life points others to Christ.
+Be content in the power and provision of God.
 
 ### Lesson Flow
 
-1. [**Priority of a Godliness**]
-2. [**A Godly Life Is Grounded in Hope**]
-3. [**A Godly Life Encourages Others**]
+1. [**Not Based on Circumstances**]
+2. [**Contentment Rests in Christ**]
+3. [**God Provides Our Needs for Contentment**]
 
 ### Icebreaker
 
@@ -50,22 +50,25 @@ Today we'll talk about moving beyond empty ritual to an authentic life of godlin
 
 ### Historical Context
 
-Paul writes this letter to his young protégé, Timothy, who is leading the church in Ephesus—a city filled with pagan idolatry, philosophical speculation, and spiritual confusion. False teachers were infiltrating the church, promoting "myths and endless genealogies" (1 Tim. 1:4), forbidding marriage, and demanding abstinence from certain foods (1 Tim. 4:3). These teachings were a dangerous mix of legalism and Gnosticism, promising a higher spirituality through secret knowledge and ascetic practices.
 
-Paul's instruction to Timothy is intensely practical. He's not just correcting bad doctrine; he's training a young leader how to cultivate a healthy church. The antidote to false teaching isn't just more teaching; it's a life of authentic godliness.
 
 ### Modern Context
 
-Today, we face a similar spiritual marketplace. We're bombarded with ideas that sound spiritual but lack substance, fad diets for the soul, and self-help gurus promising enlightenment. Many want the benefits of spirituality—like peace and meaning—without the commitments of the faith, such as discipline, community, and submission to God's Word. From wellness trends that mimic spiritual practices to political ideologies that demand total allegiance, many things compete for our devotion.
+More. That might be the best description of the human condition. It seems that no matter what we have, we still have a craving for more.
 
-Paul’s cuts through the noise: Don't get distracted by spiritual junk food. True transformation doesn't come from asceticism or esoteric knowledge, but from disciplined training in godliness, fueled by the hope of the gospel.
+Back in the 1990s, a man named Sergio Hernandez won the California lottery, receiving $120,000 a year for 25 years from a $3-million lottery. I wonder how many people thought, He’s got it made. He’s set for life. And yet in 1993, he was sentenced to a year in prison for receiving stolen property that was looted during the Los Angeles riots.
 
+The logical conclusion is that more described the condition of his heart and mind, instead of enough.
+
+It’s easy to point a finger at Mr. Hernandez, but what about us? The thrill of the chase often dissipates after the securing of the catch. Have you ever longed for something (a car, a job position, a house, a relationship), and then got it, only to discover that eventually it didn’t satisfy you like you thought it would? What’s the solution to this discontent?
+
+In Paul’s letter to the Philippians, Scripture unfolds the “secret” of contentment, independent of circumstances and solely dependent on the person of Jesus Christ.
 
 ## 1. Priority of a Godly Life
 
 We must reject spiritual distractions and actively train ourselves for a life that reflects God.
 
-### 1 Timothy 4:6-8, BSB
+### Philippians 4:10-12a, BSB
 
 > **6** If you point these things out to the brothers, you will be a good minister of Christ Jesus, nourished on the truths of the faith and of the good teaching that you have followed. **7** But have nothing to do with pointless and silly myths. Rather, train yourself in godliness. **8** For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come.
 
@@ -128,7 +131,7 @@ We must reject spiritual distractions and actively train ourselves for a life th
 
 The tireless work of pursuing godliness is fueled by our secure hope in the living God who saves all people.
 
-### 1 Timothy 4:9-11, BSB
+### Philippians 4:12b-14, BSB
 
 > **9** This is a trustworthy saying, worthy of full acceptance. **10** To this end we labor and strive, because we have fixed our hope on the living God, who is the Savior of all people, especially of those who believe. **11** Command and teach these things.
 
@@ -191,7 +194,7 @@ The tireless work of pursuing godliness is fueled by our secure hope in the livi
 
 Your personal growth in godliness serves as a powerful example that gives you credibility to teach and lead others.
 
-### 1 Timothy 4:12-16, BSB
+### Philippians 4:15-20, BSB
 
 > **12** Let no one despise your youth, but set an example for the believers in speech, in conduct, in love, in faith, and in purity. **13** Until I come, devote yourself to the public reading of Scripture, to exhortation, and to teaching. **14** Do not neglect the gift that is in you, which was given you through prophecy when the council of elders laid their hands on you.
 
