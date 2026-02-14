@@ -8,7 +8,7 @@ tags:
     - Spiritual Discipline
 ---
 
-# Pursuit of Godliness
+# Contentment. Find satisfaction in Christ
 
 Philippians 4:10-20, BSB
 
