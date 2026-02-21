@@ -281,35 +281,27 @@ tags:
 
 [Scripture Reference], BSB
 
+## Series Overview
+
+[Optional: Table showing the current lesson's place in a broader series]
+
+## Core Message
+
+[Single-sentence governing idea]
+
 ## Introduction
 
 ### Icebreaker
 
-**A**. [Question 1]
+> [Question 1]
 
-**B**. [Question 2]
+> [Question 2]
 
-[Brief cultural context or problem statement]
+**Synthesis**. [Brief statement connecting the icebreaker to the lesson's main theme.]
 
-[Optional: Contrast — Society says... The Bible says...]
-
-*[Optional italicized summary statement]*
-
-### Core Message
-
-[Single-sentence governing idea]
-
-### Lesson Flow
-
-1. [**Section 1 Title**](#1-section-1-anchor)
-2. [**Section 2 Title**](#2-section-2-anchor)
-3. [**Section 3 Title**](#3-section-3-anchor)
-
-## 1. Section 1 Title
+## Section Title
 
 [Brief introductory statement — one or two sentences establishing the focus]
-
-[Optional: Broader principle or tension being explored]
 
 ### [Scripture Reference], BSB
 
@@ -320,15 +312,10 @@ tags:
 
 - **[Key Term/Concept]**. [Explanation with illustration or clarification]
 - **[Key Term/Concept]**. [Explanation with illustration or clarification]
-- **[Key Term/Concept]**. [Explanation with illustration or clarification]
 
-### [Discussion Section Title]
+### [Discussion Section Title] (Discussion:Mind)
 
 > [Exploratory question about meaning/implications]
-
-> [Optional follow-up question]
-
-[Anticipated responses with brief development. Use bold labels for each answer.]
 
 **[Answer Category]**. [Explanation]
 
@@ -336,19 +323,15 @@ tags:
 
 ### Reflection (Heart)
 
-**[Bold Label]**. [Personal, introspective question]
+> [Personal, introspective question]
 
 *Transition*. [Bridge statement to next section]
 
-## 2. Section 2 Title
-
-[Repeat structure from Section 1]
-
-## 3. Section 3 Title
-
-[Repeat structure from Section 1]
-
 ## Closing
+
+### Thermostat Illustration
+
+[Optional: Final thematic illustration or summary metaphor]
 
 ### Decision (Will)
 
@@ -362,9 +345,7 @@ tags:
 
 **[Challenge Title]**. [Specific, achievable practice with clear instructions]
 
-**[Challenge Title]**. [Specific, achievable practice with clear instructions]
-
-**Memory Verse**. Memorize [Reference] — "[Full text of verse]"
+**Memory Verse**. [Reference]. *[Full text of verse.]*
 
 ### Prayer
 

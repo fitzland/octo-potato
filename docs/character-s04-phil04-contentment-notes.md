@@ -25,7 +25,7 @@ Philippians 4:10–20, BSB
 
 ## Core Message
 
-Contentment is not a feeling we wait for, but a fortress we build—a learned spiritual discipline rooted in the sufficiency of Christ rather than the abundance of resources.
+Contentment is not a feeling we wait for, but a discipline we build—rooted in the sufficiency of Christ rather than the abundance of our resources.
 
 ## Introduction
 
@@ -99,7 +99,11 @@ Contentment is not a feeling we wait for, but a fortress we build—a learned sp
 
 > Why does discontentment make generosity feel threatening? Compare Paul's attitude here with 1 Timothy 6:6–8.
 
-**Uncluttered Hands**. A discontented person hoards because their security is tied to what they possess. A content person holds things loosely because they realize they brought nothing into the world and will take nothing out. If you have food and clothing, the content heart sees that as great gain (1 Tim 6:6).
+**1 Timothy 6:6–8, BSB**
+> **6** But godliness with contentment is great gain. **7** For we brought nothing into the world, and we can take nothing out of it. **8** But if we have food and clothing, we will be content with these.
+
+**Uncluttered Hands**. A discontented person hoards because their security is tied to what they possess.
+ A content person holds things loosely because they realize they brought nothing into the world and will take nothing out. If you have food and clothing, the content heart sees that as great gain (1 Tim 6:6).
 
 ### Motive Check (Reflection:Heart)
 

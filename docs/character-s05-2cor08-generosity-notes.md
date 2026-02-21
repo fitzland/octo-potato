@@ -29,17 +29,15 @@ Generosity is a joyful overflow of God's grace, modeled by the self-impoverishme
 
 ## Introduction
 
-### Icebreaker: Measuring Wealth
+### Icebreaker
 
 > If someone were to look at your bank statement or credit card bill from last month, what would they conclude is the most important "cause" in your life?
 
-### Icebreaker: Giving Barrier
-
 > When you think about giving a significant amount of money or time away, what is the first "fear" or "calculation" that pops into your head?
 
-*Synthesis: We often view generosity as a "math problem"—we give what is left over after our needs and wants are met. But Paul shows us a church that viewed generosity as a "grace problem." Today we see how a heart gripped by the gospel transforms a reluctant tip into a radical sacrifice.*
+**Synthesis**. We often view generosity as a "math problem"—we give what is left over after our needs and wants are met. But Paul shows us a church that viewed generosity as a "grace problem." Today we see how a heart gripped by the gospel transforms a reluctant tip into a radical sacrifice.
 
-## 1. Surprising Source of Generosity (2 Cor. 8:1–5)
+## Surprising Source of Generosity (2 Cor. 8:1–5)
 
 ### 2 Corinthians 8:1–5, BSB
 
@@ -49,21 +47,21 @@ Generosity is a joyful overflow of God's grace, modeled by the self-impoverishme
 
 > In verse 2, Paul combines three things that usually don't go together: "severe trial," "deep poverty," and "rich harvest of generosity." How can poverty and trials produce generosity? What is the missing ingredient?
 
-**Grace-Driven Overflow**. The missing ingredient is "the grace of God" (v. 1). Generosity isn't a byproduct of having a surplus; it’s a byproduct of being satisfied in God. The Macedonians didn't give because they had much; they gave because they *were* much in Christ. Their joy in God was so great that it "overflowed" even when their wallets were empty.
+**Grace-Driven Overflow**. The missing ingredient is "the grace of God" (v.1). Generosity isn't a byproduct of having a surplus; it’s a byproduct of being satisfied in God. The Macedonians didn't give because they had much; they gave because they *were* much in Christ. Their joy in God was so great that it "overflowed" even when their wallets were empty.
 
 ### Urgency of the Privilege (Discussion:Mind)
 
 > In verse 4, Paul says they "pleaded with us urgently for the privilege of sharing." How does this contrast with how we usually view "the offering" or a request for help? Why would they "beg" to give?
 
-**Self-Giving Priority**. They viewed giving as a *grace* (privilege), not a *tax* (obligation). This was possible because they "first gave themselves to the Lord" (v. 5). When you realize you belong to God, your possessions become tools for His kingdom rather than life-preservers for your security. They begged to give because they wanted to participate in what God was doing.
+**Self-Giving Priority**. They viewed giving as a *grace* (privilege), not a *tax* (obligation). This was possible because they "first gave themselves to the Lord" (v.5). When you realize you belong to God, your possessions become tools for His kingdom rather than life-preservers for your security. They begged to give because they wanted to participate in what God was doing.
 
 ### Heart of the Matter (Reflection:Heart)
 
 > Do you view your giving as a "bill to be paid" or a "privilege to be shared"? Is your current level of generosity a reflection of your bank balance or the "internal temperature" of your joy in Christ?
 
-*Transition: If the Macedonians are the example, Paul now calls the Corinthians to turn their good intentions into concrete action.*
+*Transition*. If the Macedonians are the example, Paul now calls the Corinthians to turn their good intentions into concrete action.
 
-## 2. Completing the Act of Grace (2 Cor. 8:6–8)
+## Completing the Act of Grace (2 Cor. 8:6–8)
 
 ### 2 Corinthians 8:6–8, BSB
 
@@ -73,11 +71,11 @@ Generosity is a joyful overflow of God's grace, modeled by the self-impoverishme
 
 > Paul lists several "spiritual" areas where the Corinthians excel (faith, speech, knowledge). Why does he then insist they "excel in this grace of giving" as well? What happens to a person’s faith if they have knowledge and speech but no generosity?
 
-**Consistency of Character**. You can't be "spiritual" in your head while being "stingy" with your hands. Paul is arguing that generosity is the "test of sincerity" (v. 8) for our love. Knowledge and speech are easy; sacrifice is the proof that the gospel has actually moved from our minds to our lives.
+**Consistency of Character**. You can't be "spiritual" in your head while being "stingy" with your hands. Paul is arguing that generosity is the "test of sincerity" (v.8) for our love. Knowledge and speech are easy; sacrifice is the proof that the gospel has actually moved from our minds to our lives.
 
 ### Voluntary Sacrifice (Discussion:Mind)
 
-> Paul explicitly says, "I am not saying this as a command" (v. 8). Why is it important that generosity is not a "command" or a legal requirement in the New Covenant?
+> Paul explicitly says, "I am not saying this as a command" (v.8). Why is it important that generosity is not a "command" or a legal requirement in the New Covenant?
 
 **Love as the Engine**. Legalism produces "grudging" givers; grace produces "cheerful" givers. If Paul forced them to give, it wouldn't be an "act of grace." He wants their giving to be a voluntary response to the love they have received. He uses the Macedonian example not to shame them, but to inspire them to match their outward actions with their inward confession.
 
@@ -85,9 +83,9 @@ Generosity is a joyful overflow of God's grace, modeled by the self-impoverishme
 
 > If your "faith, speech, and knowledge" were measured against your "grace of giving," would there be a gap? What is that gap telling you about the sincerity of your love for God?
 
-*Transition: Paul has given them a human example and a pastoral nudge. Now he brings out the ultimate argument: the example of Jesus himself.*
+*Transition*. Paul has given them a human example and a pastoral nudge. Now he brings out the ultimate argument: the example of Jesus himself.
 
-## 3. Ultimate Pattern of Generosity (2 Cor. 8:9)
+## Ultimate Pattern of Generosity (2 Cor. 8:9)
 
 ### 2 Corinthians 8:9, BSB
 
@@ -117,19 +115,21 @@ In the last lesson, we talked about being **thermostats**. Generosity is the "te
 
 ### Decision (Will)
 
-- **Ownership Transfer**. Will you commit this week to acknowledging that everything you have—time, talent, and treasure—belongs to God and is meant for His purposes?
-- **Sincerity Audit**. Will you ask God to show you where your "spiritual speech" is not matching your "sacrificial giving"?
-- **Grace Response**. Will you choose to give not out of "command" or "guilt," but as a joyful response to the "grace of our Lord Jesus Christ"?
+**Ownership Transfer**. Will you commit this week to acknowledging that everything you have—time, talent, and treasure—belongs to God and is meant for His purposes?
+
+**Sincerity Audit**. Will you ask God to show you where your "spiritual speech" is not matching your "sacrificial giving"?
+
+**Grace Response**. Will you choose to give not out of "command" or "guilt," but as a joyful response to the "grace of our Lord Jesus Christ"?
 
 ### Challenges (Practice)
 
-**1. First-Fruits Giving**. This week, identify one "want" you were planning to purchase and give that money instead to a specific need (a missionary, a local charity, or someone in the church).
+**First-Fruits Giving**. This week, identify one "want" you were planning to purchase and give that money instead to a specific need (a missionary, a local charity, or someone in the church).
 
-**2. Time Tithing**. Dedicate one hour this week to serving someone else—no strings attached, no recognition sought—specifically as an act of "giving yourself to the Lord."
+**Time Tithing**. Dedicate one hour this week to serving someone else—no strings attached, no recognition sought—specifically as an act of "giving yourself to the Lord."
 
-**3. Scarcity Audit**. Write down the top three "fears" that keep you from being more generous. Pray over each one, replacing the fear with the promise of 2 Corinthians 8:9.
+**Scarcity Audit**. Write down the top three "fears" that keep you from being more generous. Pray over each one, replacing the fear with the promise of 2 Corinthians 8:9.
 
-**4. Memory Verse**. 2 Corinthians 8:9 — "For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, so that you through His poverty might become rich."
+**Memory Verse**. 2 Corinthians 8:9. *For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, so that you through His poverty might become rich.*
 
 ### Prayer
 

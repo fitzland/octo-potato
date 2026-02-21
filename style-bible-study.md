@@ -9,7 +9,7 @@ This document outlines the simplified Markdown styling conventions for all Bible
 Follow a strict hierarchical structure for headings. **Never skip levels** (e.g., an `H1` must be followed by an `H2`, not an `H3`).
 
 -   `#` (H1): The main lesson title.
--   `##` (H2): Major sections (e.g., `## 1. Section Title`), `## Introduction`, and the `## Closing` section.
+-   `##` (H2): Major sections (e.g., `## Section Title`), `## Introduction`, and the `## Closing` section. Do not use numeric prefixes for section titles.
 -   `###` (H3): Subsections like `### Icebreaker`, `### Core Message`, `### Scripture...`, `### Discussion`, and `### Reflection (Heart)`.
 -   `####` (H4): Not currently used.
 
@@ -24,6 +24,7 @@ Scripture passages **within** each lesson section **must not** use `!!! quote` a
 -   Use a `###` heading with the reference and translation (e.g., `### 1 Samuel 17:32-37, BSB`).
 -   Use a markdown blockquote (`>`) for the text.
 -   Make verse numbers bold (`**32**`).
+-   When referencing specific verses in discussion or insights, use the format `v.11` (no space).
 
 **Example:**
 ```markdown
@@ -38,13 +39,19 @@ Scripture passages **within** each lesson section **must not** use `!!! quote` a
 
 There are four distinct types of prompts. They **must not** use `!!! question` admonitions or other complex formatting.
 
+### Icebreakers
+
+-   Group multiple icebreaker questions under a single `### Icebreaker` heading.
+-   Use blockquotes for each question.
+-   Include a synthesis paragraph at the end of the introduction, formatted as `**Synthesis**. Text`.
+
 ### Discussion Questions
 
 Each discussion prompt should be under its own descriptive, topical Level 3 heading.
 
--   Use a descriptive `###` heading that states the topic in the format `### Topic (Discussion:Mind)` (e.g., `### Nature of Giants (Discussion:Mind)`, `### Equal Standing (Discussion:Mind)`).
+-   Use a descriptive `###` heading that states the topic in the format `### Topic (Discussion:Mind)` (e.g., `### Nature of Giants (Discussion:Mind)`).
 -   Place the question(s) inside a markdown blockquote (`>`).
--   Anticipated answers should follow the question as a list of bolded phrases followed by the explanation.
+-   Anticipated answers should follow the question. Format them with a bolded label followed by a period **outside** the bolding.
 
 **Example:**
 ```markdown
@@ -57,7 +64,7 @@ Each discussion prompt should be under its own descriptive, topical Level 3 head
 
 ### Reflection Questions
 
--   Use a descriptive `###` headning that states the topic in the format `### Topic (Reflection:Heart)` (e.g., `### Personal Audit (Reflection:Heart)`).
+-   Use a descriptive `###` heading that states the topic in the format `### Topic (Reflection:Heart)` (e.g., `### Personal Audit (Reflection:Heart)`).
 -   Place the question directly below the heading in a blockquote.
 
 **Example:**
@@ -70,36 +77,38 @@ Each discussion prompt should be under its own descriptive, topical Level 3 head
 ### Decision Questions
 
 -   Use a `### Decision (Will)` heading.
--   Present questions as a bulleted list. Each question should be a bolded phrase or sentence.
+-   Present questions as bolded paragraph headers without bullets.
 
 **Example:**
 ```markdown
 ### Decision (Will)
 
-- **Warrior's Declaration**. Are you ready to confront your giant, not with your own strength, but *in the name of the LORD of Hosts*?
-- **Ultimate Motive**. Is your desire to win your battle for your own relief, or so that others will know *that there is a God in Israel*?
+**Warrior's Declaration**. Are you ready to confront your giant, not with your own strength, but *in the name of the LORD of Hosts*?
+
+**Ultimate Motive**. Is your desire to win your battle for your own relief, or so that others will know *that there is a God in Israel*?
 ```
 
 ### Challenges (Practice)
 
 -   Use a `### Challenges (Practice)` heading.
--   Present challenges as a numbered list. Each item should have a bolded title.
+-   Present challenges as bolded paragraph headers without numbers.
 -   Never more than four total challenges.
--   The last challenge should be a memory verse challenge.
+-   The last challenge should be a memory verse challenge, formatted as `**Memory Verse**. Reference. *Text of verse.*`
 
 **Example:**
 ```markdown
 ### Challenges (Practice)
 
-**1. Resume of Faith**. Start a *Faith Journal* this week. Write down one thing God has done for you.
+**Resume of Faith**. Start a *Faith Journal* this week. Write down one thing God has done for you.
 
-**2. Memory Verse**. Memorize [Reference] — "[Full text of verse]"
+**Memory Verse**. 1 Samuel 17:47. *For the battle is the LORD's, and He will give you into our hands.*
 ```
 
 ---
 
 ## 4. Other Formatting Rules
 
--   **Emphasis and Punctuation**: Punctuation should be placed **outside** of bold or italic formatting (e.g., `**Key Point**.` not `**Key Point.**`).
+-   **Emphasis and Punctuation**: Punctuation for insight labels and paragraph headers should be placed **outside** of bold or italic formatting (e.g., `**Key Point**.`).
+-   **Italics**: Use italics extensively for key theological terms, emphasis within questions, and Greek transliterations (e.g., *guard*, *learned*, *autarkēs*).
 -   **Core Message**: The single-sentence Core Message should not be bold.
 -   **Transitions**: Brief transition statements between sections should be italicized.
