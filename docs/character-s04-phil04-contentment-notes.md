@@ -2,286 +2,163 @@
 title: Pursuit of Contentment
 tags:
     - NT
-    - 1 Timothy
+    - Philippians
     - Character
     - Contentment
     - Spiritual Discipline
 ---
 
-# Contentment. Find satisfaction in Christ
+# Contentment: Find Satisfaction in Christ
 
-Philippians 4:10-20, BSB
+Philippians 4:10–20, BSB
+
+## Series Overview
+
+| # | Title | Passage | Core Idea |
+|---|-------|---------|-----------|
+| 1 | Importance of Character | 2 Peter 1:1–11 | Equipped for Christlike character |
+| 2 | Godliness | 1 Timothy 4:6–16 | Point others to Christ |
+| 3 | Humility | Philippians 2:1–11 | Consider the needs of others |
+| **4** | **Contentment** | **Philippians 4:10–20** | **Find satisfaction in Christ** |
+| 5 | Generosity | 2 Corinthians 8:1–9 | Give from what God has given us |
+| 6 | Integrity | 1 Peter 3:8–17 | Live consistently with our confession |
+
+## Core Message
+
+Contentment is not a feeling we wait for, but a fortress we build—a learned spiritual discipline rooted in the sufficiency of Christ rather than the abundance of resources.
 
 ## Introduction
 
-### Series Overview
-
-We're in a series called **Character Counts**.
-
-- **1**. Importance of Character (2 Peter 1:1-11) – Equipped for Christlike character
-- **2**. Godliness (1 Timothy 4:6-16) – Point others to Christ
-- **3**. Humility (Philippians 2:1-11) – Consider the needs of others
-- **4**. *Contentment* (Philippians 4:10-20) – Find satisfaction in Christ
-- **5**. Generosity (2 Corinthians 8:1-9) – Give from what God has given us
-- **6**. Integrity (1 Peter 3:8-17) – Live consistently with our confession
-
-### Core Message
-
-Be content in the power and provision of God.
-
-### Lesson Flow
-
-1. [**Not Based on Circumstances**]
-2. [**Contentment Rests in Christ**]
-3. [**God Provides Our Needs for Contentment**]
-
 ### Icebreaker
 
-> What's the difference between being *religious* and being *godly*? 
-> Can you be one without the other?
+> Gotta Have It. What's something you bought recently—a gadget, tool, or piece of furniture—that you were convinced would make your life significantly better? How long did that "new purchase" feeling actually last?
 
-[Allow discussion - listen for: external vs. internal, rules vs. relationship, ritual vs. heart]
+> **Moving Goalpost**. Think back to your 20s. What was the magic number—a salary, title, or milestone—that you thought, "If I ever hit that, I'll finally feel secure"? Now that you've likely passed it, where has the goalpost moved?
 
-**Synthesis:** Our culture often views *being religious* as focusing on external rules and rituals, which can be performed with little heart change. Godliness, on the other hand, is an internal orientation—a heart that actively desires to please and reflect God. 
+**Synthesis**. Our natural contentment has a short shelf life. We are wired for MORE—more comfort, security, and certainty. The problem is that *more* always delivers LESS than it promises. Today we're looking at a man sitting in a Roman prison cell—and somehow, he has discovered a peace that doesn't expire.
 
-While we can certainly be religious without being godly (the Pharisees are a prime example), it's difficult to be genuinely godly without some of the structures religion provides: discipline, community, and commitment to truth. 
+### Fortress of Contentment (Discussion:Mind)
 
-Today we'll talk about moving beyond empty ritual to an authentic life of godliness that point others Christ.
+> Paul is writing from a prison cell in a Roman colony (Philippi). In verses 4:7, he mentions the *peace of God* which will *guard* your hearts. Given that Philippi was a military outpost for retired soldiers, why might Paul use military *guarding* imagery to describe contentment?
 
-### Historical Context
+**Military Protection**. The word for *guard* (phrourēsei) refers to a Roman sentry or garrison. Paul is teaching that contentment isn't just a mood; it's a protective fortress that stands watch over our hearts, keeping the *sieges* of anxiety and greed from breaking in.
 
+### Siege of Discontent (Discussion:Mind)
 
+> How would you define the *siege* of discontentment? If contentment is standing firm, what is the nature of a restless heart?
 
-### Modern Context
+**State of Constant Motion**. Discontentment is a restless craving for something one does not have. It is a *restless longing for something better*. If the fortress of contentment is standing firm, discontentment is a state of being constantly *on the move*, searching for satisfaction that always remains just out of reach.
 
-More. That might be the best description of the human condition. It seems that no matter what we have, we still have a craving for more.
+## Secret of Contentment (Phil. 4:10–13)
 
-Back in the 1990s, a man named Sergio Hernandez won the California lottery, receiving $120,000 a year for 25 years from a $3-million lottery. I wonder how many people thought, He’s got it made. He’s set for life. And yet in 1993, he was sentenced to a year in prison for receiving stolen property that was looted during the Los Angeles riots.
+### Philippians 4:10–13, BSB
 
-The logical conclusion is that more described the condition of his heart and mind, instead of enough.
+> **10** Now I rejoice greatly in the Lord that at last you have revived your concern for me. You were indeed concerned, but you had no opportunity to show it. **11** I am not saying this out of need, for I have learned to be content regardless of my circumstances. **12** I know how to live humbly, and I know how to abound. I am accustomed to any and every situation—to being filled and being hungry, to having plenty and having need. **13** I can do all things through Christ who gives me strength.
 
-It’s easy to point a finger at Mr. Hernandez, but what about us? The thrill of the chase often dissipates after the securing of the catch. Have you ever longed for something (a car, a job position, a house, a relationship), and then got it, only to discover that eventually it didn’t satisfy you like you thought it would? What’s the solution to this discontent?
+### Classroom of Want (Discussion:Mind)
 
-In Paul’s letter to the Philippians, Scripture unfolds the “secret” of contentment, independent of circumstances and solely dependent on the person of Jesus Christ.
+> In verse 11, Paul says he has *learned* to be content. What does this reveal about how contentment is acquired? Does it come naturally to him?
 
-## 1. Priority of a Godly Life
+**Learned Discipline**. Contentment is not a personality trait or an automatic spiritual gift; it is a skill acquired through time, failure, and repetition. Paul’s *classroom* was his history of suffering—shipwrecks, beatings, and imprisonments (2 Cor. 11:23–27). If you are in a season of *need*, you may be in class—not abandoned.
 
-We must reject spiritual distractions and actively train ourselves for a life that reflects God.
+### Internal Thermostat (Discussion:Mind)
 
-### Philippians 4:10-12a, BSB
+> Paul uses a Greek word for *content* (autarkēs) that literally means *self-sufficient*. But in verse 13, where does he say his strength actually comes from? How does this change the meaning of *sufficiency*?
 
-> **6** If you point these things out to the brothers, you will be a good minister of Christ Jesus, nourished on the truths of the faith and of the good teaching that you have followed. **7** But have nothing to do with pointless and silly myths. Rather, train yourself in godliness. **8** For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come.
+**Christ-Dependent Sufficiency**. Paul *baptizes* the Stoic ideal of self-reliance. While the philosophers of his day taught that peace comes from inner detachment, Paul teaches that peace comes from outer attachment—to Jesus Christ. He isn't a *thermometer* reflecting the weather; he is a *thermostat* set to Christ. Verse 13 is not about *winning* or doing *great things*; it is about *remaining stable* regardless of the situation.
 
-### Observe & Discuss (Mind)
+### Stability of the Center (Discussion:Mind)
 
-> What does Paul tell Timothy to avoid (v.7)? 
+> Paul lists several extremes in verse 12 (humbly/abound, filled/hungry, plenty/need). Why is it important that he experienced both ends of the spectrum? Which extreme do you find more challenging for your contentment?
 
-[pointless things]
+**Credibility in the Extremes**. Discontentment can happen in *plenty* (greed or anxiety of loss) just as easily as in *need* (bitterness or fear). Paul finds a peace that holds firm at both poles. He has discovered that the anchor of his soul is not on the spectrum of circumstances.
 
-> What does he call these things?
+### Purpose of Hardship (Reflection:Heart)
 
-[silly myths - fabricated stories]
+> If you viewed your current difficult season as a *classroom* for learning contentment rather than an *interruption* of your peace, how would your prayers change this week?
 
-> What does he tell Timothy to do instead? 
+## Fruit of Contentment (Phil. 4:14–18)
 
-[train yourself in godliness] 
+### Philippians 4:14–18, BSB
 
-> What specific word does he use?
+> **14** Nevertheless, you have done well to share in my affliction. **15** And as you Philippians know, in the early days of the gospel, when I left Macedonia, no church but you partnered with me in the matter of giving and receiving. **16** For even while I was in Thessalonica, you provided for my needs again and again. **17** Not that I am seeking a gift, but I am looking for the fruit that may be credited to your account. **18** I have all I need and more, now that I have received your gifts from Epaphroditus. They are a fragrant offering, an acceptable sacrifice, well-pleasing to God.
 
-[*gymnazō*]
+### Economy of the Kingdom (Discussion:Mind)
 
-> What comparison does Paul make (v.8)? 
+> Paul just said he doesn't *need* anything (v.11), yet he thanks them for the gift. What does he say he is actually looking for in verse 17?
 
-[physical training vs. godliness] 
+**Eternal Returns**. Paul uses accounting language (credited to your account, giving and receiving). He isn't interested in the money for his own sake; he is interested in the *spiritual fruit* that generosity produces in the *giver*. Their bank transfer has eternal consequences for their own souls.
 
-> Why does he say godliness is so much more valuable?
+### Generosity as Worship (Discussion:Mind)
 
-[some value vs. all things; body vs. soul; temporary vs. eternal]
+> How does Paul describe their financial gift in verse 18? Why would he use Old Testament temple language (fragrant offering, sacrifice) for a financial gift?
 
-### Key Insights
+**Liturgical Giving**. Giving is not just a practical transaction; it's an act of worship. Paul is saying that when the Philippians wrote the check, God received it as an offering on the altar. Contentment is the *engine* of generosity—only a person who has *enough* in Christ can give freely without fear of scarcity.
 
-**Good Minister vs. False Teachers**
-- Nourished on truth vs. peddling pointless myths
-- Scripture is the diet; serve it to others
+### Scarcity vs. Abundance (Discussion:Mind)
 
-**Train in Godliness**
-- *Gymnazō* (gymnasium) = rigorous, disciplined effort
-- Not passive; requires intentional training plan
-- **Illustration:** Olympic athletes don't hope - they train
+> Why does discontentment make generosity feel threatening? Compare Paul's attitude here with 1 Timothy 6:6–8.
 
-**Spiritual vs. Physical**
-- Physical: *some* value (body, temporary)
-- Godliness: *all things* (soul, eternal)
+**Uncluttered Hands**. A discontented person hoards because their security is tied to what they possess. A content person holds things loosely because they realize they brought nothing into the world and will take nothing out. If you have food and clothing, the content heart sees that as great gain (1 Tim 6:6).
 
-### Apply to Today (Mind)
+### Motive Check (Reflection:Heart)
 
-> What are some modern *spiritual myths* or *distractions* that pull Christians away from genuine godliness?
+> When you give or serve, are you looking for the fruit God is growing in your soul through the act of letting go—or are you looking for recognition, reciprocity, or a way to *buy* security?
 
-[Prosperity Gospel, True to Yourself, Spirituality without Religion, Activism = Godliness]
+## Architect of Contentment (Phil. 4:19–20)
 
-### Heart Check (Reflection)
+### Philippians 4:19–20, BSB
 
-> What training regimen dominates your time and energy right now? 
+> **19** And my God will supply all your needs according to His glorious riches in Christ Jesus. **20** To our God and Father be glory forever and ever. Amen.
 
-> If godliness requires the same intentionality as physical training, where does it rank in your actual schedule?
+### Scope of Supply (Discussion:Mind)
 
-*Transition:* Paul has shown us the priority. Now he reveals the fuel that powers this lifelong pursuit.
+> In verse 19, what is the *scope* of the promise and what is the *source* of the supply? Does *all your needs* mean all your *desires*?
 
-## 2. Grounded in Hope
+**Sustenance, Not Insulation**. The source is God’s *glorious riches*, not the economy or Paul's resourcefulness. However, Paul’s definition of *need* is shaped by his experience of hunger (v.12). God didn't eliminate Paul's hunger in prison, but He supplied the strength to endure it. The promise is provision for what we truly need for His purpose, not the removal of all struggle.
 
-The tireless work of pursuing godliness is fueled by our secure hope in the living God who saves all people.
+### Personal Relationship (Discussion:Mind)
 
-### Philippians 4:12b-14, BSB
+> Notice Paul says *my God* in verse 19 and *our God and Father* in verse 20. What is the difference between knowing God's provision theoretically and knowing it personally?
 
-> **9** This is a trustworthy saying, worthy of full acceptance. **10** To this end we labor and strive, because we have fixed our hope on the living God, who is the Savior of all people, especially of those who believe. **11** Command and teach these things.
+**Orphan vs. Child**. An orphan has to scrape and scheme for every bit of security. A child trusts the Father’s storehouse. Paul speaks from the experience of a God who personally showed up in his shipwrecks and prisons. The supply doesn't flow from God abstractly—it flows *in Christ Jesus*, rooted in relationship.
 
-### Observe & Discuss (Mind)
+### Worship as Response (Discussion:Mind)
 
-> What two strong words does Paul use to describe the Christian life (v.10)?
+> Why does Paul immediately break into a *doxology* (v.20) after stating this promise? How does worship change the *internal temperature* of your heart?
 
-[labor and strive - both intense, exhausting words]
+**Focus Shift**. When you truly believe God will supply, worry is replaced by worship. The *doxology* is the natural posture of a content heart. The thermostat is set, the temperature holds, and the only appropriate response is to give God the glory.
 
-> Why does Paul say we do this hard work? Where is our hope fixed?
+### Functional Belief (Reflection:Heart)
 
-[on the living God - not dead idols, not our own effort]
-
-> Look at how God is described. What titles or descriptions does Paul give Him?
-
-[living God, Savior of all people, especially those who believe]
-
-> The phrase *Savior of all people, especially of those who believe* can be confusing. What do you think Paul means?
-
-[Universal offer, not universal salvation; available to all, effective for believers; not limited to Jews]
-
-### Key Insights
-
-**Labor and Strive**
-- *Kopiōmen* = wearying toil
-- *Agōnizometha* = contend, fight like an athlete
-- This is **not** a casual spiritual stroll
-
-**Hope on the Living God**
-- Contrast: dead idols vs. the **living** God
-- Not earning favor; responding to relationship
-- External reality, not internal effort
-
-**Savior of All People**
-- Not universalism (everyone saved)
-- Universal availability (offer to all)
-- Actual Savior of those who believe
-- Gospel breaks ethnic/group barriers
-
-### Apply to Today (Discussion: Mind)
-
-> How does fixing our hope on *the living God* empower us to *labor and strive* in godliness, especially when we feel weary or discouraged?
-
-[Possible answers:]
-
-- **Secure Foundation**. hope in unchanging God, not performance/feelings/circumstances
-- **Purpose to Pain**. struggle is meaningful when directed toward a real, living God
-- **Reframes Failure**. the Savior picks us up, forgives, strengthens; not the end
-- **Energizes Us**. hope is powerful fuel; our struggle is not in vain
-
-### Heart Check (Reflection)
-
-> When the spiritual life feels exhausting, where does your hope actually land?
- 
-> Is it fixed on God, or has it drifted to your own performance, others' approval, or favorable circumstances?
-
-*Transition:* Paul has shown that godliness is a priority to train for, and a struggle fueled by hope. Now he explains how this personal pursuit has powerful public impact.
-
-## 3. Godliness Encourages Others
-
-Your personal growth in godliness serves as a powerful example that gives you credibility to teach and lead others.
-
-### Philippians 4:15-20, BSB
-
-> **12** Let no one despise your youth, but set an example for the believers in speech, in conduct, in love, in faith, and in purity. **13** Until I come, devote yourself to the public reading of Scripture, to exhortation, and to teaching. **14** Do not neglect the gift that is in you, which was given you through prophecy when the council of elders laid their hands on you.
-
-> **15** Be diligent in these matters; give yourself wholly to them, so that everyone may see your progress. **16** Watch your life and doctrine closely. Persevere in them, because if you do, you will save both yourself and your hearers.
-
-### Observe & Discuss (Mind)
-
-> Timothy was young in a culture that revered age. What was Paul's solution to this liability?
-
-[Don't argue for authority - demonstrate it through character; be an example]
-
-> What five areas does Paul tell Timothy to be an example in?
-
-[speech, conduct, love, faith, purity - his life is his primary sermon]
-
-> What does Paul want everyone to see (v.15)?
-
-[Timothy's progress - not perfection, but visible growth]
-
-> What two things together that must be watched closely?
-
-[life and doctrine - character and belief, inseparable]
-
-### Key Insights
-
-**Set an Example**
-- *Typos* = pattern or model
-- Five areas: speech, conduct (lifestyle), love (agape), faith (faithfulness), purity
-- Life is the primary sermon
-
-**Public Ministry, Private Gifting**
-- Public: reading Scripture, exhortation, teaching
-- Private: God-given gift, affirmed by community (elders)
-- Ministry flows from internal gifting, not just performance
-
-**Visible Progress**
-- Not projected perfection, but authentic growth
-- Everyone may see your progress - stunning transparency
-- **Illustration:** More inspiring to watch a runner train and improve than hear a retired champion talk about old victories
-
-**Life & Doctrine**
-- Sound doctrine without godly life = hypocrisy
-- Godly life without sound doctrine = rootless, will wither
-- Persevering in both = working out salvation, pointing others to the Savior
-
-### Apply to Today (Discussion: Mind)
-
-> Why is visible *progress* in godliness often more encouraging to others than a projected image of perfection?
-
-[Possible answers:]
-- **Attainable**. progress feels possible; perfection feels impossible
-- **Gospel Power**. perfect person doesn't need grace; growing person proves gospel is real
-- **Builds Trust**. authenticity combats hypocrisy; shows you're a fellow traveler
-- **Creates Safety**. leader's vulnerability invites others to be honest about their struggles
-
-### Heart Check (Reflection)
-
-> Are you hiding behind an image of spiritual strength, or are you letting others see your actual progress? 
-
-> What would it cost you to be more honest about where you're still growing?
+> Where in your life right now are you living like an *orphan* who has to manufacture their own security? What would change if you genuinely believed verse 19 was a functional promise for your current situation?
 
 ## Closing
 
+### Thermostat Illustration
+
+Most of us are *thermometers*. We just reflect the weather of our week. If circumstances are good, we feel settled. If they're bad, we feel undone. We are measuring, not setting.
+
+Paul invites us to become *thermostats*. A thermostat doesn't report the temperature—it *sets* it. Contentment is a character thermostat. We calibrate it to Christ's sufficiency, and our hearts hold there—regardless of what the weather outside is doing. The thermostat doesn't pretend the weather isn't happening; it just refuses to let the weather determine the internal environment.
+
 ### Decision (Will)
 
-**Training Commitment**. Will you commit to train yourself in godliness with the same intentionality you might give to your job, your health, or your hobbies?
+**Building the Fortress**. Will you commit this week to treating contentment as something you *build* through discipline, not something you wait to *feel*?
 
-**Hope Adjustment**. Will you consciously fix your hope on the living God as the fuel for your spiritual life, especially when you feel tired or discouraged?
+**Identifying the Goalpost**. Will you identify one area where you are waiting for circumstances to change before you let yourself be at peace—and choose to trust God's provision there *now*?
+
+**Loosening the Grip**. Will you take one concrete step to let go of something you've been holding for security as an act of trust in verse 19?
 
 ### Challenges (Practice)
 
-**Identify Your Myth**. What is one *pointless myth* or *spiritual distraction* that consumes your time and energy? Plan to have nothing to do with it this week.
+**Enough Statement**. Identify one area of genuine lack or anxiety. Each morning this week, pray specifically: *"Lord, in this area—You are my portion. I have enough."* Track how your internal temperature shifts.
 
-**Schedule Your Gym Time**. Identify one specific spiritual discipline you will train in this week (e.g., prayer, Scripture memory, silence, service). Put it on your calendar, just like you would a workout or an important meeting.
+**Comparison Fast**. Identify one trigger that consistently feeds your discontentment (social media, real estate apps, etc.). Stay away from it for seven days. Observe what cravings surface when the trigger is removed.
 
-**Make Progress Visible**. Choose one person in your life with whom you can be more authentic about your spiritual journey. Share with them one area where you are seeking to grow, and ask them to pray for you.
+**Targeted Generosity**. Give something away—money, time, or a possession—that you have been holding onto for security. Make it specific and intentional.
 
-**Memory Verse**. Memorize 1 Timothy 4:8 – For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come.
+**Memory Verse**. Philippians 4:11. *I have learned to be content regardless of my circumstances.*
 
-### Prayer
+## Prayer
 
-> Heavenly Father,
-
-> We confess that we often chase after pointless things and neglect the simple, powerful call to godliness. We train for everything except the one thing that has value for all things. Forgive us for our misplaced priorities and our spiritual laziness.
-
-> We thank You that our hope is not in our striving, but on You, the living God and our Savior. Energize our weary souls with this hope. Help us to labor and strive, not in our own strength, but in the power that You provide.
-
-s> Let our progress be visible, not for our own glory, but so that others might be encouraged and pointed to Christ. Help us to watch our life and our doctrine closely, and to persevere in them, for our good and for the salvation of those who hear.
-
-> In Jesus' name. Amen.
+> Father, we confess that our hearts are often restless—reaching for peace in what we possess, who we impress, and what we control. Like Paul, initiate us into the secret of contentment. Teach us that we are not victims of our circumstances, but residents of Your kingdom. May we become thermostats, not thermometers. May we find our strength this week not in what we have, but in Who has us. To You be glory forever and ever. Amen.
