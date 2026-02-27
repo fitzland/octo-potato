@@ -1,4 +1,4 @@
-# System Instructions: Bible Study Lesson Workshop
+# Task: Bible Study Lesson Workshop
 
 ## Purpose
 Transform Bible study lesson notes into a Socratic, discovery-based teaching format that guides learners through observation, interpretation, and application while maintaining scannable, concise teaching notes.
@@ -39,7 +39,7 @@ The lesson structure follows a classical pedagogical progression:
 ### Each Main Section Format
 
 ```markdown
-## [Section Number]. [Section Title]
+## [Section Title]
 
 [One-sentence summary of what this section teaches]
 

@@ -31,11 +31,11 @@ Generosity is a joyful overflow of God's grace, modeled by the self-impoverishme
 
 ### Icebreaker
 
-> If someone were to look at your bank statement or credit card bill from last month, what would they conclude is the most important "cause" in your life?
+> If someone were to look at your bank statement or credit card bill from last month, what would they conclude is the most important *cause* in your life?
 
-> When you think about giving a significant amount of money or time away, what is the first "fear" or "calculation" that pops into your head?
+> When you think about giving a significant amount of money or time away, what is the first *fear* or *calculation* that pops into your head?
 
-**Synthesis**. We often view generosity as a "math problem"—we give what is left over after our needs and wants are met. But Paul shows us a church that viewed generosity as a "grace problem." Today we see how a heart gripped by the gospel transforms a reluctant tip into a radical sacrifice.
+**Synthesis**. We often view generosity as a *math problem*—we give what is left over after our needs and wants are met. But Paul shows us a church that viewed generosity as a *grace problem*. Today we see how a heart gripped by the gospel transforms a reluctant tip into a radical sacrifice.
 
 ## Example of Generosity (2 Cor. 8:1–5)
 
@@ -45,23 +45,25 @@ Generosity is a joyful overflow of God's grace, modeled by the self-impoverishme
 
 ### Paradox of the Macedonians (Discussion:Mind)
 
+**Contextual Note**. The *churches of Macedonia* (including Philippi, Thessalonica, and Berea) were located in a region of intense political and social upheaval. Their *deep poverty* wasn't just a lack of luxury; it was likely the result of severe Roman taxation and social persecution (cf. Acts 16:22–24).
+
 In verse 2, Paul combines three things that usually don't go together: *terrible ordeal*, *deep poverty*, and *rich generosity*.
 
 > How can ordeals and poverty produce generosity? What is the missing ingredient?
 
-**Grace**. The missing ingredient is the *grace of God* (v.1). Generosity isn't a byproduct of having a surplus; it’s a byproduct of being satisfied in God. The Macedonians didn't give because they had much; they gave because they *were* much in Christ. Their joy in God was so great that it *overflowed* even when their wallets were empty.
+**Enabling Grace**. The missing ingredient is the *grace of God* (v.1). In Greek, *charis* (grace) is more than just unmerited favor; it is a *divine influence on the heart* and an *enabling power*. Generosity isn't a byproduct of having a surplus; it’s a byproduct of being empowered by God. The Macedonians didn't give because they had much; they gave because they *were* much in Christ.
 
 ### Urgency of the Privilege (Discussion:Mind)
 
-In verse 4, Paul says they earnestly pleaded with us for the privilege of sharing. 
+In verse 4, Paul says they *earnestly pleaded* for the privilege of sharing. The Greek term used here for their willingness is *authairetos*—meaning they were completely *self-motivated*.
 
 > How does this contrast with how we usually view *the offering* or a request for help? Why would they *beg* to give?
 
-**Self-Giving Priority**. They viewed giving as a *grace* (privilege), not a *tax* (obligation). This was possible because they *first gave themselves to the Lord* (v.5). When you realize you belong to God, your possessions become tools for His kingdom rather than life-preservers for your security. They begged to give because they wanted to participate in what God was doing.
+**Jerusalem Connection**. This *service to the saints* was a specific relief fund for the impoverished believers in Jerusalem. By begging to give, these Gentile churches were demonstrating that the Gospel had bridged ethnic and geographical divides. They viewed giving as a *grace* (privilege), not a *tax* (obligation). This was possible because they *first gave themselves to the Lord* (v.5). When you realize you belong to God, your possessions become tools for His kingdom rather than life-preservers for your security.
 
 ### Heart of the Matter (Reflection:Heart)
 
-> Do you view your giving as a *bill to be paid* or a *privilege to be shared*? Is your current level of generosity a reflection of your bank balance or the *internal temperature* of your joy in Christ?
+> Do you view your giving as a *bill to be paid* or a *privilege to be shared*? If grace is an *enabling power*, have you ever asked God to empower your heart to be more generous than your bank account seems to allow?
 
 *Transition*. If the Macedonians are the example, Paul now calls the Corinthians to turn their good intentions into concrete action.
 
@@ -81,7 +83,7 @@ Paul lists several *spiritual* areas where the Corinthians excel (faith, speech,
 
 ### Voluntary Sacrifice (Discussion:Mind)
 
-Paul explicitly says, "I am not saying this as a command" (v.8). 
+Paul explicitly says, "I am not saying this as a command" (v.8).
 
 > Why is it important that generosity is not a *command* or requirement in the New Covenant?
 
@@ -105,7 +107,7 @@ Verse 9 could be called the *Gospel in a single verse*. How does Jesus’ *becom
 
 > What kind of *riches* did He give up, and what kind of *riches* do we receive?
 
-**Self-Impoverishment**. Jesus didn't just *give a gift*; He *became* poor. He traded his heavenly glory for a human cross. This is the *blueprint* for all Christian generosity: it is a voluntary downward mobility for the sake of the upward mobility of others. The *riches* we receive are not financial, but spiritual—adoption, forgiveness, and eternal life.
+**Self-Impoverishment (Kenosis)**. This verse echoes the *emptying* of Christ we studied in *Philippians 2:5–8*. Jesus didn't just *give a gift*; He *became* poor. This is the ultimate example of the principle Jesus praised in the *Widow’s Mite (Luke 21:1–4)*—giving not out of a surplus, but giving all that one has. Jesus traded His heavenly glory for a human cross. This is the *blueprint* for all Christian generosity: it is a voluntary downward mobility for the sake of the upward mobility of others.
 
 ### Power of the Pattern (Discussion:Mind)
 

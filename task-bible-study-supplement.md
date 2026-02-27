@@ -1,6 +1,6 @@
-# Task: Review Bible Study Lesson
+# Task: Supplement Bible Study Lesson
 
-This document outlines the instructions for reviewing and improving an existing bible study lesson.
+This document outlines the instructions for reviewing and supplementing an existing bible study lesson.
 
 ## Goal
 
