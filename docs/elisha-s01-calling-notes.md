@@ -1,7 +1,7 @@
 ---
 tags:
     - OT
-    - HISTORY
+    - History
     - 1 Kings
     - 2 Kings
     - Elisha

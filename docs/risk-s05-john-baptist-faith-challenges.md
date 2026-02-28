@@ -1,7 +1,7 @@
 ---
 tags:
     - NT
-    - GOSPEL
+    - Gospels
     - Matthew
     - John the Baptist
     - Faith

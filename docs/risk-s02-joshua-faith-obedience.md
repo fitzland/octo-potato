@@ -2,7 +2,7 @@
 title: Joshua. Faith Grounded in God's Word
 tags:
     - OT
-    - HISTORY
+    - History
     - Joshua
     - Obedience
     - Faith

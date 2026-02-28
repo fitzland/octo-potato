@@ -2,7 +2,7 @@
 title: Rahab. Faith Over Fear
 tags:
     - OT
-    - HISTORY
+    - History
     - Joshua
     - Rahab
     - Faith

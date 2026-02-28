@@ -2,7 +2,7 @@
 title: Noah. Faith that Pleases God
 tags:
     - OT
-    - LAW
+    - Law
     - Genesis
     - Noah
     - Faith

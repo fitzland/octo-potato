@@ -1,7 +1,7 @@
 ---
 tags:
     - OT
-    - LAW
+    - Law
     - Genesis
     - Joseph
 title: When Life Goes Terribly Wrong

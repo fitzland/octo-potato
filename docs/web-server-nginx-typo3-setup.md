@@ -1,3 +1,9 @@
+---
+title: Setting Up Nginx and TYPO3 CMS on Debian 12
+tags:
+    - Howto
+---
+
 # Setting Up Nginx and TYPO3 CMS on Debian 12
 
 This guide will help you set up nginx and TYPO3 CMS on your headless Debian 12 machine.
@@ -138,7 +144,7 @@ sudo usermod -a -G www-data $USER
 Log out and log back in for the group changes to take effect:
 ```bash
 exit
-# SSH back in
+### SSH back in
 ssh username@your_remote_ip
 ```
 

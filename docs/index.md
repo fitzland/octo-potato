@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Welcome to fitzhugh.us
 
 ## Purpose

@@ -1,7 +1,7 @@
 ---
 tags:
     - OT
-    - HISTORY
+    - History
     - 2 Kings
     - Elisha
 title: God's Hand in Meeting Our Needs

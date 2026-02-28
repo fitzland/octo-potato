@@ -1,7 +1,7 @@
 ---
 tags:
     - NT
-    - HISTORY
+    - History
     - Acts
     - Jesus
     - Disciples

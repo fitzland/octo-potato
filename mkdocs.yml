@@ -8,7 +8,9 @@ nav:
     - 'Elisha Series':
       - 'Session 1: Calling': 'elisha-s01-calling-notes.md'
       - 'Session 2: Needs': 'elisha-s02-needs-notes.md'
-      - 'Session 4: Restoration': 'elisha-s04-restoration-notes.md'
+      - 'Session 4: Restoration':
+        - 'Teaching Notes': 'elisha-s04-restoration-notes.md'
+        - 'Sermon': 'elisha-s04-restoration-sermon.md'
       - 'Session 5: Opposition': 'elisha-s05-opposition-notes.md'
     - 'Matthew 5 Series':
       - 'Salt & Light': 'matt05-salt-light.md'
@@ -24,9 +26,20 @@ nav:
       - 'Rahab: Faith & Courage': 'risk-s03-rahab-faith-courage.md'
       - 'David: Faith & Adversity': 'risk-s04-david-faith-adversity.md'
       - 'John the Baptist: Faith & Challenges': 'risk-s05-john-baptist-faith-challenges.md'
-      - 'Stephen: Faith & Kingdom': 'risk-s06-stephen-faith-kingdom.md'
+      - 'Stephen: Faith & Kingdom':
+        - 'Teaching Notes': 'risk-s06-stephen-faith-kingdom.md'
+        - 'Sermon Script': 'risk-s06-stephen-faith-kingdom-sermon-script.md'
+    - 'Character Series':
+      - 'Session 1: Importance': 'character-s01-2pet01-importance-notes.md'
+      - 'Session 2: Godliness': 'character-s02-1tim04-godliness-notes.md'
+      - 'Session 3: Humility': 'character-s03-phil02-humility-notes.md'
+      - 'Session 4: Contentment': 'character-s04-phil04-contentment-notes.md'
+      - 'Session 5: Generosity': 'character-s05-2cor08-generosity-notes.md'
+      - 'Session 6: Integrity': 'character-s06-1pet03-integrity-notes.md'
     - "Life's Interruptions":
-      - 'Joseph': '2-lifes-interruptions-s02-joseph-notes.md'
+      - 'Joseph':
+        - 'Teaching Notes': '2-lifes-interruptions-s02-joseph-notes.md'
+        - 'Sermon': '2-lifes-interruptions-s02-joseph-sermon.md'
       - 'The Holy Spirit': '2-lifes-interruptions-s05-acts01-notes.md'
   - 'Book Notes':
     - 'Radical Candor': 'book-radical-candor.md'

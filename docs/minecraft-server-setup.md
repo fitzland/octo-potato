@@ -1,6 +1,7 @@
 ---
+title: Setting Up a Minecraft Server on Debian 12
 tags:
-	- howto
+    - Howto
 ---
 
 # Setting Up a Minecraft Server on Debian 12

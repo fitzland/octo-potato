@@ -1,7 +1,7 @@
 ---
 tags:
     - OT
-    - HISTORY
+    - History
     - 2 Kings
     - Elisha
     - Spiritual Warfare

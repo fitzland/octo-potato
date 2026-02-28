@@ -1,11 +1,11 @@
 ---
 title: The Importance of Character
 tags:
-    - NT 
-    - 2 Peter 
-    - Character 
-    - Godliness 
-    - Spiritual Growth 
+    - NT
+    - 2 Peter
+    - Character
+    - Godliness
+    - Spiritual Growth
 ---
 
 # The Importance of Character

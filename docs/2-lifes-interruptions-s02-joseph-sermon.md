@@ -1,7 +1,7 @@
 ---
 tags:
     - OT
-    - LAW
+    - Law
     - Genesis
     - Joseph
     - Sermon

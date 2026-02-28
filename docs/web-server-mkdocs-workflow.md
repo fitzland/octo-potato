@@ -1,6 +1,7 @@
 ---
+title: Workflow for Editing Website (MkDocs)
 tags:
-	- howto
+    - Howto
 ---
 
 # Workflow for Editing Website (MkDocs)

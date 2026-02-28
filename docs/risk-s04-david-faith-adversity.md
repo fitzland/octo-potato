@@ -2,7 +2,7 @@
 title: David. Faith that Meets Adversity
 tags:
     - OT
-    - HISTORY
+    - History
     - 1 Samuel
     - David
     - Faith
