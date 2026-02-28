@@ -1,14 +1,14 @@
 ---
-title: Generosity: The Overflow of Grace
 tags:
     - NT
     - 2 Corinthians
     - Character
     - Generosity
     - Stewardship
+title: Generosity. An Overflow of Grace
 ---
 
-# Generosity: The Overflow of Grace
+# Generosity: An Overflow of Grace
 
 2 Corinthians 8:1–9, BSB
 
