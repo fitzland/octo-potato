@@ -23,7 +23,8 @@ Present the available tasks clearly and do not proceed with any implementation o
 3.  **Simulate a Lesson Walkthrough**: Act as the teacher while you act as the student to test the lesson's flow and engagement. Instructions are in [task-bible-study-walkthrough.md](./task-bible-study-walkthrough.md).
 4.  **Workshop a Lesson (Socratic Shift)**: Transform standard notes into a discovery-based, Socratic teaching format. Instructions are in [task-bible-study-workshop.md](./task-bible-study-workshop.md).
 5.  **Distill Style and DNA**: Analyze your manual edits to my generated lessons to extract and "lock in" your personal stylistic preferences. Instructions are in [task-style-distillation.md](./task-style-distillation.md).
-6.  **MkDocs Website Maintenance**: Maintain structural integrity, navigation, and tags for the MkDocs website. Instructions are in [task-mkdocs-maintenance.md](./task-mkdocs-maintenance.md).
+6.  **MkDocs Website Maintenance (mwm)**: Maintain structural integrity, navigation, and tags for the MkDocs website. Instructions are in [task-mkdocs-maintenance.md](./task-mkdocs-maintenance.md).
+7.  **Format Bible Study Lesson**: Audit and apply standard formatting and structural rules to an existing lesson. Instructions are in [task-bible-study-format.md](./task-bible-study-format.md).
 
 ## Formatting Standards
 
