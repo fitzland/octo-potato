@@ -8,7 +8,7 @@ tags:
 title: Generosity. An Overflow of Grace
 ---
 
-# Generosity: An Overflow of Grace
+# Generosity. An Overflow of Grace
 
 2 Corinthians 8:1–9, BSB
 
@@ -31,7 +31,7 @@ Generosity is a joyful overflow of God's grace, modeled by the self-impoverishme
 
 ### Icebreaker
 
-> If someone were to look at your bank statement or credit card bill from last month, what would they conclude is the most important *cause* in your life?
+> If someone were to look at your bank statement or credit card bill, what would they conclude is the most important *cause* in your life?
 
 > When you think about giving a significant amount of money or time away, what is the first *fear* or *calculation* that pops into your head?
 
@@ -51,13 +51,13 @@ In verse 2, Paul combines three things that usually don't go together: *terrible
 
 > How can ordeals and poverty produce generosity? What is the missing ingredient?
 
-**Enabling Grace**. The missing ingredient is the *grace of God* (v.1). In Greek, *charis* (grace) is more than just unmerited favor; it is a *divine influence on the heart* and an *enabling power*. Generosity isn't a byproduct of having a surplus; it’s a byproduct of being empowered by God. The Macedonians didn't give because they had much; they gave because they *were* much in Christ.
+**Enabling Grace**. The missing ingredient is the *grace of God* (v.1). In Greek, *charis* (grace) is more than just unmerited favor; it is a *divine influence on the heart* and an *enabling power*. Generosity isn't a byproduct of having a *surplus*; it’s a byproduct of being *graced* by God. The Macedonians didn't give because they had much; they gave because they were *empowered* in Christ.
 
 ### Urgency of the Privilege (Discussion:Mind)
 
 In verse 4, Paul says they *earnestly pleaded* for the privilege of sharing. The Greek term used here for their willingness is *authairetos*—meaning they were completely *self-motivated*.
 
-> How does this contrast with how we usually view *the offering* or a request for help? Why would they *beg* to give?
+> How does this contrast with how we usually view *an offering* or a request for help? Why would they *beg* to give?
 
 **Jerusalem Connection**. This *service to the saints* was a specific relief fund for the impoverished believers in Jerusalem. By begging to give, these Gentile churches were demonstrating that the Gospel had bridged ethnic and geographical divides. They viewed giving as a *grace* (privilege), not a *tax* (obligation). This was possible because they *first gave themselves to the Lord* (v.5). When you realize you belong to God, your possessions become tools for His kingdom rather than life-preservers for your security.
 
