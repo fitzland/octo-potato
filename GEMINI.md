@@ -25,6 +25,7 @@ Present the available tasks clearly and do not proceed with any implementation o
 5.  **Distill Style and DNA**: Analyze your manual edits to my generated lessons to extract and "lock in" your personal stylistic preferences. Instructions are in [task-style-distillation.md](./task-style-distillation.md).
 6.  **MkDocs Website Maintenance (mwm)**: Maintain structural integrity, navigation, and tags for the MkDocs website. Instructions are in [task-mkdocs-maintenance.md](./task-mkdocs-maintenance.md).
 7.  **Format Bible Study Lesson**: Audit and apply standard formatting and structural rules to an existing lesson. Instructions are in [task-bible-study-format.md](./task-bible-study-format.md).
+8.  **Research Lesson Context**: Provide deep historical, cultural, or theological background for specific topics or entities in a lesson. Instructions are in [lesson-background-research/SKILL.md](./lesson-background-research/SKILL.md).
 
 ## Formatting Standards
 

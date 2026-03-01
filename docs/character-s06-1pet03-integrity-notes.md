@@ -35,7 +35,7 @@ Integrity is a consistent, Christ-centered posture that responds to hostility wi
 
 > Have you ever been in a situation where doing the "right thing" or speaking the "truth" actually cost you something—a friendship, a job, or your reputation? Was it worth the cost?
 
-**Synthesis**. Integrity is often defined as "doing the right thing when no one is looking." But Peter takes it further: integrity is "doing the right thing when everyone is looking and they don't like what they see." Today we look at how to build a character so stable that it remains "above reproach" even in a hostile culture.
+**Synthesis**. Integrity is often defined as "doing the right thing when no one is looking." But for Peter’s audience—believers in the *Diaspora* facing social ostracization—integrity was "doing the right thing when everyone is looking and waiting for you to fail." Today we look at how to build a character so stable that it remains "above reproach" even in a hostile culture.
 
 ## Internal Culture of Integrity (1 Pet. 3:8–12)
 
@@ -43,17 +43,23 @@ Integrity is a consistent, Christ-centered posture that responds to hostility wi
 
 > **8** Finally, all of you, be like-minded, sympathetic, love as brothers, be tenderhearted and humble. **9** Do not repay evil with evil or insult with insult, but with blessing, because to this you were called so that you may inherit a blessing. **10** For, "Whoever would love life and see good days must keep his tongue from evil and his lips from deceitful speech. **11** He must turn from evil and do good; he must seek peace and pursue it. **12** For the eyes of the Lord are on the righteous and His ears are attentive to their prayer, but the face of the Lord is against those who do evil."
 
+### Context & Insights
+
+- **Communal Harmony (*Homophron*)**. Integrity is not just an individual pursuit; it is tied to the harmony of the "brotherhood" (v.8). Being *like-minded* implies that our personal character is validated by how we treat one another.
+- **Speaking Well (*Eulogeo*)**. To *bless* (v.9) literally means to "speak well of." Integrity involves refusing to let an opponent's evil dictate the quality of your speech or the posture of your heart.
+- **The Davidic Blueprint**. When Peter quotes verses 10–12, he is citing **Psalm 34**. David wrote this while fleeing from Saul—a king who had the position of power but lacked the integrity of character. Peter uses David’s survival strategy (keeping the tongue from evil) as the blueprint for Christian endurance in a hostile world.
+
 ### Five Marks of Integrity (Discussion:Mind)
 
 > In verse 8, Peter lists five qualities (like-minded, sympathetic, brotherly love, tenderhearted, humble). Which of these is most missing in our current cultural "integrity"? Why is "humility" essential for "like-mindedness"?
 
-**Relational Character**. Integrity isn't just about "not lying"; it's about how we "treat each other." You can't be "like-minded" if you are full of "self-importance." Humility is the soil in which all other relational virtues grow. Integrity starts in the community of believers before it can be a witness to the world.
+**Relational Character**. Integrity isn't just about "not lying"; it's about how we *treat each other*. You can't be *like-minded* if you are full of self-importance. Humility is the soil in which all other relational virtues grow. Integrity starts in the community of believers before it can be a witness to the world.
 
 ### Blessing instead of Retaliation (Discussion:Mind)
 
 > Verse 9 gives a radical command: "Do not repay evil with evil... but with blessing." Why is it so hard to respond with "blessing" when we are "insulted"? How does our "calling" to inherit a blessing change our response to insults?
 
-**Gospel-Powered Response**. Our natural instinct is to "even the score." But if we believe we have already "inherited a blessing" from God, we don't have to "fight" for our own honor. Integrity is the ability to stay calm and kind when you are being attacked, because your value is already secure in Christ. We "bless" because we are "blessed."
+**Gospel-Powered Response**. Our natural instinct is to "even the score." But if we believe we have already *inherited a blessing* from God, we don't have to fight for our own honor. Integrity is the ability to stay calm and kind when you are being attacked, because your value is already secure in Christ. We *bless* because we are *blessed*.
 
 ### Tongue Check (Reflection:Heart)
 
@@ -67,17 +73,23 @@ Integrity is a consistent, Christ-centered posture that responds to hostility wi
 
 > **13** Who will harm you if you are zealous for what is good? **14** But even if you should suffer for what is right, you are blessed. "Do not fear their threats; do not be frightened." **15** But in your hearts sanctify Christ as Lord.
 
+### Context & Insights
+
+- **Set Apart (*Hagiazo*)**. To *sanctify* Christ as Lord (v.15) means to "set Him apart" as the sole, undivided authority in your heart. Integrity is the byproduct of having a single center of devotion that outweighs all external pressures.
+- **Fear Displacement**. Verse 14 quotes **Isaiah 8:12–13**. Integrity fails when we are *frightened*. If we fear what people can do to us, we will compromise our character to protect ourselves. We overcome the fear of man by "fearing God"—making Him the "biggest thing" in our internal world.
+- **The Paradox of Blessing**. In the world’s economy, "blessing" means avoiding suffering. In God’s economy, "blessing" is being identified with Christ even in pain. Integrity means being more concerned with *doing right* than *feeling good*.
+
 ### Fear vs. Sanctification (Discussion:Mind)
 
-> Peter quotes Isaiah 8:12–13: "Do not fear their threats... But in your hearts sanctify Christ as Lord." What is the relationship between "fearing people" and "sanctifying Christ"? How does making Christ "Lord" in your heart kill the "fear" of threats?
+> What is the relationship between "fearing people" and "sanctifying Christ"? How does making Christ "Lord" in your heart kill the "fear" of threats?
 
-**The Bigger Reality**. Integrity fails when we are "frightened." If we fear what people can do to us, we will compromise our character to protect ourselves. "Sanctifying Christ as Lord" means making Him the "biggest thing" in our internal world. When Christ is truly Lord, the "threats" of men become small in comparison to His sovereignty. Integrity is "fearing God" so much that you "fear nothing else."
+**The Bigger Reality**. When Christ is truly Lord, the "threats" of men become small in comparison to His sovereignty. Integrity is "fearing God" so much that you "fear nothing else."
 
 ### Suffering for What is Right (Discussion:Mind)
 
 > Why does Peter say we are "blessed" if we "suffer for what is right"? How does this challenge our definition of a "blessed life"?
 
-**Ultimate Vindication**. In the world’s economy, "blessing" means "avoiding suffering." In God’s economy, "blessing" is "participation in Christ's sufferings" (v.18). Integrity means being more concerned with "doing right" than "feeling good." The "blessing" is the "clear conscience" (v.16) and the "eyes of the Lord" (v.12) watching over us.
+**Ultimate Vindication**. The "blessing" is the *clear conscience* (v.16) and the *eyes of the Lord* (v.12) watching over us. Our integrity ensures that if we suffer, it is for the sake of the Gospel and not for our own failures.
 
 ### Anchor Check (Reflection:Heart)
 
@@ -91,17 +103,23 @@ Integrity is a consistent, Christ-centered posture that responds to hostility wi
 
 > **15** Always be prepared to give a defense to everyone who asks you the reason for the hope that is in you. But do this with gentleness and respect, **16** keeping a clear conscience, so that those who speak maliciously against your good conduct in Christ may be ashamed of their slander. **17** For it is better, if it is God's will, to suffer for doing good than for doing evil.
 
+### Context & Insights
+
+- **Disciplined Readiness (*Hetoimos*)**. Being *ready* (v.15) is not just about having the right information; it is a facet of a disciplined, honest life. Integrity means our lifestyle provides the "opening" for our words.
+- **Strength Under Control (*Praus*)**. *Gentleness* is often translated as "meekness," but it literally means "strength under control." Integrity is not fragile; it is powerful enough to remain calm and respectful even under slander.
+- **The Shield of Conscience**. Integrity acts like a *polished shield*. When the world throws mud (slander) at a clean, consistent surface, the mud eventually falls off, exposing the slanderer’s own lack of character (v.16).
+
 ### Reason for the Hope (Discussion:Mind)
 
 > Peter assumes people will "ask you the reason for the hope that is in you." What does this imply about the "visible integrity" of a Christian? If no one is asking you for a "reason," what might that say about your "hope"?
 
-**Visible Difference**. Our integrity should be "loud enough" that it provokes curiosity. If we live exactly like the world—fearful, greedy, and retaliatory—no one will ever ask why we are "different." The "defense" (*apologia*) is not a "debate"; it is an "explanation" for a life that doesn't make sense without Jesus.
+**Visible Difference**. Our integrity should be "loud enough" that it provokes curiosity. If we live exactly like the world—fearful, greedy, and retaliatory—no one will ever ask why we are "different." The "defense" (*apologia*) is not a debate; it is an explanation for a life that doesn't make sense without Jesus.
 
 ### Gentleness and Respect (Discussion:Mind)
 
 > Why does Peter insist on "gentleness and respect" when we are giving our "defense"? How does a "harsh" or "disrespectful" defense actually undermine our "integrity"?
 
-**Medium as the Message**. You can't "defend the Gospel" with "the weapons of the world." If we win an argument but lose our "integrity" (by being rude or arrogant), we have failed. Our "gentleness" is the proof that we trust God to "vindiate us" (v.16). Integrity means our "manner" matches our "message."
+**Medium as the Message**. You can't defend the Gospel with the weapons of the world. If we win an argument but lose our integrity (by being rude or arrogant), we have failed. Our *gentleness* is the proof that we trust God to vindicate us. Integrity means our *manner* matches our *message*.
 
 ### Clear Conscience (Reflection:Heart)
 
@@ -109,9 +127,9 @@ Integrity is a consistent, Christ-centered posture that responds to hostility wi
 
 ## Closing
 
-### The Mirror of Integrity
+### The Polished Shield
 
-In this series, we've looked at character as a **fortress** (Contentment) and an **overflow** (Generosity). Integrity is like a **mirror**. It reflects Christ to the world, but if the mirror is "cracked" by hypocrisy or "clouded" by fear, the image of Christ is distorted. Integrity is "polishing the mirror" so that our "good conduct in Christ" (v.16) is what people see.
+In this series, we've looked at character as a **fortress** (Contentment) and an **overflow** (Generosity). Integrity is like a **mirror** and a **shield**. It reflects Christ to the world, but it also protects the Gospel from being discredited. Integrity is "polishing the surface" so that when slander is thrown, it doesn't stick. When we live above reproach, our conduct eventually shames the malice of the world.
 
 ### Decision (Will)
 
