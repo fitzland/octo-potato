@@ -1,14 +1,14 @@
 ---
-title: Pursuit of Contentment
 tags:
     - NT
     - Philippians
     - Character
     - Contentment
     - Spiritual Discipline
+title: Contentment. Satisfaction in Christ
 ---
 
-# Contentment: Find Satisfaction in Christ
+# Contentment. Satisfaction in Christ
 
 Philippians 4:10–20, BSB
 

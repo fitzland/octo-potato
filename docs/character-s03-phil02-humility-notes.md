@@ -1,13 +1,13 @@
 ---
-title: Humility
 tags:
     - NT
     - Philippians
     - Humility
     - Character
+title: Humility. Consider Needs of Others
 ---
 
-# Humility
+# Humility. Consider Needs of Others
 
 Philippians 2:1-11, BSB
 

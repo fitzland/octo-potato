@@ -1,14 +1,14 @@
 ---
-title: Pursuit of Godliness
 tags:
     - NT
     - 1 Timothy
     - Character
     - Godliness
     - Spiritual Discipline
+title: Godliness. Point Others to Christ
 ---
 
-# Pursuit of Godliness
+# Godliness. Point Others to Christ
 
 1 Timothy 4:6-16, BSB
 

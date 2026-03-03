@@ -1,14 +1,14 @@
 ---
-title: The Importance of Character
 tags:
     - NT
     - 2 Peter
     - Character
     - Godliness
     - Spiritual Growth
+title: Importance of Character
 ---
 
-# The Importance of Character
+# Importance of Character
 
 2 Peter 1:1-11, BSB
 

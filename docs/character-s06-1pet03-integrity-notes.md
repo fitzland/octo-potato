@@ -1,11 +1,11 @@
 ---
-title: Integrity: Living Above Reproach
 tags:
     - NT
     - 1 Peter
     - Character
     - Integrity
     - Apologetics
+title: Integrity. Living Above Reproach
 ---
 
 # Integrity: Living Above Reproach
@@ -31,11 +31,11 @@ Integrity is a consistent, Christ-centered posture that responds to hostility wi
 
 ### Icebreaker
 
-> If you had a hidden camera follow you for 24 hours, what "secret ingredient" of your character would be most obvious? What "ingredient" would be surprisingly missing?
+> If you had a hidden camera follow you for 24 hours, what *secret ingredient* of your character would be most obvious? What *ingredient* would be surprisingly missing?
 
-> Have you ever been in a situation where doing the "right thing" or speaking the "truth" actually cost you something—a friendship, a job, or your reputation? Was it worth the cost?
+> Have you ever been in a situation where doing the *right thing* or speaking the *truth* actually cost you something—a friendship, a job, or your reputation? Was it worth the cost?
 
-**Synthesis**. Integrity is often defined as "doing the right thing when no one is looking." But for Peter’s audience—believers in the *Diaspora* facing social ostracization—integrity was "doing the right thing when everyone is looking and waiting for you to fail." Today we look at how to build a character so stable that it remains "above reproach" even in a hostile culture.
+**Synthesis**. Integrity is often defined as doing the right thing when no one is looking. But for Peter’s audience—believers in the *Diaspora* facing social ostracization—integrity was doing the right thing when everyone is looking and waiting for you to fail. Today we look at how to build a character so stable that it remains *above reproach* even in a hostile culture.
 
 ## Internal Culture of Integrity (1 Pet. 3:8–12)
 
