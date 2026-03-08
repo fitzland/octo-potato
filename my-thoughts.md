@@ -1,53 +1,17 @@
-# Character. Contentment
-**Passage**. Philippians 4:10–20
+# Limited Resources, Limitless God
 
-DEFINING CONTENTMENT
-Contentment is a noun defined as “feelings
-of happiness in one’s situation in life.”
-Defining contentment is helpful, but knowing
-its antonym—discontentment—is even
-more beneficial. Discontentment can be
-defined as a noun, verb, or adjective. As a
-noun, discontent “describes a restless desire
-or craving for something one does not have.”
-As a verb, discontent is to “make dissatisfied,
-displeased.” As an adjective, discontent means
-showing or experiencing dissatisfaction, a
-restless longing for something better.
+Our culture has often touted the virtues and value of the self-reliant individual. We may not use the old cliches of “the self-made man” or “pulling yourself up by your own bootstraps,” but we still admire and often seek to emulate such people. Reality hits us in the face, though, and we discover that in one way or another, we fall short of being our best and being the people God calls us to be. God never intended us to stand alone but to rely on Him. When we look to Him, we discover that our all-gracious and limitless God is more than enough to help us live life to the fullest.
 
-CONTENTMENT IN THE MIND
-In Paul’s letter to the Philippians, he wrote,
-“Finally brothers and sisters, whatever is
-true, whatever is honorable, whatever is just,
-whatever is pure, whatever is lovely, whatever is
-commendable—if there is any moral excellence
-and if there is anything praiseworthy—dwell
-on these things” (Phil. 4:8). Just a few verses
-later, Paul spoke about how he had learned
-contentment. Perhaps Paul learned that the state
-of contentment was related to the command he
-delivered to the church of what to dwell on.
+This study will encourage us to give what little we have to God and exercise faith that He will honor the gift and supply our needs.
 
-CONTENTMENT IN SPEECH
-Colossians 4:6 reminds us that our speech is
-to be seasoned with salt. How you speak to
-and about people is critical for the discipline
-of contentment. If you are quick to criticize
-and have difficulty speaking graciously with
-others, the seeds of discontentment will flourish.
-However, you practice contentment by letting
-all your speech be gracious. A good experiment
-would be to set one day aside and commit to
-only speaking well and graciously of others in
-person and on social media.
+Session 1. When Your Faith Falls Short (Matthew 17:14-20) A faith that looks to Jesus is a powerful faith. OPENING QUESTION: What causes you to slip and fall? 
 
-CONTENTMENT IN CHRIST
-One of the reasons Paul stressed his learned
-contentment was that he was celebrating the
-concern and care the Philippian church had for
-him. The catch is he was celebrating from prison.
-While he was confined, the walls around him did
-not imprison his identity. His identity was fixed
-in Christ, not his circumstances. Dream of doing
-big things for God but refuse to wed who you are
-with what does or does not get accomplished.
+Session 2. When Your Circumstances Fall Short (2 Corinthians 1:8-10; 12:6-10) God’s grace will sustain you through life’s circumstances. Opening Question: Why are most people afraid of spiders and insects?
+
+Session 3. When Your Understanding Falls Short (Luke 1:26-38) God can do great things through you. OPENING QUESTION: What happens when a piece is left out of a build-it-yourself project? 
+
+Session 4. When Your Provisions Fall Short (1 Kings 17:5-16) God provides what you need when you need it. Opening Question: What do you wish happened more quickly?
+
+Session 5. When Your Finances Fall Short (Luke 12:13-21; 21:1-4) Trust in God is far richer than financial prosperity. OPENING QUESTION: What causes people to stress about money?
+
+Session 6. When Your Confidence Falls Short (1 John 3:21–4:6) We can stand victoriously because of Christ. OPENING QUESTION: Why is it important to be refreshed with sleep? 

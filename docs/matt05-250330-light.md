@@ -1,7 +1,7 @@
 ---
 tags:
     - NT
-    - GospelsS
+    - Gospels
     - Matthew
     - Jesus
     - SotM
