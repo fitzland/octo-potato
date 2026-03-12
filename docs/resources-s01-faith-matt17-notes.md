@@ -60,15 +60,15 @@ When we rely on our past experiences or our own "spiritual resume" rather than i
 
 ### Engaging the Mind
 
-> **The Request.** Why did the father come to Jesus, and what does his posture reveal about his state of mind? [He knelt before Him, showing desperation and reverence for Jesus' authority after the disciples failed.]
+> **Request.** Why did the father come to Jesus, and what does his posture reveal about his state of mind? [He knelt before Him, showing desperation and reverence for Jesus' authority after the disciples failed.]
 >
-> **The Failure.** What was the result of the disciples' attempt to heal the boy? [They could not heal him.] Why is it significant that this failure happened publicly? [It highlighted the gap between their association with Jesus and their actual spiritual power at that moment; it tested the father's hope.]
+> **Failure.** What was the result of the disciples' attempt to heal the boy? [They could not heal him.] Why is it significant that this failure happened publicly? [It highlighted the gap between their association with Jesus and their actual spiritual power at that moment; it tested the father's hope.]
 >
-> **The Context.** Where had Jesus and the three disciples just come from? [The mountain of the Transfiguration.] What does this transition tell us about the pattern of Christian life?
+> **Context.** Where had Jesus and the three disciples just come from? [The mountain of the Transfiguration.] What does this transition tell us about the pattern of Christian life?
 >
-> **The Condition.** What specific condition did the son have? How does the description "often falls into the fire or into the water" help us understand the severity?
+> **Condition.** What specific condition did the son have? How does the description "often falls into the fire or into the water" help us understand the severity?
 >
-> **The First Stop.** Where did the father go first before coming to Jesus? Why might he have done that? [He went to the disciples first—perhaps because they were more accessible, or because he expected them to have the power since they followed Jesus.]
+> **First Stop.** Where did the father go first before coming to Jesus? Why might he have done that? [He went to the disciples first—perhaps because they were more accessible, or because he expected them to have the power since they followed Jesus.]
 
 ### Engaging the Affections (Heart Check)
 
@@ -100,15 +100,15 @@ Jesus' frustration isn't with the suffering boy, but with the persistent lack of
 
 ### Engaging the Mind
 
-> **The Frustration.** Why do you think Jesus responded with such sharp frustration ("How long must I put up with you?")? [He was lamenting their persistent lack of faith despite witnessing His power and teaching; He was looking toward His departure and their need to be ready.]
+> **Frustration.** Why do you think Jesus responded with such sharp frustration ("How long must I put up with you?")? [He was lamenting their persistent lack of faith despite witnessing His power and teaching; He was looking toward His departure and their need to be ready.]
 >
-> **The Contrast.** What did Jesus do immediately after His rebuke? [He healed the boy instantly.] What does this reveal about Jesus' character even when He is frustrated? [His compassion and power are not hindered by His righteous frustration; He is always ready to help the desperate.]
+> **Contrast.** What did Jesus do immediately after His rebuke? [He healed the boy instantly.] What does this reveal about Jesus' character even when He is frustrated? [His compassion and power are not hindered by His righteous frustration; He is always ready to help the desperate.]
 >
-> **The Questions.** What two questions did Jesus ask in His rebuke? ["How long must I remain with you?" and "How long must I put up with you?"]
+> **Questions.** What two questions did Jesus ask in His rebuke? ["How long must I remain with you?" and "How long must I put up with you?"]
 >
-> **The Meaning.** What does "unbelieving and perverse generation" mean? Who is Jesus addressing—the disciples specifically or the broader culture? [Both—the disciples were part of the "unbelieving" environment around them.]
+> **Meaning.** What does "unbelieving and perverse generation" mean? Who is Jesus addressing—the disciples specifically or the broader culture? [Both—the disciples were part of the "unbelieving" environment around them.]
 >
-> **The Command.** Why did Jesus say "bring the boy here to Me" instead of giving the disciples another chance? [He wanted to demonstrate that power comes from Himself, not from the disciples' efforts; He was the source of healing.]
+> **Command.** Why did Jesus say "bring the boy here to Me" instead of giving the disciples another chance? [He wanted to demonstrate that power comes from Himself, not from the disciples' efforts; He was the source of healing.]
 
 ### Engaging the Affections (Heart Check)
 
@@ -141,17 +141,17 @@ Real power doesn't come from the size of our faith, but from the size of the God
 
 ### Engaging the Mind
 
-> **The Answer.** What was the core reason for the disciples' failure? [So little faith.] Does Jesus imply that they had *no* faith? [No, but it was "poverty-stricken"—perhaps misplaced or disconnected from immediate dependence on God.]
+> **Answer.** What was the core reason for the disciples' failure? [So little faith.] Does Jesus imply that they had *no* faith? [No, but it was "poverty-stricken"—perhaps misplaced or disconnected from immediate dependence on God.]
 >
-> **The Seed.** What does the comparison to a *mustard seed* teach us about the nature of faith? [It's not about the quantity of faith, but the quality and object of it. Even "tiny" living faith is powerful because it connects to an infinite God.]
+> **Seed.** What does the comparison to a *mustard seed* teach us about the nature of faith? [It's not about the quantity of faith, but the quality and object of it. Even "tiny" living faith is powerful because it connects to an infinite God.]
 >
-> **The Mountain.** What does "moving mountains" represent in this context? [Overcoming impossible obstacles through God's power.]
+> **Mountain.** What does "moving mountains" represent in this context? [Overcoming impossible obstacles through God's power.]
 >
-> **The Setting.** Where did the disciples ask their question? Why might that matter? [Privately—suggests embarrassment and genuine desire to understand what went wrong with the mechanics of their faith.]
+> **Setting.** Where did the disciples ask their question? Why might that matter? [Privately—suggests embarrassment and genuine desire to understand what went wrong with the mechanics of their faith.]
 >
-> **The Promise.** What exactly did Jesus say faith the size of a mustard seed could do? [Move mountains—"nothing will be impossible for you."]
+> **Promise.** What exactly did Jesus say faith the size of a mustard seed could do? [Move mountains—"nothing will be impossible for you."]
 >
-> **The Literal?** Is Jesus talking about literal mountains or metaphorical obstacles? [Metaphorical—the Jewish context used "moving mountains" as a metaphor for the impossible.]
+> **Literal?** Is Jesus talking about literal mountains or metaphorical obstacles? [Metaphorical—the Jewish context used "moving mountains" as a metaphor for the impossible.]
 
 ### Engaging the Affections (Heart Check)
 

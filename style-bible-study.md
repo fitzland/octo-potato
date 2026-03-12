@@ -14,7 +14,8 @@ Instead of separating all observations from all interpretations, pair them in lo
 - **The "Why/How" (Interpretation):** Immediately follow with a question that explores the significance, logic, or principle behind those facts.
 
 **Formatting for Questions:**
-- Use a **Bold Keyword** at the start of a question cluster (e.g., `> **The List.**`).
+- Use a **Bold Keyword** at the start of a question cluster (e.g., `> **Request.**`).
+- **Do NOT use "The"** at the start of question topic indicators (e.g., use **Request** not **The Request**; **Context** not **The Context**).
 - Use *Italics* for thematic emphasis or "linchpin" words within questions.
 - Provide brief, bracketed answers `[like this]` immediately following the relevant question.
 
