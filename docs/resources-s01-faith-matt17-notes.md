@@ -86,8 +86,6 @@ Jesus' frustration isn't with the suffering boy, but with the persistent lack of
 
 > **17** “O unbelieving and perverse generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy here to Me.” **18** Then Jesus rebuked the demon, and it came out of the boy, and he was healed from that moment.
 
-### Context & Insights
-
 - **Sharp Rebuke**. Jesus' words—"unbelieving and perverse"—are strong. "Perverse" literally means *twisted* or *turned away*. He isn't just frustrated with the twelve; He is lamenting a whole culture that has "inhaled" spiritual blindness.
 
 - **Connecting the Dots**. Just moments earlier (vv. 10-13), Jesus spoke of how the generation failed to recognize John the Baptist (Elijah). The disciples' inability to heal the boy was part of that same "unbelieving" atmosphere. They were behaving like the very world they were called to transform.
@@ -95,8 +93,6 @@ Jesus' frustration isn't with the suffering boy, but with the persistent lack of
 - **Divine Lament**. "How long must I put up with you?" reveals the "weight" Jesus felt. As the Son of God, He is surrounded by the very thing He came to cure: unbelief. His frustration is a righteous grief over the slow spiritual growth of His followers.
 
 - **Immediate Solution**. Notice the command: "Bring the boy here to Me." Jesus doesn't wait for the disciples to "get it right" before acting. He moves directly into the mess and provides the healing that others couldn't.
-
-### Engaging the Mind
 
 > **Frustration.** Why do you think Jesus responded with such sharp frustration ("How long must I put up with you?")? [He was lamenting their persistent lack of faith despite witnessing His power and teaching; He was looking toward His departure and their need to be ready.]
 >
@@ -108,7 +104,7 @@ Jesus' frustration isn't with the suffering boy, but with the persistent lack of
 >
 > **Command.** Why did Jesus say "bring the boy here to Me" instead of giving the disciples another chance? [He wanted to demonstrate that power comes from Himself, not from the disciples' efforts; He was the source of healing.]
 
-### Engaging the Affections (Heart Check)
+### God's Silence (Heart)
 
 > When you sense God's "silence" or feel a rebuke from His Word regarding your spiritual progress, does it drive you *to* Him in desperation or *away* from Him in shame?
 >
@@ -127,8 +123,6 @@ Real power doesn't come from the size of our faith, but from the size of the God
 > **19** Afterward the disciples came to Jesus privately and asked, “Why couldn't we drive it out?”
 > **20** “Because you have so little faith,” He answered. “For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”
 
-### Context & Insights
-
 - **Private Inquiry**. The disciples were likely embarrassed. They had cast out demons before. They wanted to know what went wrong with the "mechanics" of their faith.
 
 - **"So Little Faith"**. The Greek word *oligopistia* refers to a "poverty of faith." It's not that they had *no* faith, but that their faith was insufficient for the task—perhaps because it had become a ritual or relied on their own past success.
@@ -136,8 +130,6 @@ Real power doesn't come from the size of our faith, but from the size of the God
 - **Living Seed**. A mustard seed was the smallest seed known to the people of that time. But Jesus' point isn't just that it's *small*; it's that it is *alive*. A tiny seed contains the DNA of life. A "dead" faith, no matter how large and ritualistic it looks, can't move anything. A "living" faith, however small, connects to the limitless power of God.
 
 - **Moving Mountains**. This was a common Jewish metaphor for doing the "impossible" or solving incredibly difficult problems. Jesus isn't promising us "magic powers" to change topography, but spiritual power to overcome obstacles that stand in the way of God's work.
-
-### Engaging the Mind
 
 > **Answer.** What was the core reason for the disciples' failure? [So little faith.] Does Jesus imply that they had *no* faith? [No, but it was "poverty-stricken"—perhaps misplaced or disconnected from immediate dependence on God.]
 >
@@ -151,7 +143,7 @@ Real power doesn't come from the size of our faith, but from the size of the God
 >
 > **Literal?** Is Jesus talking about literal mountains or metaphorical obstacles? [Metaphorical—the Jewish context used "moving mountains" as a metaphor for the impossible.]
 
-### Engaging the Affections (Heart Check)
+### Feeling Great Faith (Heart)
 
 > Are you currently waiting for a "feeling" of great faith before you obey, or will you trust that even your smallest "living" seed of faith is enough to move God's hand?
 >
@@ -177,6 +169,7 @@ Jesus doesn't just *teach* about faith moving mountains; He *lives* a life where
 ## Closing
 
 ### Synthesis. Dead Battery
+
 Imagine a massive truck with a powerful engine, but a dead battery. It doesn't matter how big the truck is; it’s not going anywhere. Faith is like the "connection" that allows the power of the engine (God) to flow into the vehicle (our lives). Even a small, thin wire can carry enough current to start the engine if the connection is solid. Our problem isn't usually that we don't have a "big enough" life; it's that our connection to the source is corroded by self-reliance.
 
 ### Engaging the Will (Decision)
@@ -194,7 +187,7 @@ Imagine a massive truck with a powerful engine, but a dead battery. It doesn't m
 
 > Heavenly Father,
 >
-> We confess that we often "fall into the fire" because we try to stand on our own strength. Forgive us for our spiritual poverty and our "so little faith." We thank You that Your power is not limited by our inadequacy. 
+> We confess that we often "fall into the fire" because we try to stand on our own strength. Forgive us for our spiritual poverty and our "so little faith." We thank You that Your power is not limited by our inadequacy.
 >
 > Help us to stop looking at the size of our mountains and start looking at the size of our Savior. Give us a "mustard seed" faith—living, growing, and firmly planted in the person of Jesus Christ. Move the obstacles in our lives that hinder Your glory, and teach us to depend on You in the valleys just as much as on the mountaintops.
 >
