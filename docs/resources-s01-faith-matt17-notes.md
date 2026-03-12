@@ -6,27 +6,25 @@ tags:
     - Healing
     - Discipleship
     - Limited Resources
-title: When Your Faith Falls Short
+title: Resources. Faith Falls Short
 ---
 
-# When Your Faith Falls Short
+# Limited Resources. Faith Falls Short
 
 Matthew 17:14-20, BSB
 
 ## Introduction
 
-### Series Overview
-
-For the next six weeks, we are in a series titled **Limited Resources, Limitless God**.
+### Series. Limited Resources, Limitless God
 
 | Session | Topic | Scripture |
 | :--- | :--- | :--- |
-| **Session 1** | **When Your Faith Falls Short** | **Matthew 17:14-20** |
-| Session 2 | When Your Circumstances Fall Short | 2 Corinthians 1:8-10; 12:6-10 |
-| Session 3 | When Your Understanding Falls Short | Luke 1:26-38 |
-| Session 4 | When Your Provisions Fall Short | 1 Kings 17:5-16 |
-| Session 5 | When Your Finances Fall Short | Luke 12:13-21; 21:1-4 |
-| Session 6 | When Your Confidence Falls Short | 1 John 3:21–4:6 |
+| **1** | **Faith Falls Short** | **Matthew 17:14-20** |
+| 2 | Circumstances Fall Short | 2 Corinthians 1:8-10; 12:6-10 |
+| 3 | Understanding Falls Short | Luke 1:26-38 |
+| 4 | Provisions Fall Short | 1 Kings 17:5-16 |
+| 5 | Finances Fall Short | Luke 12:13-21; 21:1-4 |
+| 6 | Confidence Falls Short | 1 John 3:21–4:6 |
 
 ### Icebreaker
 
@@ -40,7 +38,7 @@ A faith that looks to Jesus is a powerful faith.
 
 ---
 
-## 1. The Failed Effort
+## 1. Failed Effort
 
 When we rely on our past experiences or our own "spiritual resume" rather than immediate dependence on Christ, we inevitably fall short.
 
@@ -50,13 +48,13 @@ When we rely on our past experiences or our own "spiritual resume" rather than i
 
 ### Context & Insights
 
-- **The Descent**. This event happens immediately after the Transfiguration. Jesus, Peter, James, and John have just come down from the mountain where they saw Jesus' glory. They move directly from a "mountain top" spiritual experience into the "valley" of human suffering and failure.
+- **Descent**. This event happens immediately after the Transfiguration. Jesus, Peter, James, and John have just come down from the mountain where they saw Jesus' glory. They move directly from a "mountain top" spiritual experience into the "valley" of human suffering and failure.
 
-- **The Divided Disciples**. While three disciples were witnessing Christ's glory, nine were left behind in the valley. It was these nine who failed. This highlights a potential gap in the group: those "left out" of the mountaintop may have been operating out of a sense of obligation or past success rather than fresh, immediate dependence.
+- **Divided Disciples**. While three disciples were witnessing Christ's glory, nine were left behind in the valley. It was these nine who failed. This highlights a potential gap in the group: those "left out" of the mountaintop may have been operating out of a sense of obligation or past success rather than fresh, immediate dependence.
 
-- **The Desperate Father**. The father’s posture—*kneeling before Him*—reveals both his desperation and his recognition of Jesus' authority. His description of his son "falling into the fire or water" highlights the life-threatening and chaotic nature of the boy's condition.
+- **Desperate Father**. The father’s posture—*kneeling before Him*—reveals both his desperation and his recognition of Jesus' authority. His description of his son "falling into the fire or water" highlights the life-threatening and chaotic nature of the boy's condition.
 
-- **The Disciples' Defeat**. The disciples had previously been given authority to cast out demons (Matthew 10:1). Their failure here was likely shocking to them. It serves as a reminder that spiritual authority is not a static "power" we possess, but a dynamic relationship of dependence we must maintain.
+- **Disciples' Defeat**. The disciples had previously been given authority to cast out demons (Matthew 10:1). Their failure here was likely shocking to them. It serves as a reminder that spiritual authority is not a static "power" we possess, but a dynamic relationship of dependence we must maintain.
 
 ### Engaging the Mind
 
@@ -80,7 +78,7 @@ When we rely on our past experiences or our own "spiritual resume" rather than i
 
 ---
 
-## 2. The Righteous Rebuke
+## 2. Righteous Rebuke
 
 Jesus' frustration isn't with the suffering boy, but with the persistent lack of faith in those who should know Him best.
 
@@ -90,13 +88,13 @@ Jesus' frustration isn't with the suffering boy, but with the persistent lack of
 
 ### Context & Insights
 
-- **The Sharp Rebuke**. Jesus' words—"unbelieving and perverse"—are strong. "Perverse" literally means *twisted* or *turned away*. He isn't just frustrated with the twelve; He is lamenting a whole culture that has "inhaled" spiritual blindness.
+- **Sharp Rebuke**. Jesus' words—"unbelieving and perverse"—are strong. "Perverse" literally means *twisted* or *turned away*. He isn't just frustrated with the twelve; He is lamenting a whole culture that has "inhaled" spiritual blindness.
 
 - **Connecting the Dots**. Just moments earlier (vv. 10-13), Jesus spoke of how the generation failed to recognize John the Baptist (Elijah). The disciples' inability to heal the boy was part of that same "unbelieving" atmosphere. They were behaving like the very world they were called to transform.
 
-- **The Divine Lament**. "How long must I put up with you?" reveals the "weight" Jesus felt. As the Son of God, He is surrounded by the very thing He came to cure: unbelief. His frustration is a righteous grief over the slow spiritual growth of His followers.
+- **Divine Lament**. "How long must I put up with you?" reveals the "weight" Jesus felt. As the Son of God, He is surrounded by the very thing He came to cure: unbelief. His frustration is a righteous grief over the slow spiritual growth of His followers.
 
-- **The Immediate Solution**. Notice the command: "Bring the boy here to Me." Jesus doesn't wait for the disciples to "get it right" before acting. He moves directly into the mess and provides the healing that others couldn't.
+- **Immediate Solution**. Notice the command: "Bring the boy here to Me." Jesus doesn't wait for the disciples to "get it right" before acting. He moves directly into the mess and provides the healing that others couldn't.
 
 ### Engaging the Mind
 
@@ -120,7 +118,7 @@ Jesus' frustration isn't with the suffering boy, but with the persistent lack of
 
 ---
 
-## 3. The Mustard Seed Secret
+## 3. Mustard Seed Secret
 
 Real power doesn't come from the size of our faith, but from the size of the God our faith is attached to.
 
@@ -131,11 +129,11 @@ Real power doesn't come from the size of our faith, but from the size of the God
 
 ### Context & Insights
 
-- **The Private Inquiry**. The disciples were likely embarrassed. They had cast out demons before. They wanted to know what went wrong with the "mechanics" of their faith.
+- **Private Inquiry**. The disciples were likely embarrassed. They had cast out demons before. They wanted to know what went wrong with the "mechanics" of their faith.
 
 - **"So Little Faith"**. The Greek word *oligopistia* refers to a "poverty of faith." It's not that they had *no* faith, but that their faith was insufficient for the task—perhaps because it had become a ritual or relied on their own past success.
 
-- **The Living Seed**. A mustard seed was the smallest seed known to the people of that time. But Jesus' point isn't just that it's *small*; it's that it is *alive*. A tiny seed contains the DNA of life. A "dead" faith, no matter how large and ritualistic it looks, can't move anything. A "living" faith, however small, connects to the limitless power of God.
+- **Living Seed**. A mustard seed was the smallest seed known to the people of that time. But Jesus' point isn't just that it's *small*; it's that it is *alive*. A tiny seed contains the DNA of life. A "dead" faith, no matter how large and ritualistic it looks, can't move anything. A "living" faith, however small, connects to the limitless power of God.
 
 - **Moving Mountains**. This was a common Jewish metaphor for doing the "impossible" or solving incredibly difficult problems. Jesus isn't promising us "magic powers" to change topography, but spiritual power to overcome obstacles that stand in the way of God's work.
 
@@ -165,7 +163,7 @@ Real power doesn't come from the size of our faith, but from the size of the God
 
 ---
 
-## The Series Bridge: The Coin in the Fish
+## Series Bridge. Coin in the Fish
 
 At the end of Matthew 17 (vv. 24-27), Jesus provides a literal illustration of our series theme. When faced with the requirement of the Temple tax, Jesus tells Peter to go fishing. The *first* fish he catches has a coin in its mouth—exactly enough for the tax.
 
@@ -178,7 +176,7 @@ Jesus doesn't just *teach* about faith moving mountains; He *lives* a life where
 
 ## Closing
 
-### The Synthesis: The Dead Battery
+### Synthesis. Dead Battery
 Imagine a massive truck with a powerful engine, but a dead battery. It doesn't matter how big the truck is; it’s not going anywhere. Faith is like the "connection" that allows the power of the engine (God) to flow into the vehicle (our lives). Even a small, thin wire can carry enough current to start the engine if the connection is solid. Our problem isn't usually that we don't have a "big enough" life; it's that our connection to the source is corroded by self-reliance.
 
 ### Engaging the Will (Decision)
@@ -188,7 +186,7 @@ Imagine a massive truck with a powerful engine, but a dead battery. It doesn't m
 
 ### Challenges (Practice)
 
-1. **The Mustard Seed Prayer**. Each morning this week, pray: "Lord, I have little faith, but I have a big God. Help me trust You with [specific situation] today."
+1. **Mustard Seed Prayer**. Each morning this week, pray: "Lord, I have little faith, but I have a big God. Help me trust You with [specific situation] today."
 2. **Identify the Mountain**. Write down the biggest obstacle you are currently facing. Look up one "limitless" attribute of God (e.g., His sovereignty, His power, His love) and meditate on how that attribute is bigger than your mountain.
 3. **Memory Verse**. Memorize Matthew 17:20b: "If you have faith the size of a mustard seed... nothing will be impossible for you."
 
