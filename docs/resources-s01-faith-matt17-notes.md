@@ -26,6 +26,24 @@ Matthew 17:14-20, BSB
 | 5 | Finances Fall Short | Luke 12:13-21; 21:1-4 |
 | 6 | Confidence Falls Short | 1 John 3:21–4:6 |
 
+### Pattern of Failure
+
+**Matt 14:28-29**. Peter walks to Jesus on the water.
+**Matt 14:30**. Peter becomes afraid and sinks.
+
+**Matt 14:33**. Disciples worship Jesus as God.
+**Matt 15:12**. Disciples worry his words offended the Pharisees.
+
+**Matt 15:16-20**. Disciples learn that nothing which goes in makes us unclean, only what comes out.
+**Matt 15:23**. Disciples want to send away the believing but unclean Gentile woman.
+
+**Matt 16:16**. Peter perceives Jesus' deity.
+**Matt 16:22**. Peter doesn't understand the need for Jesus' crucifixion.
+
+Understanding followed by misunderstanding.
+Progress followed by failure.
+Mountaintops followed by valleys.
+
 ### Icebreaker
 
 > What causes you to slip and fall—literally or figuratively? What conditions usually lead to a loss footing?
@@ -34,13 +52,17 @@ Matthew 17:14-20, BSB
 
 ### Core Message
 
-When our limited faith falls short, a mustard-seed faith that looks to Jesus and honestly cries “Help my unbelief” taps into God’s limitless power.
+When our limited faith falls short, a mustard-seed faith that looks to Jesus and honestly cries *Help my unbelief* taps into God’s limitless power.
 
 ## 1. Failed Effort
 
 When we rely on past experiences rather than immediate dependence on Christ, we inevitably fall short.
 
-### Observe & Discuss (Mind)
+### Matthew 17:14-16, BSB
+
+> **14** When they came to the crowd, a man came up to Jesus and knelt before Him. **15** “Lord, have mercy on my son,” he said. “He has seizures and is suffering terribly. He often falls into the fire or into the water. **16** I brought him to Your disciples, but they could not heal him.”
+
+### Past Experiences (Mind)
 
 > What immediately stands out about the father’s actions and words?
 
@@ -60,7 +82,7 @@ When we rely on past experiences rather than immediate dependence on Christ, we 
 
 **Modern Valley**. Most of us have a situation where our best efforts (or past spiritual “successes”) simply weren’t enough.
 
-### Personal Audit (Reflection:Heart)
+### Spiritual Failure (Reflection:Heart)
 
 > When you fail spiritually, is your first instinct *What did I do wrong?* (mechanics) or *Where was I looking?* (connection)?
 
@@ -76,13 +98,18 @@ Jesus’ frustration is not with the suffering, but with persistent unbelief in 
 
 > **17** “O unbelieving and perverse generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy here to Me.” **18** Then Jesus rebuked the demon, and it came out of the boy, and he was healed from that moment.
 
-**Sharp Rebuke**. Jesus' words—"unbelieving and perverse"—are strong. "Perverse" literally means *twisted* or *turned away*. He isn't just frustrated with the twelve; He is lamenting a whole culture that has "inhaled" spiritual blindness.
+### Persistent Unbelief (Mind)
+
+> What words does Jesus use to describe the generation? What do they mean?
+
+**Sharp Rebuke**. Jesus' words—*unbelieving* and *perverse*—are strong. *Perverse* literally means *twisted* or *turned away*. He isn't just frustrated with the twelve; He is lamenting a whole culture that has *inhaled* spiritual blindness.
 
 **Connecting the Dots**. Just moments earlier (vv. 10-13), Jesus spoke of how the generation failed to recognize John the Baptist (Elijah). The disciples' inability to heal the boy was part of that same "unbelieving" atmosphere. They were behaving like the very world they were called to transform.
 
 > What two questions does Jesus ask in His rebuke? What do they reveal about His heart?
-> **Divine Lament**. “How long…?” shows righteous grief over slow growth — Jesus cares deeply when we stay stuck in unbelief.
->
+
+**Divine Lament**. “How long…?” shows righteous grief over slow growth — Jesus cares deeply when we stay stuck in unbelief.
+
 > Who is Jesus addressing — “unbelieving generation”?
 
 **Shared Unbelief**. Both the disciples and the surrounding culture had “inhaled” the same lack of trust; the disciples were not exempt.
@@ -91,11 +118,11 @@ Jesus’ frustration is not with the suffering, but with persistent unbelief in 
 
 **Instant Compassion**. He steps in and heals the boy — proving His power and love are never limited by our failure.
 
-### Living the Text Today (Discussion:Mind)
-
 > In what area have you *inhaled* the unbelief of our culture, treating some mountains as too big for Jesus?
 
-### Personal Audit (Reflection:Heart)
+**Real Miracles**. We don't always believe in big miracles, but Jesus does.
+
+### Spiritual Progress (Reflection:Heart)
 
 > When you sense God’s rebuke about your spiritual progress, does it drive you *to* Him or *away* from Him?
 
@@ -110,23 +137,23 @@ Real power does not come from the size of our faith, but from the size of the Go
 > **19** Afterward the disciples came to Jesus privately and asked, “Why couldn't we drive it out?”  
 > **20** “Because you have so little faith,” He answered. “For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”
 
-### Observe & Discuss (Mind)
+### Quantity vs. Quality (Mind)
 
 > What exact reason does Jesus give for the disciples’ failure?
 
-**Poverty of Faith**. Not zero faith, but “so little” — disconnected from fresh dependence.
+**Little Faith**. Not zero faith, but *so little* — disconnected from fresh dependence.
 
 > What does the mustard-seed comparison teach about the *nature* of faith?
 
-**Alive and Connected**. The seed is tiny yet living; its power comes from what it is attached to — Jesus Himself.
+**Alive & Connected**. The seed is tiny yet living; its power comes from what it is attached to — Jesus Himself.
 
 > In Mark’s account Jesus adds “This kind cannot come out except by prayer” (9:29). What does that tell us?
 
-**Prayerful Dependence**. The missing ingredient was ongoing reliance on God — exactly the “limited resources” solution in our series.
+**Prayerful Dependence**. The missing ingredient was ongoing reliance on God — exactly the *limited resources* solution in our series.
 
-### Living the Text Today (Discussion:Mind)
+### Your Mountains (Discussion:Mind)
 
-> If “nothing will be impossible” for mustard-seed faith, what mountain are you currently treating as impossible?
+> If *nothing will be impossible* for mustard-seed faith, what mountain are you currently treating as impossible?
 
 ### Personal Audit (Reflection:Heart)
 
