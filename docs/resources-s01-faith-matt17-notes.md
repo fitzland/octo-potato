@@ -34,11 +34,14 @@ Matthew 17:14-20, BSB
 **Matt 14:33**. Disciples worship Jesus as God.
 **Matt 15:12**. Disciples worry his words offended the Pharisees.
 
-**Matt 15:16-20**. Disciples learn that nothing which goes in makes us unclean, only what comes out.
+**Matt 15:16-20**. Disciples learn about what makes us unclean (not in, but out).
 **Matt 15:23**. Disciples want to send away the believing but unclean Gentile woman.
 
 **Matt 16:16**. Peter perceives Jesus' deity.
 **Matt 16:22**. Peter doesn't understand the need for Jesus' crucifixion.
+
+**Matt 10.1**. Jesus gave disciples authority over unclean spirits.
+**Matt 17:16**. Disciples cannot heal the boy with seizures.
 
 Understanding followed by misunderstanding.
 Progress followed by failure.
