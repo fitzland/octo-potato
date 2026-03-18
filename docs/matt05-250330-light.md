@@ -6,7 +6,8 @@ tags:
     - Jesus
     - SotM
     - righteousness
-title: Light of the World
+modified_date: 2026-03-08
+front_matter_title: Light of the World
 ---
 
 # Light of the World

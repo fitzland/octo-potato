@@ -6,7 +6,8 @@ tags:
     - Elisha
     - Naaman
     - Sermon
-title: 'Sermon: God''s Hand in Restoring Lives'
+modified_date: 2026-02-28
+front_matter_title: 'Sermon: God''s Hand in Restoring Lives'
 ---
 
 # Sermon Notes: God's Hand in Restoring Lives

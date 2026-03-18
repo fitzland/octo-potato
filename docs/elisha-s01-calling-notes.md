@@ -6,7 +6,8 @@ tags:
     - 2 Kings
     - Elisha
     - Elijah
-title: God's Hand in Our Calling
+modified_date: 2026-02-28
+front_matter_title: God's Hand in Our Calling
 ---
 # God's Hand in Our Calling
 **1 Kings 19:19-21 & 2 Kings 2:7-15**

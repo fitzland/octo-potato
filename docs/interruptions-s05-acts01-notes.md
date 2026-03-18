@@ -5,7 +5,8 @@ tags:
     - Acts
     - Jesus
     - Disciples
-title: When Inactivity Slows You Down
+modified_date: 2026-03-11
+front_matter_title: When Inactivity Slows You Down
 ---
 
 # When a Time of Inactivity Slows You Down

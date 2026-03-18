@@ -1,5 +1,6 @@
 ---
-title: 'Stephen: The Extraordinary Power of Spirit-Filled Service (Sermon Script)'
+front_matter_title: 'Stephen: The Extraordinary Power of Spirit-Filled Service (Sermon Script)'
+modified_date: 2026-01-23
 ---
 
 ### [INTRO - Appx. 0:00-2:30]

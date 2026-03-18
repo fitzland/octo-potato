@@ -5,7 +5,8 @@ tags:
     - 2 Kings
     - Elisha
     - Spiritual Warfare
-title: God's Hand When the Enemy Surrounds Us (v. 3)
+modified_date: 2026-02-28
+front_matter_title: God's Hand When the Enemy Surrounds Us (v. 3)
 ---
 
 # God's Hand When the Enemy Surrounds Us

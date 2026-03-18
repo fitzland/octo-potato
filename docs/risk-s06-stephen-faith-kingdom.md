@@ -6,7 +6,8 @@ tags:
     - Stephen
     - Service
     - Persecution
-title: Stephen. Faith that Advances the Kingdom
+modified_date: 2026-02-28
+front_matter_title: Stephen. Faith that Advances the Kingdom
 ---
 
 # Stephen. Faith that Advances the Kingdom

@@ -1,11 +1,12 @@
 ---
-title: Joshua. Faith Grounded in God's Word
+front_matter_title: Joshua. Faith Grounded in God's Word
 tags:
     - OT
     - History
     - Joshua
     - Obedience
     - Faith
+modified_date: 2026-02-28
 ---
 
 # Joshua. Faith Grounded in God's Word

@@ -4,7 +4,8 @@ tags:
     - History
     - 2 Kings
     - Elisha
-title: God's Hand in Restoring Lives
+modified_date: 2026-02-28
+front_matter_title: God's Hand in Restoring Lives
 ---
 
 # God's Hand in Restoring Lives

@@ -6,7 +6,8 @@ tags:
     - Jesus
     - SotM
     - righteousness
-title: Retaliation & Redemption
+modified_date: 2026-03-08
+front_matter_title: Retaliation & Redemption
 ---
 
 # Retaliation & Redemption

@@ -6,7 +6,8 @@ tags:
     - Suffering
     - Weakness
     - Limited Resources
-front_matter_title: Resources. Circumstances Fall Short
+modified_date: 2026-03-17
+front_matter_title: Limited Resources. Circumstances Fall Short
 ---
 
 # Resources. Circumstances Fall Short

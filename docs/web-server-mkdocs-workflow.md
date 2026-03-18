@@ -1,7 +1,8 @@
 ---
-title: Workflow for Editing Website (MkDocs)
+front_matter_title: Workflow for Editing Website (MkDocs)
 tags:
     - Howto
+modified_date: 2026-02-28
 ---
 
 # Workflow for Editing Website (MkDocs)

@@ -4,7 +4,8 @@ tags:
     - History
     - 2 Kings
     - Elisha
-title: God's Hand in Meeting Our Needs
+modified_date: 2026-02-28
+front_matter_title: God's Hand in Meeting Our Needs
 ---
 
 # God's Hand in Meeting Our Needs

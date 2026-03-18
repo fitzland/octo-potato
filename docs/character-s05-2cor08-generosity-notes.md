@@ -5,7 +5,8 @@ tags:
     - Character
     - Generosity
     - Stewardship
-title: Generosity. An Overflow of Grace
+modified_date: 2026-03-01
+front_matter_title: Generosity. An Overflow of Grace
 ---
 
 # Generosity. An Overflow of Grace

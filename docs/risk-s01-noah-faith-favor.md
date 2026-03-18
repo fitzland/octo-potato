@@ -1,11 +1,12 @@
 ---
-title: Noah. Faith that Pleases God
+front_matter_title: Noah. Faith that Pleases God
 tags:
     - OT
     - Law
     - Genesis
     - Noah
     - Faith
+modified_date: 2026-02-28
 ---
 
 # Noah. Faith that Pleases God 

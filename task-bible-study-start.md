@@ -211,7 +211,7 @@ This ensures genre-honoring interpretation without speculation or moralism.
 
 ```markdown
 ---
-title: [Lesson Title]
+front_matter_title: [Lesson Title]
 tags: [OT/NT, Book, Theme, Character, Doctrine]
 ---
 

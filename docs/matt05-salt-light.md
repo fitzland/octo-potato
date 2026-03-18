@@ -6,7 +6,8 @@ tags:
     - Jesus
     - Discipleship
     - Witness
-title: God's Hand in Everyday Influence
+modified_date: 2026-03-08
+front_matter_title: God's Hand in Everyday Influence
 ---
 
 # God's Hand in Everyday Influence

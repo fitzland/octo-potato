@@ -1,7 +1,8 @@
 ---
-title: Setting Up Nginx and TYPO3 CMS on Debian 12
+front_matter_title: Setting Up Nginx and TYPO3 CMS on Debian 12
 tags:
     - Howto
+modified_date: 2026-02-28
 ---
 
 # Setting Up Nginx and TYPO3 CMS on Debian 12

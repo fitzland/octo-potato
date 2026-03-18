@@ -2,7 +2,8 @@
 tags:
     - Book
     - Leadership
-title: "Book: Radical Candor"
+modified_date: 2025-05-16
+front_matter_title: "Book: Radical Candor"
 ---
 
 # Book Review: _Radical Candor_ by Kim Scott

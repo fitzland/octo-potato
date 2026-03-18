@@ -1,5 +1,5 @@
 ---
-title: David. Faith that Meets Adversity
+front_matter_title: David. Faith that Meets Adversity
 tags:
     - OT
     - History
@@ -7,6 +7,7 @@ tags:
     - David
     - Faith
     - Adversity
+modified_date: 2026-02-28
 ---
 
 # David. Faith that Meets Adversity

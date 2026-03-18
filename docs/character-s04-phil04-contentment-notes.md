@@ -5,7 +5,8 @@ tags:
     - Character
     - Contentment
     - Spiritual Discipline
-title: Contentment. Satisfaction in Christ
+modified_date: 2026-03-02
+front_matter_title: Contentment. Satisfaction in Christ
 ---
 
 # Contentment. Satisfaction in Christ

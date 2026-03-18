@@ -1,7 +1,8 @@
 ---
-title: About
+front_matter_title: About
 tags:
     - About
+modified_date: 2026-02-28
 ---
 
 # About

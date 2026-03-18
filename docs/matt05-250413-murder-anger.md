@@ -6,7 +6,7 @@ tags:
     - Jesus
     - SotM
     - righteousness
-title: Anger & Reconciliation
+front_matter_title: Anger & Reconciliation
 ---
 
 # Anger & Reconciliation

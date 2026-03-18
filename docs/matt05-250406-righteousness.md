@@ -6,7 +6,8 @@ tags:
     - Jesus
     - SotM
     - righteousness
-title: Jesus & the Scriptures
+modified_date: 2026-03-08
+front_matter_title: Jesus & the Scriptures
 ---
 
 # Jesus & the Scriptures

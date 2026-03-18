@@ -5,7 +5,8 @@ tags:
     - Character
     - Integrity
     - Apologetics
-title: Integrity. Living Above Reproach
+modified_date: 2026-03-07
+front_matter_title: Integrity. Living Above Reproach
 ---
 
 # Integrity. Living Above Reproach

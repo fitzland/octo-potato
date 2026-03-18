@@ -6,7 +6,8 @@ tags:
     - John the Baptist
     - Faith
     - Challenge
-title: John the Baptist. Faith that Challenges Others
+modified_date: 2026-02-28
+front_matter_title: John the Baptist. Faith that Challenges Others
 ---
 
 # John the Baptist. Faith that Challenges Others

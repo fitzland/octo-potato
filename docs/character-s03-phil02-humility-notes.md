@@ -4,7 +4,8 @@ tags:
     - Philippians
     - Humility
     - Character
-title: Humility. Consider Needs of Others
+modified_date: 2026-03-02
+front_matter_title: Humility. Consider Needs of Others
 ---
 
 # Humility. Consider Needs of Others

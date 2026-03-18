@@ -6,7 +6,8 @@ tags:
     - Faith
     - Understanding
     - Limited Resources
-title: When Your Understanding Falls Short
+modified_date: 2026-03-08
+front_matter_title: When Your Understanding Falls Short
 ---
 
 # When Your Understanding Falls Short

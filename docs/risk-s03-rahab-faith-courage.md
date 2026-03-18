@@ -1,5 +1,5 @@
 ---
-title: Rahab. Faith Over Fear
+front_matter_title: Rahab. Faith Over Fear
 tags:
     - OT
     - History
@@ -7,6 +7,7 @@ tags:
     - Rahab
     - Faith
     - Fear
+modified_date: 2026-02-28
 ---
 
 # Rahab. Faith Over Fear

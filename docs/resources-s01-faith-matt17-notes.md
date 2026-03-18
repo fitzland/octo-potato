@@ -6,7 +6,8 @@ tags:
     - Healing
     - Discipleship
     - Limited Resources
-title: Resources. Faith Falls Short
+modified_date: 2026-03-15
+front_matter_title: Limited Resources. Faith Falls Short
 ---
 
 # Limited Resources: Faith Falls Short

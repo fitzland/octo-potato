@@ -5,7 +5,8 @@ tags:
     - Genesis
     - Joseph
     - Sermon
-title: 'Sermon: When Life Goes Terribly Wrong'
+modified_date: 2026-03-11
+front_matter_title: 'Sermon: When Life Goes Terribly Wrong'
 ---
 
 # Sermon Notes: When Life Goes Terribly Wrong

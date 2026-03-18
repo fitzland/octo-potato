@@ -6,7 +6,8 @@ tags:
     - Jesus
     - SotM
     - righteousness
-title: Adultery & Lust
+modified_date: 2026-03-08
+front_matter_title: Adultery & Lust
 ---
 
 # Adultery & Lust

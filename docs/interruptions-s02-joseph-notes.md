@@ -4,7 +4,8 @@ tags:
     - Law
     - Genesis
     - Joseph
-title: When Life Goes Terribly Wrong
+modified_date: 2026-03-11
+front_matter_title: When Life Goes Terribly Wrong
 ---
 
 # When Life Goes Terribly Wrong

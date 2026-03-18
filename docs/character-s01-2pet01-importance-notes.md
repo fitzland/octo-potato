@@ -5,7 +5,8 @@ tags:
     - Character
     - Godliness
     - Spiritual Growth
-title: Importance of Character
+modified_date: 2026-03-02
+front_matter_title: Importance of Character
 ---
 
 # Importance of Character
