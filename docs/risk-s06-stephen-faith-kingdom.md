@@ -25,14 +25,6 @@ Acts 6:3-15, BSB
 
 Bold faith, expressed through Spirit-filled service and witness, advances God's kingdom by producing divine fruitfulness even in the face of fierce opposition.
 
-### Lesson Flow
-
-Stephen's journey reveals how God uses faithful service for powerful witness:
-
-1.  [**Choosing Spirit-Filled Servants**. Equipping for administrative needs](#1-choosing-spirit-filled-servants-acts-63-6)
-2.  [**Divine Impact & Growth**. The word of God spreads powerfully](#2-divine-impact-and-growth-acts-67)
-3.  [**Unstoppable Wisdom & Fierce Opposition**. Stephen's ministry beyond the tables](#3-unstoppable-wisdom-and-fierce-opposition-acts-68-15)
-
 ## 1. Choosing Spirit-Filled Servants (Acts 6:3-6)
 
 **The early church wisely selects Spirit-filled leaders for practical service.**

@@ -7,6 +7,7 @@ tags:
     - Understanding
     - Limited Resources
 modified_date: 2026-03-08
+presented_date: 2026-03-29
 front_matter_title: When Your Understanding Falls Short
 ---
 
@@ -28,12 +29,12 @@ We are in the third week of our series: **Limited Resources, Limitless God**.
 
 | Session | Topic | Scripture |
 | :--- | :--- | :--- |
-| Session 1 | When Your Faith Falls Short | Matthew 17:14-20 |
-| Session 2 | When Your Circumstances Fall Short | 2 Corinthians 1:8-10; 12:6-10 |
-| **Session 3** | **When Your Understanding Falls Short** | **Luke 1:26-38** |
-| Session 4 | When Your Provisions Fall Short | 1 Kings 17:5-16 |
-| Session 5 | When Your Finances Fall Short | Luke 12:13-21; 21:1-4 |
-| Session 6 | When Your Confidence Falls Short | 1 John 3:21–4:6 |
+| 1 | When Your Faith Falls Short | Matthew 17:14-20 |
+| 2 | When Your Circumstances Fall Short | 2 Corinthians 1:8-10; 12:6-10 |
+| **3** | **When Your Understanding Falls Short** | **Luke 1:26-38** |
+| 4 | When Your Provisions Fall Short | 1 Kings 17:5-16 |
+| 5 | When Your Finances Fall Short | Luke 12:13-21; 21:1-4 |
+| 6 | When Your Confidence Falls Short | 1 John 3:21–4:6 |
 
 ### Core Message
 

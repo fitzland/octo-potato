@@ -7,6 +7,7 @@ tags:
     - SotM
     - righteousness
 modified_date: 2026-03-08
+presented_date: 2026-03-07
 front_matter_title: Retaliation & Redemption
 ---
 

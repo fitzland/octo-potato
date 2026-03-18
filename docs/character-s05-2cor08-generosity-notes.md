@@ -6,6 +6,7 @@ tags:
     - Generosity
     - Stewardship
 modified_date: 2026-03-01
+presented_date: 2026-02-22
 front_matter_title: Generosity. An Overflow of Grace
 ---
 

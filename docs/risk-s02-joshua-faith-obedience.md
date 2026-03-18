@@ -1,5 +1,4 @@
 ---
-front_matter_title: Joshua. Faith Grounded in God's Word
 tags:
     - OT
     - History
@@ -7,6 +6,7 @@ tags:
     - Obedience
     - Faith
 modified_date: 2026-02-28
+front_matter_title: Joshua. Faith Grounded in God's Word
 ---
 
 # Joshua. Faith Grounded in God's Word
@@ -25,12 +25,6 @@ modified_date: 2026-02-28
 ### Core Message
 
 **Faith is grounded in obedience to God’s Word; from that foundation, God gives us the courage to accomplish His will.**
-
-### Lesson Flow
-
-1.  [**Commissioning**](#1-commissioning)
-2.  [**Conditions for Success**](#2-conditions-for-success)
-3.  [**Commitment of the People**](#3-commitment-of-the-people)
 
 ## 1. Commissioning
 

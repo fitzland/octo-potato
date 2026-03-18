@@ -26,12 +26,6 @@ front_matter_title: John the Baptist. Faith that Challenges Others
 
 Faith to challenge others is the risk of speaking uncomfortable truth to a broken world, while standing in our own unworthiness before the only One who can save.
 
-### Lesson Flow
-
-1. [**Wilderness: Stripping the Mask**](#1-wilderness-stripping-the-mask) (Matt 3:1-10)
-2. [**Herald: Authority Through Humility**](#2-herald-authority-through-humility) (Matt 3:11-14)
-3. [**Mud: Jesus Enters Our Mess**](#3-mud-jesus-enters-our-mess) (Matt 3:13-17)
-
 ## 1. Wilderness: Stripping the Mask (Risk of Social Rejection)
 
 John's radical call to repentance exposes the deadly danger of religious masks—pretending to be righteous while harboring poisonous pride.

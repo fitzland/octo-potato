@@ -6,6 +6,7 @@ tags:
     - Elisha
     - Spiritual Warfare
 modified_date: 2026-02-28
+presented_date: 2026-02-22
 front_matter_title: God's Hand When the Enemy Surrounds Us (v. 3)
 ---
 

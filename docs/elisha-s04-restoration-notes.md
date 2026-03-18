@@ -5,6 +5,7 @@ tags:
     - 2 Kings
     - Elisha
 modified_date: 2026-02-28
+presented_date: 2026-02-28
 front_matter_title: God's Hand in Restoring Lives
 ---
 

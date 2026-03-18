@@ -7,6 +7,7 @@ tags:
     - Naaman
     - Sermon
 modified_date: 2026-02-28
+presented_date: 2026-02-29
 front_matter_title: 'Sermon: God''s Hand in Restoring Lives'
 ---
 

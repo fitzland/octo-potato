@@ -7,6 +7,7 @@ tags:
     - Elisha
     - Elijah
 modified_date: 2026-02-28
+presented_date: 2026-02-15
 front_matter_title: God's Hand in Our Calling
 ---
 # God's Hand in Our Calling

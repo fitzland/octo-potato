@@ -6,6 +6,7 @@ tags:
     - Integrity
     - Apologetics
 modified_date: 2026-03-07
+presented_date: 2026-03-01
 front_matter_title: Integrity. Living Above Reproach
 ---
 

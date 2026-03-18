@@ -5,6 +5,7 @@ tags:
     - Humility
     - Character
 modified_date: 2026-03-02
+presented_date: 2026-03-01
 front_matter_title: Humility. Consider Needs of Others
 ---
 

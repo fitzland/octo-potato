@@ -1,5 +1,4 @@
 ---
-front_matter_title: Rahab. Faith Over Fear
 tags:
     - OT
     - History
@@ -8,6 +7,7 @@ tags:
     - Faith
     - Fear
 modified_date: 2026-02-28
+front_matter_title: Rahab. Faith Over Fear
 ---
 
 # Rahab. Faith Over Fear
@@ -26,13 +26,6 @@ modified_date: 2026-02-28
 ### Core Message
 
 **True faith sees God's power, confesses His sovereignty, and acts with courageous hospitality, even when surrounded by a culture of fear.**
-
-### Lesson Flow
-
-1.  [**City Gripped by Fear**](#1-city-gripped-by-fear)
-2.  [**Unlikely Act of Faith**](#2-unlikely-act-of-faith)
-3.  [**Convinced Heart & Bold Request**](#3-convinced-heart-bold-request)
-4.  [**Promise Kept, Family Saved**](#4-promise-kept-family-saved)
 
 ## 1. City Gripped by Fear
 

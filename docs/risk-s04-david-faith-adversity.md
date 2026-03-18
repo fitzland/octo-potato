@@ -1,5 +1,4 @@
 ---
-front_matter_title: David. Faith that Meets Adversity
 tags:
     - OT
     - History
@@ -8,6 +7,7 @@ tags:
     - Faith
     - Adversity
 modified_date: 2026-02-28
+front_matter_title: David. Faith that Meets Adversity
 ---
 
 # David. Faith that Meets Adversity
@@ -29,12 +29,6 @@ The Bible says no roadblock or giant is too much for God. When we trust Him, He 
 ### Core Message
 
 Confident faith meets adversity head-on; it remembers God's past faithfulness, speaks His promises, and acts boldly in His name to achieve His victory.
-
-### Lesson Flow
-
-1. [**Paralyzing Challenge**](#1-paralyzing-challenge) (Seeing the Giant)
-2. [**Confident Testimony**](#2-confident-testimony) (Remembering God)
-3. [**Victorious Stand**](#3-victorious-stand) (Acting in Faith)
 
 ## 1. Paralyzing Challenge (Seeing the Giant)
 

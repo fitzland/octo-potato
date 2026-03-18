@@ -7,6 +7,7 @@ tags:
     - Discipleship
     - Limited Resources
 modified_date: 2026-03-15
+presented_date: 2026-03-15
 front_matter_title: Limited Resources. Faith Falls Short
 ---
 

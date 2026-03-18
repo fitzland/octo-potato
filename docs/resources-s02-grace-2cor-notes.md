@@ -7,6 +7,7 @@ tags:
     - Weakness
     - Limited Resources
 modified_date: 2026-03-17
+presented_date: 2026-03-22
 front_matter_title: Limited Resources. Circumstances Fall Short
 ---
 

@@ -6,6 +6,7 @@ tags:
     - Jesus
     - Disciples
 modified_date: 2026-03-11
+presented_date: 2026-03-14
 front_matter_title: When Inactivity Slows You Down
 ---
 

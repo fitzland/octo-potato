@@ -1,5 +1,4 @@
 ---
-front_matter_title: Noah. Faith that Pleases God
 tags:
     - OT
     - Law
@@ -7,9 +6,11 @@ tags:
     - Noah
     - Faith
 modified_date: 2026-02-28
+front_matter_title: Noah. Faith that Pleases God
 ---
 
-# Noah. Faith that Pleases God 
+# Noah. Faith that Pleases God
+
 [Genesis 6:5-9, 17-22; 8:20-22](https://biblehub.com/genesis/6-5.htm), BSB
 
 ## Introduction
@@ -25,13 +26,6 @@ modified_date: 2026-02-28
 ### Core Message
 
 True faith is a righteous relationship with God that receives His favor, walks in intimacy, obeys completely, and worships gratefully—even when the whole world goes the other way.
-
-### Lesson Flow
-
-1.  [**Wicked World & God’s Grief**](#1-wicked-world-gods-grief)
-2.  [**Righteous Exception**](#2-righteous-exception)
-3.  [**God’s Covenant & Noah’s Obedience**](#3-gods-covenant-noahs-obedience)
-4.  [**Worship & God’s Renewed Promise**](#4-worship-gods-renewed-promise)
 
 ## 1. Wicked World & God’s Grief
 
