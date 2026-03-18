@@ -132,8 +132,6 @@ Sometimes the *limitless God* chooses to limit our comfort to expand our spiritu
 
 *Transition*. The *No* of the Father leads to the most powerful *Yes* in the New Testament.
 
----
-
 ## 3. Strength of Weakness
 
 God's power doesn't *replace* our weakness; it is *perfected* within it.
@@ -190,10 +188,13 @@ A stained glass window is beautiful, but it is just a piece of cold, dull glass 
 
 ### Challenges (Practice)
 
-1. **Grace is Enough**. This week, whenever you feel a surge of anxiety or frustration with your circumstances, stop and say aloud: "His grace is sufficient for me; His power is perfected in my weakness."
-2. **Boast in Weakness**. Share one area of struggle or *failure* with a trusted Christian friend this week, specifically highlighting how you are relying on God's strength in that area.
-3. **Comfort Connection**. Identify one person you know who is currently facing a "burden beyond their ability." Reach out to them this week—not to "fix" their problem, but to offer the comfort and hope you have found in Christ.
-4. **Memory Verse**. 2 Corinthians 12:9a: *But He said to me, 'My grace is sufficient for you, for My power is perfected in weakness.'*
+**Grace is Enough**. This week, whenever you feel a surge of anxiety or frustration with your circumstances, stop and say aloud: "His grace is sufficient for me; His power is perfected in my weakness."
+
+**Boast in Weakness**. Share one area of struggle or *failure* with a trusted Christian friend this week, specifically highlighting how you are relying on God's strength in that area.
+
+**Comfort Connection**. Identify one person you know who is currently facing a "burden beyond their ability." Reach out to them this week—not to "fix" their problem, but to offer the comfort and hope you have found in Christ.
+
+**Memory Verse**. 2 Corinthians 12:9a: *But He said to me, 'My grace is sufficient for you, for My power is perfected in weakness.'*
 
 ### Prayer
 

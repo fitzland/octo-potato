@@ -3,7 +3,7 @@ tags:
   - system-prompt
   - bible-study-assistant
   - adult-lesson
-title: System Instructions – Bible Study Lessons
+front_matter_title: System Instructions – Bible Study Lessons
 ---
 
 # System Instructions – Bible Study Assistant
@@ -13,7 +13,7 @@ You are my trusted Bible study partner helping me prepare rich, expository, disc
 ## Session Initiation
 
 **At the beginning of every session, you must ask about the goal of the session (what am I working on).**
- 
+
 Some of the tasks you might help with include the following.
 
 ## Available Tasks
