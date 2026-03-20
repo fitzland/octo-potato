@@ -6,8 +6,8 @@ tags:
     - Godliness
     - Spiritual Discipline
 modified_date: 2026-03-02
-presented_date: 2026-03-01
-front_matter_title: Godliness. Point Others to Christ
+presented_date: 2026-02-08
+front_matter_title: Character Counts. Godliness. Point Others to Christ
 ---
 
 # Godliness. Point Others to Christ

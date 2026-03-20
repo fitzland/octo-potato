@@ -5,12 +5,13 @@ tags:
     - 2 Kings
     - Elisha
 modified_date: 2026-02-28
-presented_date: 2026-02-28
-front_matter_title: God's Hand in Restoring Lives
+presented_date: 2025-12-07
+front_matter_title: Elisha. God's Hand in Restoring Lives
 ---
 
 # God's Hand in Restoring Lives
-**2 Kings 5:1-27**
+
+2 Kings 5:1-27
 
 ## Introduction
 
@@ -28,19 +29,7 @@ Naaman's healing is a powerful demonstration of God's sovereignty and grace.
 
 **Central Truth**. God restores us as we are obedient to Him, and His methods often defy our expectations and humble our pride.
 
-### Lesson Flow
-
-Naaman's journey from disease to restoration unfolds in four movements:
-
-1. [**Unlikely Hope**. A servant girl points the way](#1-unlikely-hope-2-kings-51-4)
-2. [**Test of Pride**. God's method offends Naaman's expectations](#2-test-of-pride-2-kings-55-13)  
-3. [**Humble Restoration**. Obedience leads to transformation](#3-humble-restoration-2-kings-514-19)
-4. [**Sobering Warning**. Gehazi's cautionary tale](#4-sobering-warning-2-kings-520-27)
-
-Each scene reveals something about how God works and what He requires of us.
-
 ## 1. Unlikely Hope (2 Kings 5:1-4)
-[<small>Back to Lesson Flow</small>](#lesson-flow)
 
 **Hope arrives from the most unexpected source**.
 

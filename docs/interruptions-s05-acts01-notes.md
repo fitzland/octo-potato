@@ -6,18 +6,13 @@ tags:
     - Jesus
     - Disciples
 modified_date: 2026-03-11
-presented_date: 2026-03-14
-front_matter_title: When Inactivity Slows You Down
+presented_date: 2025-11-02
+front_matter_title: Interruptions. Inactivity Slows You Down
 ---
 
-# When a Time of Inactivity Slows You Down
-**Acts 1:4-8, 12-14; 2:1-4**
+# Interruptions. Inactivity Slows You Down
 
-## Lesson Flow
-
-- **Divine Command to Wait (1:4-8)** → Promise
-- **Posture of Active Waiting (1:12-14)** → Preparation
-- **Power in God's Perfect Timing (2:1-4)** → Empowerment
+Acts 1:4-8, 12-14; 2:1-4
 
 **Point**. Use unexpected downtime to prepare for what’s next.
 

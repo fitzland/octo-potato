@@ -6,8 +6,8 @@ tags:
     - Integrity
     - Apologetics
 modified_date: 2026-03-07
-presented_date: 2026-03-01
-front_matter_title: Integrity. Living Above Reproach
+presented_date: 2026-03-08
+front_matter_title: Character Counts. Integrity. Living Above Reproach
 ---
 
 # Integrity. Living Above Reproach
@@ -23,7 +23,7 @@ front_matter_title: Integrity. Living Above Reproach
 | 3 | Humility | Philippians 2:1–11 | Consider the needs of others |
 | 4 | Contentment | Philippians 4:10–20 | Find satisfaction in Christ |
 | 5 | Generosity | 2 Corinthians 8:1–9 | Give from what God has given us |
-| **6** | **Integrity** | **1 Peter 3:8–17** | **Live consistently with our confession** |
+| **6** | **Integrity** | **1 Peter 3:8–17** | **Live Above Reproach** |
 
 ## Introduction
 

@@ -6,8 +6,8 @@ tags:
     - Generosity
     - Stewardship
 modified_date: 2026-03-01
-presented_date: 2026-02-22
-front_matter_title: Generosity. An Overflow of Grace
+presented_date: 2026-03-01
+front_matter_title: Character Counts. Generosity. An Overflow of Grace
 ---
 
 # Generosity. An Overflow of Grace

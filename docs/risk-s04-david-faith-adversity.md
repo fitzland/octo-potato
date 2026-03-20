@@ -7,7 +7,8 @@ tags:
     - Faith
     - Adversity
 modified_date: 2026-02-28
-front_matter_title: David. Faith that Meets Adversity
+presented_date: 2026-01-11
+front_matter_title: Risk Takers. David. Faith that Meets Adversity
 ---
 
 # David. Faith that Meets Adversity

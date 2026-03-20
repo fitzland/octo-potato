@@ -5,18 +5,12 @@ tags:
     - Genesis
     - Joseph
 modified_date: 2026-03-11
-presented_date: 2026-03-14
-front_matter_title: When Life Goes Terribly Wrong
+presented_date: 2025-10-12
+front_matter_title: Interruptions. Life Goes Terribly Wrong
 ---
 
-# When Life Goes Terribly Wrong
+# Life Goes Terribly Wrong
 **Genesis 39:21-23; 40:5-8; 41:10-14**
-
-## Lesson Flow
-
-- **God's Presence in the Pit** (39:21-23) → Foundation
-- **Ministry in the Pit** (40:5-8) → Application  
-- **God's Perfect Timing** (41:10-14) → Release
 
 **Main Point:** Even hard interruptions place us where God can use us.
 

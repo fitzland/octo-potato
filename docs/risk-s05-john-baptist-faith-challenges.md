@@ -7,7 +7,8 @@ tags:
     - Faith
     - Challenge
 modified_date: 2026-02-28
-front_matter_title: John the Baptist. Faith that Challenges Others
+presented_date: 2026-01-18
+front_matter_title: Risk Takers. John the Baptist. Faith that Challenges Others
 ---
 
 # John the Baptist. Faith that Challenges Others

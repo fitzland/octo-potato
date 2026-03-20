@@ -6,7 +6,8 @@ tags:
     - Obedience
     - Faith
 modified_date: 2026-02-28
-front_matter_title: Joshua. Faith Grounded in God's Word
+presented_date: 2025-12-21
+front_matter_title: Risk Takers. Joshua. Faith Grounded in God's Word
 ---
 
 # Joshua. Faith Grounded in God's Word

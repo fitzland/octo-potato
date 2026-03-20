@@ -5,8 +5,8 @@ tags:
     - Humility
     - Character
 modified_date: 2026-03-02
-presented_date: 2026-03-01
-front_matter_title: Humility. Consider Needs of Others
+presented_date: 2026-02-15
+front_matter_title: Character Counts. Humility. Consider Needs of Others
 ---
 
 # Humility. Consider Needs of Others
@@ -38,12 +38,6 @@ Given how pervasive *ME FIRST* attitudes are, what would it look like to live in
 ### Core Message
 
 Consider and prioritize the needs of others, reflecting the sacrificial humility of Christ.
-
-### Lesson Flow
-
-1. [**Love Lays the Groundwork**]
-2. [**Love Leads to Humble Service**]
-3. [**Jesus' Example of Humility**]
 
 ## 1. Love Lays the Groundwork 
 

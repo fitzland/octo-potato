@@ -6,8 +6,8 @@ tags:
     - Contentment
     - Spiritual Discipline
 modified_date: 2026-03-02
-presented_date: 2026-03-01
-front_matter_title: Contentment. Satisfaction in Christ
+presented_date: 2026-02-22
+front_matter_title: Character Counts. Contentment. Satisfaction in Christ
 ---
 
 # Contentment. Satisfaction in Christ

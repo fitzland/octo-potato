@@ -7,7 +7,8 @@ tags:
     - Faith
     - Fear
 modified_date: 2026-02-28
-front_matter_title: Rahab. Faith Over Fear
+presented_date: 2026-01-04
+front_matter_title: Risk Takers. Rahab. Faith Over Fear
 ---
 
 # Rahab. Faith Over Fear

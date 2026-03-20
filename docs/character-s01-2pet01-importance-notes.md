@@ -7,7 +7,7 @@ tags:
     - Spiritual Growth
 modified_date: 2026-03-02
 presented_date: 2026-03-01
-front_matter_title: Importance of Character
+front_matter_title: Character Counts. Importance of Character
 ---
 
 # Importance of Character

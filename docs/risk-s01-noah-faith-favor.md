@@ -6,7 +6,8 @@ tags:
     - Noah
     - Faith
 modified_date: 2026-02-28
-front_matter_title: Noah. Faith that Pleases God
+presented_date: 2025-12-14
+front_matter_title: Risk Takers. Noah. Faith that Pleases God
 ---
 
 # Noah. Faith that Pleases God

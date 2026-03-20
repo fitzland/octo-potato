@@ -7,11 +7,12 @@ tags:
     - Elisha
     - Elijah
 modified_date: 2026-02-28
-presented_date: 2026-02-15
+presented_date: 2025-11-16
 front_matter_title: God's Hand in Our Calling
 ---
 # God's Hand in Our Calling
-**1 Kings 19:19-21 & 2 Kings 2:7-15**
+
+1 Kings 19:19-21 & 2 Kings 2:7-15
 
 ## Introduction
 
@@ -29,17 +30,8 @@ The story of Elisha's calling demonstrates a powerful, timeless truth about how 
 
 **God's call is not an invitation to debate our adequacy, but a summons to demonstrate our commitment through immediate and irreversible action.**
 
-### Lesson Flow
-
-Elisha's journey from a wealthy farmer to God's prophet unfolds in three distinct acts, each with a memorable phase:
-
-- Call in the Field
-
-- Years of Hidden Service
-
-- Confirmation at the River
-
 ## 1. Call in the Field (1 Kings 19:19-21)
+
 **Burn the Plow** - The moment of divine interruption and radical commitment.
 
 !!! quote "1 Kings 19:19-21, BSB"
