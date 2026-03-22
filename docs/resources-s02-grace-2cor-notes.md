@@ -17,15 +17,7 @@ front_matter_title: Limited Resources. Circumstances Fall Short
 
 ## Introduction
 
-### Icebreaker
-
-Why are most people afraid of spiders and insects? Is it the way they look, the way they move, or the potential *threat* they represent to our comfort and safety?
-
-Most of our fears—whether of tiny insects or massive life crises—root back to a feeling of being overwhelmed or out of control. We want our circumstances to be manageable, predictable, and safe. But life often presents us with *infestations* of hardship that are far beyond our ability to *squash* on our own. In these moments, we learn that while our circumstances may fall short of our desires, God’s grace never falls short of our needs.
-
 ### Series Overview
-
-We are in the second week of our series: **Limited Resources, Limitless God**.
 
 | Session | Topic | Scripture |
 | :--- | :--- | :--- |
@@ -36,13 +28,35 @@ We are in the second week of our series: **Limited Resources, Limitless God**.
 | 5 | Finances Fall Short | Luke 12:13-21; 21:1-4 |
 | 6 | Confidence Falls Short | 1 John 3:21–4:6 |
 
+### Icebreaker
+
+Why are most people afraid of spiders and insects? Is it the way they look, the way they move, or the potential *threat* they represent to our comfort and safety?
+
+Most of our fears—whether of tiny insects or massive life crises—root back to a feeling of being overwhelmed or out of control. We want our circumstances to be manageable, predictable, and safe. But life often presents us with *infestations* of hardship that are far beyond our ability to *squash* on our own. In these moments, we learn that while our circumstances may fall short of our desires, God’s grace never falls short of our needs.
+
 ### Core Message
 
 God’s grace will sustain you through life’s circumstances.
 
 ## 1. Beyond Our Ability
 
-The *sentence of death* in our circumstances is often God's way of shifting our trust from ourselves to Him.
+Paul describes God as the *Father of compassion* and *God of all comfort* (v.3).
+
+> *What* does this description hint at?
+
+- We are going to face suffering, afflictions and hardships.
+- **Gen 37:4** - Joseph’s brothers hated him because of his calling and favor.
+- **1 Sam 19:1** - Saul openly tries to kill David despite his faithfulness.
+- **Dan 6:5** - Officials look for grounds to accuse Daniel but can only target his devotion to God.
+- **Matt 10:22** - Jesus told his disciples that they would be persecuted and hated because of Him.
+
+> *Why* does Paul connect the idea of God as a comforter to the reality of afflictions?
+
+- Because God’s comfort is not just a *nice addition* to our lives; it is *essential* for enduring the hardships we will inevitably face. The reality of affliction is the context in which God’s comfort becomes most necessary and most evident.
+
+> *What* is the purpose of God's comfort in our afflictions?
+
+- So that we can comfort others with the same comfort we have received. Suffering has a purpose beyond our own experience.
 
 ### 2 Corinthians 1:8-10, BSB
 
@@ -50,23 +64,15 @@ The *sentence of death* in our circumstances is often God's way of shifting our 
 
 ### Hardships Come (Observe & Interpret)
 
-> *What* attributes does Paul ascribe to God at the beginning of this letter (v.3-7), even before discussing their hardships?
+> *How* does Paul describe the severity of the hardships encountered in the province of Asia (v.8)?
 
-- He is the "Father of mercies and God of all comfort."
+- They were *far beyond our ability to endure*, to the point of despairing even of life.
 
-> According to Paul, *what* is a key purpose of God comforting us in our afflictions?
+> *How* do circumstances, *far beyond our ability*, reveal limitations and potential areas of misplaced trust?
 
-- So that we can comfort others with the same comfort we have received. Suffering has a mission beyond our own experience.
+- They expose our self-reliance and the things we tend to depend on apart from God.
 
-> *How* does Paul describe the severity and nature of the hardships they encountered in the province of Asia (v.8)?
-
-- They were under a burden "far beyond our ability to endure," to the point of despairing even of life. It was a total collapse of human resources.
-
-> *How* do circumstances that are *far beyond our ability* reveal our own limitations and potential areas of misplaced trust?
-
-- These moments expose our self-reliance and the things we tend to depend on apart from God.
-
-> *What* profound statement does Paul make about their internal experience, and what divine purpose does he immediately connect to it (v.9)?
+> *What* profound statement does Paul make about their feelings; what divine purpose does he immediately connect to it (v.9)?
 
 - They felt they were under the *sentence of death*, in order that we would not *trust in ourselves*, but in God, who raises the dead.
 
@@ -76,21 +82,19 @@ The *sentence of death* in our circumstances is often God's way of shifting our 
 
 > *What* three tenses of deliverance does Paul highlight (v.10), and what does this convey about God's action?
 
-- He *has* delivered us (past), He *will* deliver us (present certainty), and He *will yet again* deliver us (future hope). This shows God's consistent faithfulness across time.
+- He *has* delivered us (past), He *will* deliver us (present certainty), and He *will yet again* deliver us (future hope). God is consistently faithful across time.
 
-> *How* does understanding God's consistent track record of deliverance impact our hope when facing current overwhelming circumstances?
+> *How* does understanding God's consistent track record impact our hope when facing overwhelming circumstances?
 
 - It anchors our confidence in God's character and past actions, allowing us to hope in His future faithfulness rather than the immediate resolution of our current problems.
 
 ### Engaging Your Life (Apply & Act)
 
-> When you are *burdened beyond your ability*, do you tend to *despair* of God's goodness, or do you *despair* of your own self-reliance?
->
-> Can you think of a time when you felt a *burden far beyond your ability* to endure? What did that situation reveal about what you were trusting in at the time?
+> *When* you are *burdened beyond your ability*, do you tend to despair of God's *goodness*, or do you despair of your own *self-reliance*?
 
-Paul says God comforts us so we can comfort others. Who in your life is currently in a "hardship" that you could comfort with the perspective you've gained from your own trials?
+Paul says God comforts us so we can comfort others. Who in your life is currently in a *hardship* that you could comfort with the perspective you've gained from your own trials?
 
-*Transition*. Knowing that God uses extreme trials to shift our trust, how does He handle the persistent, nagging "thorns" that don't go away?
+*Transition*. Knowing that God uses extreme trials to shift our trust, how does He handle the persistent, nagging *thorns* that don't go away?
 
 ## 2. Gift of the Thorn
 
@@ -102,21 +106,21 @@ Sometimes the *limitless God* chooses to limit our comfort to expand our spiritu
 
 ### Limited Comfort (Observe & Interpret)
 
-> *What* significant spiritual experience did Paul have just before being given his *thorn in the flesh* (v.6-7)?
+> *What* significant spiritual experience did Paul have (v.2-4)?
 
 - He had been *caught up to the third heaven*, witnessing inexpressible things in Paradise.
 
-> *How* might Paul's extraordinary spiritual revelations make the subsequent *thorn in the flesh* seem even more paradoxical or difficult to accept?
+> *How* did this extraordinary spiritual revelations make the subsequent *thorn in the flesh* seem even more paradoxical or difficult to accept?
 
-- It highlights the contrast between immense spiritual privilege and intense personal suffering, showing that even deep spiritual experiences don't exempt us from hardship.
+- It highlights the contrast between spiritual privilege and intense personal suffering, showing that even deep spiritual experiences don't exempt us from hardship.
 
-> *How* does Paul describe the nature and purpose of the *thorn in his flesh* (v.7)? *What* was its ultimate divine intention?
+> *How* does Paul describe the nature and purpose of the *thorn in his flesh* (v.7)?
 
 - It was painful and persistent, a *messenger of Satan* sent to torment him. However, its purpose was to keep him from *becoming conceited* due to his great revelations.
 
 > *How* can something intended by Satan for *torment* simultaneously serve God's purpose for sanctification and protection from pride?
 
-- God, in His sovereignty, can redeem and redirect even the enemy's intentions for the good of His children, using trials to foster humility and dependence.
+- God can redeem and redirect the enemy's intentions for the good of His children, using trials to foster humility and dependence.
 
 > *What* was Paul's response to the *thorn*, and what does this tell us about his initial desire?
 
@@ -144,37 +148,33 @@ God's power doesn't *replace* our weakness; it is *perfected* within it.
 
 ### Grace is Sufficient (Observe & Interpret)
 
-> *When* Paul sought relief from his thorn, what profound declaration did the Lord make about His grace and power (v.9)?
+> *When* Paul sought relief, what declaration did the Lord make about His grace and power (v.9)?
 
-- He said, "My grace is sufficient for you, for My power is perfected in weakness."
+- His grace is sufficient; His power is perfected in weakness.
 
 > *What* does it mean for God's grace to be *sufficient*, and how does this contrast with our natural human desire for the removal of our weaknesses or difficulties?
 
-- *Sufficient* means it is precisely enough, adequate for the situation, regardless of whether the situation changes. This challenges our desire for comfort and removal of hardship, redirecting us to find completeness in God's provision within the trial.
+- Sufficient means it is *precisely enough*, adequate for the situation, regardless of whether the situation changes. This challenges our desire for comfort and removal of hardship, redirecting us to find completeness in God's provision within the trial.
 
 > *How* does Paul respond to the Lord's declaration, and what does he choose to boast in as a result (v.9)?
 
-- He says, "Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me."
+- Paul will boast; he will boast in his weaknesses.
 
-> *Why* does Paul boast in his weaknesses, and what does he expect to happen when he does so?
+> *Why* does Paul boast in his weaknesses?
 
 - He boasts because they create the necessary conditions for Christ's power to *rest* (tabernacle, dwell) on him, making God's strength most visible.
 
-> *What* seemingly negative experiences does Paul say he *delights* in (v.10)?
+> *What* negative experiences does Paul say he *delights* in (v.10)?
 
 - He delights in weaknesses, insults, hardships, persecutions, and difficulties.
 
-> *How* can Paul genuinely *delight* in such negative experiences, and what is the underlying logic behind his famous paradox: "For when I am weak, then I am strong"?
+> *How* can Paul *delight* in such negative experiences, and what is the logic behind his famous paradox: "For when I am weak, then I am strong"?
 
 - He delights in them not for the pain itself, but because these are the very circumstances where God's power is most evident. Human weakness becomes the channel for divine strength; total dependence on God creates a spiritual strength that self-reliance can never achieve.
->
+
 ### Power in Weakness (Apply & Act)
 
-> Our culture tells us to hide our weaknesses. Paul says he boasts in them. How does the promise of "Christ's power resting on you" change your perspective on a specific weakness you've been trying to hide or fix?
->
-> What does it practically look like to "delight" in a hardship? Is Paul talking about an emotion, or a choice of perspective? Where in your life could you choose to see a difficulty as an opportunity for God's strength to be most visible?
-
----
+> What does it look like to *delight* in a hardship? Is Paul talking about an emotion, or a choice of perspective? Where in your life could you choose to see a difficulty as an opportunity for God's strength to be most visible?
 
 ## Closing
 
@@ -184,9 +184,9 @@ A stained glass window is beautiful, but it is just a piece of cold, dull glass 
 
 ### Engaging the Will (Decision)
 
-- **Will you** stop asking God "Why?" regarding your current "thorn" and start asking "How?" His grace might be sufficient for it?
-- **Will you** look for someone else in a hard circumstance this week and share the "comfort" God has given you?
-- **Will you** write down one specific weakness you've been ashamed of and thank God for the opportunity it provides for His power to rest on you?
+- Stop asking God *Why*? regarding your current *thorn* and start asking *How*? His grace might be sufficient for it?
+- Look for someone else in a hard circumstance this week and share the *comfort* God has given you?
+- Write down one specific weakness you've been ashamed of and thank God for the opportunity it provides for His power to rest on you?
 
 ### Challenges (Practice)
 
@@ -209,3 +209,10 @@ A stained glass window is beautiful, but it is just a piece of cold, dull glass 
 > When we are weak, make us truly strong in You. Help us to share the comfort we receive with those around us.
 >
 > In the name of the One whose strength was perfected on the Cross, Amen.
+
+### Grace & Weakness
+
+- Judges 7:2 - God trims Gideon’s army to ensure He gets the glory.
+- 1 Samuel 17 - David defeats Goliath that all this assembly may know that the LORD saves not with sword or spear.
+- Philippians 4:13 - I can do all things through Christ who gives me strength.
+- James 4:6 - God opposes the proud but gives grace to the humble.
