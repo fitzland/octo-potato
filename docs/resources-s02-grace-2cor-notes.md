@@ -17,15 +17,7 @@ front_matter_title: Limited Resources. Circumstances Fall Short
 
 ## Introduction
 
-### Icebreaker
-
-Why are most people afraid of spiders and insects? Is it the way they look, the way they move, or the potential *threat* they represent to our comfort and safety?
-
-Most of our fears—whether of tiny insects or massive life crises—root back to a feeling of being overwhelmed or out of control. We want our circumstances to be manageable, predictable, and safe. But life often presents us with *infestations* of hardship that are far beyond our ability to *squash* on our own. In these moments, we learn that while our circumstances may fall short of our desires, God’s grace never falls short of our needs.
-
 ### Series Overview
-
-We are in the second week of our series: **Limited Resources, Limitless God**.
 
 | Session | Topic | Scripture |
 | :--- | :--- | :--- |
@@ -35,6 +27,12 @@ We are in the second week of our series: **Limited Resources, Limitless God**.
 | 4 | Provisions Fall Short | 1 Kings 17:5-16 |
 | 5 | Finances Fall Short | Luke 12:13-21; 21:1-4 |
 | 6 | Confidence Falls Short | 1 John 3:21–4:6 |
+
+### Icebreaker
+
+Why are most people afraid of spiders and insects? Is it the way they look, the way they move, or the potential *threat* they represent to our comfort and safety?
+
+Most of our fears—whether of tiny insects or massive life crises—root back to a feeling of being overwhelmed or out of control. We want our circumstances to be manageable, predictable, and safe. But life often presents us with *infestations* of hardship that are far beyond our ability to *squash* on our own. In these moments, we learn that while our circumstances may fall short of our desires, God’s grace never falls short of our needs.
 
 ### Core Message
 
