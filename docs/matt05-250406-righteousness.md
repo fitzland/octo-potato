@@ -9,6 +9,10 @@ tags:
 modified_date: 2026-03-08
 presented_date: 2026-03-07
 front_matter_title: Jesus & the Scriptures
+series: Matthew 5 Series
+scripture: Matthew 5:17-20
+document_type: notes
+status: published
 ---
 
 # Jesus & the Scriptures

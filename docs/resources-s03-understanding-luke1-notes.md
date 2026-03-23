@@ -9,6 +9,10 @@ tags:
 modified_date: 2026-03-08
 presented_date: 2026-03-29
 front_matter_title: When Your Understanding Falls Short
+series: Limited Resources, Limitless God
+scripture: Luke 1:26-38
+document_type: notes
+status: published
 ---
 
 # When Your Understanding Falls Short

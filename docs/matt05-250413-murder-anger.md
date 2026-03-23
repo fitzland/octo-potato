@@ -9,6 +9,10 @@ tags:
 modified_date: 2026-03-08
 presented_date: 2026-03-07
 front_matter_title: Anger & Reconciliation
+series: Matthew 5 Series
+scripture: Matthew 5:21-26
+document_type: notes
+status: published
 ---
 
 # Anger & Reconciliation

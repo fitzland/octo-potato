@@ -9,6 +9,10 @@ tags:
 modified_date: 2026-02-28
 presented_date: 2026-01-04
 front_matter_title: Risk Takers. Rahab. Faith Over Fear
+series: Risk Series
+scripture: Joshua 2:1-4, 8-14; 6:22-25
+document_type: notes
+status: published
 ---
 
 # Rahab. Faith Over Fear

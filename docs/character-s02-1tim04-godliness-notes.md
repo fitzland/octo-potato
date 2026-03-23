@@ -8,6 +8,10 @@ tags:
 modified_date: 2026-03-02
 presented_date: 2026-02-08
 front_matter_title: Character Counts. Godliness. Point Others to Christ
+series: Character Series
+scripture: 1 Timothy 4:6-16
+document_type: notes
+status: published
 ---
 
 # Godliness. Point Others to Christ

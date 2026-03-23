@@ -8,6 +8,10 @@ tags:
 modified_date: 2026-02-28
 presented_date: 2026-02-22
 front_matter_title: God's Hand When the Enemy Surrounds Us (v. 3)
+series: Elisha Series
+scripture: 2 Kings 6:8-12, 15-23
+document_type: notes
+status: published
 ---
 
 # God's Hand When the Enemy Surrounds Us

@@ -8,6 +8,10 @@ tags:
     - Witness
 modified_date: 2026-03-08
 front_matter_title: God's Hand in Everyday Influence
+series: Matthew 5 Series
+scripture: Matthew 5:13-16
+document_type: notes
+status: published
 ---
 
 # God's Hand in Everyday Influence

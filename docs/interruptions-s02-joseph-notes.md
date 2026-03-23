@@ -7,6 +7,10 @@ tags:
 modified_date: 2026-03-11
 presented_date: 2025-10-12
 front_matter_title: Interruptions. Life Goes Terribly Wrong
+series: Life's Interruptions
+scripture: Genesis 39:21-23; 40:5-8; 41:10-14
+document_type: notes
+status: published
 ---
 
 # Life Goes Terribly Wrong

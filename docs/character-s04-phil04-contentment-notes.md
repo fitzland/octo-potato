@@ -8,6 +8,10 @@ tags:
 modified_date: 2026-03-02
 presented_date: 2026-02-22
 front_matter_title: Character Counts. Contentment. Satisfaction in Christ
+series: Character Series
+scripture: Philippians 4:10-20
+document_type: notes
+status: published
 ---
 
 # Contentment. Satisfaction in Christ

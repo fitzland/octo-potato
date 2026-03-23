@@ -8,6 +8,10 @@ tags:
 modified_date: 2026-03-11
 presented_date: 2026-03-14
 front_matter_title: 'Sermon: When Life Goes Terribly Wrong'
+series: Life's Interruptions
+scripture: Genesis 39:21-23; 40:5-8; 41:10-14
+document_type: sermon
+status: published
 ---
 
 # Sermon Notes: When Life Goes Terribly Wrong

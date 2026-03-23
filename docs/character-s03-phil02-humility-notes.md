@@ -7,6 +7,10 @@ tags:
 modified_date: 2026-03-02
 presented_date: 2026-02-15
 front_matter_title: Character Counts. Humility. Consider Needs of Others
+series: Character Series
+scripture: Philippians 2:1-11
+document_type: notes
+status: published
 ---
 
 # Humility. Consider Needs of Others

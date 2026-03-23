@@ -8,6 +8,10 @@ tags:
 modified_date: 2026-03-01
 presented_date: 2026-03-01
 front_matter_title: Character Counts. Generosity. An Overflow of Grace
+series: Character Series
+scripture: 2 Corinthians 8:1-9
+document_type: notes
+status: published
 ---
 
 # Generosity. An Overflow of Grace

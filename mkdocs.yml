@@ -42,9 +42,9 @@ nav:
       - 'Session 3: When Your Understanding Falls Short': 'resources-s03-understanding-luke1-notes.md'
     - "Life's Interruptions":
       - 'Joseph':
-        - 'Teaching Notes': '2-lifes-interruptions-s02-joseph-notes.md'
-        - 'Sermon': '2-lifes-interruptions-s02-joseph-sermon.md'
-      - 'The Holy Spirit': '2-lifes-interruptions-s05-acts01-notes.md'
+        - 'Teaching Notes': 'interruptions-s02-joseph-notes.md'
+        - 'Sermon': 'interruptions-s02-joseph-sermon.md'
+      - 'The Holy Spirit': 'interruptions-s05-acts01-notes.md'
   - 'Book Notes':
     - 'Radical Candor': 'book-radical-candor.md'
   - 'Technical':

@@ -8,6 +8,10 @@ tags:
 modified_date: 2026-03-11
 presented_date: 2025-11-02
 front_matter_title: Interruptions. Inactivity Slows You Down
+series: Life's Interruptions
+scripture: Acts 1:4-8, 12-14; 2:1-4
+document_type: notes
+status: published
 ---
 
 # Interruptions. Inactivity Slows You Down

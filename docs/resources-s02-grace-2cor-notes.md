@@ -9,6 +9,10 @@ tags:
 modified_date: 2026-03-17
 presented_date: 2026-03-22
 front_matter_title: Limited Resources. Circumstances Fall Short
+series: Limited Resources, Limitless God
+scripture: 2 Corinthians 1:8-10; 12:6-10
+document_type: notes
+status: published
 ---
 
 # Resources. Circumstances Fall Short

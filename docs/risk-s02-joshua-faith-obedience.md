@@ -8,6 +8,10 @@ tags:
 modified_date: 2026-02-28
 presented_date: 2025-12-21
 front_matter_title: Risk Takers. Joshua. Faith Grounded in God's Word
+series: Risk Series
+scripture: Joshua 1:1-9, 16-18
+document_type: notes
+status: published
 ---
 
 # Joshua. Faith Grounded in God's Word

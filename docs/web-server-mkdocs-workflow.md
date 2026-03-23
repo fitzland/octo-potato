@@ -3,6 +3,9 @@ front_matter_title: Workflow for Editing Website (MkDocs)
 tags:
     - Howto
 modified_date: 2026-02-28
+series: Technical
+document_type: technical
+status: published
 ---
 
 # Workflow for Editing Website (MkDocs)

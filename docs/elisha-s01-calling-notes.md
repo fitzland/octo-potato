@@ -9,6 +9,10 @@ tags:
 modified_date: 2026-02-28
 presented_date: 2025-11-16
 front_matter_title: God's Hand in Our Calling
+series: Elisha Series
+scripture: 1 Kings 19:19-21; 2 Kings 2:7-15
+document_type: notes
+status: published
 ---
 # God's Hand in Our Calling
 

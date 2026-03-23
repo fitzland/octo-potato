@@ -9,6 +9,10 @@ tags:
 modified_date: 2026-02-28
 presented_date: 2026-02-29
 front_matter_title: 'Sermon: God''s Hand in Restoring Lives'
+series: Elisha Series
+scripture: 2 Kings 5:1-19
+document_type: sermon
+status: published
 ---
 
 # Sermon Notes: God's Hand in Restoring Lives

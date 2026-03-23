@@ -9,6 +9,10 @@ tags:
 modified_date: 2026-03-15
 presented_date: 2026-03-15
 front_matter_title: Limited Resources. Faith Falls Short
+series: Limited Resources, Limitless God
+scripture: Matthew 17:14-20
+document_type: notes
+status: published
 ---
 
 # Limited Resources: Faith Falls Short

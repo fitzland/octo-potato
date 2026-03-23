@@ -8,6 +8,10 @@ tags:
 modified_date: 2026-03-02
 presented_date: 2026-03-01
 front_matter_title: Character Counts. Importance of Character
+series: Character Series
+scripture: 2 Peter 1:1-11
+document_type: notes
+status: published
 ---
 
 # Importance of Character

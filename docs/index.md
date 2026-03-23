@@ -1,6 +1,8 @@
 ---
 front_matter_title: Home
 modified_date: 2026-02-28
+document_type: page
+status: published
 ---
 
 # Welcome to fitzhugh.us
