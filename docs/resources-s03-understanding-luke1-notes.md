@@ -46,13 +46,13 @@ God can do great things through you.
 
 ### Lesson Flow
 
-1. [**The Troubling Favor**](#1-the-troubling-favor)
-2. [**The Impossible Question**](#2-the-impossible-question)
-3. [**The Unfailing Word**](#3-the-unfailing-word)
+1. [**Troubling Favor**](#1-troubling-favor)
+2. [**Impossible Question**](#2-impossible-question)
+3. [**Unfailing Word**](#3-unfailing-word)
 
 ---
 
-## 1. The Troubling Favor
+## 1. Troubling Favor
 
 God's favor often looks like a disruption before it looks like a blessing.
 
@@ -70,25 +70,29 @@ God's favor often looks like a disruption before it looks like a blessing.
 
 - **Greatly Troubled**. Mary wasn't troubled by the *sight* of the angel (like Zechariah was), but by his *words*. She "wondered" (dialogizeto)—literally, she was having an internal dialogue, trying to calculate the logic of this greeting.
 
-### Engaging the Mind
+### Troubled by Favor (Discussion:Mind)
 
-> **The Setting.** What do we know about Mary's social and geographic status when Gabriel appeared? [She was a young virgin in Nazareth, pledged to Joseph—essentially an "ordinary" person in an insignificant town.] 
->
-> **The Reaction.** Why was Mary "greatly troubled" by the angel's greeting? [She was trying to reconcile her ordinary life with the extraordinary statement that she was "highly favored" and that "the Lord is with you."] 
->
-> **The Definition.** How does the angel define "favor" in verse 30? [He connects it to the removal of fear: "Do not be afraid... you have found favor."]
+> *What* do we know about Mary's social and geographic status when Gabriel appeared?
 
-### Engaging the Affections (Heart Check)
+**Setting**. She was a young virgin in Nazareth, pledged to Joseph — an ordinary person in an insignificant town.
 
-> If an angel appeared and told you that you were "highly favored," would your first reaction be "trouble" or "pride"? Why?
->
-> Have you ever felt that God was "with you" in a way that actually made your life feel more complicated or "troubled"?
+> *Why* was Mary "greatly troubled" by the angel's greeting — and what specifically troubled her?
+
+**Internal Dialogue**. She was trying to reconcile her ordinary life with the extraordinary claim that she was "highly favored." The text says she "wondered" (*dialogizeto*) — literally having an internal dialogue, trying to calculate the logic of this greeting.
+
+> *How* does the angel define "favor" in v.30?
+
+**Removal of Fear**. He connects favor to "Do not be afraid." Favor is not a reward for understanding — it's a gift of God's presence that addresses our fear first.
+
+### Unexpected Grace (Reflection:Heart)
+
+> *If an angel appeared and told you that you were "highly favored," would your first reaction be trouble or pride — and what does that say about how you understand grace?*
 
 *Transition*. The "favor" of God quickly moved from a confusing greeting to an impossible assignment.
 
 ---
 
-## 2. The Impossible Question
+## 2. Impossible Question
 
 It is not a sin to ask "How?", as long as the question is rooted in wonder rather than willful unbelief.
 
@@ -104,25 +108,29 @@ It is not a sin to ask "How?", as long as the question is rooted in wonder rathe
 
 - **The Name Jesus (Yeshua)**. It means "The Lord Saves." The "limitless" God was entering a "limited" human body to solve a problem (sin) that human understanding could never fix.
 
-### Engaging the Mind
+### Impossible How (Discussion:Mind)
 
-> **The Identity.** What specific titles and roles does Gabriel attribute to the son Mary will bear? [Jesus, Great, Son of the Most High, King on David's throne, Eternal Ruler.] 
->
-> **The Question.** What is the difference between Mary's "How?" and Zechariah's "How?" (v. 18)? [Zechariah asked for a sign because he doubted; Mary asked for an explanation of the process because she believed but didn't understand the mechanics.]
->
-> **The Limitation.** What was the specific biological limitation Mary pointed out? [She was a virgin; she lacked the human means to conceive a child.]
+> *What* specific titles and roles does Gabriel attribute to the son Mary will bear in vv.31-33?
 
-### Engaging the Affections (Heart Check)
+**Five descriptions**. Jesus (the name), Great, Son of the Most High, King on David's throne, Eternal Ruler. These are the direct fulfillment of the Davidic Covenant from 2 Samuel 7 — not spiritual metaphors but a literal, eternal throne.
 
-> When God's promises seem to contradict the "laws" of your current reality (finances, health, relationships), do you ask "How can this be?" with a heart of skepticism or a heart of curious faith?
->
-> Which part of Gabriel's description of Jesus (vv. 32-33) is most difficult for you to wrap your head around today?
+> *What* is the difference between Mary's "How?" in v.34 and Zechariah's "How?" in v.18?
+
+**Wonder vs. doubt**. Zechariah asked for a sign because he doubted; Mary asked for an explanation of the process because she believed but couldn't see the mechanics. Her faith was already present — her understanding was not.
+
+> *What* specific limitation does Mary name — and what does it reveal about the kind of faith she already had?
+
+**Virgin, not skeptic**. She acknowledges the biological barrier honestly, but her question is about process, not permission. She had already accepted the "Who" — she was asking about the "How."
+
+### Curious Faith (Reflection:Heart)
+
+> *When God's promises seem to contradict the "laws" of your current reality — finances, health, relationships — do you ask "How can this be?" with skepticism or with curious faith?*
 
 *Transition*. Gabriel's answer shifts the focus from Mary's biological "How" to God's sovereign "Who."
 
 ---
 
-## 3. The Unfailing Word
+## 3. Unfailing Word
 
 The solution to our lack of understanding is the absolute reliability of God's character.
 
@@ -140,43 +148,51 @@ The solution to our lack of understanding is the absolute reliability of God's c
 
 - **The Servant's Response**. Mary's response is the "gold standard" of faith. She calls herself a *doulē* (slave/servant). She doesn't wait for a 10-year plan; she accepts the "Word" as enough.
 
-### Engaging the Mind
+### Unfailing Word (Discussion:Mind)
 
-> **The Explanation.** How does Gabriel explain the "mechanics" of the conception? [The Holy Spirit will come upon her; the power of the Most High will overshadow her—invoking the Shekinah glory.] 
->
-> **The Evidence.** Why does Gabriel mention Elizabeth? [To provide a "proof of concept" for God's consistent pattern: if He can bring life to the barren, He can bring life to the virgin.]
->
-> **The Declaration.** What is the foundational truth stated in verse 37? [No word from God will ever fail.]
->
-> **The Submission.** Describe Mary's final response. [She identifies as the Lord's servant and asks for it to happen according to His word.]
+> *What* Old Testament image does the word "overshadow" in v.35 evoke?
 
-### Engaging the Affections (Heart Check)
+**Shekinah glory**. The same word (*episkiazō*) describes the cloud of God’s presence that filled the Tabernacle (Exodus 40) and appeared at the Transfiguration. God doesn’t just "help" Mary — His presence dwells in her to accomplish what human means cannot.
 
-> Mary’s "Yes" meant potential scandal, the risk of divorce (from Joseph), and a life of misunderstanding. Are you willing to say "May it happen to me" if it means losing your reputation?
->
-> Can you think of a "word" from God (a promise in Scripture) that you have been treating as if it might "fail" because you can't see how it could work?
+> *How* does Gabriel answer Mary’s "How?" — and what does pointing to Elizabeth add to that answer?
+
+**From mechanics to pattern**. Gabriel shifts from explaining the process to establishing a precedent: if God brought life to Elizabeth’s barren womb, He can bring life to a virgin womb. The question was never really about biology.
+
+> *What* foundational truth does Gabriel anchor everything to in v.37 — and how does it reframe the real nature of Mary’s limitation?
+
+**"No word from God will ever fail."** The problem was never Mary’s resources. Her limitation was real — but it was never the deciding factor. The word was.
+
+> *How* does Mary respond in v.38 — and what two things does she do in that response?
+
+**Servant and surrender**. She identifies as the Lord’s *doulē* (slave/servant) — not a volunteer — and she asks for it to happen *according to His word*, not her understanding. She doesn’t need the 10-year plan. The word is enough.
+
+### May It Happen (Reflection:Heart)
+
+> *Mary’s "Yes" meant potential scandal, the risk of Joseph leaving, and a life of misunderstanding. Are you willing to say "May it happen to me" if it costs you your reputation?*
 
 ---
 
 ## Closing
 
-### The Synthesis: The Song after the Surrender
-If you are standing on a construction site, looking at a blueprint for a massive skyscraper, you might not understand how the physics of the load-bearing walls work. But you don't need to be an architect to live in the building. You just need to trust the Builder. 
+*If you are standing on a construction site, looking at a blueprint for a massive skyscraper, you might not understand how the physics of the load-bearing walls work. But you don’t need to be an architect to live in the building. You just need to trust the Builder. Mary moved from the "How" of her understanding to the "Who" of God’s power. And as a result, her confusion turned into a song — the Magnificat (vv.46-55) — that has lasted 2,000 years. When we stop trying to "solve" God’s plan and start "serving" it, our lives move from disruption to worship.*
 
-Mary moved from the "How" of her understanding to the "Who" of God's power. And as a result, her confusion turned into a song—the *Magnificat* (vv. 46-55)—that has lasted 2,000 years. When we stop trying to "solve" God's plan and start "serving" it, our lives move from disruption to worship.
+### Decision (Will)
 
-### Engaging the Will (Decision)
+**Demanding the How**. Will you stop demanding that God explain His "How" before you give Him your "Yes"?
 
-- **Will you** stop demanding that God explain His "How" before you give Him your "Yes"?
-- **Will you** trust God's timing for your life, even when it feels "off" according to your own 5-year plan?
-- **Will you** identify one area where you've been "troubled" by God's leading and surrender it as His "servant" today?
+**Trusting the Timing**. Will you trust God’s timing for your life, even when it feels "off" according to your own plan?
+
+**Surrendered Servant**. Will you identify one area where you’ve been "troubled" by God’s leading and surrender it as His servant today?
 
 ### Challenges (Practice)
 
-1. **The "May It Happen" Prayer**. This week, whenever you face an uncertain outcome, pray Mary’s words: "I am the Lord's servant. May it happen to me according to Your word."
-2. **Rhēma Journaling**. Find one specific promise (word) from God in Scripture this week. Write it down and next to it write: "This word will not fail because God is the Builder."
-3. **Magnificat Meditation**. Read Luke 1:46-55 once a day this week. Notice how Mary focuses on God's greatness rather than her own confusion.
-4. **Memory Verse**. Memorize Luke 1:37: "For no word from God will ever fail."
+**"May It Happen" Prayer**. This week, whenever you face an uncertain outcome, pray Mary’s words: *I am the Lord’s servant. May it happen to me according to Your word.*
+
+**Rhēma Journal**. Find one specific promise from God in Scripture this week. Write it down, and next to it write: *This word will not fail because God is the Builder.*
+
+**Magnificat Meditation**. Read Luke 1:46-55 once a day this week. Notice how Mary focuses on God’s greatness rather than her own confusion.
+
+**Memory Verse**. Luke 1:37. *For no word from God will ever fail.*
 
 ### Prayer
 
