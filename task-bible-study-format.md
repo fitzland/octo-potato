@@ -12,6 +12,7 @@ Follow a strict hierarchical structure for headings. **Never skip levels** (e.g.
 -   `##` (H2): Major sections (e.g., `## Section Title`), `## Introduction`, and the `## Closing` section. Do not use numeric prefixes for section titles.
 -   `###` (H3): Subsections like `### Icebreaker`, `### Core Message`, `### Scripture...`, `### Discussion`, and `### Reflection (Heart)`.
 -   `####` (H4): Not currently used.
+-   **No leading articles in H3 headings**. Do not begin descriptive `###` headings with "The", "A", or "An". Write `Dried Brook` not `The Dried Brook`. This keeps headings concise and easier to scan.
 
 ---
 
@@ -39,6 +40,10 @@ Scripture passages **within** each lesson section **must not** use `!!! quote` a
 ## 3. Lesson Prompts
 
 There are four distinct types of prompts. They **must not** use `!!! question` admonitions or other complex formatting.
+
+### Series Overview
+
+-   When a lesson is part of a series, include a `### Series Overview` table or list inside `## Introduction`, **before** `### Icebreaker`.
 
 ### Icebreakers
 

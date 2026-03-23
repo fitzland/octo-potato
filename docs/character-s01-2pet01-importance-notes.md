@@ -20,15 +20,9 @@ status: published
 
 ## Introduction
 
-### Icebreaker
-
-When you think about what our culture celebrates most—talent, success, fame, influence—where does character rank? Why do you think that is?
-
-*You do you* is a popular phrase people use to give themselves and others permission to do and act in any way that feels best to them. The problem with this mindset is that we're flawed human beings; we don't always act in the best way. The only way we can live rightly is to live the way God calls us to live—embracing the character traits that reflect Christ.
-
 ### Series Overview
 
-For six weeks, we'll be in a series called **Character Counts**. 
+For six weeks, we'll be in a series called **Character Counts**.
 
 - **Session 1**. Importance of Character (2 Peter 1:1-11) – Equipped for Christlike character
 - **Session 2**. Godliness (1 Timothy 4:6-16) – Point others to Christ
@@ -36,6 +30,12 @@ For six weeks, we'll be in a series called **Character Counts**.
 - **Session 4**. Contentment (Philippians 4:10-20) – Find satisfaction in Christ
 - **Session 5**. Generosity (2 Corinthians 8:1-9) – Give from what God has given us
 - **Session 6**. Integrity (1 Peter 3:8-17) – Live consistently with our confession
+
+### Icebreaker
+
+When you think about what our culture celebrates most—talent, success, fame, influence—where does character rank? Why do you think that is?
+
+*You do you* is a popular phrase people use to give themselves and others permission to do and act in any way that feels best to them. The problem with this mindset is that we're flawed human beings; we don't always act in the best way. The only way we can live rightly is to live the way God calls us to live—embracing the character traits that reflect Christ.
 
 ### Historical Context
 

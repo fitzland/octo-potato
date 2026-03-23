@@ -21,12 +21,6 @@ Luke 1:26-38, BSB
 
 ## Introduction
 
-### Icebreaker
-
-What happens when a piece is left out of a build-it-yourself project? Does the whole thing collapse, or do you just end up with a "mystery part" that leaves you questioning the entire design?
-
-We often feel like we're building our lives without the full instruction manual. We encounter situations that don't make sense, requests from God that seem impossible, and timing that feels "off." We want to understand the *how* and the *why* before we say *yes*. But as we'll see in the life of Mary, God doesn't require our full understanding—only our full availability. When our understanding falls short, His word remains unfailing.
-
 ### Series Overview
 
 We are in the third week of our series: **Limited Resources, Limitless God**.
@@ -39,6 +33,12 @@ We are in the third week of our series: **Limited Resources, Limitless God**.
 | 4 | When Your Provisions Fall Short | 1 Kings 17:5-16 |
 | 5 | When Your Finances Fall Short | Luke 12:13-21; 21:1-4 |
 | 6 | When Your Confidence Falls Short | 1 John 3:21–4:6 |
+
+### Icebreaker
+
+What happens when a piece is left out of a build-it-yourself project? Does the whole thing collapse, or do you just end up with a "mystery part" that leaves you questioning the entire design?
+
+We often feel like we're building our lives without the full instruction manual. We encounter situations that don't make sense, requests from God that seem impossible, and timing that feels "off." We want to understand the *how* and the *why* before we say *yes*. But as we'll see in the life of Mary, God doesn't require our full understanding—only our full availability. When our understanding falls short, His word remains unfailing.
 
 ### Core Message
 

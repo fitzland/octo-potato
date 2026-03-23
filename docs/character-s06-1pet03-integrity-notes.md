@@ -18,7 +18,9 @@ status: published
 
 1 Peter 3:8–17, BSB
 
-## Series Overview
+## Introduction
+
+### Series Overview
 
 | # | Title | Passage | Core Idea |
 |---|-------|---------|-----------|
@@ -28,8 +30,6 @@ status: published
 | 4 | Contentment | Philippians 4:10–20 | Find satisfaction in Christ |
 | 5 | Generosity | 2 Corinthians 8:1–9 | Give from what God has given us |
 | **6** | **Integrity** | **1 Peter 3:8–17** | **Live Above Reproach** |
-
-## Introduction
 
 ### Icebreaker
 

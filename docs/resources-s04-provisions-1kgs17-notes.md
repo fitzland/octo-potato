@@ -70,8 +70,9 @@ When your provisions fall short, God's supply flows from obedience to His word �
 - **"Behold, I have commanded a widow there"** (v.9). God had already been working before Elijah took a single step. The provision was arranged in advance — the logistics just hadn't been revealed yet.
 - **The dried brook is a redirect, not abandonment**. When a source of provision dries up, God may be pointing toward a new assignment, not withdrawing His care. The ravens don't come back — but that doesn't mean the provision is gone.
 - **Jesus cites this story** in Luke 4:25-26: *"There were many widows in Israel... but Elijah was sent to none of them, but to a widow in Zarephath in the region of Sidon."* God's provision has never been limited by geography, ethnicity, or social standing.
+- **Baal's supposed domain**. The drought was Elijah's direct challenge to Baal, the Phoenician storm-god believed to control rain (1 Kings 17:1). By sending Elijah into Sidon — Baal's home territory — and sustaining him there with flour and oil (agricultural produce Baal supposedly governed), God is not just redirecting His prophet. He is demonstrating His sovereignty over the very domain Baal was worshipped to control.
 
-### The Dried Brook (Discussion:Mind)
+### Dried Brook (Discussion:Mind)
 
 > *What* clues in vv.5-9 show that God was already working before Elijah arrived in Zarephath?
 
@@ -81,7 +82,7 @@ When your provisions fall short, God's supply flows from obedience to His word �
 
 **Redirecting, Not Abandoning**. If the brook had kept flowing, Elijah would have stayed. The drought was the catalyst God used to move His prophet to the next assignment. Comfort can become a reason to stay put when God is calling us forward.
 
-### The Familiar Source (Reflection:Heart)
+### Familiar Source (Reflection:Heart)
 
 > *Is there a "brook" in your life that has recently dried up — a source of provision, security, or stability that is gone? How are you interpreting that? As abandonment, or as a redirect?*
 
@@ -107,6 +108,7 @@ When your provisions fall short, God's supply flows from obedience to His word �
 - **"That we may eat it and die"**. She is not being dramatic. She has calculated the situation with painful clarity. She has accepted the end. There is no plan B.
 - **"As surely as the LORD your God lives"**. She calls God *Elijah's* God — not her own. She is Gentile, outside the covenant. Yet God had *commanded* her to provide for Elijah (v.9). She doesn't know this yet.
 - **Widows in ancient Israel had no social safety net**. Without a husband, son, or community support, a widow could starve. This woman is at the bottom of every social, economic, and spiritual ladder available to her.
+- **Zarephath was not a poor city**. Archaeological evidence identifies it as a prosperous Phoenician metalworking center. The widow's destitution is not explained by the poverty of her surroundings — it is her own rock bottom, surrounded by a functioning economy. God finds her at the bottom, not in the margins.
 
 ### Rock Bottom (Discussion:Mind)
 
@@ -147,9 +149,10 @@ When your provisions fall short, God's supply flows from obedience to His word �
 - **The promise precedes the proof** (v.14). Elijah does not offer her evidence — he offers her a word. "This is what the LORD says." She must decide whether to trust the word before she sees the outcome.
 - **"She went and did"** (v.15). No recorded argument. No negotiation. She heard, and she obeyed. Her obedience is the hinge on which the miracle turns.
 - **"In keeping with the word of the LORD"** (v.16). The provision is explicitly tied to God's spoken word. This is not luck or coincidence — the text names the source. The jar doesn't run out because God said it wouldn't.
+- **Seven times**. The phrase "the word of the LORD" appears seven times across 1 Kings 17. In Hebrew thought, seven signals completeness. The entire chapter is structured around God's spoken word as the operative force — every provision, every redirect, every miracle is anchored to it. The jar of flour doesn't run out because of luck; it runs out because God spoke, and He spoke *completely*.
 - **The broader pattern in Scripture**: The feeding of the 5,000 — a boy's five loaves and two fish (John 6:9-11). The wedding at Cana — six empty jars (John 2:6-7). In each case, God asks for what seems insufficient, then multiplies it. Jesus himself is the Bread of Life (John 6:35) — the one provision that can never run out.
 
-### The First Loaf (Discussion:Mind)
+### First Loaf (Discussion:Mind)
 
 > *What* specific elements of Elijah's promise in v.14 require the widow to trust *before* she can verify anything?
 
@@ -163,7 +166,7 @@ When your provisions fall short, God's supply flows from obedience to His word �
 
 **A Consistent God**. Ravens to bread to jars of oil to five loaves to empty wedding jars — the pattern is unmistakable. God consistently asks for what is insufficient, then provides what is impossible. He is not surprised by our emptiness. He works *through* it.
 
-### The Withheld Loaf (Reflection:Heart)
+### Withheld Loaf (Reflection:Heart)
 
 > *Is there something God is asking you to give, offer, or release — before you can see the provision? What is it, and what is holding you back?*
 
