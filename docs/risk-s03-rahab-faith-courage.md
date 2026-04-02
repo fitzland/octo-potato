@@ -46,7 +46,7 @@ The report of God's power brought paralyzing fear to Jericho's inhabitants.
 
 > **8** Now before the spies went to sleep, Rahab went up to the roof **9** and said to them, "I know that the LORD has given you this land and that the fear of you has fallen on us, so that all who dwell in the land are melting in fear of you.
 
-### Context & Insights
+### Jericho's Fear & Rahab's Position
 
 Two spies infiltrate Jericho, lodging in Rahab's house. Their presence is immediately detected, and the king reacts with alarm. 
 
@@ -94,7 +94,7 @@ While her city was paralyzed by fear, Rahab acted in faith, protecting God's mes
 
 > **7** So the men pursued them along the road to the Jordan as far as the fords, and as soon as the pursuers had left, the gate was shut.
 
-### Context & Insights
+### Decisive Action & Treasured Lives
 
 The king's men arrive at Rahab's door. To obey would be safe; to defy is treason, punishable by death. She acts decisively, hiding the men and misdirecting their pursuers.
 
@@ -151,7 +151,7 @@ Rahab's actions were rooted in firm belief in God's supreme authority, moving he
 
 > **17** The men said to her, "We will be free from this oath you made us swear, **18** unless, when we enter the land, you have tied this scarlet cord in the window through which you let us down, and unless you have brought your father and mother and brothers and all your father's household into your house. **19** If anyone goes out the door of your house into the street, his blood will be on his own head, and we will be innocent. But if a hand is laid on anyone with you in the house, his blood will be on our head."
 
-### Context & Insights
+### Sovereignty Confession & Scarlet Cord
 
 Rahab reveals the *why* behind her actions. Her theology is robust—she knows *who* was behind Israel's victories: Yahweh.
 
@@ -226,7 +226,7 @@ God honors courageous faith by ensuring salvation's promise is faithfully delive
 
 > **25** And Joshua spared Rahab the prostitute, with her father's household and all who belonged to her, because she hid the men Joshua had sent to spy out Jericho. So she has lived among the Israelites to this day.
 
-### Context & Insights
+### Kept Promise & Full Inclusion
 
 Jericho's walls have fallen. Battle rages. Amid chaos, Joshua remembers. He commands the promise be kept. The two oath-makers fulfill it.
 

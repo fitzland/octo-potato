@@ -86,7 +86,7 @@ God has already provided us with everything we need to live a life that reflects
 >
 > **3** His divine power has granted to us all things that pertain to life and godliness, through the knowledge of Him who called us to His own glory and excellence, **4** by which He has granted to us His precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire.
 
-### Context & Insights
+### Peter's Transformation & Divine Provision
 
 -	**Peter's Journey**. Before looking at Peter's teaching, we need to understand that Peter experienced the same character transformation he's writing about. He thought himself above being disloyal to Jesus even though others might be (Matt. 26:33). But after boldly stating he would never betray Jesus, within hours he denied Jesus three times and declared he never knew Him (vv. 69-75). Decades later, he's writing with authority about Christlike character. What changed? The greatness and goodness of Jesus drew Peter toward transformed character.
 
@@ -142,7 +142,7 @@ Our active pursuit of Christlike virtues leads to a fruitful and impactful spiri
 
 > **5** For this very reason, make every effort to supplement your faith with virtue, and virtue with knowledge, **6** and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness, **7** and godliness with brotherly affection, and brotherly affection with love. **8** For if these qualities are yours and are increasing, they keep you from being ineffective or unfruitful in the knowledge of our Lord Jesus Christ.
 
-### Context & Insights
+### Virtue Ladder & Building Toward Love
 
 -   **"Make Every Effort"**. Peter shifts from divine provision to human responsibility. The phrase *make every effort* (spoudēn) conveys diligence and urgency. The word *supplement* (epichorēgēsate) indicates we are to generously, abundantly, even *extravagantly* supply these virtues to our faith. This isn't about grudging obedience or minimal effort but lavish, joyful investment in our spiritual growth. God provides the equipment, we must put in the effort.
 
@@ -201,7 +201,7 @@ A life marked by Christlike character is a visible testament to our transformed 
 
 > **9** For whoever lacks these qualities is so nearsighted that he is blind, having forgotten that he was cleansed from his former sins. **10** Therefore, brothers, be all the more diligent to confirm your calling and election, for if you practice these qualities you will never fall. **11** For in this way there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ.
 
-### Context & Insights
+### Nearsightedness, Calling & Rich Entrance
 
 -   **Spiritual Nearsightedness & Blindness**. Peter issues a stern warning: those who lack and fail to grow in these virtues are nearsighted or blind. They have forgotten or lost sight of the spiritual reality of their cleansing from past sins and the new life they have in Christ. Their short-sightedness prevents them from seeing the long-term impact of their spiritual stagnation. **Illustration**. *My reminds me of the recent surgery, and my past condition. I shouldn't forget the preciousness of my new health.*
 

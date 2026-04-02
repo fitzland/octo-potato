@@ -49,7 +49,7 @@ John's radical call to repentance exposes the deadly danger of religious masks�
 >
 > **7** But when he saw many of the Pharisees and Sadducees coming to where he was baptizing, he said to them, "You brood of vipers! Who warned you to flee from the coming wrath? **8** Produce fruit in keeping with repentance. **9** And do not think you can say to yourselves, 'We have Abraham as our father.' For I tell you that out of these stones God can raise up children for Abraham. **10** The axe is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire."
 
-### Context & Insights
+### Wilderness, Repentance & Religious Masks
 
 - **Wilderness as Unmasking**. John emerges from the wilderness, a wild and untamed place that mirrors the untamed nature of his message. The wilderness was the last place the religious elite wanted to go—no synagogue, no robes, no status markers. To receive John's baptism meant confessing openly that your heritage and position couldn't save you. The wilderness strips away all religious decoration and reveals what's underneath. John's ascetic lifestyle—camel's hair clothing, leather belt, locusts and wild honey—echoed the prophet Elijah (**2 Kings 1:8**), signaling a prophetic ministry that fulfills Isaiah's ancient prophecy (**Isaiah 40:3**). His complete separation from worldly comforts reinforced the urgency and seriousness of his call.
 
@@ -117,7 +117,7 @@ John models how to challenge others: not from a position of superiority, but fro
 >
 > **13** Then Jesus came from Galilee to John at the Jordan to be baptized by him. **14** But John tried to prevent Him, saying, "I need to be baptized by You, and do You come to me?"
 
-### Context & Insights
+### Herald's Humility & Spirit's Fire
 
 - **Not Worthy**. John clearly understands his preparatory role. He humbly contrasts his water baptism (a symbol of outward repentance) with the more profound, transformative work of the *One who is more powerful*—Jesus Christ. To carry someone's sandals was the lowest task of a household servant. John is saying he's not even qualified for the most menial service to Jesus. We often stay silent about truth because we fear being called hypocrites. John solves this by his posture: he admits his own unworthiness (v. 11) and even his own need for Jesus' baptism (v. 14). You don't have to be perfect to speak the truth; you just have to be honest about your own need.
 
@@ -169,7 +169,7 @@ Jesus, the only one without a mask and without sin, steps into the muddy waters 
 >
 > **16** As soon as Jesus was baptized, He went up out of the water. At that moment heaven was opened, and He saw the Spirit of God descending like a dove and alighting on Him. **17** And a voice from heaven said, "This is My beloved Son, in whom I am well pleased."
 
-### Context & Insights
+### Trinity Revealed & Incarnational Righteousness
 
 - **Into the Mud**. Jesus, the sinless Son of God, submits to a baptism of repentance. He doesn't observe the crowd from the safety of the dry bank; He steps into the mud of the Jordan with the broken. To *fulfill all righteousness* meant the Sinless King got dirty in the place designated for sinners. He stood where we stand, confessing solidarity with humanity's need before pronouncing judgment on humanity's sin. If the King is willing to be in the mud with us, we can afford to take off our masks and be honest about our own need. When we challenge others, we must do the same. We don't look down on the "vipers" from a position of safety; we acknowledge that we are all standing in the same river of need, looking at the same Savior.
 

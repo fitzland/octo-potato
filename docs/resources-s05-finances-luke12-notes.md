@@ -59,7 +59,7 @@ True financial security is not found in accumulating more but in becoming *rich 
 >
 > **15** And He said to them, "Watch out! Guard yourselves against every form of greed, for one's life does not consist in the abundance of his possessions."
 
-### Context & Insights
+### Inheritance Dispute & Persistent Greed
 
 - **The travel narrative setting** (Luke 9:51–19:27). By this point Jesus is on the final journey to Jerusalem. Large crowds press around Him, and His teaching has a mounting urgency about ultimate things — the kingdom, discipleship, the cost of following Him.
 - **An inheritance dispute** (v.13). Under Mosaic law (Deuteronomy 21:15-17; Numbers 27:1-11) an eldest son typically received a double portion. Rabbis commonly arbitrated such disputes. The man is asking Jesus to validate a claim he has already decided is righteous.
@@ -111,7 +111,7 @@ True financial security is not found in accumulating more but in becoming *rich 
 >
 > **21** This is how it will be for anyone who stores up treasure for himself but is not rich toward God."
 
-### Context & Insights
+### Parable, Pronouns & Rich Toward God
 
 - **A parable, not a condemnation of wealth**. Jesus does not say the rich man sinned by being productive. The harvest was a gift. The fields were fruitful. Prosperity itself is not the problem. The problem is what the man did with it — and more precisely, *who* he did it for.
 - **Eleven first-person pronouns in vv.17-19**. Count them: *my crops, my barns, my grain, my goods, I will, I will, I will, I will say to myself, you have, you have, take it easy.* The monologue is a closed loop. God is not in it. Neither is anyone else.
@@ -160,7 +160,7 @@ True financial security is not found in accumulating more but in becoming *rich 
 >
 > **4** For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on."
 
-### Context & Insights
+### Holy Week, Temple Treasury & Two Coins
 
 - **The setting: Holy Week** (Luke 20-21). This scene occurs in the final days before the crucifixion. Jesus has just warned His disciples about the scribes who "devour widows' houses" (Luke 20:47). He then sits and watches one of those very widows give everything she has. The contrast is deliberate and devastating.
 - **The temple treasury** (v.1). The Court of Women contained thirteen trumpet-shaped collection chests, each labeled for a different purpose (alms, incense, wood, etc.). The coins made noise as they fell — larger contributions announced themselves; the widow's two *lepta* would have made almost no sound at all.

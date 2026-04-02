@@ -50,7 +50,7 @@ God's favor often looks like a disruption before it looks like a blessing.
 
 > **26** In the sixth month, God sent the angel Gabriel to a town in Galilee called Nazareth, **27** to a virgin pledged in marriage to a man named Joseph, who was of the house of David. And the virgin’s name was Mary. **28** And the angel appeared to her and said, “Greetings, you who are highly favored! The Lord is with you.” **29** Mary was greatly troubled at his words and wondered what kind of greeting this might be. **30** So the angel told her, “Do not be afraid, Mary, for you have found favor with God."
 
-### Context & Insights
+### Nazareth, Grace & Troubled Wonder
 
 - **Orderly Account**. Luke begins his Gospel (vv. 1-4) by stating his goal: to provide an "orderly account" so that we may have "certainty." It is a beautiful irony that Luke uses the most precise human research (the Mind) to document events that completely transcend human understanding (the Spirit).
 
@@ -88,7 +88,7 @@ It is not a sin to ask *How?*, as long as the question is rooted in wonder rathe
 
 > **31** "Behold, you will conceive and give birth to a son, and you are to give Him the name Jesus. **32** He will be great and will be called the Son of the Most High. The Lord God will give Him the throne of His father David, **33** and He will reign over the house of Jacob forever. His kingdom will never end!” **34** “How can this be,” Mary asked the angel, “since I am a virgin?”
 
-### Context & Insights
+### Messianic Profile & Mary's Question
 
 - **Messianic Profile**. Gabriel uses the highest possible language: "Son of the Most High," "Throne of David," "Kingdom will never end." This is a direct fulfillment of the Davidic Covenant (2 Samuel 7).
 
@@ -124,7 +124,7 @@ The solution to our lack of understanding is the absolute reliability of God's c
 
 > **35** The angel replied, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the Holy One to be born will be called the Son of God. **36** Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month. **37** For no word from God will ever fail.” **38** “I am the Lord’s servant,” Mary answered. “May it happen to me according to your word.” Then the angel left her.
 
-### Context & Insights
+### Shekinah, Pattern & Servant Response
 
 - **Overshadow (Episkiazō)**. This is the same word used for the *Shekinah* glory—the cloud of God's presence that filled the Tabernacle and appeared at the Transfiguration. It implies that God doesn't just "help" Mary; His very presence "dwells" with her to achieve the impossible.
 

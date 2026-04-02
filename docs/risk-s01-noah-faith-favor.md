@@ -40,7 +40,7 @@ True faith is a righteous relationship with God that receives His favor, walks i
 
     **5** Then the LORD saw that the wickedness of man was great upon the earth, and that every inclination of the thoughts of his heart was only evil all the time. **6** And the LORD regretted that He had made man on the earth, and He was grieved in His heart. **7** So the LORD said, “I will blot out man, whom I have created, from the face of the earth—every man and beast and crawling creature and bird of the air—for I am grieved that I have made them.”
 
-### Context & Insights
+### Pervasive Evil & God's Grief
 
 The world had gone astray. Wickedness wasn’t occasional—it was the constant condition of every human heart. This pervasive evil broke God’s heart and moved Him to just judgment.
 
@@ -96,7 +96,7 @@ The world had gone astray. Wickedness wasn’t occasional—it was the constant 
 
     **8** Noah, however, found favor in the eyes of the LORD. **9** This is the account of Noah. Noah was a righteous man, blameless in his generation; Noah walked with God.
 
-### Context & Insights
+### Grace, Righteousness & Walking with God
 
 In contrast to the rest of humanity, Noah *found favor with God*. He is described as righteous and blameless. God’s grace comes first; it is what makes righteous living possible in a corrupt generation.
 
@@ -170,7 +170,7 @@ In contrast to the rest of humanity, Noah *found favor with God*. He is describe
 
     **22** So Noah did everything precisely as God had commanded him.
 
-### Context & Insights
+### Covenant, Obedience & the Ark
 
 God had a plan for salvation. He gave impossibly detailed instructions and an unimaginable timeline. Noah’s response? Total, unquestioning obedience. The ark became God’s appointed means of salvation—foreshadowing greater rescue to come.
 
@@ -240,7 +240,7 @@ God had a plan for salvation. He gave impossibly detailed instructions and an un
 
     **20** Then Noah built an altar to the LORD… and offered burnt offerings on the altar. **21** When the LORD smelled the pleasing aroma, He said in His heart, “Never again will I curse the ground because of man, even though every inclination of his heart is evil from his youth… **22** As long as the earth remains, seedtime and harvest… shall never cease.”
 
-### Context & Insights
+### Worship, Aroma & Renewed Promise
 
 Noah’s first act on dry ground was worship, not survival. The *pleasing aroma* moved God to promise mercy. Human hearts are still evil, yet God’s posture changes—from judgment to patient mercy. The flood washed the world but didn’t wash human nature. Only a greater sacrifice—Jesus on the cross—can do that. Noah’s altar points us to the ultimate sacrifice that secures God’s final *Never again* for everyone who trusts Him.
 

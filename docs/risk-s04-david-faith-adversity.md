@@ -45,7 +45,7 @@ Adversity provides the opportunity to display our faith.
 
 > **3** The Philistines stood on one hill and the Israelites stood on another, with the valley between them. **4** Then a champion named Goliath, who was from Gath, came out from the Philistine camp. He was six cubits and a span in height, **5** and he had a bronze helmet on his head. He wore a bronze coat of mail weighing five thousand shekels, **6** and he had armor of bronze on his legs and a javelin of bronze slung between his shoulders. **7** The shaft of his spear was like a weaver’s beam, and its iron point weighed six hundred shekels. In addition, his shield bearer went before him. **8** And Goliath stood and shouted to the ranks of Israel, “Why do you come out and array yourselves for battle? Am I not a Philistine, and are you not servants of Saul? Choose one of your men and have him come down against me."
 
-### Context & Insights
+### Goliath's Intimidation & Israel's Identity
 
 - **Two Hills**. Two armies have gathered for battle. Each stands on a hill with the valley of Elah between them. They are not fighting; Israel is paralyzed by fear.
 
@@ -85,7 +85,7 @@ David's confidence was not in himself, but was built on a history of experiencin
 
 > **32** And David said to Saul, “Let no man’s heart fail on account of this Philistine. Your servant will go and fight him!” **33** But Saul replied, “You cannot go out against this Philistine to fight him. You are just a boy, and he has been a warrior from his youth.” **34** David replied, “Your servant has been tending his father’s sheep, and whenever a lion or a bear came and carried off a lamb from the flock, **35** I went after it, struck it down, and delivered the lamb from its mouth. If it reared up against me, I would grab it by its fur, strike it down, and kill it. **36** Your servant has killed lions and bears; this uncircumcised Philistine will be like one of them, for he has defied the armies of the living God.” **37** David added, “The LORD, who delivered me from the claws of the lion and the bear, will deliver me from the hand of this Philistine.” “Go,” said Saul, “and may the LORD be with you.”
 
-### Context & Insights
+### Private Victories & God's Track Record
 
 - **just a boy**. Saul evaluates David based on outward appearance, the same way he evaluates Goliath. He sees the world's way.
 
@@ -121,7 +121,7 @@ Confident faith confronts the enemy not with worldly weapons, but in the name an
 
 > **45** But David said to the Philistine, “You come against me with sword and spear and javelin, but I come against you in the name of the LORD of Hosts, the God of the armies of Israel, whom you have defied. **46** This day the LORD will deliver you into my hand. This day I will strike you down, cut off your head, and give the carcasses of the Philistine army to the birds of the air and the creatures of the earth. Then the whole world will know that there is a God in Israel. **47** And all those assembled here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and He will give all of you into our hands.”
 
-### Context & Insights
+### God's Name, Glory & Battle
 
 - **You come against me**. David draws a sharp contrast between worldly power (sword, spear, javelin) and spiritual power (the name of the LORD). He is admitting he is outmatched on a physical level, but he is competing on a different level entirely.
 

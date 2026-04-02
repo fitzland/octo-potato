@@ -64,7 +64,7 @@ When your provisions fall short, God's supply flows from obedience to His word �
 >
 > **9** Get up and go to Zarephath of Sidon, and stay there. Behold, I have commanded a widow there to provide for you.
 
-### Context & Insights
+### Cherith, Zarephath & Baal's Domain
 
 - **Cherith to Zarephath**. Elijah moves from an isolated brook east of the Jordan to Zarephath — a Gentile city deep in Phoenicia, the home region of Queen Jezebel (1 Kings 16:31). God sends His prophet into "enemy territory" and places him in the care of a foreign widow.
 - **"Behold, I have commanded a widow there"** (v.9). God had already been working before Elijah took a single step. The provision was arranged in advance — the logistics just hadn't been revealed yet.
@@ -102,7 +102,7 @@ When your provisions fall short, God's supply flows from obedience to His word �
 >
 > **12** But she replied, As surely as the LORD your God lives, I have no bread — only a handful of flour in a jar and a little oil in a jug. I am gathering two sticks that I may go in and prepare it for myself and my son, that we may eat it and die.
 
-### Context & Insights
+### Empty Barrel & Rock Bottom
 
 - **"A handful of flour... a little oil"**. These are the most basic staples of life — and she is down to the last of both. One meal. After this, nothing.
 - **"That we may eat it and die"**. She is not being dramatic. She has calculated the situation with painful clarity. She has accepted the end. There is no plan B.
@@ -142,7 +142,7 @@ When your provisions fall short, God's supply flows from obedience to His word �
 >
 > **16** For the jar of flour was not exhausted and the jug of oil did not run dry, in keeping with the word the LORD had spoken through Elijah.
 
-### Context & Insights
+### First Loaf, Promise & God's Word
 
 - **"Do not be afraid"** (v.13). Before the command comes the comfort. Elijah sees her fear — the fear of giving away survival itself — and addresses it first. Fear drives hoarding; faith drives giving.
 - **"But first... bring it to me"**. This is the pivot of the entire story. Give the last thing first, to a stranger, on the basis of a promise you have never seen fulfilled. The request is not unreasonable — it is impossible, apart from trust.

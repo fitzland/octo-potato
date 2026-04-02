@@ -62,7 +62,7 @@ When your confidence falls short, the answer is not to generate more certainty f
 >
 > **24** Whoever keeps His commandments remains in God, and God in him. And by this we know that He remains in us: by the Spirit He has given us.
 
-### Context & Insights
+### Ephesian Context, Parrēsia & Dual Commandment
 
 - **John's audience**. John wrote to a network of house churches in and around Ephesus sometime after completing his Gospel. False teachers — likely early Gnostics — had defected from these congregations and were now circulating through them with revisionist teaching about Christ. They denied that Jesus, the eternal Son of God, had genuinely come in the flesh, and they questioned whether His death was necessary for forgiveness. The result was not just doctrinal disagreement; it was a crisis of assurance. Believers began asking: *Do I really know God? Have I really experienced eternal life?* John writes to stabilize what the false teachers have shaken.
 - **"Beloved"** (v.21). John opens with *agapetoi* — "beloved ones." He uses this address six times in the letter (2:7; 3:2,21; 4:1,7,11). It is not a warm greeting preceding the real point. It is the real point: you are *loved*. Your standing is not based on your performance but on your relationship with the One who loves you.
@@ -106,7 +106,7 @@ When your confidence falls short, the answer is not to generate more certainty f
 >
 > **3** and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and which is already in the world at this time.
 
-### Context & Insights
+### Dokimazō, Incarnation Hinge & Antichrist Spirit
 
 - **The transition from Spirit to spirits** (vv.24–4:1). John's mention of "the Spirit He has given us" in v.24 leads directly to a warning about *spirits* — plural. In the charismatic environment of the early church, where prophecy and spiritual speech were common, the presence of genuine spiritual gifts created a cover under which counterfeit spiritual claims could operate. The congregation was tempted to accept anything presented under spiritual garb. John will not allow it.
 - **"Test the spirits"** (v.1). The Greek *dokimazō* means to assay, to examine carefully, as a metallurgist tests coins for proper weight and genuine metal. Paul gives the same command (1 Thessalonians 5:20–21; 1 Corinthians 14:29). The verb is present tense — *keep on testing, continually.* Discernment is not a one-time act but an ongoing discipline. Both imperatives ("do not believe" and "test") are plural — this is not assigned to a specialist; it is a communal responsibility.
@@ -149,7 +149,7 @@ When your confidence falls short, the answer is not to generate more certainty f
 >
 > **6** We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. That is how we know the Spirit of truth and the spirit of deception.
 
-### Context & Insights
+### Identity, Completed Victory & Discernment
 
 - **"Little children"** (v.4). John has used this address seven times in the letter (2:1,12,28; 3:7,18; 4:4; 5:21). It is not condescending. Coming from the aged apostle — possibly the last living eyewitness of Jesus — it is the word of a father to people he has loved and worried over. The diminutive carries tenderness alongside the declaration that follows.
 - **"You... are from God"** (v.4). John opens the sentence with an emphatic pronoun — *humeis*, "you, yourselves." The contrast with "them" (the false prophets, v.1) and "they" (the world, v.5) is sharp and deliberate. The readers' identity is not derived from the world, from the false teachers, from their own spiritual track record, or from their current emotional confidence. It is derived from God. *You are from God.* That is the ground.

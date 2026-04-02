@@ -40,7 +40,7 @@ Bold faith, expressed through Spirit-filled service and witness, advances God's 
 >
 > **5** This proposal pleased the whole group. So they chose Stephen, a man full of faith and the Holy Spirit, along with Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolas from Antioch, a convert to Judaism. **6** They presented these men to the apostles, who prayed and laid their hands on them.
 
-### Context & Insights
+### Spirit-Filled Qualifications & Service
 
 The early church faced a growing problem: the Hellenist (Greek-speaking) widows felt neglected in the daily food distribution. This administrative issue threatened unity. The apostles, prioritizing prayer and the ministry of the Word, proposed selecting seven qualified men. The criteria were not merely organizational, but profoundly spiritual: "good reputation, full of the Spirit and wisdom." Stephen, "a man full of faith and the Holy Spirit," was chosen. This established a vital pattern: practical service is a spiritual ministry requiring spiritual empowerment, and it often serves as the launchpad for a much wider, kingdom-advancing impact.
 
@@ -71,7 +71,7 @@ The early church faced a growing problem: the Hellenist (Greek-speaking) widows 
 
 > **7** So the word of God spread, and the number of disciples in Jerusalem increased significantly. And a large number of priests became obedient to the faith.
 
-### Context & Insights
+### Word's Advance & Priestly Conversion
 
 Verse 7 serves as a powerful summary and bridge, highlighting the immediate and dramatic result of the apostles' wise decision and the Spirit-filled service of the seven. When practical needs are met and leaders are empowered, the "word of God spread" and the church experienced explosive growth. Significantly, "a large number of priests became obedient to the faith"—a remarkable detail, given their conservative nature and entrenched positions, underscoring the profound impact of the early church's Spirit-led ministry. This demonstrates that effective, holistic ministry leads to God's blessing and kingdom expansion. When internal conflicts are resolved wisely, the church is strengthened and better prepared to face external opposition, often leading to even greater kingdom advancement.
 
@@ -100,7 +100,7 @@ Verse 7 serves as a powerful summary and bridge, highlighting the immediate and 
 >
 > **11** Then they secretly induced men to say, “We heard him speak blasphemous words against Moses and God.” **12** So they stirred up the people, the elders, and the scribes. They came and seized Stephen and brought him before the Sanhedrin. **13** They presented false witnesses who declared, “This man never stops speaking against this holy place and the Law. **14** For we have heard him say that this Jesus of Nazareth will destroy this place and change the customs Moses delivered to us.” **15** And everyone who was sitting in the Sanhedrin looked intently at Stephen and saw that his face was like the face of an angel.
 
-### Context & Insights
+### Unstoppable Wisdom & Echoes of Jesus
 
 Stephen, though initially chosen for "serving tables," quickly demonstrated a powerful ministry of proclamation, "full of grace and power," performing "great wonders and signs." His Spirit-filled wisdom was so compelling that his Jewish opponents from various synagogues could not refute him. Frustrated, they resorted to stirring up the crowds and bringing false witnesses who accused Stephen of blasphemy—a direct reaction to a faith that was effectively advancing God's kingdom and threatening the status quo. Despite the grave danger, Stephen remained serene; his face glowed "like the face of an angel," a divine affirmation of his innocence and God's presence with him, even as he stood before the highest Jewish court.
 

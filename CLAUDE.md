@@ -43,7 +43,7 @@ Source: `task-bible-study-format.md`
 
 - `#` H1 — main lesson title only
 - `##` H2 — major sections (`## Introduction`, `## Closing`, section titles). No numeric prefixes.
-- `###` H3 — subsections: `### Series Overview` (before Icebreaker, when present), `### Icebreaker`, `### Core Message`, `### Scripture...`, `### Context & Insights`, `### [Topic] (Discussion:Mind)`, `### [Topic] (Reflection:Heart)`, `### Decision (Will)`, `### Challenges (Practice)`, `### Prayer`
+- `###` H3 — subsections: `### Series Overview` (before Icebreaker, when present), `### Icebreaker`, `### Core Message`, `### Scripture...`, `### [Topic] Context & Insights` (unique heading per section — never the generic `### Context & Insights`), `### [Topic] (Discussion:Mind)`, `### [Topic] (Reflection:Heart)`, `### Decision (Will)`, `### Challenges (Practice)`, `### Prayer`
 - `####` H4 — not currently used
 - Never skip heading levels.
 - No leading articles in H3 headings — do not begin with "The", "A", or "An". Write `Dried Brook` not `The Dried Brook`.

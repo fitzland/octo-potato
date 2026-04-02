@@ -39,7 +39,7 @@ status: published
 
     **1** After the death of His servant Moses, the LORD spoke to Joshua son of Nun, Moses’ assistant, saying, **2** “Moses My servant is dead. Now therefore arise, you and all these people, and cross over the Jordan into the land that I am giving to the children of Israel. **3** I have given you every place where the sole of your foot will tread, just as I promised to Moses. **4** Your territory shall extend from the wilderness and Lebanon to the great River Euphrates—all the land of the Hittites—and west as far as the Great Sea.
 
-### Context & Insights
+### Leadership Transition & Past-Tense Promise
 
 The book opens at a pivotal, uncertain moment: "Moses My servant is dead." The heroic leader who brought Israel out of Egypt and received the Law is gone. God doesn't dwell on the past but immediately pivots to the future with the command: "Now therefore arise." He calls Joshua, Moses's long-time assistant, to step into one of history's most daunting leadership roles.
 
@@ -81,7 +81,7 @@ The book opens at a pivotal, uncertain moment: "Moses My servant is dead." The h
 
     **5** No one shall stand against you all the days of your life. As I was with Moses, so will I be with you; I will never leave you nor forsake you. **6** Be strong and courageous, for you shall give these people the inheritance of the land that I swore to their fathers I would give them. **7** Above all, be strong and very courageous. Be careful to observe all the law that My servant Moses commanded you. Do not turn from it to the right or to the left, so that you may prosper wherever you go. **8** This Book of the Law must not depart from your mouth; meditate on it day and night, so that you may be careful to do everything written in it. For then you will prosper and succeed in all you do. **9** Have I not commanded you to be strong and courageous? Do not be afraid; do not be discouraged, for the LORD your God is with you wherever you go.”
 
-### Context & Insights
+### Presence, Courage & Word Meditation
 
 - **Foundation: God's Presence**. The first and most crucial promise is, *As I was with Moses, so will I be with you; I will never leave you nor forsake you*. This is the bedrock of Joshua's (and our) confidence. Success doesn't come from Joshua's strength, but from God's presence.
 
@@ -120,7 +120,7 @@ The book opens at a pivotal, uncertain moment: "Moses My servant is dead." The h
 
     **16** So they answered Joshua, “Everything you have commanded us we will do, and everywhere you send us we will go. **17** Just as we obeyed Moses in all things, so we will obey you. And may the LORD your God be with you, as He was with Moses. **18** Anyone who rebels against your order and does not obey your words, all that you command him, will be put to death. Above all, be strong and courageous!”
 
-### Context & Insights
+### Unanimous Pledge & Mutual Courage
 
 - **Unanimous Vow**. After receiving God's charge, Joshua relays instructions to the people. Their response is immediate, unified, and absolute: *Everything you have commanded us we will do*. They transfer the allegiance they had for Moses directly to Joshua, legitimizing his leadership.
 

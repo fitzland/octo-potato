@@ -51,6 +51,10 @@ There are four distinct types of prompts. They **must not** use `!!! question` a
 -   Use blockquotes for each question.
 -   Include a synthesis paragraph at the end of the introduction, formatted as `**Synthesis**. Text`.
 
+### Context & Insights Blocks
+
+Each passage section may include a `### Context & Insights` block with background notes, word studies, and interpretive observations. **Do not use the generic heading `### Context & Insights`.** Instead, write a brief, topic-specific heading that reflects the actual content of that block (e.g., `### Nazareth, Grace & Troubled Wonder` or `### Messianic Profile & Mary's Question`). Use `&` instead of `and` when joining terms in these headings. This prevents duplicate headings across sections and keeps each block immediately meaningful to the reader. Follow the no-leading-article rule.
+
 ### Observation & Interpretation Questions
 
 Each discussion prompt should be under its own descriptive, topical Level 3 heading.

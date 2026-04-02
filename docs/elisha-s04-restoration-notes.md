@@ -47,7 +47,7 @@ Naaman's healing is a powerful demonstration of God's sovereignty and grace.
     
     *4* And Naaman went and told his master what the girl from the land of Israel had said.
 
-### Context & Insights
+### Powerful Commander & Unlikely Messenger
 
 **Had it all**. Naaman, a powerful Syrian commander, had it all—except for his health. He was a leper, a condition that made him an outcast. Hope came from the most unlikely of sources: a young, captive Israelite servant girl in his own house. She held the key to his restoration, a powerful reminder that God often works through the humble and overlooked.
 
