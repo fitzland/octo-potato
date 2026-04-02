@@ -14,7 +14,7 @@ scripture: 1 Kings 17:5-16
 document_type: notes
 status: draft
 modified_date: 2026-03-23
-presented_date: 2026-04-12
+presented_date: 2026-04-19
 ---
 
 # When Your Provisions Fall Short

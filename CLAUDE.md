@@ -122,3 +122,4 @@ Source: `task-bible-study-format.md`
 | `/bs-revise` | Supplement an existing lesson via Biblehub |
 | `/bs-walkthrough` | Simulate a live teaching session |
 | `/bs-refine` | Audit and improve the system |
+| `/bs-pdf [file]` | Convert a finalized lesson to dark-mode tablet PDF |

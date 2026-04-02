@@ -8,14 +8,14 @@ tags:
     - Limited Resources
 modified_date: 2026-03-23
 presented_date: 2026-03-29
-front_matter_title: When Your Understanding Falls Short
+front_matter_title: Understanding Falls Short
 series: Limited Resources, Limitless God
 scripture: Luke 1:26-38
 document_type: outline
 status: draft
 ---
 
-# When Your Understanding Falls Short
+# Understanding Falls Short
 
 Luke 1:26-38, BSB
 
@@ -25,12 +25,12 @@ Luke 1:26-38, BSB
 
 | Session | Topic | Scripture |
 | :--- | :--- | :--- |
-| 1 | When Your Faith Falls Short | Matthew 17:14-20 |
-| 2 | When Your Circumstances Fall Short | 2 Corinthians 1:8-10; 12:6-10 |
-| **3** | **When Your Understanding Falls Short** | **Luke 1:26-38** |
-| 4 | When Your Provisions Fall Short | 1 Kings 17:5-16 |
-| 5 | When Your Finances Fall Short | Luke 12:13-21; 21:1-4 |
-| 6 | When Your Confidence Falls Short | 1 John 3:21–4:6 |
+| 1 | Faith Falls Short | Matthew 17:14-20 |
+| 2 | Circumstances Fall Short | 2 Corinthians 1:8-10; 12:6-10 |
+| **3** | **Understanding Falls Short** | **Luke 1:26-38** |
+| 4 | Provisions Fall Short | 1 Kings 17:5-16 |
+| 5 | Finances Fall Short | Luke 12:13-21; 21:1-4 |
+| 6 | Confidence Falls Short | 1 John 3:21–4:6 |
 
 ### Icebreaker
 
@@ -74,9 +74,7 @@ God can do great things through you.
 
 > *If an angel appeared and told you that you were "highly favored," would your first reaction be trouble or pride — and what does that say about how you understand grace?*
 
-*Transition*. The "favor" of God quickly moved from a confusing greeting to an impossible assignment.
-
----
+*Transition*. The *favor* of God quickly moved from a confusing greeting to an impossible assignment.
 
 ## 2. Impossible Question
 
@@ -150,7 +148,7 @@ God can do great things through you.
 
 ### Challenges (Practice)
 
-**"May It Happen" Prayer**. This week, whenever you face an uncertain outcome, pray Mary's words: *I am the Lord's servant. May it happen to me according to Your word.*
+**May It Happen**. This week, whenever you face an uncertain outcome, pray Mary's words: *I am the Lord's servant. May it happen to me according to Your word.*
 
 **Rhēma Journal**. Find one specific promise from God in Scripture this week. Write it down, and next to it write: *This word will not fail because God is the Builder.*
 
