@@ -8,14 +8,14 @@ tags:
     - Fear
 modified_date: 2026-02-28
 presented_date: 2026-01-04
-front_matter_title: Risk Takers. Rahab. Faith Over Fear
-series: Risk Series
+front_matter_title: Risk. Rahab. Faith Over Fear
+series: Risk Takers
 scripture: Joshua 2:1-4, 8-14; 6:22-25
 document_type: notes
 status: published
 ---
 
-# Rahab. Faith Over Fear
+# Risk Takers. Rahab. Faith Over Fear
 [Joshua 2:1-4, 8-14, 6:22-25](https://biblehub.com/bsb/joshua/2.htm), BSB
 
 ## Introduction

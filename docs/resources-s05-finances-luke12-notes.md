@@ -1,5 +1,4 @@
 ---
-front_matter_title: Limited Resources. Finances Fall Short
 tags:
     - NT
     - Luke
@@ -9,6 +8,7 @@ tags:
     - Contentment
     - Limited Resources
 series: Limited Resources, Limitless God
+front_matter_title: Resources. Finances Fall Short
 scripture: Luke 12:13-21; 21:1-4
 document_type: notes
 status: draft
@@ -16,7 +16,7 @@ modified_date: 2026-03-30
 presented_date: 2026-04-26
 ---
 
-# Finances Fall Short
+# Limited Resources: Finances Fall Short
 
 Luke 12:13-21; 21:1-4, BSB
 

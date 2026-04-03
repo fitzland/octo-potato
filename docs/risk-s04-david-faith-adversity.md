@@ -8,14 +8,14 @@ tags:
     - Adversity
 modified_date: 2026-02-28
 presented_date: 2026-01-11
-front_matter_title: Risk Takers. David. Faith that Meets Adversity
-series: Risk Series
+front_matter_title: Risk. David. Faith that Meets Adversity
+series: Risk Takers
 scripture: 1 Samuel 17:3-8, 32-37, 45-47
 document_type: notes
 status: published
 ---
 
-# David. Faith that Meets Adversity
+# Risk Takers. David. Faith that Meets Adversity
 
 [1 Samuel 17:3-8, 32-37, 45-47](https://biblehub.com/bsb/1_samuel/17.htm), BSB
 

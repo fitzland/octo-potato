@@ -1,5 +1,4 @@
 ---
-front_matter_title: Limited Resources. When Your Provisions Fall Short
 tags:
     - OT
     - History
@@ -10,6 +9,7 @@ tags:
     - Obedience
     - Limited Resources
 series: Limited Resources, Limitless God
+front_matter_title: Resources. Provisions Fall Short
 scripture: 1 Kings 17:5-16
 document_type: outline
 status: draft
@@ -17,7 +17,7 @@ modified_date: 2026-03-23
 presented_date: 2026-04-12
 ---
 
-# When Your Provisions Fall Short
+# Limited Resources: Provisions Fall Short
 
 1 Kings 17:5-16, BSB
 
@@ -27,12 +27,12 @@ presented_date: 2026-04-12
 
 | Session | Topic | Scripture |
 | :--- | :--- | :--- |
-| 1 | When Your Faith Falls Short | Matthew 17:14-20 |
-| 2 | When Your Circumstances Fall Short | 2 Corinthians 1:8-10; 12:6-10 |
-| 3 | When Your Understanding Falls Short | Luke 1:26-38 |
-| **4** | **When Your Provisions Fall Short** | **1 Kings 17:5-16** |
-| 5 | When Your Finances Fall Short | Luke 12:13-21; 21:1-4 |
-| 6 | When Your Confidence Falls Short | 1 John 3:21–4:6 |
+| 1 | Faith Falls Short | Matthew 17:14-20 |
+| 2 | Circumstances Fall Short | 2 Corinthians 1:8-10; 12:6-10 |
+| 3 | Understanding Falls Short | Luke 1:26-38 |
+| **4** | **Provisions Fall Short** | **1 Kings 17:5-16** |
+| 5 | Finances Fall Short | Luke 12:13-21; 21:1-4 |
+| 6 | Confidence Falls Short | 1 John 3:21–4:6 |
 
 ### Icebreaker
 

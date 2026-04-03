@@ -1,5 +1,4 @@
 ---
-front_matter_title: Limited Resources. Confidence Falls Short
 tags:
     - NT
     - 1 John
@@ -10,6 +9,7 @@ tags:
     - False Teaching
     - Limited Resources
 series: Limited Resources, Limitless God
+front_matter_title: Resources. Confidence Falls Short
 scripture: 1 John 3:21–4:6
 document_type: notes
 status: draft
@@ -17,7 +17,7 @@ modified_date: 2026-03-30
 presented_date: 2026-05-03
 ---
 
-# Confidence Falls Short
+# Limited Resources: Confidence Falls Short
 
 1 John 3:21–4:6, BSB
 

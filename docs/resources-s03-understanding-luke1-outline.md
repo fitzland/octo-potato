@@ -8,14 +8,14 @@ tags:
     - Limited Resources
 modified_date: 2026-03-23
 presented_date: 2026-03-29
-front_matter_title: Understanding Falls Short
 series: Limited Resources, Limitless God
+front_matter_title: Resources. Understanding Falls Short
 scripture: Luke 1:26-38
 document_type: outline
 status: draft
 ---
 
-# Understanding Falls Short
+# Limited Resources: Understanding Falls Short
 
 Luke 1:26-38, BSB
 

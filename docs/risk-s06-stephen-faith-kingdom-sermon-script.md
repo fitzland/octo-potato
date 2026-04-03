@@ -1,8 +1,8 @@
 ---
 modified_date: 2026-01-23
 presented_date: 2026-01-25
-front_matter_title: 'Stephen: The Extraordinary Power of Spirit-Filled Service (Sermon Script)'
-series: Risk Series
+series: Risk Takers
+front_matter_title: Risk. Stephen. Extraordinary Power of Spirit-Filled Service
 scripture: Acts 6:3-15
 document_type: sermon-script
 status: published

@@ -7,14 +7,14 @@ tags:
     - Faith
 modified_date: 2026-02-28
 presented_date: 2025-12-14
-front_matter_title: Risk Takers. Noah. Faith that Pleases God
-series: Risk Series
+front_matter_title: Risk. Noah. Faith that Pleases God
+series: Risk Takers
 scripture: Genesis 6:5-9, 17-22; 8:20-22
 document_type: notes
 status: published
 ---
 
-# Noah. Faith that Pleases God
+# Risk. Noah. Faith that Pleases God
 
 [Genesis 6:5-9, 17-22; 8:20-22](https://biblehub.com/genesis/6-5.htm), BSB
 

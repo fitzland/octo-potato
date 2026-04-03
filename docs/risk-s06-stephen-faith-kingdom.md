@@ -8,14 +8,14 @@ tags:
     - Persecution
 modified_date: 2026-02-28
 presented_date: 2026-01-25
-front_matter_title: Risk Takers. Stephen. Faith that Advances the Kingdom
-series: Risk Series
+front_matter_title: Risk. Stephen. Faith that Advances the Kingdom
+series: Risk Takers
 scripture: Acts 6:3-15
 document_type: notes
 status: published
 ---
 
-# Stephen. Faith that Advances the Kingdom
+# Risk Takers.Stephen. Faith that Advances the Kingdom
 Acts 6:3-15, BSB
 
 ## Introduction

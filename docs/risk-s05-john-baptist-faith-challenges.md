@@ -8,14 +8,14 @@ tags:
     - Challenge
 modified_date: 2026-02-28
 presented_date: 2026-01-18
-front_matter_title: Risk Takers. John the Baptist. Faith that Challenges Others
-series: Risk Series
+front_matter_title: Risk. John the Baptist. Faith that Challenges Others
+series: Risk Takers
 scripture: Matthew 3:1-17
 document_type: notes
 status: published
 ---
 
-# John the Baptist. Faith that Challenges Others
+# Risk Takers. John the Baptist. Faith that Challenges Others
 
 [Matthew 3:1-17](https://biblehub.com/bsb/matthew/3.htm), BSB
 
