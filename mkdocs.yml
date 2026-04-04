@@ -20,7 +20,7 @@ nav:
       - 'Murder & Anger (250413)': 'matt05-250413-murder-anger.md'
       - 'Adultery (250427)': 'matt05-250427-adultery.md'
       - 'Retaliation (250518)': 'matt05-250518-retaliation.md'
-    - 'Risk Series':
+    - 'Risk Takers':
       - 'Noah: Faith & Favor': 'risk-s01-noah-faith-favor.md'
       - 'Joshua: Faith & Obedience': 'risk-s02-joshua-faith-obedience.md'
       - 'Rahab: Faith & Courage': 'risk-s03-rahab-faith-courage.md'
@@ -29,7 +29,7 @@ nav:
       - 'Stephen: Faith & Kingdom':
         - 'Teaching Notes': 'risk-s06-stephen-faith-kingdom.md'
         - 'Sermon Script': 'risk-s06-stephen-faith-kingdom-sermon-script.md'
-    - 'Character Series':
+    - 'Character Counts':
       - '1: Importance': 'character-s01-2pet01-importance-notes.md'
       - '2: Godliness': 'character-s02-1tim04-godliness-notes.md'
       - '3: Humility': 'character-s03-phil02-humility-notes.md'
@@ -37,10 +37,10 @@ nav:
       - '5: Generosity': 'character-s05-2cor08-generosity-notes.md'
       - '6: Integrity': 'character-s06-1pet03-integrity-notes.md'
     - 'Limited Resources, Limitless God':
-      - '1: When Your Faith Falls Short': 'resources-s01-faith-matt17-notes.md'
-      - '2: When Your Circumstances Fall Short': 'resources-s02-grace-2cor-notes.md'
-      - '3: When Your Understanding Falls Short': 'resources-s03-understanding-luke1-notes.md'
-      - '4: When Your Provisions Fall Short': 'resources-s04-provisions-1kgs17-notes.md'
+      - '1: Faith Falls Short': 'resources-s01-faith-matt17-notes.md'
+      - '2: Circumstances Fall Short': 'resources-s02-grace-2cor-notes.md'
+      - '3: Understanding Falls Short': 'resources-s03-understanding-luke1-notes.md'
+      - '4: Provisions Fall Short': 'resources-s04-provisions-1kgs17-notes.md'
     - "Life's Interruptions":
       - 'Joseph':
         - 'Teaching Notes': 'interruptions-s02-joseph-notes.md'
