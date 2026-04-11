@@ -66,13 +66,13 @@ God's favor often looks like a disruption before it looks like a blessing.
 
 **Setting**. She was a young virgin in Nazareth, pledged to Joseph — an ordinary person in an insignificant town.
 
-> *Why* was Mary "greatly troubled" by the angel's greeting — and what specifically troubled her?
+> *Why* was Mary *greatly troubled* by the angel's greeting — and what specifically troubled her?
 
-**Internal Dialogue**. She was trying to reconcile her ordinary life with the extraordinary claim that she was "highly favored." The text says she "wondered" (*dialogizeto*) — literally having an internal dialogue, trying to calculate the logic of this greeting.
+**Internal Dialogue**. She was trying to reconcile her ordinary life with the extraordinary claim that she was *highly favored*. The text says she *wondered* (*dialogizeto*) — literally having an internal dialogue, trying to calculate the logic of this greeting.
 
-> *How* does the angel define "favor" in v.30?
+> *How* does the angel define *favor* in v.30?
 
-**Removal of Fear**. He connects favor to "Do not be afraid." Favor is not a reward for understanding — it's a gift of God's presence that addresses our fear first.
+**Removal of Fear**. He connects favor to *Do not be afraid*. Favor is not a reward for understanding — it's a gift of God's presence that addresses our fear first.
 
 ### Unexpected Grace (Reflection:Heart)
 
@@ -90,11 +90,11 @@ It is not a sin to ask *How?*, as long as the question is rooted in wonder rathe
 
 ### Messianic Profile & Mary's Question
 
-- **Messianic Profile**. Gabriel uses the highest possible language: "Son of the Most High," "Throne of David," "Kingdom will never end." This is a direct fulfillment of the Davidic Covenant (2 Samuel 7).
+- **Messianic Profile**. Gabriel uses the highest possible language: *Son of the Most High*, *Throne of David*, *Kingdom will never end*. This is a direct fulfillment of the Davidic Covenant (2 Samuel 7).
 
-- **Logical Barrier**. Mary's question—"How can this be?"—is based on biological reality. She wasn't doubting God's power (like Zechariah did in verse 18), but she was acknowledging her own lack of "resources" (a husband) to make this happen.
+- **Logical Barrier**. Mary's question—*How can this be?*—is based on biological reality. She wasn't doubting God's power (like Zechariah did in verse 18), but she was acknowledging her own lack of *resources* (a husband) to make this happen.
 
-- **Name Jesus (Yeshua)**. It means "The Lord Saves." The "limitless" God was entering a "limited" human body to solve a problem (sin) that human understanding could never fix.
+- **Name Jesus (Yeshua)**. It means *The Lord Saves*. The *limitless* God was entering a *limited* human body to solve a problem (sin) that human understanding could never fix.
 
 ### Impossible How (Discussion:Mind)
 
@@ -108,13 +108,13 @@ It is not a sin to ask *How?*, as long as the question is rooted in wonder rathe
 
 > *What* specific limitation does Mary name — and what does it reveal about the kind of faith she already had?
 
-**Virgin, not skeptic**. She acknowledges the biological barrier honestly, but her question is about process, not permission. She had already accepted the "Who" — she was asking about the "How."
+**Virgin, not skeptic**. She acknowledges the biological barrier honestly, but her question is about process, not permission. She had already accepted the *Who* — she was asking about the *How*.
 
 ### Curious Faith (Reflection:Heart)
 
 > When God's promises seem to contradict the *laws* of your current reality — finances, health, relationships — do you ask *How can this be?* with skepticism or with curious faith?
 
-*Transition*. Gabriel's answer shifts the focus from Mary's biological "How" to God's sovereign "Who."
+*Transition*. Gabriel's answer shifts the focus from Mary's biological *How* to God's sovereign *Who*.
 
 ## 3. Unfailing Word
 
@@ -128,19 +128,19 @@ The solution to our lack of understanding is the absolute reliability of God's c
 
 - **Overshadow (Episkiazō)**. This is the same word used for the *Shekinah* glory—the cloud of God's presence that filled the Tabernacle and appeared at the Transfiguration. It implies that God doesn't just "help" Mary; His very presence "dwells" with her to achieve the impossible.
 
-- **Pattern of Provision**. Gabriel points to Elizabeth (vv. 5-25, 36). Throughout Luke 1, God is establishing a pattern: He works through the "limited"—the barren womb of Elizabeth and the virgin womb of Mary. If God can overcome the decay of old age, He can overcome the limitation of virginity.
+- **Pattern of Provision**. Gabriel points to Elizabeth (vv. 5-25, 36). Throughout Luke 1, God is establishing a pattern: He works through the *limited*—the barren womb of Elizabeth and the virgin womb of Mary. If God can overcome the decay of old age, He can overcome the limitation of virginity.
 
 - **Ultimate Fact**. Verse 37 is the linchpin: "For no word from God will ever fail." (Or, "Nothing is impossible with God.") The Greek literally says: "No *rhēma* (spoken word) from God will be without power."
 
-- **Servant's Response**. Mary's response is the "gold standard" of faith. She calls herself a *doulē* (slave/servant). She doesn't wait for a 10-year plan; she accepts the "Word" as enough.
+- **Servant's Response**. Mary's response is the *gold standard* of faith. She calls herself a *doulē* (slave/servant). She doesn't wait for a 10-year plan; she accepts the *Word* as enough.
 
 ### Unfailing Word (Discussion:Mind)
 
-> *What* Old Testament image does the word "overshadow" in v.35 evoke?
+> *What* Old Testament image does the word *overshadow* in v.35 evoke?
 
-**Shekinah glory**. The same word (*episkiazō*) describes the cloud of God’s presence that filled the Tabernacle (Exodus 40) and appeared at the Transfiguration. God doesn’t just "help" Mary — His presence dwells in her to accomplish what human means cannot.
+**Shekinah glory**. The same word (*episkiazō*) describes the cloud of God’s presence that filled the Tabernacle (Exodus 40) and appeared at the Transfiguration. God doesn’t just *help* Mary — His presence dwells in her to accomplish what human means cannot.
 
-> *How* does Gabriel answer Mary’s "How?" — and what does pointing to Elizabeth add to that answer?
+> *How* does Gabriel answer Mary’s *How?* — and what does pointing to Elizabeth add to that answer?
 
 **From mechanics to pattern**. Gabriel shifts from explaining the process to establishing a precedent: if God brought life to Elizabeth’s barren womb, He can bring life to a virgin womb. The question was never really about biology.
 
@@ -162,11 +162,11 @@ If you are standing on a construction site, looking at a blueprint for a massive
 
 ### Decision (Will)
 
-**Demanding the How**. Will you stop demanding that God explain His "How" before you give Him your "Yes"?
+**Demanding the How**. Will you stop demanding that God explain His *How* before you give Him your *Yes*?
 
-**Trusting the Timing**. Will you trust God’s timing for your life, even when it feels "off" according to your own plan?
+**Trusting the Timing**. Will you trust God’s timing for your life, even when it feels *off* according to your own plan?
 
-**Surrendered Servant**. Will you identify one area where you’ve been "troubled" by God’s leading and surrender it as His servant today?
+**Surrendered Servant**. Will you identify one area where you’ve been *troubled* by God’s leading and surrender it as His servant today?
 
 ### Challenges (Practice)
 
@@ -184,7 +184,7 @@ If you are standing on a construction site, looking at a blueprint for a massive
 >
 > We confess that we often value our own understanding more than Your unfailing word. We want to see the whole path before we take the first step. Forgive us for our small views of Your power and our large views of our own logic.
 >
-> Thank You for the example of Mary—a young girl who was willing to be "troubled" for the sake of Your glory. We ask that You would overshadow us with Your Holy Spirit. Work through our limitations and our "Nazareths" to do great things that point to Jesus.
+> Thank You for the example of Mary—a young girl who was willing to be *troubled* for the sake of Your glory. We ask that You would overshadow us with Your Holy Spirit. Work through our limitations and our *Nazareths* to do great things that point to Jesus.
 >
 > We are Your servants. May it happen to us according to Your word.
 >
