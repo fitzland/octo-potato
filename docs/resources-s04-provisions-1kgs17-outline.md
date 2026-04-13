@@ -189,3 +189,17 @@ When your provisions fall short, God's supply flows from obedience to His word �
 > We confess that fear makes us hoard. Replace that fear with trust. Where brooks have dried up in our lives, give us eyes to see where You are redirecting you. And where You are asking us to give first, give us the courage to go and do — like the widow did — and to find Your faithfulness waiting on the other side.
 
 > In Jesus, the Bread of Life who is never exhausted. Amen.
+
+God’s provision themes
+
+> I'm studying for a lesson on God's provision, using 1Kings 17 (Widow at Zarapeth). What does the Bible teach us about God's provision for us,
+
+The story of the widow at Zarephath illustrates a foundational biblical principle: God sustains those who trust Him, promising that “the jar of flour will not be exhausted and the jug of oil will not run dry until the day the LORD sends rain upon the face of the earth.” (1 Kings 17:1–24) This miracle demonstrates that divine care extends beyond mere survival—it addresses genuine need with abundance.
+
+Scripture reveals several dimensions of God’s provision. God “will supply all your needs according to His glorious riches in Christ Jesus,” (Phil 4:19) establishing that provision flows from His inexhaustible resources. Rather than anxiously grasping for security, believers encounter a different posture: Jesus points to the birds, which “do not sow or reap or gather into barns—and yet your heavenly Father feeds them. Are you not much more valuable than they?” (Matt 6:25–34) This comparison reframes provision as an expression of God’s valuation of His people.
+
+The biblical narrative repeatedly confirms this pattern. When Israel faced starvation in the wilderness, God promised to “rain down bread from heaven,” with people gathering “enough for that day,” (Exod 16:1–17:7) teaching dependence through daily trust. The psalmist testifies from lived experience: “I once was young and now am old, yet never have I seen the righteous abandoned or their children begging for bread.” (Ps 37:25) Even when circumstances appear dire—as with the widow facing death—God’s provision proves sufficient.
+
+Crucially, provision operates within a relational framework. Jesus teaches that those who “seek first the kingdom of God and His righteousness” will find that “all these things will be added unto you,” (Matt 6:25–34) connecting material care to spiritual priority. God “withholds no good thing from those who walk with integrity,” (Ps 84:11) suggesting that provision responds to covenantal faithfulness rather than operating as impersonal mechanism.
+
+**Additional biblical passages** reinforce this teaching. The shepherd psalm declares, “The LORD is my shepherd; I shall not want,” (Ps 23:1) while Abraham’s experience establishes the foundational name “The LORD Will Provide,” affirmed across generations as “on the mountain of the LORD it will be provided.” (Gen 22:14)
