@@ -28,5 +28,5 @@ requests==2.33.0
 six==1.17.0
 urllib3==2.6.3
 watchdog==6.0.0
-pillow==12.1.1
+pillow==12.2.0
 CairoSVG==2.9.0
