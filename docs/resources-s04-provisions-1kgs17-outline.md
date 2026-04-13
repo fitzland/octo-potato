@@ -190,9 +190,7 @@ When your provisions fall short, God's supply flows from obedience to His word �
 
 > In Jesus, the Bread of Life who is never exhausted. Amen.
 
-God’s provision themes
-
-> I'm studying for a lesson on God's provision, using 1Kings 17 (Widow at Zarapeth). What does the Bible teach us about God's provision for us,
+## Additional Biblical Themes on God’s Provision
 
 The story of the widow at Zarephath illustrates a foundational biblical principle: God sustains those who trust Him, promising that “the jar of flour will not be exhausted and the jug of oil will not run dry until the day the LORD sends rain upon the face of the earth.” (1 Kings 17:1–24) This miracle demonstrates that divine care extends beyond mere survival—it addresses genuine need with abundance.
 
